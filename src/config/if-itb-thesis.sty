@@ -33,8 +33,22 @@
 \usepackage{etoolbox}
 \usepackage{hyperref}       % Package untuk link di daftar isi.
 \usepackage{titlesec}       % Package Format judul
-\usepackage{parskip}
 \usepackage{tocbibind}
+\usepackage{titletoc}
+\usepackage{parskip}
+
+% Hilangkan titik pada toc
+\makeatletter
+\renewcommand{\@dotsep}{10000} 
+\makeatother
+
+% Setel title pada chapter-chapter di toc
+\titlecontents{chapter}
+  [0pt]
+  {\bfseries}
+  {\MakeUppercase{\chaptername} \thecontentslabel\quad}
+  {}
+  {\hfill\contentspage}
 
 % Line satu setengah spasi
 \renewcommand{\baselinestretch}{1.5}
