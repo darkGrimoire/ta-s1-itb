@@ -23,19 +23,19 @@
 \begin{document}
 
 %Basic configuration
-\title{Panduan Tugas Akhir Informatika}
+\title{INSERT\_JUDUL\_TA}
 \date{}
 \author{
     Faris Rizki Ekananda \\
-    NIM 13518125
+    NIM : 13518125
 }
 
-\pagenumbering{arabic}
+\pagenumbering{roman}
 \setcounter{page}{1}
 
 \input{chapters/cover}
-\input{chapters/approval}
-\input{chapters/approval}
+% \input{chapters/approval-1} % 1 PEMBIMBING PAKAI INI
+\input{chapters/approval-2} % 2 PEMBIMBING PAKAI INI
 % \input{chapters/statement}
 
 \pagestyle{plain}
@@ -45,19 +45,23 @@
 % \input{chapters/forewords}
 
 \titleformat*{\section}{\centering\bfseries\Large\MakeUpperCase}
+\renewcommand*\contentsname{DAFTAR ISI}
+\renewcommand*\listfigurename{DAFTAR GAMBAR}
+\renewcommand*\listtablename{DAFTAR TABEL}
 
 \tableofcontents
 \listoffigures
-% TODO: TAMBAHIN DAFTAR LAMPIRAN
 \listoftables
 
+\newpage
+
 \titleformat*{\section}{\bfseries\Large}
-% \pagenumbering{arabic}
+\pagenumbering{arabic}
 
 %----------------------------------------------------------------%
 % Konfigurasi Bab
 %----------------------------------------------------------------%
-% \setcounter{page}{0}
+\setcounter{page}{1}
 \renewcommand{\chaptername}{BAB}
 \renewcommand{\thechapter}{\Roman{chapter}}
 %----------------------------------------------------------------%
@@ -79,10 +83,6 @@
 % Index
 \appendix
 
-\addcontentsline{toc}{part}{Lampiran}
 \part*{Lampiran}
-
-\input{chapters/appendix-1}
-\input{chapters/appendix-2}
 
 \end{document}
