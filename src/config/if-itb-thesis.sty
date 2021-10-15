@@ -42,11 +42,23 @@
 \renewcommand{\@dotsep}{10000} 
 \makeatother
 
-% Setel title pada chapter-chapter di toc
+% Setel title pada chapter-chapter di toc, lof, lot
 \titlecontents{chapter}
   [0pt]
   {\bfseries}
-  {\MakeUppercase{\chaptername} \thecontentslabel\quad}
+  {\MakeUppercase{Bab} \thecontentslabel\quad\uppercase}
+  {}
+  {\hfill\contentspage}
+\titlecontents{figure}
+  [0pt]
+  {}
+  {Gambar \thecontentslabel\quad}
+  {}
+  {\hfill\contentspage}
+\titlecontents{table}
+  [0pt]
+  {}
+  {Tabel \thecontentslabel\quad}
   {}
   {\hfill\contentspage}
 
