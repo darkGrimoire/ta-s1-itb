@@ -1,6 +1,7 @@
 Templat LaTeX Tesis Informatika ITB
 ===================================
 oleh: Petra Novandi <me@petrabarus.net>
+dimodifikasi: Faris Rizki Ekananda <work@farisekananda.dev>
 
 Dokumen ini merupakan templat LaTeX yang ditujukan untuk laporan
 tesis di program studi Teknik Informatika ITB. Templat ini penulis
@@ -15,7 +16,7 @@ templat ini. :)
 Kebutuhan
 ---------
 
-Program telah diuji dalam sistem operasi Linux Ubuntu 14.04. Untuk melakukan instalasi
+Program telah diuji dalam sistem operasi Linux Ubuntu 20.04. Untuk melakukan instalasi
 perangkat lunak yang dibutuhkan, eksekusi perintah berikut.
 
 ```
@@ -35,7 +36,12 @@ Makefile. Untuk melakukan kompilasi cukup eksekusi perintah berikut
 make
 ```
 
-Hasil kompilasi akan berada pada berkas `output/tesis.pdf`.
+Hasil kompilasi akan berada pada berkas `output/thesis.pdf`.
+
+Integrasi VSCode LaTeX Workshop
+----------
+
+Template ini telah diintegrasikan dengan VSCode extension LaTeX Workshop sehingga dapat melakukan build otomatis, memakai synctex, serta linter. Perhatikan bahwa **integrasi ini tidak bisa dipakai di Windows.** Apabila Anda memakai Windows, buka VSCode memakai Remote WSL Extension dan install texlive di WSL Anda.
 
 Kontribusi
 ----------
