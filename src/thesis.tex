@@ -2,7 +2,7 @@
 %
 % Berkas utama templat LaTeX.
 %
-% author Petra Barus, Peb Ruswono Aryan
+% author Petra Barus, Peb Ruswono Aryan, Faris Rizki Ekananda
 %
 %--------------------------------------------------------------------%
 %
@@ -10,7 +10,7 @@
 %
 %--------------------------------------------------------------------%
 
-\documentclass[12pt, a4paper, onecolumn, oneside, final]{report}
+\documentclass[bahasa, 12pt, a4paper, onecolumn, oneside, final]{report}
 
 \input{config/if-itb-thesis.sty}
 
@@ -18,7 +18,7 @@
 
 \makeatother
 
-\bibliography{references}
+\addbibresource{references.bib}
 
 \begin{document}
 
@@ -34,7 +34,7 @@
 \setcounter{page}{1}
 
 \input{chapters/cover}
-% \input{chapters/approval-1} % 1 PEMBIMBING PAKAI INI
+\input{chapters/approval-1} % 1 PEMBIMBING PAKAI INI
 \input{chapters/approval-2} % 2 PEMBIMBING PAKAI INI
 % \input{chapters/statement}
 
@@ -45,6 +45,7 @@
 % \input{chapters/forewords}
 
 \titleformat*{\section}{\centering\bfseries\Large\MakeUpperCase}
+\titlespacing*{\chapter}{0pt}{0pt}{3pc}
 
 % Setting judul toc, lot, lof, bib
 \renewcommand{\contentsname}{DAFTAR ISI}
@@ -53,12 +54,13 @@
 \renewcommand{\bibname}{DAFTAR PUSTAKA}
 
 \tableofcontents
+\listofappendices
 \listoffigures
 \listoftables
 
 \newpage
 
-\titleformat*{\section}{\bfseries\Large}
+\titleformat*{\section}{\bfseries\large}
 \pagenumbering{arabic}
 
 %----------------------------------------------------------------%
@@ -74,20 +76,28 @@
 % Untuk menambahkan daftar bab, buat berkas bab misalnya `chapter-6` di direktori `chapters`, dan masukkan ke sini.
 %----------------------------------------------------------------%
 \input{chapters/chapter-1}
-\afterpage{\null\newpage}
+\blankpage
 \input{chapters/chapter-2}
+\blankpage
 \input{chapters/chapter-3}
 % \input{chapters/chapter-4}
 % \input{chapters/chapter-5}
 %----------------------------------------------------------------%
 
 % Daftar pustaka
-\phantomsection
-\cleardoublepage
 \printbibliography
-\addcontentsline{toc}{chapter}{\bibname}
+\blankpage
+
+% Setting judul lampiran
+\titlespacing*{\chapter}{0pt}{0pt}{0pt}
+\titlespacing*{\section}{0pt}{0pt}{*1}
+
+% Setting judul anak lampiran
+\titleformat*{\section}{\bfseries}
 
 % Index
 \appendix
+\input{chapters/appendix-1.tex}
+\input{chapters/appendix-2.tex}
 
 \end{document}

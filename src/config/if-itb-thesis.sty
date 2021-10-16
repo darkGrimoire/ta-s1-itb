@@ -22,7 +22,7 @@
 \usepackage[bahasa]{babel}
 
 % Format citation
-\usepackage[backend=bibtex,citestyle=authoryear]{biblatex}
+\usepackage[style=apa,backend=biber]{biblatex}
 
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
@@ -33,14 +33,50 @@
 \usepackage{etoolbox}
 \usepackage{hyperref}       % Package untuk link di daftar isi.
 \usepackage{titlesec}       % Package Format judul
-\usepackage{tocbibind}
-\usepackage{titletoc}
+\usepackage{titletoc}       % Package Format judul di toc
+\usepackage{tocbibind}      % Package untuk masukkan toc, lot, lof ke Daftar Isi
+\usepackage{scrwfile}       % Package untuk membuat Daftar Lampiran dari toc
 \usepackage{parskip}
 \usepackage{afterpage}
 \usepackage{relsize}
-\usepackage[hang,nooneline,scriptsize,md]{subfigure}
 
 \graphicspath{{resources/}}   % letak direktori penyimpanan gambar
+
+% Setting daftar lampiran
+\newcommand*{\lopname}{DAFTAR LAMPIRAN}
+\TOCclone[\lopname]{toc}{atoc}
+\addtocontents{atoc}{\protect\value{tocdepth}=-1}
+\newcommand\listofappendices{
+  \cleardoublepage
+  \phantomsection
+  \listofatoc
+  \addcontentsline{toc}{chapter}{\lopname}
+}
+
+\newcommand*\savedtocdepth{}
+\AtBeginDocument{%
+  \edef\savedtocdepth{\the\value{tocdepth}}%
+}
+
+\let\originalappendix\appendix
+\renewcommand\appendix{%
+  \originalappendix
+  \cleardoublepage
+  \addtocontents{toc}{\protect\value{tocdepth}=-1}%
+  \addtocontents{atoc}{\protect\value{tocdepth}=\savedtocdepth}%
+
+  \titlecontents{chapter}
+    [0pt]
+    {\bfseries}
+    {Lampiran \thecontentslabel.\quad}
+    {}
+    {\hfill\contentspage}
+
+  \titleformat{\chapter}[block]
+    {\bfseries}
+    {\chaptertitlename\ \thechapter.\quad}{0pt}
+    {\bfseries}
+}
 
 % Hilangkan titik pada toc
 \makeatletter
@@ -57,15 +93,24 @@
 \titlecontents{figure}
   [0pt]
   {}
-  {Gambar \thecontentslabel\quad}
+  {Gambar \thecontentslabel.\quad}
   {}
   {\hfill\contentspage}
 \titlecontents{table}
   [0pt]
   {}
-  {Tabel \thecontentslabel\quad}
+  {Tabel \thecontentslabel.\quad}
   {}
   {\hfill\contentspage}
+
+% Masukin Daftar Pustaka ke toc
+\let\originalprintbibliography\printbibliography
+\renewcommand\printbibliography{%
+  \phantomsection
+  \cleardoublepage
+  \originalprintbibliography
+  \addcontentsline{toc}{chapter}{\bibname}
+}
 
 % Line satu setengah spasi
 \renewcommand{\baselinestretch}{1.5}
@@ -87,3 +132,6 @@
 % Counter untuk figure dan table.
 \counterwithin{figure}{section}
 \counterwithin{table}{section}
+
+% Define blank page
+\newcommand*{\blankpage}{\afterpage{\null\newpage}}
