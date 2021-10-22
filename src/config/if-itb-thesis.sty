@@ -39,8 +39,13 @@
 \usepackage{parskip}
 \usepackage{afterpage}
 \usepackage{relsize}
+\usepackage{float}
+\usepackage{longtable} % Package untuk table multipage
+\usepackage[table]{xcolor} % Package untuk table color
 
 \graphicspath{{resources/}}   % letak direktori penyimpanan gambar
+
+\setlength{\LTcapwidth}{\textwidth}
 
 % Setting daftar lampiran
 \newcommand*{\lopname}{DAFTAR LAMPIRAN}
@@ -135,3 +140,45 @@
 
 % Define blank page
 \newcommand*{\blankpage}{\afterpage{\null\newpage}}
+
+%%% biblatex hyperlink cite author and year
+% ref: https://tex.stackexchange.com/questions/15951/hyperlink-name-with-biblatex-authoryear-biblatex-1-4b
+\DeclareFieldFormat{citehyperref}{%
+  \DeclareFieldAlias{bibhyperref}{noformat}% Avoid nested links
+  \bibhyperref{#1}}
+
+\DeclareFieldFormat{textcitehyperref}{%
+  \DeclareFieldAlias{bibhyperref}{noformat}% Avoid nested links
+  \bibhyperref{%
+    #1%
+    \ifbool{cbx:parens}
+      {\bibcloseparen\global\boolfalse{cbx:parens}}
+      {}}}
+
+\savebibmacro{cite}
+\savebibmacro{textcite}
+
+\renewbibmacro*{cite}{%
+  \printtext[citehyperref]{%
+    \restorebibmacro{cite}%
+    \usebibmacro{cite}}}
+
+\renewbibmacro*{textcite}{%
+  \ifboolexpr{
+    ( not test {\iffieldundef{prenote}} and
+      test {\ifnumequal{\value{citecount}}{1}} )
+    or
+    ( not test {\iffieldundef{postnote}} and
+      test {\ifnumequal{\value{citecount}}{\value{citetotal}}} )
+  }
+    {\DeclareFieldAlias{textcitehyperref}{noformat}}
+    {}%
+  \printtext[textcitehyperref]{%
+    \restorebibmacro{textcite}%
+    \usebibmacro{textcite}}}
+
+% Setel Hyperref color
+% \hypersetup{
+%   colorlinks = true,
+%   allcolors = cyan
+% }
