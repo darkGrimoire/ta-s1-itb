@@ -37,5 +37,6 @@
   "latex-workshop.synctex.afterBuild.enabled": true,
   "latex-workshop.latex.outDir": "%DIR_W32%\\..\\build",
   "latex-workshop.latex.autoBuild.run": "onSave",
-  "editor.formatOnSave": true
+  "editor.formatOnSave": true,
+  "latex-workshop.message.latexlog.exclude": ["\\hbox"]
 }

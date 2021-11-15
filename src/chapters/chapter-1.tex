@@ -1,37 +1,88 @@
 \chapter{Pendahuluan}
 
-Bab Pendahuluan secara umum yang dijadikan landasan kerja dan arah kerja penulis tugas akhir, berfungsi mengantar pembaca untuk membaca laporan tugas akhir secara keseluruhan.
-
 \section{Latar Belakang}
 \label{sec:latarbelakang}
 
-Latar Belakang berisi dasar pemikiran, kebutuhan atau alasan yang menjadi ide dari topik tugas akhir. Tujuan utamanya adalah untuk memberikan informasi secukupnya kepada pembaca agar memahami topik yang akan dibahas.  Saat menuliskan bagian ini, posisikan anda sebagai pembaca – apakah anda tertarik untuk terus membaca?
+Pada zaman ini, teknologi berkembang dengan pesat. Dengan adanya teknologi yang mumpuni untuk melakukan pembelajaran secara daring, akses untuk melakukan pembelajaran secara daring sudah terbuka lebar. Sudah banyak platform pembelajaran daring yang terdapat di internet dengan berbagai macam bidang ilmu. Media pembelajarannya juga beragam, mulai dari video, seminar web, pelatihan daring melalui konferensi video, dll. Pelajar kemudian dapat mengetes materi yang telah dia dapat dengan mengerjakan soal-soal berupa latihan dan kuis.
+
+Khususnya dalam pembelajaran pemrograman, dalam pengerjaan latihan diperlukan alat yang dapat mengetes kode hasil buatan pelajar tersebut dan mengevaluasi kebenarannya. Alat ini biasa disebut sebagai sistem penilaian otomatis atau \textit{automatic grading}. Pelajar dapat membuat kodenya terlebih dahulu, lalu menyerahkan hasil pekerjaannya ke sistem untuk dinilai. Sistem ini sering dipakai oleh berbagai macam lembaga dan institusi dalam pembelajaran pemrograman. Namun, hal ini dapat membuat masalah-masalah yang tidak relevan dalam pengerjaan latihan seperti kesalahan dalam melakukan instalasi, perangkat yang kurang mendukung, perbedaan versi instalasi, dan permasalahan lainnya yang dapat menghambat proses pembelajaran.
+
+Maka dari itu, diperlukan sistem \textit{environment development} pada platform pembelajaran yang dapat digunakan untuk melakukan eksekusi kode sehingga pengguna dapat langsung mencoba memprogram melalui web dan melihat hasil eksekusi programnya beserta penilaian terkait apabila digunakan dalam pengerjaan latihan soal. Dengan adanya sistem ini, pengguna tidak perlu melakukan instalasi apapun saat mengerjakan latihan soal sehingga diharapkan dapat meningkatkan kenyamanan dan efektivitas pembelajaran..
+
 
 \section{Rumusan Masalah}
-
-Rumusan Masalah berisi masalah utama yang dibahas dalam tugas akhir. Rumusan masalah yang baik memiliki struktur sebagai berikut:
+Berdasarkan latar belakang yang telah dijelaskan sebelumnya, rumusan masalah tugas akhir ini adalah:
 
 \begin{enumerate}
-    \item Penjelasan ringkas tentang kondisi/situasi yang ada sekarang terkait dengan topik utama yang dibahas Tugas Akhir.
-    \item Pokok persoalan dari kondisi/situasi yang ada, dapat dilihat dari kelemahan atau kekurangannya. \textbf{Bagian ini merupakan inti dari rumusan masalah}.
-    \item Elaborasi lebih lanjut yang menekankan pentingnya untuk menyelesaikan pokok persoalan tersebut.
-    \item Usulan singkat terkait dengan solusi yang ditawarkan untuk menyelesaikan persoalan.
+    \item Apa kriteria kebutuhan alat pendukung \textit{environment development} yang ideal bagi pemula yang ingin mempelajari pemrograman secara daring?
+    \item Bagaimana rancangan desain dan konstruksi sistem \textit{environment development} yang dapat memenuhi kebutuhan pengguna tersebut?
+    \item Bagaimana kinerja sistem \textit{environment development} yang dibuat baik dari sisi sistem maupun dari sisi pengguna?
 \end{enumerate}
 
-Penting untuk diperhatikan bahwa persoalan yang dideskripsikan pada subbab ini akan dipertanggungjawabkan di bab Evaluasi apakah terselesaikan atau tidak.
-
 \section{Tujuan}
-
-Tuliskan tujuan utama dan/atau tujuan detil yang akan dicapai dalam pelaksanaan tugas akhir. Fokuskan pada hasil akhir yang ingin diperoleh setelah tugas akhir diselesaikan, terkait dengan penyelesaian persoalan pada rumusan masalah. Penting untuk diperhatikan bahwa tujuan yang dideskripsikan pada subbab ini akan dipertanggungjawabkan di akhir pelaksanaan tugas akhir apakah tercapai atau tidak.
+Tujuan dari tugas akhir ini adalah untuk membuat sistem \textit{environment development} yang dapat membantu pemula yang ingin mempelajari pemrograman secara daring sehingga proses pembelajarannya lebih efektif dan efisien.
 
 \section{Batasan Masalah}
+Dalam penelitian ini, terdapat beberapa batasan masalah yang perlu didefinisikan agar sesuai lingkup pengerjaannya. Batasan masalah untuk tugas akhir ini adalah sebagai berikut:
 
-Tuliskan batasan-batasan yang diambil dalam pelaksanaan tugas akhir. Batasan ini dapat dihindari (tidak perlu ada) jika topik/judul tugas akhir dibuat cukup spesifik.
+\begin{enumerate}
+    \item Sistem dibangun pada web platform pembelajaran pemrograman \href{https://kodebareng.id}{Kodebareng}.
+\end{enumerate}
 
 \section{Metodologi}
+Metodologi yang digunakan pada pengerjaan tugas akhir ini adalah sebagai berikut:
 
-Tuliskan semua tahapan yang akan dilalui selama pelaksanaan tugas akhir. Tahapan ini spesifik untuk menyelesaikan persoalan tugas akhir. Tahapan studi literatur tidak perlu dituliskan karena ini adalah pekerjaan yang harus Anda lakukan selama proses pelaksanaan tugas akhir.
+\begin{enumerate}
+    \item Analisis Masalah dan Pemilihan Pendekatan \\
+          Dari rumusan masalah yang telah ditentukan, dilakukan pemilihan pendekatan yang sesuai untuk memecahkan masalah tersebut. Pemilihan pendekatan dilakukan dengan perbandingan implementasi sistem yang sudah ada dan melalui studi literatur. Pada tahap ini juga dilakukan analisis kriteria dan kebutuhan sistem yang sesuai dengan kebutuhan pengguna.
+    \item Perancangan Desain dan Konstruksi \\
+          Setelah pendekatan dan kebutuhan sistem telah ditentukan, dilakukan perancangan solusi. Perancangan solusi terdiri dari perancangan infrastruktur dan perancangan program. Perancangan infrastruktur terdiri dari pemilihan infrastruktur yang digunakan untuk menjalankan program. Perancangan program terdiri dari perancangan \textit{frontend} serta \textit{backend} dari sistem yang dibuat.
+    \item Implementasi Solusi \\
+          Pada tahap ini, solusi yang telah didesain diimplementasikan dan diintegrasikan dengan platform pembelajaran pemrograman \href{https://kodebareng.id}{Kodebareng}.
+    \item Pengujian dan Validasi \\
+          Pada tahap ini, dilakukan pengujian terhadap sistem yang sudah diimplementasikan. Aspek yang akan diuji adalah efektivitas dari sisi pengguna serta kinerja sistem selama melayani pengguna.
+\end{enumerate}
 
 \section{Jadwal Pelaksanaan Tugas Akhir}
+Berikut adalah jadwal pelaksanaan tugas akhir I dan II per minggu.
+\begin{longtable}{ |c| >{\setlength{\baselineskip}{0.75\baselineskip}}p{0.17\linewidth} |c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c| }
+    \caption{\label{tab:jadwal-pelaksaan-ta1}Jadwal Pelaksanaan Tugas Akhir I}                                                                                                                                                                                                                                                                                                                                                                                                                   \\
+    \hline
+    \rowcolor{gray!30}
+                          &                                                       & \multicolumn{2}{c|}{Sep} & \multicolumn{4}{c|}{Okt} & \multicolumn{4}{c|}{Nov} & \multicolumn{4}{c|}{Des} & \multicolumn{2}{c|}{Jan}                                                                                                                                                                                                                                                                         \\
+    \cline{3-18}
+    \rowcolor{gray!30}
+    \multirow{-2}{*}{No.} & \multirow{-2}{0.17\linewidth}{Milestone/ Deliverable} & 3                        & 4                        & 1                        & 2                        & 3                        & 4                     & 1                     & 2                     & 3                     & 4                     & 1                     & 2                     & 3                     & 4                     & 1                     & 2                     \\
+    \hline
+    1                     & Studi Literatur                                       & \cellcolor{yellow!60}    & \cellcolor{yellow!60}    & \cellcolor{yellow!60}    & \cellcolor{yellow!60}    & \cellcolor{yellow!60}    &                       &                       &                       &                       &                       &                       &                       &                       &                       &                       &                       \\
+    \hline
+    2                     & Pendahuluan                                           &                          &                          &                          &                          & \cellcolor{yellow!60}    & \cellcolor{yellow!60} & \cellcolor{yellow!60} & \cellcolor{yellow!60} &                       &                       &                       &                       &                       &                       &                       &                       \\
+    \hline
+    3                     & Rencana Penyelesaian Masalah                          &                          &                          &                          &                          &                          &                       &                       & \cellcolor{yellow!60} & \cellcolor{yellow!60} & \cellcolor{yellow!60} & \cellcolor{yellow!60} & \cellcolor{yellow!60} &                       &                       &                       &                       \\
+    \hline
+    4                     & Buku TA 1                                             &                          &                          &                          &                          &                          &                       &                       &                       &                       &                       &                       & \cellcolor{yellow!60} & \cellcolor{yellow!60} & \cellcolor{yellow!60} &                       &                       \\
+    \hline
+    5                     & Sidang TA 1                                           &                          &                          &                          &                          &                          &                       &                       &                       &                       &                       &                       &                       &                       &                       & \cellcolor{yellow!60} & \cellcolor{yellow!60} \\
+    \hline
+\end{longtable}
 
-Tuliskan rencana kegiatan dan jadwal (dirinci sampai per minggu) mulai dari awal pelaksanaan Tugas Akhir I s.d. sidang tugas akhir berikut milestones dan deliverables yang harus diberikan. Jadwal ini dapat dibantu dengan membuat sebuah tabel timeline.
+\begin{longtable}{ |c| >{\setlength{\baselineskip}{0.75\baselineskip}}p{0.17\linewidth} |c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c|c| }
+    \caption{\label{tab:jadwal-pelaksaan-ta2}Jadwal Pelaksanaan Tugas Akhir II}                                                                                                                                                                                                                                                                                                                                                                                                                      \\
+    \hline
+    \rowcolor{gray!30}
+                          &                                                       & \multicolumn{2}{c|}{Jan} & \multicolumn{4}{c|}{Feb} & \multicolumn{5}{c|}{Mar} & \multicolumn{4}{c|}{Apr} & \multicolumn{2}{c|}{Mei}                                                                                                                                                                                                                                                                             \\
+    \cline{3-19}
+    \rowcolor{gray!30}
+    \multirow{-2}{*}{No.} & \multirow{-2}{0.17\linewidth}{Milestone/ Deliverable} & 3                        & 4                        & 1                        & 2                        & 3                        & 4                     & 1                     & 2                     & 3                     & 4                     & 5 & 1                     & 2                     & 3                     & 4                     & 1                     & 2                     \\
+    \hline
+    1                     & Gatau                                                 & \cellcolor{yellow!60}    & \cellcolor{yellow!60}    & \cellcolor{yellow!60}    & \cellcolor{yellow!60}    & \cellcolor{yellow!60}    &                       &                       &                       &                       &                       &   &                       &                       &                       &                       &                       &                       \\
+    \hline
+    2                     & Mau                                                   &                          &                          &                          &                          & \cellcolor{yellow!60}    & \cellcolor{yellow!60} & \cellcolor{yellow!60} & \cellcolor{yellow!60} &                       &                       &   &                       &                       &                       &                       &                       &                       \\
+    \hline
+    3                     & Ngapain                                               &                          &                          &                          &                          &                          &                       &                       & \cellcolor{yellow!60} & \cellcolor{yellow!60} & \cellcolor{yellow!60} &   & \cellcolor{yellow!60} & \cellcolor{yellow!60} &                       &                       &                       &                       \\
+    \hline
+    4                     & Hehe                                                  &                          &                          &                          &                          &                          &                       &                       &                       &                       &                       &   &                       & \cellcolor{yellow!60} & \cellcolor{yellow!60} & \cellcolor{yellow!60} &                       &                       \\
+    \hline
+    5                     & Bye TA                                                &                          &                          &                          &                          &                          &                       &                       &                       &                       &                       &   &                       &                       &                       &                       & \cellcolor{yellow!60} & \cellcolor{yellow!60} \\
+    \hline
+\end{longtable}

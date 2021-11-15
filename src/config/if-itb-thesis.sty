@@ -41,7 +41,8 @@
 \usepackage{relsize}
 \usepackage{float}
 \usepackage{longtable} % Package untuk table multipage
-\usepackage[table]{xcolor} % Package untuk table color
+\usepackage{multirow}
+\usepackage[table, svgnames]{xcolor} % Package untuk table color
 
 \graphicspath{{resources/}}   % letak direktori penyimpanan gambar
 
@@ -177,8 +178,7 @@
     \restorebibmacro{textcite}%
     \usebibmacro{textcite}}}
 
-% Setel Hyperref color
-% \hypersetup{
-%   colorlinks = true,
-%   allcolors = cyan
-% }
+% Remove Hypenation
+\hyphenpenalty=10000
+\exhyphenpenalty=10000
+\sloppy % Makes TeX obey margins by stretching inter word spaces
