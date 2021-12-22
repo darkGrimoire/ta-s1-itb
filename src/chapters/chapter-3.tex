@@ -1,13 +1,22 @@
 \chapter{Rencana Penyelesaian Masalah}
 
-Tujuan utama penulisan bab ini adalah untuk menguraikan rencana penyelesaian masalah tugas akhir yang akan dieksekusi secara utuh pada saat pelaksanaan Tugas Akhir II. Bab ini merupakan bab penutup Laporan Tugas Akhir I yang dapat dipandang sebagai bab yang akan menjembatani perpindahan ke proses pelaksanaan Tugas Akhir II. Pengembangan lebih lanjut dari bab ini dapat menjadi bagian dari bab Deskripsi Solusi pada Laporan Tugas Akhir.
+Pada bab ini dituliskan analisis mengenai masalah yang diangkat di tugas akhir ini. Analisis mencakup analisis masalah yang telah dirumuskan serta solusi-solusi yang dapat diterapkan untuk menyelesaikan masalah-masalah tersebut.
 
-\textbf{Kerangka penyelesaian masalah:}
-\begin{enumerate}
-  \item Analisis masalah apa saja yang ditemukan oleh pemula yang ingin mempelajari pemrograman secara daring. \\
-        Apa saja hambatannya? Apa yang kurang dari proses pembelajaran materi saja? Cari tahu tentang adanya indikasi dari kurangnya latihan secara praktik sehingga menyebabkan terjadinya diskrepansi antara materi dan praktik
-  \item Analisis solusi yang dibutuhkan \\
-        Infrastruktur dari solusinya disesuaikan dengan hasil riset terkait infrastruktur autograder dengan performa dan keamanan yang baik, serta penggunaan Websocket untuk komunikasi client-server.
-  \item Rancangan Solusi \\
-        Rancangan solusi yang akan diimplementasikan. Dibuat komponen infrastrukturnya dan komunikasi antara komponen dengan sistem yang sudah ada pada kodebareng dan disesuaikan dengan tujuan performa yang diinginkan oleh kodebareng.
-\end{enumerate}
+\section{Analisis Masalah}
+Saat ini, terdapat banyak sekali metode penyampaian materi pembelajaran pemrograman secara daring. Namun, agar dapat memvalidasi pengetahuan yang didapat diperlukan sistem pendukung yang dapat digunakan sebagai media praktik bagi para pelajar. Kurangnya praktik dan latihan dalam pembelajaran dapat membuat adanya pemisah antara pemahaman teori dan praktik. (\textit{!TODO: ceritakan paper mengenai ini})
+
+Untuk memvalidasi pengetahuan yang sudah dipelajari, terdapat banyak metode yang dapat digunakan. Salah satu metode yang sering dipakai adalah kuis yaitu serangkaian pertanyaan yang mengacu pada materi yang telah diberikan. Kuis dapat dibuat dalam berbagai macam bentuk seperti pilihan ganda, isian singkat, esai, dll. Metode esai dapat digunakan untuk memvalidasi logika dan pola pikir dari pemecahan masalah, namun karena esai tersebut merupakan kode maka harus terdapat sistem yang dapat mengeksekusi, menilai, serta memberikan \textit{feedback} dari hasil eksekusi kode tersebut layaknya pemrograman yang sebenarnya. Maka dari itu, diperlukan sistem pembelajaran pemrograman interaktif yang dapat dipakai pengguna untuk menuliskan kode, memberikan \textit{feedback} dari kode yang dibuat, serta menilai kebenaran dari kode tersebut. \textit{Feedback} yang diberikan berupa hasil eksekusi kode berupa pesan keluaran apabila kode berhasil dijalankan, serta pesan error apabila terjadi masalah dalam eksekusi kode. Pesan keluaran hasil eksekusi dapat dibandingkan dengan pesan keluaran yang seharusnya agar dapat dinilai dan diberitahukan kepada pengguna sehingga pengguna dapat mengetahui letak kesalahan dari kode yang diimplementasikan.
+
+\section{Analisis Solusi}
+Dari analisis masalah di atas, dapat dilihat bahwa diperlukan sistem pembelajaran pemrograman interaktif yang dapat mengeksekusi dan menilai kode untuk mendukung pembelajaran pemrograman secara daring. Karena sistem ini berjalan secara daring, sistem harus memiliki infrastruktur yang dapat menampung pengguna yang banyak. Kebutuhan infrastruktur dapat disesuaikan dengan kebutuhan dan spesifikasi sistem yang sudah ada dari batasan masalah. Sistem juga harus memiliki keamanan yang baik, sehingga dapat menghindari eksekusi kode berbahaya yang dimasukkan baik secara sengaja maupun tidak sengaja oleh pengguna. Maka dari itu, diperlukan juga filter yang dapat memilih hal apa saja yang dapat dieksekusi oleh pengguna. Terdapat juga faktor seperti \textit{budget} keuangan yang tersedia serta \textit{scalability} dan \textit{maintainability} yang perlu dipertimbangkan dalam pengembangan sistem.
+
+Dalam implementasinya, terdapat beberapa pilihan teknologi yang bisa digunakan untuk mencapai hasil yang diinginkan. Salah satu teknologi yang dapat digunakan adalah Docker yang dapat membuat sistem terisolasi sehingga proses eksekusi kode lebih aman karena berada di lingkungan yang berbeda dengan lingkungan sistem utama. Namun, menginisiasi instans Docker untuk setiap pengguna dapat menghabiskan daya yang cukup besar dan membuat \textit{delay} yang cukup lama sebelum instans Docker dapat digunakan sehingga inisiasi dapat dilakukan untuk setiap soal yang dibuat sehingga setiap soal memiliki instans Dockernya masing-masing yang sudah berjalan seperti yang dibuat pada sistem \textit{autograder} \textit{!TODO: Masukkan papernya}. Setiap instans Docker dapat menerima input kode yang akan dieksekusi, memfilter input kode yang dapat dijalankan, membandingkan hasil keluarannya dengan hasil keluaran yang seharusnya, serta mengembalikan \textit{feedback}. Sistem juga dapat menggunakan Kubernetes untuk skala yang lebih besar apabila dibutuhkan proses komputasi yang lebih banyak sehingga dibutuhkan server eksekusi yang lebih banyak.
+
+\textit{!TODO: Masukkan diagram2 kemungkinan infrastruktur}
+
+Karena komunikasi antara \textit{client} dan \textit{server} dilakukan secara dua arah, diperlukan sistem komunikasi yang dapat melakukannya secara cepat dan aman. Websocket dapat digunakan dalam hal ini untuk mengirimkan pesan secara dua arah. Dengan menggunakan Websocket, proses komunikasi antara \textit{client} dan \textit{server} dapat lebih cepat dan responsif dalam komunikasi 2 arah secara \textit{realtime} karena dapat meminimalkan jumlah \textit{HTTP request} serta \textit{overhead} dalam pembukaan dan penutupan koneksi antara \textit{client} dan \textit{server}. \textit{!TODO: Masukkan paper mengenai infrastruktur yang menggunakan websocket}.
+
+\section{Rancangan Solusi}
+Solusi yang saya tawarkan adalah membuat sistem pembelajaran pemrograman interaktif yang dapat digunakan pada sistem yang sudah ada dengan menggunakan Docker dan Websocket. Hal ini mempertimbangkan spesifikasi kebutuhan dari sistem serta faktor-faktor yang telah disebutkan sebelumnya.
+
+\textit{!TODO: Masukkan diagram2 infrastruktur yang di}
