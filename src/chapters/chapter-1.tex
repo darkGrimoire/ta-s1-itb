@@ -3,27 +3,38 @@
 \section{Latar Belakang}
 \label{sec:latarbelakang}
 
-Pada zaman ini, teknologi berkembang dengan pesat. Dengan adanya teknologi yang mumpuni untuk melakukan pembelajaran secara daring, akses untuk melakukan pembelajaran secara daring sudah terbuka lebar. Sudah banyak platform pembelajaran daring yang terdapat di internet dengan berbagai macam bidang ilmu. Media pembelajarannya juga beragam, mulai dari video, seminar web, pelatihan daring melalui konferensi video, dll. Pelajar kemudian dapat mengetes materi yang telah dia dapat dengan mengerjakan soal-soal berupa latihan dan kuis.
+Pesatnya perkembangan teknologi digital membuka potensi yang luas dalam pembelajaran secara daring. Dengan bantuan internet, pembelajaran dapat dilakukan di mana saja dan kapan saja. Pembelajaran tidak lagi terkekang batas geografis dan waktu sehingga keterhubungan dan interaksi antara pengajar dan pelajar lebih banyak \parencite{choy2004interactive,keengwe2010towards,psotka2012ile}.
 
-Khususnya dalam pembelajaran pemrograman, dalam pengerjaan latihan diperlukan alat yang dapat mengetes kode hasil buatan pelajar tersebut dan mengevaluasi kebenarannya. Alat ini biasa disebut sebagai sistem penilaian otomatis atau \textit{automatic grading}. Pelajar dapat membuat kodenya terlebih dahulu, lalu menyerahkan hasil pekerjaannya ke sistem untuk dinilai. Sistem ini sering dipakai oleh berbagai macam lembaga dan institusi dalam pembelajaran pemrograman. Namun, hal ini dapat membuat masalah-masalah yang tidak relevan dalam pengerjaan latihan seperti kesalahan dalam melakukan instalasi, perangkat yang kurang mendukung, perbedaan versi instalasi, dan permasalahan lainnya yang dapat menghambat proses pembelajaran.
+Namun, interaksi antara pelajar dan pengajar pada pembelajaran daring tidak dapat disamakan dengan pembelajaran tradisional. Interaksi seperti melemparkan pertanyaan secara lisan kepada siswa, meminta siswa memecahkan persoalan di depan kelas, dan hal-hal serupa tidak dapat dilakukan dalam pembelajaran daring yang asinkron karena hubungan antara pelajar dan pengajar tidak dilakukan secara langsung. Hal ini menimbulkan adanya pro dan kontra terkait pembelajaran secara daring \parencite{radovic2010advantages}.
 
-Maka dari itu, diperlukan sistem \textit{environment development} pada platform pembelajaran yang dapat digunakan untuk melakukan eksekusi kode sehingga pengguna dapat langsung mencoba memprogram melalui web dan melihat hasil eksekusi programnya beserta penilaian terkait apabila digunakan dalam pengerjaan latihan soal. Dengan adanya sistem ini, pengguna tidak perlu melakukan instalasi apapun saat mengerjakan latihan soal sehingga diharapkan dapat meningkatkan kenyamanan dan efektivitas pembelajaran..
+Seiring dengan perkembangan interaktivitas antara manusia dan komputer, media pembelajaran secara daring semakin terbuka dengan adanya \textit{interactive learning environment} (ILE) yang bermunculan \parencite{psotka2012ile}. Bahkan, ILE berpotensi dapat melebihi kemampuan pembelajaran tradisional dengan adanya integrasi dengan teknologi baik perangkat lunak hingga perangkat keras khusus sehingga dapat mendukung pembelajaran yang mulanya tidak dapat atau sulit dilaksanakan secara luring. Salah satu bidang pembelajaran yang berdampak besar dari adanya ILE ini adalah pemrograman.
 
+ILE memungkinkan pembelajaran pemrograman lebih efektif dan efisien. Seperti yang dijelaskan oleh \textcite{choy2004interactive}, teknologi dapat dimanfaatkan untuk meningkatkan kinerja pembelajaran asinkron sehingga pelatihan pemrograman yang biasanya dilaksanakan dengan lokakarya secara sinkron antara pelajar dan pengajar, kini dapat dilakukan secara asinkron sehingga memungkinkan pembelajaran yang terdistribusi dan latar belakang pelajar yang heterogen.
+
+Agar dapat mendukung pembelajaran secara daring, dibutuhkan 4 komponen sistem menurut \textcite{choy2004interactive}, yaitu lingkungan yang mendukung aktivitas pemrograman secara praktis, interaksi pelajar dan pengajar secara asinkron, analisis dari hasil pekerjaan pelajar, serta manajemen distribusi dan pengumpulan tugas.
+
+Dalam makalah ini, akan dibahas mengenai implementasi ILE yang dapat mendukung aktivitas pemrograman secara praktis beserta ragam implementasi pada platform yang sudah ada, yang kemudian akan dipilih, dimodifikasi, dan diimplementasikan sesuai dengan kebutuhan pada platform pembelajaran pemrograman KodeBareng.
+
+% Pada zaman ini, teknologi berkembang dengan pesat. Dengan adanya teknologi yang mumpuni untuk melakukan pembelajaran secara daring, akses untuk melakukan pembelajaran secara daring sudah terbuka lebar. Sudah banyak platform pembelajaran daring yang terdapat di internet dengan berbagai macam bidang ilmu. Media pembelajarannya juga beragam, mulai dari video, seminar web, pelatihan daring melalui konferensi video, dll. Pelajar kemudian dapat mengetes materi yang telah dia dapat dengan mengerjakan soal-soal berupa latihan dan kuis.
+
+% Khususnya dalam pembelajaran pemrograman, dalam pengerjaan latihan diperlukan alat yang dapat mengetes kode hasil buatan pelajar tersebut dan mengevaluasi kebenarannya. Alat ini biasa disebut sebagai sistem penilaian otomatis atau \textit{automatic grading}. Pelajar dapat membuat kodenya terlebih dahulu, lalu menyerahkan hasil pekerjaannya ke sistem untuk dinilai. Sistem ini sering dipakai oleh berbagai macam lembaga dan institusi dalam pembelajaran pemrograman. Namun, hal ini dapat membuat masalah-masalah yang tidak relevan dalam pengerjaan latihan seperti kesalahan dalam melakukan instalasi, perangkat yang kurang mendukung, perbedaan versi instalasi, dan permasalahan lainnya yang dapat menghambat proses pembelajaran.
+
+% Maka dari itu, diperlukan sistem \textit{environment development} pada platform pembelajaran yang dapat digunakan untuk melakukan eksekusi kode sehingga pengguna dapat langsung mencoba memprogram melalui web dan melihat hasil eksekusi programnya beserta penilaian terkait apabila digunakan dalam pengerjaan latihan soal. Dengan adanya sistem ini, pengguna tidak perlu melakukan instalasi apapun saat mengerjakan latihan soal sehingga diharapkan dapat meningkatkan kenyamanan dan efektivitas pembelajaran..
 
 \section{Rumusan Masalah}
 Berdasarkan latar belakang yang telah dijelaskan sebelumnya, rumusan masalah tugas akhir ini adalah:
 
 \begin{enumerate}
-    \item Apa kriteria kebutuhan alat pendukung \textit{interactive learning environment} yang ideal bagi pemula yang ingin mempelajari pemrograman secara daring?
-    \item Bagaimana rancangan desain dan konstruksi sistem \textit{interactive learning environment} yang dapat memenuhi kebutuhan pengguna tersebut?
-    \item Bagaimana kinerja sistem \textit{interactive learning environment} yang dibuat baik dari sisi sistem maupun dari sisi pengguna?
+    \item Apa saja kebutuhan yang diperlukan dalam ILE agar dapat mendukung pembelajaran pemrograman secara daring?
+    \item Bagaimana rancangan desain dan konstruksi sistem ILE yang dapat memenuhi kebutuhan pengguna tersebut?
+    \item Bagaimana kinerja sistem ILE yang telah diimplementasikan baik dari sisi sistem maupun dari sisi pengguna?
 \end{enumerate}
 
 \section{Tujuan}
-Tujuan dari tugas akhir ini adalah untuk membuat sistem \textit{interactive learning environment} yang dapat membantu pemula yang ingin mempelajari pemrograman secara daring sehingga proses pembelajarannya lebih efektif dan efisien.
+Tujuan dari tugas akhir ini adalah untuk membuat ILE yang dapat membantu pemula yang ingin mempelajari pemrograman secara daring sehingga proses pembelajarannya lebih efektif dan efisien.
 
 \section{Batasan Masalah}
-Dalam penelitian ini, terdapat beberapa batasan masalah yang perlu didefinisikan agar sesuai lingkup pengerjaannya. Batasan masalah untuk tugas akhir ini adalah sebagai berikut:
+Dalam penelitian ini, terdapat batasan masalah yang perlu didefinisikan agar sesuai lingkup pengerjaannya. Batasan masalah untuk tugas akhir ini adalah sebagai berikut:
 
 \begin{enumerate}
     \item Sistem dibangun pada web platform pembelajaran pemrograman \href{https://kodebareng.id}{Kodebareng}.
