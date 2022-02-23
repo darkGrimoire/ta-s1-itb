@@ -43,6 +43,7 @@
 \usepackage{longtable} % Package untuk table multipage
 \usepackage{multirow}
 \usepackage[table, svgnames]{xcolor} % Package untuk table color
+\usepackage{setspace} % untuk set baseline ditengah2
 
 \graphicspath{{resources/}}   % letak direktori penyimpanan gambar
 
@@ -84,9 +85,9 @@
     {\bfseries}
 }
 
-% Hilangkan titik pada toc
+% Perkecil titik pada toc
 \makeatletter
-\renewcommand{\@dotsep}{10000} 
+\renewcommand{\@dotsep}{1} 
 \makeatother
 
 % Setel title pada chapter-chapter di toc, lof, lot
@@ -95,19 +96,19 @@
   {\bfseries}
   {\MakeUppercase{Bab} \thecontentslabel\quad\uppercase}
   {}
-  {\hfill\contentspage}
+  {\mdseries\titlerule*[0.35em]{.}\bfseries\contentspage}
 \titlecontents{figure}
   [0pt]
   {}
   {Gambar \thecontentslabel.\quad}
   {}
-  {\hfill\contentspage}
+  {\mdseries\titlerule*[0.35em]{.}\bfseries\contentspage}
 \titlecontents{table}
   [0pt]
   {}
   {Tabel \thecontentslabel.\quad}
   {}
-  {\hfill\contentspage}
+  {\mdseries\titlerule*[0.35em]{.}\bfseries\contentspage}
 
 % Masukin Daftar Pustaka ke toc
 \let\originalprintbibliography\printbibliography
@@ -182,3 +183,11 @@
 \hyphenpenalty=10000
 \exhyphenpenalty=10000
 \sloppy % Makes TeX obey margins by stretching inter word spaces
+
+%%% Custom commands to make life easier %%%
+
+%% Center a cell
+% \newcommand{\centercell}[2][\undefined]{\textbf{\ifx#1\undefined{|c|}\else{c|}\fi }\textit{#2}}
+\newcommand{\centercellf}[1]{\multicolumn{1}{|c|}{#1}}
+\newcommand{\centercell}[1]{\multicolumn{1}{c|}{#1}}
+

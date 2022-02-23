@@ -78,3 +78,11 @@ Pembelajaran Pemrograman Secara Daring Menggunakan Coding Interface
   - Bagaimana?
 ### 8. Keamanan Eksekusi
   - Perlu sampe sini gasi? WKWKKWKWK
+
+
+# Daftar Pertanyaan
+- Untuk tujuan, bagaimana wording yang tepat apabila saya ingin membuat ILE serta mendapatkan feedback dari ILE tersebut?
+- Saya sebenarnya ingin menggabungkan solusi pada pythontutor serta web ide seperti pada katacoda. Kira-kira bisa dibahas dimana?
+- Pembahasan KodeBareng ditaruh dimana?
+- Terkait deadline M1 yaitu besok, bahasannya mengenai Analisis Penyelesaian Masalah. Kira-kira bagaimana cara mempertajam analisis masalah yang sudah dilakukan di TA1 karena ketika seminar kemarin kurang terbahas?
+- Terkait rancangan solusi sistem, apakah perlu diberikan penjelasan terkait teknis2 yang dipakai di BAB 2 atau bisa langsung dimasukkan saja pada BAB 3?

@@ -18,3 +18,7 @@ thesis.pdf
 .directory
 output/*
 build/*
+
+# windows
+thumb.ico
+desktop.ini
