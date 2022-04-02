@@ -82,7 +82,20 @@ Pembelajaran Pemrograman Secara Daring Menggunakan Coding Interface
 
 # Daftar Pertanyaan
 - Untuk tujuan, bagaimana wording yang tepat apabila saya ingin membuat ILE serta mendapatkan feedback dari ILE tersebut?
+cari paper terkait pengujian pembelajaran pemrograman
 - Saya sebenarnya ingin menggabungkan solusi pada pythontutor serta web ide seperti pada katacoda. Kira-kira bisa dibahas dimana?
+coba dikasih hint terlebih dahulu sebelum dikasih visualisasi
 - Pembahasan KodeBareng ditaruh dimana?
+ditaro di BAB 2, dikaitkan dengan ILE, lalu di BAB 3 dikaitkan dengan lampiran requirementnya.
 - Terkait deadline M1 yaitu besok, bahasannya mengenai Analisis Penyelesaian Masalah. Kira-kira bagaimana cara mempertajam analisis masalah yang sudah dilakukan di TA1 karena ketika seminar kemarin kurang terbahas?
 - Terkait rancangan solusi sistem, apakah perlu diberikan penjelasan terkait teknis2 yang dipakai di BAB 2 atau bisa langsung dimasukkan saja pada BAB 3?
+dibuat satu dokumen sama mario, dihighlight yang bagian faris di buku tapi di lampirannya disamakan saja.
+
+# Catatan Bimbingan
+Bikin dokumen requirement buat KodeBareng, digabungkan dengan Mario. Tapi yang dibahas di buku cuman yang punya masing2.
+Cari masalah di segmen usernya dari psikologi dsb, dari paper
+Pengujiannya bisa dikomparasi
+cari bagaimana mengukur ILE dari paper2
+cari tahu terkait inquiry learning
+Coba dicari hubungan dengan gamifikasi, secara user experience. Jangan sampai gamifikasi rupanya dependensi terhadap ILE atau bahkan ILE membutuhkan gamifikasi
+progress report tiap minggu, bentar aja.

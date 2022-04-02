@@ -44,10 +44,16 @@
 \usepackage{multirow}
 \usepackage[table, svgnames]{xcolor} % Package untuk table color
 \usepackage{setspace} % untuk set baseline ditengah2
+\usepackage{tabto}
 
 \graphicspath{{resources/}}   % letak direktori penyimpanan gambar
 
 \setlength{\LTcapwidth}{\textwidth}
+
+\newenvironment{tabs}[1]
+ {\flushleft\TabPositions{#1}}
+ {\endflushleft}
+
 
 % Setting daftar lampiran
 \newcommand*{\lopname}{DAFTAR LAMPIRAN}
