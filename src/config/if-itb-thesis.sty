@@ -24,6 +24,9 @@
 % Format citation
 \usepackage[style=apa,backend=biber]{biblatex}
 
+% \setmainlanguage{bahasa}
+% \setotherlanguage{english}
+
 \usepackage[utf8]{inputenc}
 \usepackage{graphicx}
 \usepackage{titling}
@@ -148,6 +151,24 @@
 
 % Define blank page
 \newcommand*{\blankpage}{\afterpage{\null\newpage}}
+
+% Translate autoref into Indonesian
+\renewcommand*{\equationautorefname}{Persamaan}%
+\renewcommand*{\footnoteautorefname}{catatan kaki}%
+\renewcommand*{\itemautorefname}{item}%
+\renewcommand*{\figureautorefname}{Gambar}%
+\renewcommand*{\tableautorefname}{Tabel}%
+\renewcommand*{\partautorefname}{Bagian}%
+\renewcommand*{\appendixautorefname}{Lampiran}%
+\renewcommand*{\chapterautorefname}{Bab}%
+\renewcommand*{\sectionautorefname}{Subbab}%
+\renewcommand*{\subsectionautorefname}{Subsubbab}%
+\renewcommand*{\subsubsectionautorefname}{Subsubsubbab}%
+\renewcommand*{\paragraphautorefname}{paragraf}%
+\renewcommand*{\subparagraphautorefname}{subparagraf}%
+\renewcommand*{\FancyVerbLineautorefname}{garis}%
+\renewcommand*{\theoremautorefname}{Teorema}%
+\renewcommand*{\pageautorefname}{halaman}%
 
 %%% biblatex hyperlink cite author and year
 % ref: https://tex.stackexchange.com/questions/15951/hyperlink-name-with-biblatex-authoryear-biblatex-1-4b

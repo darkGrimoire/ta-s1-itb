@@ -15,3 +15,9 @@ The Psychology of How Novices Learn Computer Programming
   + Orang yang memiliki kemampuan penyerapan pembelajaran tidak cocok dengan model konkret karena mereka sudah memiliki model sendiri.
   + Model konkret berguna pada materi yang tidak terorganisir.
   + Model konkret berguna untuk membuat pelajar yang dapat menghasilkan solusi kreatif.
+
+The Design and Pilot Evaluatioin of ILE for Introductory Programming
+- Latar belakangnya: introductory programming susah banget diajarin, pemrogram pemula susah ngetrace kodenya sendiri
+- Approach yg udah dilakukan: penggunaan paradigma pemrograman, pembelajaran aktif (peragaan), penggunaan bahasa pemrograman yg didesain untuk pembelajaran (misal: Pascal, Python, Eiffel), software environment (ada 4: microworlds kayak LEGO, visualisasi algoritma, visualisasi program, visualisasi diagram)
+- Solusi: visualisasi dengan control flow diagram, keterkaitan antara kelas dan stack frame. Kompleks banget sih
+- Cara evaluasi: suruh orang pake selama bbrp course, suruh test yg dipisah antara yg pake visualisasi dgn yg gapake visualisasi, SOLO Level dalam mencari tahu pemahaman siswa, 20 kontrol + 19 treatment, 

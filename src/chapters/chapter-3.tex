@@ -42,12 +42,12 @@ Berdasarkan studi literatur terhadap beberapa platform pembelajaran lainnya, met
 Metode non-visual kebanyakan menggunakan Web IDE dalam pembelajarannya. Pengguna dapat berinteraksi dengan Web IDE sehingga mereka dapat melatih kemampuan pemecahan masalah dan pemrograman praktis. Web IDE yang digunakan biasanya memiliki kapabilitas untuk mengembalikan hasil keluaran dari eksekusi kode, serta melakukan penilaian terhadap kebenaran implementasi. Web IDE juga dapat menerima berbagai macam bahasa sesuai dengan kebutuhan materi yang sedang dipelajari. Selain itu, terdapat juga Web IDE yang menyimulasikan terminal ketimbang editor kode seperti yang dapat dilihat di Katacoda \parencite{katacoda2021media}. Selain itu, Web IDE bisa dikembangkan lebih lanjut pada aspek kolaboratif \parencite{tran2013interactive} ataupun mendukung visualisasi langkah eksekusi program seperti pada \textcite{guo2013pythontutor}. Visualisasi langkah eksekusi menjadi salah satu aspek yang menarik karena tidak banyak ditemukan implementasinya pada platform pembelajaran pemrograman yang sudah terkenal.
 
 \section{Rancangan Solusi}
-Dalam makalah ini, dibuat prototipe ILE yang terdiri dari beberapa komponen yaitu Web IDE pada \textit{frontend} dan sistem eksekutor kode pada \textit{backend} yang terpisah dari \textit{backend} KodeBareng.
+Dalam tugas akhir ini, dibuat prototipe ILE yang terdiri dari beberapa komponen yaitu Web IDE pada \textit{frontend} dan sistem eksekutor kode pada \textit{backend} yang terpisah dari \textit{backend} KodeBareng.
 
 \begin{figure}[H]
   \centering
-  \includegraphics[width=0.5\textwidth]{chapter3/diagramblok.png}
-  \caption{Rancangan Solusi ILE}
+  \includegraphics[width=0.5\textwidth]{chapter3/diagram_blok.png}
+  \caption{Rancangan Solusi ILE} \label{fig:diagram-blok}
 \end{figure}
 
 Keterangan gambar:
@@ -58,6 +58,46 @@ Keterangan gambar:
   \item Bawaan: Komponen tidak berubah.
 \end{itemize}
 
-Pada \textit{frontend}, akan dibuat komponen Web IDE berupa editor kode yang dapat menerima masukan kode serta memberikan \textit{basic syntax highlighting}. Web IDE dapat menampilkan hasil keluaran ataupun kesalahan eksekusi yang dikembalikan dari \textit{backend}, serta hasil penilaian dari pengetesan kode. Web IDE juga dapat menampilkan visualisasi langkah jalannya program agar dapat memudahkan proses pembelajaran dan pencarian letak masalah dalam implementasi kode.
+Seperti yang dapat dilihat pada \autoref{fig:diagram-blok} sebelumnya, pada \textit{frontend} akan dibuat komponen Web IDE berupa editor kode yang dapat menerima masukan kode serta memberikan \textit{basic syntax highlighting}. Web IDE dapat menampilkan hasil keluaran ataupun kesalahan eksekusi yang dikembalikan dari \textit{backend}, serta hasil penilaian dari pengetesan kode. Web IDE juga dapat menampilkan visualisasi langkah jalannya program agar dapat memudahkan proses pembelajaran dan pencarian letak masalah dalam implementasi kode.
 
 Pada \textit{backend}, akan dibuat sistem eksekutor kode yang terhubung ke backend KodeBareng. Sistem ini menerima kode dan informasi lainnya dari \textit{backend} lalu melakukan eksekusi kode yang akan dinilai berdasarkan hasil keluarannya. Sistem ini juga dapat terhubung pada \textit{backend} KodeBareng apabila dibutuhkan integrasi lain di kemudian hari.
+
+\autoref{fig:diagram-komponen} Berikut adalah diagram komponen dari sistem yang akan dibuat (TODO: Kalau yang margun udah jadi ntar musti di highlight yg dikerjain yg mana)
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\textwidth]{chapter3/diagram_komponen.png}
+  \caption{Diagram komponen} \label{fig:diagram-komponen}
+\end{figure}
+
+\blindtext
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\textwidth]{chapter3/diagram_konteks.png}
+  \caption{Diagram konteks} \label{fig:diagram-konteks}
+\end{figure}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\textwidth]{chapter3/DFD_lv1.png}
+  \caption{DFD Level 1} \label{fig:dfd-lv1}
+\end{figure}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\textwidth]{chapter3/DFD_lv2_Frontend.png}
+  \caption{DFD Level 2 - Frontend} \label{fig:dfd-lv2-frontend}
+\end{figure}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\textwidth]{chapter3/DFD_lv2_Backend.png}
+  \caption{DFD Level 2 - Backend} \label{fig:dfd-lv2-backend}
+\end{figure}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\textwidth]{chapter3/DFD_lv2_Eksekutor.png}
+  \caption{DFD Level 2 - Eksekutor} \label{fig:dfd-lv2-eksekutor}
+\end{figure}
