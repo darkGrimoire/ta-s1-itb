@@ -101,3 +101,53 @@ Pada \textit{backend}, akan dibuat sistem eksekutor kode yang terhubung ke backe
   \includegraphics[width=0.8\textwidth]{chapter3/DFD_lv2_Eksekutor.png}
   \caption{DFD Level 2 - Eksekutor} \label{fig:dfd-lv2-eksekutor}
 \end{figure}
+
+% Please add the following required packages to your document preamble:
+% \usepackage{longtable}
+% Note: It may be necessary to compile the document several times to get a multi-page table to line up properly
+\begin{longtable}[c]{|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.5\linewidth}|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.3\linewidth}|}
+  \caption{Kebutuhan fungsional sistem}
+  \label{tab:fungsional}                                                                                                                                                                                                                                              \\
+  \hline
+  \rowcolor{gray!30}
+  \textbf{ID} & \textbf{Kebutuhan}                                                                                                           & \textbf{Penjelasan}                                                                                                    \\ \hline
+  \endfirsthead
+  %
+  \endhead
+  %
+              & Sistem Frontend dapat menerima input kode dari pengguna                                                                      & Menggunakan kakas Monaco Editor                                                                                        \\ \hline
+              & Sistem Frontend dapat memberikan syntax highlighting pada kode yang dibuat oleh pengguna                                     & \textit{Syntax highlighting} menggunakan kakas \textit{Prism.js}                                                       \\ \hline
+              & Sistem Frontend dapat meminta masukan dari pengguna                                                                          & Masukan diminta apabila kode membutuhkan masukan                                                                       \\ \hline
+              & Sistem Frontend dapat menampilkan hasil olahan kode dari Sistem Backend                                                      & Visualisasi menggunakan kakas Anime.js/D3.js                                                                           \\ \hline
+              & Sistem Backend dapat mengolah data kode dari Frontend dengan memberikan data tambahan yang dibutuhkan oleh Sistem Eksekutor  & Data yang ditambahkan adalah data terkait latihan soal yang sedang dikerjakan seperti id soal, test case terkait, dll. \\ \hline
+              & Sistem Backend dapat mendeteksi hal yang dapat dan tidak dapat dieksekusi pada kode                                          & Keterbatasan eksekusi dapat dilihat disini (TBA)                                                                       \\ \hline
+              & Sistem Backend dapat menggagalkan eksekusi apabila kode memiliki hal yang tidak dapat dieksekusi                             & -                                                                                                                      \\ \hline
+              & Sistem Eksekutor dapat menjalankan debugger terhadap kode secara otomatis                                                    & \textit{debugger} yang digunakan menggunakan pdb                                                                       \\ \hline
+              & Sistem Eksekutor mendapatkan informasi pada tiap baris yang dieksekusi oleh debugger                                         & informasi yang didapatkan terkait modul, fungsi, variabel, serta stack frame                                           \\ \hline
+              & Sistem Eksekutor dapat mendeteksi apabila kode yang dijalankan meminta input dari pengguna                                   & -                                                                                                                      \\ \hline
+              & Sistem Eksekutor dapat mengolah hasil eksekusi kode dari debugger menjadi format yang dapat ditampilkan oleh Sistem Frontend & -                                                                                                                      \\ \hline
+              & Sistem Eksekutor dapat menampilkan error yang ditangkap saat menjalankan kode                                                & -                                                                                                                      \\ \hline
+              & Sistem Eksekutor dapat membatasi langkah eksekusi kode                                                                       & Batas langkah eksekusi adalah 500 langkah                                                                              \\ \hline
+              & Sistem Eksekutor dapat menilai kode dari hasil keluarannya                                                                   & -                                                                                                                      \\ \hline
+\end{longtable}
+
+% Please add the following required packages to your document preamble:
+% \usepackage{longtable}
+% Note: It may be necessary to compile the document several times to get a multi-page table to line up properly
+\begin{longtable}[c]{|l|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.6\linewidth}|}
+  \caption{Kebutuhan non-fungsional sistem}
+  \label{tab:non-fungsional}                                                                                             \\
+  \hline
+  \rowcolor{gray!30}
+  \textbf{ID} & \textbf{Parameter} & \textbf{Kebutuhan}                                                                  \\ \hline
+  \endfirsthead
+  %
+  \endhead
+  %
+              & Performance        & Sistem dapat merespon permintaan mengeksekusi kode dalam kurang dari 10 detik       \\ \hline
+              & Reliability        & Sistem dapat menangani 1000 pengguna yang mengerjakan latihan soal secara bersamaan \\ \hline
+              & Portability        & Sistem dapat diakses dengan smartphone dan desktop                                  \\ \hline
+              & Maintainability    & Sistem dibuat secara clean code                                                     \\ \hline
+              & Testability        & Sistem lulus saat dilakukan pengujian                                               \\ \hline
+              & Security           & Sistem tidak membiarkan terjadinya eksekusi kode berbahaya                          \\ \hline
+\end{longtable}
