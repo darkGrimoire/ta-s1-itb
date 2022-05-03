@@ -1,4 +1,4 @@
-\chapter{Deskripsi Solusi}
+\chapter{Rencana Penyelesaian Masalah}
 --- TEMPLATE ---
 
 Tujuan penulisan bab ini adalah untuk:
@@ -62,49 +62,10 @@ Seperti yang dapat dilihat pada \autoref{fig:diagram-blok} sebelumnya, pada \tex
 
 Pada \textit{backend}, akan dibuat sistem eksekutor kode yang terhubung ke backend KodeBareng. Sistem ini menerima kode dan informasi lainnya dari \textit{backend} lalu melakukan eksekusi kode yang akan dinilai berdasarkan hasil keluarannya. Sistem ini juga dapat terhubung pada \textit{backend} KodeBareng apabila dibutuhkan integrasi lain di kemudian hari.
 
-\autoref{fig:diagram-komponen} Berikut adalah diagram komponen dari sistem yang akan dibuat (TODO: Kalau yang margun udah jadi ntar musti di highlight yg dikerjain yg mana)
-
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=0.8\textwidth]{chapter3/diagram_komponen.png}
-  \caption{Diagram komponen} \label{fig:diagram-komponen}
-\end{figure}
-
+\subsection{Deskripsi Umum Aplikasi}
 \blindtext
 
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=0.8\textwidth]{chapter3/diagram_konteks.png}
-  \caption{Diagram konteks} \label{fig:diagram-konteks}
-\end{figure}
-
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=0.8\textwidth]{chapter3/DFD_lv1.png}
-  \caption{DFD Level 1} \label{fig:dfd-lv1}
-\end{figure}
-
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=0.8\textwidth]{chapter3/DFD_lv2_Frontend.png}
-  \caption{DFD Level 2 - Frontend} \label{fig:dfd-lv2-frontend}
-\end{figure}
-
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=0.8\textwidth]{chapter3/DFD_lv2_Backend.png}
-  \caption{DFD Level 2 - Backend} \label{fig:dfd-lv2-backend}
-\end{figure}
-
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=0.8\textwidth]{chapter3/DFD_lv2_Eksekutor.png}
-  \caption{DFD Level 2 - Eksekutor} \label{fig:dfd-lv2-eksekutor}
-\end{figure}
-
-% Please add the following required packages to your document preamble:
-% \usepackage{longtable}
-% Note: It may be necessary to compile the document several times to get a multi-page table to line up properly
+\subsection{Spesifikasi Kebutuhan}
 \begin{longtable}[c]{|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.5\linewidth}|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.3\linewidth}|}
   \caption{Kebutuhan fungsional sistem}
   \label{tab:fungsional}                                                                                                                                                                                                                                              \\
@@ -151,3 +112,50 @@ Pada \textit{backend}, akan dibuat sistem eksekutor kode yang terhubung ke backe
               & Testability        & Sistem lulus saat dilakukan pengujian                                               \\ \hline
               & Security           & Sistem tidak membiarkan terjadinya eksekusi kode berbahaya                          \\ \hline
 \end{longtable}
+\blindtext
+
+\subsection{Rancangan Modul}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\textwidth]{chapter3/diagram_konteks.png}
+  \caption{Diagram konteks} \label{fig:diagram-konteks}
+\end{figure}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\textwidth]{chapter3/DFD_lv1.png}
+  \caption{DFD Level 1} \label{fig:dfd-lv1}
+\end{figure}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\textwidth]{chapter3/DFD_lv2_Frontend.png}
+  \caption{DFD Level 2 - Frontend} \label{fig:dfd-lv2-frontend}
+\end{figure}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\textwidth]{chapter3/DFD_lv2_Backend.png}
+  \caption{DFD Level 2 - Backend} \label{fig:dfd-lv2-backend}
+\end{figure}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\textwidth]{chapter3/DFD_lv2_Eksekutor.png}
+  \caption{DFD Level 2 - Eksekutor} \label{fig:dfd-lv2-eksekutor}
+\end{figure}
+
+\blindtext
+
+\subsection{Interaksi Antarmodul}
+
+\autoref{fig:diagram-komponen} Berikut adalah diagram komponen dari sistem yang akan dibuat (TODO: Kalau yang margun udah jadi ntar musti di highlight yg dikerjain yg mana)
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\textwidth]{chapter3/diagram_komponen.png}
+  \caption{Diagram komponen} \label{fig:diagram-komponen}
+\end{figure}
+
+\blindtext
