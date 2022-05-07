@@ -1,23 +1,9 @@
-\chapter{Rencana Penyelesaian Masalah}
---- TEMPLATE ---
-
-Tujuan penulisan bab ini adalah untuk:
-\begin{enumerate}
-  \item menguraikan hasil analisis yang lebih mendalam tentang persoalan tugas akhir, serta
-  \item menguraikan pendekatan dan detil solusi yang dipakai untuk menyelesaikan persoalan tugas akhir.
-\end{enumerate}
-
-Judul dan jumlah bab Deskripsi Solusi disesuaikan dengan topik tugas akhir, yang mencerminkan pendekatan yang dilakukan untuk menyelesaikan masalah tugas akhir. Bergantung pada banyaknya materi yang akan dibahas, bab Deskripsi Solusi dapat di pecah menjadi beberapa bab sesuai dengan kebutuhan.
-
-Bab ini, jika memungkinkan, sebaiknya didahului dengan hasil analisis persoalan tugas akhir. Tujuan utamanya adalah untuk memberikan pemahaman yang lebih baik aspek-aspek penting yang menyebabkan persoalan tugas akhir muncul. Hasil analisis tersebut difokuskan pada hal-hal yang relevan sehingga dapat mengarahkan (memberikan ide) untuk pemikiran jenis solusi yang dapat diterapkan untuk menyelesaikan persoalan tersebut. Untuk topik tugas akhir yang solusinya berupa pengembangan aplikasi, hasil analisis dapat berupa kebutuhan fungsional dan non fungsional.
-
-Bagian terbesar dari bab ini adalah menguraikan dengan detil konsep solusi yang Anda tawarkan.
-
---- TEMPLATE END ---
-
+\chapter{Analisis dan Perancangan}
 Pada bab ini dituliskan analisis terkait kebutuhan sistem pada KodeBareng, masalah pada implementasi ILE yang sudah ada, serta ragam solusi yang dapat diimplementasikan.
 
 \section{Analisis Masalah}
+ [\hl{TODO: ANALISIS PERMASALAHAN DIKAITKAN DENGAN PERMASALAHAN PADA PEMROGRAMAN PEMULA. JELASIN JUGA KENAPA BUTUH PEMBELAJARAN INTERKATIF}]
+ [\hl{TODO: JELASIN JUGA PERMASALAHAN PADA PLATFORM2 YANG ADA, BAIK KELAS PEMROGRAMAN MAUPUN PYTHONTUTOR DSB}]
 KodeBareng adalah platform berbasis web sebagai sarana pembelajaran pemrograman menggunakan gamifikasi. Pada platform ini, dibutuhkan suatu \textit{interactive learning environment} (ILE) yang dapat mendukung aktivitas pemrograman secara praktis. ILE diharapkan dapat meningkatkan kemampuan pemecahan masalah dan implementasi kode penggunanya dengan adanya wadah menulis dan menjalankan kode secara daring. ILE dibangun secara modular pada platform KodeBareng sehingga tidak terlalu disruptif terhadap sistem yang sudah ada.
 
 % Dalam beberapa sistem yang sudah ada seperti \href{https://olympia.id/}{Olympia}, ILE yang dapat menjawab kebutuhan ini biasanya berupa sistem submisi kode implementasi yang menggunakan autograder untuk penilaiannya. Sayangnya, hal ini dinilai kurang interaktif karena setiap perubahan kode yang dilakukan pengguna harus melakukan submisi ulang dan menjalankan kembali programnya. Pengguna juga menjadi tidak tahu kesalahannya dimana, serta masih harus dapat menjalankan kodenya secara manual di mesinnya.
@@ -36,12 +22,14 @@ Pada beberapa platform lain seperti yang sudah dibahas pada bab sebelumnya, terd
 
 % Maka dari itu, diperlukan sistem pembelajaran pemrograman interaktif yang dapat dipakai pengguna untuk menuliskan kode, memberikan \textit{feedback} dari kode yang dibuat, serta menilai kebenaran dari kode tersebut. \textit{Feedback} yang diberikan berupa hasil eksekusi kode berupa pesan keluaran apabila kode berhasil dijalankan, serta pesan error apabila terjadi masalah dalam eksekusi kode. Pesan keluaran hasil eksekusi dapat dibandingkan dengan pesan keluaran yang seharusnya agar dapat dinilai dan diberitahukan kepada pengguna sehingga pengguna dapat mengetahui letak kesalahan dari kode yang diimplementasikan.
 
-\section{Analisis Solusi}
+\section{Analisis Kebutuhan}
+ [\hl{TODO: TAMBAHKAN USE CASE DIAGRAMS, DESKRIPSI PROGRAM DIMASUKKAN KESINI, LALU KASIH }]
 Berdasarkan studi literatur terhadap beberapa platform pembelajaran lainnya, metode pembelajaran pemrograman dapat dikategorikan menjadi visual dan non-visual. Metode pembelajaran pemrograman yang visual tidak langsung menggunakan kode seperti pada \textcite{brilliant2021media}, tetapi menggunakan perumpaan visual yang interaktif dengan memakai gambar, simbol, serta animasi. Metode ini membuat pembelajaran menjadi lebih menarik dan mudah, karena diekspresikan dalam bentuk visual. Namun, metode ini tidak menyentuh secara langsung aktivitas pemrograman secara praktis sehingga ada kemungkinan dapat terjadi perbedaan antara teori dan praktik yang dipahami pelajar dengan implementasi program yang sebenarnya. Metode ini juga memiliki bentuk yang spesifik terhadap konten materi yang dibawa, sehingga tidak dapat dipakai untuk konten materi lainnya. \textcite{froggy2021media} juga termasuk pada kategori ini, karena implementasinya hanya spesifik pada materi yang dibawa, khususnya pada materi pengembangan web.
 
 Metode non-visual kebanyakan menggunakan Web IDE dalam pembelajarannya. Pengguna dapat berinteraksi dengan Web IDE sehingga mereka dapat melatih kemampuan pemecahan masalah dan pemrograman praktis. Web IDE yang digunakan biasanya memiliki kapabilitas untuk mengembalikan hasil keluaran dari eksekusi kode, serta melakukan penilaian terhadap kebenaran implementasi. Web IDE juga dapat menerima berbagai macam bahasa sesuai dengan kebutuhan materi yang sedang dipelajari. Selain itu, terdapat juga Web IDE yang menyimulasikan terminal ketimbang editor kode seperti yang dapat dilihat di Katacoda \parencite{katacoda2021media}. Selain itu, Web IDE bisa dikembangkan lebih lanjut pada aspek kolaboratif \parencite{tran2013interactive} ataupun mendukung visualisasi langkah eksekusi program seperti pada \textcite{guo2013pythontutor}. Visualisasi langkah eksekusi menjadi salah satu aspek yang menarik karena tidak banyak ditemukan implementasinya pada platform pembelajaran pemrograman yang sudah terkenal.
 
 \section{Rancangan Solusi}
+ [\hl{TODO: JELASIN LAGI INTERAKTIVITASNYA DIMANA, JELASIN FLOW PROGRAMNYA SEPERTI APA}]
 Dalam tugas akhir ini, dibuat prototipe ILE yang terdiri dari beberapa komponen yaitu Web IDE pada \textit{frontend} dan sistem eksekutor kode pada \textit{backend} yang terpisah dari \textit{backend} KodeBareng.
 
 \begin{figure}[H]
@@ -61,9 +49,6 @@ Keterangan gambar:
 Seperti yang dapat dilihat pada \autoref{fig:diagram-blok} sebelumnya, pada \textit{frontend} akan dibuat komponen Web IDE berupa editor kode yang dapat menerima masukan kode serta memberikan \textit{basic syntax highlighting}. Web IDE dapat menampilkan hasil keluaran ataupun kesalahan eksekusi yang dikembalikan dari \textit{backend}, serta hasil penilaian dari pengetesan kode. Web IDE juga dapat menampilkan visualisasi langkah jalannya program agar dapat memudahkan proses pembelajaran dan pencarian letak masalah dalam implementasi kode.
 
 Pada \textit{backend}, akan dibuat sistem eksekutor kode yang terhubung ke backend KodeBareng. Sistem ini menerima kode dan informasi lainnya dari \textit{backend} lalu melakukan eksekusi kode yang akan dinilai berdasarkan hasil keluarannya. Sistem ini juga dapat terhubung pada \textit{backend} KodeBareng apabila dibutuhkan integrasi lain di kemudian hari.
-
-\subsection{Deskripsi Umum Aplikasi}
-\blindtext
 
 \subsection{Spesifikasi Kebutuhan}
 \begin{longtable}[c]{|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.5\linewidth}|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.3\linewidth}|}
@@ -95,22 +80,22 @@ Pada \textit{backend}, akan dibuat sistem eksekutor kode yang terhubung ke backe
 % Please add the following required packages to your document preamble:
 % \usepackage{longtable}
 % Note: It may be necessary to compile the document several times to get a multi-page table to line up properly
+[\hl{TODO: Pilih 3 aja, performance sama security udah fix}]
 \begin{longtable}[c]{|l|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.6\linewidth}|}
   \caption{Kebutuhan non-fungsional sistem}
-  \label{tab:non-fungsional}                                                                                             \\
+  \label{tab:non-fungsional}                                                                                       \\
   \hline
   \rowcolor{gray!30}
-  \textbf{ID} & \textbf{Parameter} & \textbf{Kebutuhan}                                                                  \\ \hline
+  \textbf{ID} & \textbf{Parameter} & \textbf{Kebutuhan}                                                            \\ \hline
   \endfirsthead
   %
   \endhead
   %
-              & Performance        & Sistem dapat merespon permintaan mengeksekusi kode dalam kurang dari 10 detik       \\ \hline
-              & Reliability        & Sistem dapat menangani 1000 pengguna yang mengerjakan latihan soal secara bersamaan \\ \hline
-              & Portability        & Sistem dapat diakses dengan smartphone dan desktop                                  \\ \hline
-              & Maintainability    & Sistem dibuat secara clean code                                                     \\ \hline
-              & Testability        & Sistem lulus saat dilakukan pengujian                                               \\ \hline
-              & Security           & Sistem tidak membiarkan terjadinya eksekusi kode berbahaya                          \\ \hline
+              & Performance        & Sistem mengembalikan hasil eksekusi paling lama 10 detik                      \\ \hline
+              & Reliability        & Sistem menangani 1000 pengguna yang mengerjakan latihan soal secara bersamaan \\ \hline
+              & Maintainability    & Implementasi kode sistem menggunakan praktis \textit{clean code}              \\ \hline
+              & Testability        & Sistem dirancang sedemikian rupa sehingga mudah dilakukan pengetesan          \\ \hline
+              & Security           & Sistem tidak membiarkan terjadinya eksekusi kode berbahaya                    \\ \hline
 \end{longtable}
 \blindtext
 
@@ -149,6 +134,7 @@ Pada \textit{backend}, akan dibuat sistem eksekutor kode yang terhubung ke backe
 \blindtext
 
 \subsection{Interaksi Antarmodul}
+[\hl{TODO: GANTI DENGAN COMMUNICATION DIAGRAM}]
 
 \autoref{fig:diagram-komponen} Berikut adalah diagram komponen dari sistem yang akan dibuat (TODO: Kalau yang margun udah jadi ntar musti di highlight yg dikerjain yg mana)
 
