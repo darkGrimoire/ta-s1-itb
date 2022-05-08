@@ -1,14 +1,28 @@
 \chapter{Analisis dan Perancangan}
-Pada bab ini dituliskan analisis terkait kebutuhan sistem pada KodeBareng, masalah pada implementasi ILE yang sudah ada, serta ragam solusi yang dapat diimplementasikan.
+Pada bab ini dituliskan analisis terkait kebutuhan sistem pada KodeBareng, masalah pada implementasi ILE yang sudah ada, serta rancangan solusi yang akan diimplementasikan
 
 \section{Analisis Masalah}
- [\hl{TODO: ANALISIS PERMASALAHAN DIKAITKAN DENGAN PERMASALAHAN PADA PEMROGRAMAN PEMULA. JELASIN JUGA KENAPA BUTUH PEMBELAJARAN INTERKATIF}]
- [\hl{TODO: JELASIN JUGA PERMASALAHAN PADA PLATFORM2 YANG ADA, BAIK KELAS PEMROGRAMAN MAUPUN PYTHONTUTOR DSB}]
-KodeBareng adalah platform berbasis web sebagai sarana pembelajaran pemrograman menggunakan gamifikasi. Pada platform ini, dibutuhkan suatu \textit{interactive learning environment} (ILE) yang dapat mendukung aktivitas pemrograman secara praktis. ILE diharapkan dapat meningkatkan kemampuan pemecahan masalah dan implementasi kode penggunanya dengan adanya wadah menulis dan menjalankan kode secara daring. ILE dibangun secara modular pada platform KodeBareng sehingga tidak terlalu disruptif terhadap sistem yang sudah ada.
+%  [\hl{TODO: ANALISIS PERMASALAHAN DIKAITKAN DENGAN PERMASALAHAN PADA PEMROGRAMAN PEMULA. JELASIN JUGA KENAPA BUTUH PEMBELAJARAN INTERKATIF}]
+
+%  [\hl{TODO: JELASIN JUGA PERMASALAHAN PADA PLATFORM2 YANG ADA, BAIK KELAS PEMROGRAMAN MAUPUN PYTHONTUTOR DSB}]
+
+Kompleksitas dari pemrograman itu sendiri menyebabkan sulitnya pelajar yang baru mempelajari pemrograman memahami konsep-konsep dan abstrak dari pemrograman \parencite{moons2013pilot}. Kurangnya kemampuan dalam menelusuri jejak suatu kode program, serta belum terbentuknya model kerangka pikir terhadadp cara program komputer bekerja \parencite{mayer1981psychology} merupakan faktor-faktor yang membuat pelajar tidak dapat menyerap informasi teknis baru terkait pemrograman dengan maksimal. Maka dari itu, diperlukan suatu bentuk model konkret terkait alur proses kerja suatu program komputer sehingga dapat mempermudah proses transfer ilmu konsep-konsep pemrograman kepada pelajar. Pembelajaran interaktif menjadi salah satu cara yang dapat dimanfaatkan karena dapat diaplikasikan secara daring menggunakan teknologi digital yang sudah tersedia.
+
+Menurut \textcite{moons2013pilot}, terdapat 4 pendekatan yang dapat dilakukan untuk memecahkan masalah tersebut. Pendekatan pertama adalah dengan menggunakan urutan paradigma pemrograman tertentu dalam pembelajarannya sehingga konsep-konsep yang lebih dalam pada pemrograman tidak harus dipelajari dari awal. Pendekatan kedua adalah dengan menggunakan teknik pembelajaran secara aktif, seperti lokakarya dan penceritaan dengan narasi. Namun, pendekatan ini agak sulit diaplikasikan pada pembelajaran secara daring. Pendekatan ketiga adalah dengan menggunakan bahasa pemrograman yang lebih sesuai untuk pelajar pemrograman, seperti Python dan Eiffel. Pendekatan keempat adalah menggunakan lingkungan pembelajaran interaktif atau \textit{interactive learning environment} (ILE) yang dapat berbentuk \textit{microworld}, visualisasi algoritma, dan visualisasi eksekusi program.
+
+% KodeBareng adalah platform berbasis web sebagai sarana pembelajaran pemrograman menggunakan gamifikasi. Pada platform ini, dibutuhkan suatu \textit{interactive learning environment} (ILE) yang dapat mendukung aktivitas pemrograman secara praktis. ILE diharapkan dapat meningkatkan kemampuan pemecahan masalah dan implementasi kode penggunanya dengan adanya wadah menulis dan menjalankan kode secara daring. ILE dibangun secara modular pada platform KodeBareng sehingga tidak terlalu disruptif terhadap sistem yang sudah ada.
 
 % Dalam beberapa sistem yang sudah ada seperti \href{https://olympia.id/}{Olympia}, ILE yang dapat menjawab kebutuhan ini biasanya berupa sistem submisi kode implementasi yang menggunakan autograder untuk penilaiannya. Sayangnya, hal ini dinilai kurang interaktif karena setiap perubahan kode yang dilakukan pengguna harus melakukan submisi ulang dan menjalankan kembali programnya. Pengguna juga menjadi tidak tahu kesalahannya dimana, serta masih harus dapat menjalankan kodenya secara manual di mesinnya.
 
-Pada beberapa platform lain seperti yang sudah dibahas pada bab sebelumnya, terdapat berbagai macam jenis ILE yang masing-masing memiliki kelebihan dan kekurangannya masing-masing. ILE visual seperti yang digunakan pada \textcite{brilliant2021media} memiliki interaktivitas yang sangat tinggi dan mudah dipahami, namun kurang dapat diimplementasikan secara umum dan tidak langsung menyentuh implementasi kode. Sementara itu, terdapat juga ILE yang berupa Web IDE namun kebanyakan implementasinya hanya sebatas eksekusi kode pada wadah teks yang diberikan. Keterbatasan ini membuat proses pembelajaran terhambat akibat kurangnya ada pembantu yang dapat digunakan oleh pengguna untuk mencari letak kesalahan dalam implementasi kodenya, serta menjadikan Web IDE terlalu menantang bagi pemula yang ingin belajar pemrograman.
+% Pada beberapa platform lain seperti yang sudah dibahas pada bab sebelumnya, terdapat berbagai macam jenis ILE yang masing-masing memiliki kelebihan dan kekurangannya masing-masing. ILE visual seperti yang digunakan pada \textcite{brilliant2021media} memiliki interaktivitas yang sangat tinggi dan mudah dipahami, namun kurang dapat diimplementasikan secara umum dan tidak langsung menyentuh implementasi kode. Sementara itu, terdapat juga ILE yang berupa Web IDE namun kebanyakan implementasinya hanya sebatas eksekusi kode pada wadah teks yang diberikan. Keterbatasan ini membuat proses pembelajaran terhambat akibat kurangnya ada pembantu yang dapat digunakan oleh pengguna untuk mencari letak kesalahan dalam implementasi kodenya, serta menjadikan Web IDE terlalu menantang bagi pemula yang ingin belajar pemrograman.
+
+Berdasarkan studi literatur terhadap beberapa platform kelas pembelajaran lainnya, metode pembelajaran pemrograman interaktif secara daring dapat dikategorikan menjadi visual dan non-visual. Metode pembelajaran pemrograman yang visual tidak langsung menggunakan kode seperti pada \textcite{brilliant2021media}, tetapi menggunakan perumpaan visual yang interaktif dengan memakai gambar, simbol, serta animasi. Metode ini membuat pembelajaran menjadi lebih menarik dan mudah, karena diekspresikan dalam bentuk visual sehingga dapat membentuk model kerangka pikir pelajar. Namun, metode ini tidak menyentuh secara langsung aktivitas pemrograman secara praktis sehingga ada kemungkinan dapat terjadi perbedaan antara teori dan praktik yang dipahami pelajar dengan implementasi program yang sebenarnya. Metode ini juga memiliki bentuk yang spesifik terhadap konten materi yang dibawa, sehingga tidak dapat dipakai untuk konten materi lainnya. \textcite{froggy2021media} juga termasuk pada kategori ini, karena implementasinya hanya spesifik pada materi yang dibawa, khususnya pada materi pengembangan web.
+
+Metode non-visual kebanyakan menggunakan Web IDE dalam pembelajarannya. Pengguna dapat berinteraksi dengan Web IDE sehingga mereka dapat melatih kemampuan pemecahan masalah dan pemrograman praktis. Web IDE yang digunakan biasanya memiliki kapabilitas untuk mengembalikan hasil keluaran dari eksekusi kode, serta melakukan penilaian terhadap kebenaran implementasi. Web IDE juga dapat menerima berbagai macam bahasa sesuai dengan kebutuhan materi yang sedang dipelajari. Selain itu, terdapat juga Web IDE yang menyimulasikan terminal ketimbang editor kode seperti yang dapat dilihat di Katacoda \parencite{katacoda2021media}. Terdapat juga platform seperti \textcite{progate2021media} yang memanfaatkan pembelajaran interaktif dengan pendekatan "melalui" penyampaian materi secara visual dan naratif. Namun, kebanyakan dari implementasi metode ini hanya berfokus pada aspek latihan pemrograman praktis saja, tidak memerhatikan permasalahan terhadap pelajar yang telah dibahas sebelumnya.
+
+Diluar dari platform-platform kelas pembelajaran pemrograman, sebenarnya terdapat berbagai macam pembelajaran interaktif yang menawarkan solusi yang lebih variatif, seperti pada \textcite{tran2013interactive} IDE yang dibuat digabungkan dengan aspek interaktif berupa kolaborasi antara pelajar dengan pelajar lainnya. Terdapat juga implementasi pada \textcite{guo2013pythontutor} serta \textcite{moons2013pilot} yang menerapkan pendekatan keempat berupa visualisasi eksekusi kode. Visualisasi eksekusi kode menjadi salah satu aspek yang menarik karena tidak banyak ditemukan implementasinya pada platform kelas pembelajaran pemrograman yang sudah ada.
+
+% Selain itu, Web IDE bisa dikembangkan lebih lanjut pada aspek kolaboratif \parencite{tran2013interactive} ataupun mendukung visualisasi langkah eksekusi program seperti pada \textcite{guo2013pythontutor}. Visualisasi langkah eksekusi menjadi salah satu aspek yang menarik karena tidak banyak ditemukan implementasinya pada platform pembelajaran pemrograman yang sudah terkenal.
 
 % REVISI II
 % KodeBareng adalah platform berbasis web sebagai sarana pembelajaran pemrograman menggunakan gamifikasi. Metode pembelajarannya berbasis teks, visual interaktif, serta kuis-kuis. Kuis-kuis tersebut dapat berupa pilihan ganda, isian singkat, ataupun pencocokan jawaban yang membahas materi terkait yang sudah dipelajari. Dengan adanya kuis tersebut, diharapkan pelajar tidak hanya bisa memahami teori namun juga implementasi kode dari teori yang telah dijabarkan, seperti dengan adanya pertanyaan terkait hasil keluaran suatu kode. Namun, pertanyaan kuis semacam itu memiliki limitasi karena pelajar tidak dapat membuat sendiri implementasi kode sehingga susah untuk mengukur pemahaman praktis dan kemampuan pemecahan masalah menggunakan teori yang telah diberikan. Padahal, pemrograman adalah suatu kemampuan yang membutuhkan banyak latihan praktik implementasi agar pemahaman dapat tercapai secara optimal.
@@ -24,12 +38,16 @@ Pada beberapa platform lain seperti yang sudah dibahas pada bab sebelumnya, terd
 
 \section{Analisis Kebutuhan}
  [\hl{TODO: TAMBAHKAN USE CASE DIAGRAMS, DESKRIPSI PROGRAM DIMASUKKAN KESINI, LALU KASIH }]
-Berdasarkan studi literatur terhadap beberapa platform pembelajaran lainnya, metode pembelajaran pemrograman dapat dikategorikan menjadi visual dan non-visual. Metode pembelajaran pemrograman yang visual tidak langsung menggunakan kode seperti pada \textcite{brilliant2021media}, tetapi menggunakan perumpaan visual yang interaktif dengan memakai gambar, simbol, serta animasi. Metode ini membuat pembelajaran menjadi lebih menarik dan mudah, karena diekspresikan dalam bentuk visual. Namun, metode ini tidak menyentuh secara langsung aktivitas pemrograman secara praktis sehingga ada kemungkinan dapat terjadi perbedaan antara teori dan praktik yang dipahami pelajar dengan implementasi program yang sebenarnya. Metode ini juga memiliki bentuk yang spesifik terhadap konten materi yang dibawa, sehingga tidak dapat dipakai untuk konten materi lainnya. \textcite{froggy2021media} juga termasuk pada kategori ini, karena implementasinya hanya spesifik pada materi yang dibawa, khususnya pada materi pengembangan web.
 
-Metode non-visual kebanyakan menggunakan Web IDE dalam pembelajarannya. Pengguna dapat berinteraksi dengan Web IDE sehingga mereka dapat melatih kemampuan pemecahan masalah dan pemrograman praktis. Web IDE yang digunakan biasanya memiliki kapabilitas untuk mengembalikan hasil keluaran dari eksekusi kode, serta melakukan penilaian terhadap kebenaran implementasi. Web IDE juga dapat menerima berbagai macam bahasa sesuai dengan kebutuhan materi yang sedang dipelajari. Selain itu, terdapat juga Web IDE yang menyimulasikan terminal ketimbang editor kode seperti yang dapat dilihat di Katacoda \parencite{katacoda2021media}. Selain itu, Web IDE bisa dikembangkan lebih lanjut pada aspek kolaboratif \parencite{tran2013interactive} ataupun mendukung visualisasi langkah eksekusi program seperti pada \textcite{guo2013pythontutor}. Visualisasi langkah eksekusi menjadi salah satu aspek yang menarik karena tidak banyak ditemukan implementasinya pada platform pembelajaran pemrograman yang sudah terkenal.
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\textwidth]{chapter3/diagram_usecase.jpg}
+  \caption{Use Case Visualisasi Eksekusi Kode KodeBareng} \label{fig:diagram-usecase}
+\end{figure}
 
 \section{Rancangan Solusi}
  [\hl{TODO: JELASIN LAGI INTERAKTIVITASNYA DIMANA, JELASIN FLOW PROGRAMNYA SEPERTI APA}]
+
 Dalam tugas akhir ini, dibuat prototipe ILE yang terdiri dari beberapa komponen yaitu Web IDE pada \textit{frontend} dan sistem eksekutor kode pada \textit{backend} yang terpisah dari \textit{backend} KodeBareng.
 
 \begin{figure}[H]
@@ -99,37 +117,6 @@ Pada \textit{backend}, akan dibuat sistem eksekutor kode yang terhubung ke backe
 \blindtext
 
 \subsection{Rancangan Modul}
-
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=0.8\textwidth]{chapter3/diagram_konteks.png}
-  \caption{Diagram konteks} \label{fig:diagram-konteks}
-\end{figure}
-
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=0.8\textwidth]{chapter3/DFD_lv1.png}
-  \caption{DFD Level 1} \label{fig:dfd-lv1}
-\end{figure}
-
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=0.8\textwidth]{chapter3/DFD_lv2_Frontend.png}
-  \caption{DFD Level 2 - Frontend} \label{fig:dfd-lv2-frontend}
-\end{figure}
-
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=0.8\textwidth]{chapter3/DFD_lv2_Backend.png}
-  \caption{DFD Level 2 - Backend} \label{fig:dfd-lv2-backend}
-\end{figure}
-
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=0.8\textwidth]{chapter3/DFD_lv2_Eksekutor.png}
-  \caption{DFD Level 2 - Eksekutor} \label{fig:dfd-lv2-eksekutor}
-\end{figure}
-
 \blindtext
 
 \subsection{Interaksi Antarmodul}
