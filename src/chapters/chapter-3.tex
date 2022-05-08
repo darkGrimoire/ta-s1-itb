@@ -37,13 +37,128 @@ Diluar dari platform-platform kelas pembelajaran pemrograman, sebenarnya terdapa
 % Maka dari itu, diperlukan sistem pembelajaran pemrograman interaktif yang dapat dipakai pengguna untuk menuliskan kode, memberikan \textit{feedback} dari kode yang dibuat, serta menilai kebenaran dari kode tersebut. \textit{Feedback} yang diberikan berupa hasil eksekusi kode berupa pesan keluaran apabila kode berhasil dijalankan, serta pesan error apabila terjadi masalah dalam eksekusi kode. Pesan keluaran hasil eksekusi dapat dibandingkan dengan pesan keluaran yang seharusnya agar dapat dinilai dan diberitahukan kepada pengguna sehingga pengguna dapat mengetahui letak kesalahan dari kode yang diimplementasikan.
 
 \section{Analisis Kebutuhan}
- [\hl{TODO: TAMBAHKAN USE CASE DIAGRAMS, DESKRIPSI PROGRAM DIMASUKKAN KESINI, LALU KASIH }]
+\blindtext
 
 \begin{figure}[H]
   \centering
-  \includegraphics[width=0.8\textwidth]{chapter3/diagram_usecase.jpg}
-  \caption{Use Case Visualisasi Eksekusi Kode KodeBareng} \label{fig:diagram-usecase}
+  \includegraphics[width=\textwidth]{chapter3/diagram_usecase_v2.jpg}
+  \caption{Use Case ILE KodeBareng} \label{fig:diagram-usecase}
 \end{figure}
+
+\blindtext
+
+\begin{longtable}[c]{|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.5\linewidth}|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.3\linewidth}|}
+  \caption{Use Case ILE KodeBareng}
+  \label{tab:usecase}                                                       \\
+  \hline
+  \rowcolor{gray!30}
+  \textbf{ID} & \textbf{Kebutuhan}                    & \textbf{Penjelasan} \\ \hline
+  \endfirsthead
+  %
+  \endhead
+  %
+  UC-01       & Melihat materi pembelajaran           &                     \\ \hline
+  UC-02       & Mengerjakan soal pemrograman          &                     \\ \hline
+  UC-03       & Melihat visualisasi eksekusi kode     &                     \\ \hline
+  UC-04       & Mengetahui hasil penilaian kode       &                     \\ \hline
+  UC-05       & Memberikan masukkan (input)           &                     \\ \hline
+  UC-06       & Mengetahui hint kesalahan pada kode   &                     \\ \hline
+  UC-07       & Menjalankan kode                      &                     \\ \hline
+  UC-08       & Menolak kode pengguna                 &                     \\ \hline
+  UC-09       & Deteksi blacklisted commands          &                     \\ \hline
+  UC-11       & Menilai kode                          &                     \\ \hline
+  UC-12       & Mengolah stack trace eksekusi program &                     \\ \hline
+  UC-13       & Deteksi kebutuhan input               &                     \\ \hline
+  UC-14       & Deteksi error                         &                     \\ \hline
+  UC-15       & Menentukan blacklisted commands       &                     \\ \hline
+  UC-16       & Memasukkan materi pembelajaran        &                     \\ \hline
+  UC-17       & Membuat soal pemrograman              &                     \\ \hline
+  UC-18       & Memasukkan test case soal             &                     \\ \hline
+  UC-19       & Memasukkan hint kesalahan kode        &                     \\ \hline
+\end{longtable}
+
+[\hl{TODO: TAMBAHKAN USE CASE DIAGRAMS, DESKRIPSI PROGRAM DIMASUKKAN KESINI, LALU KASIH TABEL KETERKAITAN USECASE DAN REQUIREMENT}]
+
+\begin{longtable}[c]{|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.5\linewidth}|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.3\linewidth}|}
+  \caption{Kebutuhan fungsional sistem}
+  \label{tab:fungsional}                                                                                                                                                                                                                                                  \\
+  \hline
+  \rowcolor{gray!30}
+  \textbf{ID} & \textbf{Kebutuhan}                                                                       & \textbf{Penjelasan}                                                                                                                                            \\ \hline
+  \endfirsthead
+  %
+  \endhead
+  %
+  KB-F-01     & Pengguna memasukkan kode program pada sistem                                             & Menggunakan kakas Monaco Editor                                                                                                                                \\ \hline
+  KB-F-02     & Pengguna memasukkan input program pada sistem                                            & Masukan diminta apabila kode membutuhkan masukan                                                                                                               \\ \hline
+  KB-F-03     & Pengguna dapat menjalankan kode                                                          & Pengguna dapat melihat hasil eksekusi kode                                                                                                                     \\ \hline
+  KB-F-04     & Pengguna dapat melihat hasil visualisasi eksekusi kode                                   & Pengguna dapat melihat perubahan data dan \textit{flow} program yang dijalankan                                                                                \\ \hline
+  KB-F-05     & Pengguna mendapat penilaian dari hasil eksekusi kode                                     & Penilaian berdasarkan teknik \textit{blackbox autograding}                                                                                                     \\ \hline
+  KB-F-06     & Pengguna mendapat \textit{hint} kesalahan pada kode program                              & -                                                                                                                                                              \\ \hline
+  KB-F-07     & Pengguna dapat melihat pesan error pada program                                          & -                                                                                                                                                              \\ \hline
+  KB-F-08     & Sistem menolak kode pengguna apabila terdapat perintah-perintah yang tidak diperbolehkan & Keterbatasan eksekusi dapat dilihat disini (TBA)                                                                                                               \\ \hline
+  KB-F-09     & Sistem menilai kode program menggunakan \textit{test case}                               & -                                                                                                                                                              \\ \hline
+  KB-F-10     & Sistem mengolah \textit{stack trace} eksekusi program                                    & \textit{Stack trace} berisi daftar fungsi, variabel, modul, serta \textit{stack frame} pada tiap langkah eksekusi program. Debugger yang digunakan adalah pdb. \\ \hline
+  KB-F-11     & Administrator menentukan perintah-perintah yang tidak diperbolehkan                      & -                                                                                                                                                              \\ \hline
+  KB-F-12     & Administrator memasukkan konten materi pembelajaran                                      & Dapat memasukkan visualisasi kode pada materi pembelajaran                                                                                                     \\ \hline
+  KB-F-13     & Administrator membuat soal pemrograman                                                   & -                                                                                                                                                              \\ \hline
+  KB-F-14     & Administrator memasukkan \textit{test case} soal pemrograman                             & \textit{Test case} tiap soal bisa lebih dari satu dan dapat memiliki input output yang berbeda-beda                                                            \\ \hline
+  KB-F-15     & Administrator memasukkan \textit{hint} kesalahan yang dapat ditampilkan pada soal        & -                                                                                                                                                              \\ \hline
+\end{longtable}
+
+\blindtext
+
+% Please add the following required packages to your document preamble:
+% \usepackage{longtable}
+% Note: It may be necessary to compile the document several times to get a multi-page table to line up properly
+[\hl{TODO: Pilih 3 aja, performance sama security udah fix}]
+\begin{longtable}[c]{|l|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.6\linewidth}|}
+  \caption{Kebutuhan non-fungsional sistem}
+  \label{tab:non-fungsional}                                                                                       \\
+  \hline
+  \rowcolor{gray!30}
+  \textbf{ID} & \textbf{Parameter} & \textbf{Kebutuhan}                                                            \\ \hline
+  \endfirsthead
+  %
+  \endhead
+  %
+              & Performance        & Sistem mengembalikan hasil eksekusi paling lama 10 detik                      \\ \hline
+              & Reliability        & Sistem menangani 1000 pengguna yang mengerjakan latihan soal secara bersamaan \\ \hline
+              & Maintainability    & Implementasi kode sistem menggunakan praktis \textit{clean code}              \\ \hline
+              & Testability        & Sistem dirancang sedemikian rupa sehingga mudah dilakukan pengetesan          \\ \hline
+              & Security           & Sistem tidak membiarkan terjadinya eksekusi kode berbahaya                    \\ \hline
+\end{longtable}
+\blindtext
+
+\begin{longtable}[c]{|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.5\linewidth}|}
+  \caption{Keterkaitan SRS dan Use Case}
+  \label{tab:srs-usecase}                \\
+  \hline
+  \rowcolor{gray!30}
+  \textbf{ID SRS} & \textbf{ID Use Case} \\ \hline
+  \endfirsthead
+  %
+  \endhead
+  %
+  KB-F-01         & UC-02                \\ \hline
+  KB-F-02         & UC-05, UC-13         \\ \hline
+  KB-F-03         & UC-02, UC-04, UC-07  \\ \hline
+  KB-F-04         & UC-01, UC-02, UC-03  \\ \hline
+  KB-F-05         & UC-04, UC-11         \\ \hline
+  KB-F-06         & UC-06                \\ \hline
+  KB-F-07         & UC-02, UC-14         \\ \hline
+  KB-F-08         & UC-08, UC-09         \\ \hline
+  KB-F-09         & UC-11                \\ \hline
+  KB-F-10         & UC-12                \\ \hline
+  KB-F-11         & UC-15                \\ \hline
+  KB-F-12         & UC-16                \\ \hline
+  KB-F-13         & UC-17                \\ \hline
+  KB-F-14         & UC-18                \\ \hline
+  KB-F-15         & UC-19                \\ \hline
+  KB-NF-01        &                      \\ \hline
+  KB-NF-02        &                      \\ \hline
+  KB-NF-03        &                      \\ \hline
+\end{longtable}
 
 \section{Rancangan Solusi}
  [\hl{TODO: JELASIN LAGI INTERAKTIVITASNYA DIMANA, JELASIN FLOW PROGRAMNYA SEPERTI APA}]
@@ -68,66 +183,12 @@ Seperti yang dapat dilihat pada \autoref{fig:diagram-blok} sebelumnya, pada \tex
 
 Pada \textit{backend}, akan dibuat sistem eksekutor kode yang terhubung ke backend KodeBareng. Sistem ini menerima kode dan informasi lainnya dari \textit{backend} lalu melakukan eksekusi kode yang akan dinilai berdasarkan hasil keluarannya. Sistem ini juga dapat terhubung pada \textit{backend} KodeBareng apabila dibutuhkan integrasi lain di kemudian hari.
 
-\subsection{Spesifikasi Kebutuhan}
-\begin{longtable}[c]{|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.5\linewidth}|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.3\linewidth}|}
-  \caption{Kebutuhan fungsional sistem}
-  \label{tab:fungsional}                                                                                                                                                                                                                                              \\
-  \hline
-  \rowcolor{gray!30}
-  \textbf{ID} & \textbf{Kebutuhan}                                                                                                           & \textbf{Penjelasan}                                                                                                    \\ \hline
-  \endfirsthead
-  %
-  \endhead
-  %
-              & Sistem Frontend dapat menerima input kode dari pengguna                                                                      & Menggunakan kakas Monaco Editor                                                                                        \\ \hline
-              & Sistem Frontend dapat meminta masukan dari pengguna                                                                          & Masukan diminta apabila kode membutuhkan masukan                                                                       \\ \hline
-              & Sistem Frontend dapat menampilkan hasil olahan kode dari Sistem Backend                                                      & Visualisasi menggunakan kakas Anime.js/D3.js                                                                           \\ \hline
-              & Sistem Backend dapat mengolah data kode dari Frontend dengan memberikan data tambahan yang dibutuhkan oleh Sistem Eksekutor  & Data yang ditambahkan adalah data terkait latihan soal yang sedang dikerjakan seperti id soal, test case terkait, dll. \\ \hline
-              & Sistem Backend dapat mendeteksi hal yang dapat dan tidak dapat dieksekusi pada kode                                          & Keterbatasan eksekusi dapat dilihat disini (TBA)                                                                       \\ \hline
-              & Sistem Backend dapat menggagalkan eksekusi apabila kode memiliki hal yang tidak dapat dieksekusi                             & -                                                                                                                      \\ \hline
-              & Sistem Eksekutor dapat menjalankan debugger terhadap kode secara otomatis                                                    & \textit{debugger} yang digunakan menggunakan pdb                                                                       \\ \hline
-              & Sistem Eksekutor mendapatkan informasi pada tiap baris yang dieksekusi oleh debugger                                         & informasi yang didapatkan terkait modul, fungsi, variabel, serta stack frame                                           \\ \hline
-              & Sistem Eksekutor dapat mendeteksi apabila kode yang dijalankan meminta input dari pengguna                                   & -                                                                                                                      \\ \hline
-              & Sistem Eksekutor dapat mengolah hasil eksekusi kode dari debugger menjadi format yang dapat ditampilkan oleh Sistem Frontend & -                                                                                                                      \\ \hline
-              & Sistem Eksekutor dapat menampilkan error yang ditangkap saat menjalankan kode                                                & -                                                                                                                      \\ \hline
-              & Sistem Eksekutor dapat membatasi langkah eksekusi kode                                                                       & Batas langkah eksekusi adalah 500 langkah                                                                              \\ \hline
-  % & Sistem Eksekutor dapat menilai kode dari hasil keluarannya                                                                   & -                                                                                                                      \\ \hline
-\end{longtable}
-
-% Please add the following required packages to your document preamble:
-% \usepackage{longtable}
-% Note: It may be necessary to compile the document several times to get a multi-page table to line up properly
-[\hl{TODO: Pilih 3 aja, performance sama security udah fix}]
-\begin{longtable}[c]{|l|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.6\linewidth}|}
-  \caption{Kebutuhan non-fungsional sistem}
-  \label{tab:non-fungsional}                                                                                       \\
-  \hline
-  \rowcolor{gray!30}
-  \textbf{ID} & \textbf{Parameter} & \textbf{Kebutuhan}                                                            \\ \hline
-  \endfirsthead
-  %
-  \endhead
-  %
-              & Performance        & Sistem mengembalikan hasil eksekusi paling lama 10 detik                      \\ \hline
-              & Reliability        & Sistem menangani 1000 pengguna yang mengerjakan latihan soal secara bersamaan \\ \hline
-              & Maintainability    & Implementasi kode sistem menggunakan praktis \textit{clean code}              \\ \hline
-              & Testability        & Sistem dirancang sedemikian rupa sehingga mudah dilakukan pengetesan          \\ \hline
-              & Security           & Sistem tidak membiarkan terjadinya eksekusi kode berbahaya                    \\ \hline
-\end{longtable}
-\blindtext
-
 \subsection{Rancangan Modul}
-\blindtext
-
-\subsection{Interaksi Antarmodul}
-[\hl{TODO: GANTI DENGAN COMMUNICATION DIAGRAM}]
-
 \autoref{fig:diagram-komponen} Berikut adalah diagram komponen dari sistem yang akan dibuat (TODO: Kalau yang margun udah jadi ntar musti di highlight yg dikerjain yg mana)
 
 \begin{figure}[H]
   \centering
-  \includegraphics[width=0.8\textwidth]{chapter3/diagram_komponen.png}
+  \includegraphics[width=\textwidth]{chapter3/diagram_komponen.png}
   \caption{Diagram komponen} \label{fig:diagram-komponen}
 \end{figure}
-
 \blindtext
