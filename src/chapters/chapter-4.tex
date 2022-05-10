@@ -1,47 +1,68 @@
 \chapter{Implementasi dan Pengujian}
-Rancangan Perangkat Lunak
-Tujuan penulisan bab ini adalah untuk menunjukkan seberapa jauh solusi yang diuraikan pada bagian sebelumnya dapat menyelesaikan permasalahan utama Tugas Akhir. Metode yang dipakai untuk melakukan evaluasi dapat bermacam-macam, bergantung pada jenis permasalahannya.
 
 \section{Implementasi}
-
- [\hl{TODO: JELASIN KOMPONEN DIAGRAM DISINI}]
+Berdasarkan hasil analisis serta perancangan yang dituliskan pada Bab III, dilakukan implementasi ILE pada platform web KodeBareng. Dalam bab ini dijelaskan mengenai implementasi dan pengujian terhadap ILE yang dibuat.
 
 \subsection{Batasan Implementasi}
-\blindtext
+Implementasi dilakukan menggunakan teknologi yang telah dipakai pada KodeBareng sebelumnya. Daftar teknologi dan \textit{framework} yang digunakan pada KodeBareng dapat dilihat pada \autoref{tab:tech-stack}.
 
-\subsection{Implementasi Eksekutor}
-\subsubsection{Implementasi Modul Eksekutor}
-\blindtext
-\subsubsection{Implementasi Modul Parser}
-\blindtext
-\subsubsection{Implementasi Modul Controller}
-\blindtext
+\begin{longtable}[c]{|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.3\linewidth}|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.4\linewidth}|}
+  \caption{\textit{Tech stack} yang digunakan oleh KodeBareng}
+  \label{tab:tech-stack}                                                                                            \\
+  \hline
+  \rowcolor{gray!30}
+  \textbf{Nama Sistem}                                     & \textbf{Teknologi / \textit{Framework} yang digunakan} \\ \hline
+  \endfirsthead
+  %
+  \endhead
+  %
+  \textit{Frontend}                                        & NuxtJS, Cloudflare Pages                               \\ \hline
+  \textit{Backend}                                         & ExpressJS, Linux, NodeJS, Docker                       \\ \hline
+  CMS (\textit{Content Management System})                 & NextJS, Netlify                                        \\ \hline
+  \textit{Autograder} (sekarang menjadi \textit{Executor}) & ExpressJS, Linux, NodeJS, Docker, Python 3.9           \\ \hline
+\end{longtable}
+
+Selain dari teknologi yang digunakan, terdapat juga batasan dari bahasa pemrograman yang dapat divisualisasikan eksekusinya yaitu Python sesuai dengan kelas pembelajaran pemrograman yang sudah ada pada platform web KodeBareng.
+
+\subsection{Implementasi Sistem Eksekutor}
+\subsubsection{Implementasi Komponen Executor}
+Komponen Executor merupakan komponen yang digunakan untuk mengeksekusi kode program menggunakan PDB. Setelah dijalankan, Executor melakukan inisialisasi, lalu melanjutkan eksekusi kode langkah demi langkah. Pada tiap langkahnya, Executor memerhatikan tahapan eksekusi perintah untuk mendapatkan informasi dari PDB, yaitu tahap pengecekan dan tahap mendapatkan informasi. Tahap pengecekan dilakukan pada tiap awal langkah eksekusi kode untuk mengecek apabila terdapat permintaan \textit{input} atau adanya\textit{output} dari hasil eksekusi kode sebelumnya, serta mengecek apakah PDB sedang menjalankan \textit{built-in functions} yang terdapat pada \textit{standard library} Python. Apabila pengecekan selesai, dilanjutkan ke tahap pengumpulan informasi yaitu mengeksekusi semua perintah yang relevan untuk mendapatkan informasi \textit{stack trace}. Apabila semua tahapan telah selesai, maka Executor melanjutkan langkah eksekusi hingga program selesai dieksekusi atau telah mencapai batas langkah atau waktu eksekusi.
+
+\subsubsection{Implementasi Komponen Parser}
+Komponen Parser merupakan komponen yang digunakan untuk mengolah data dari hasil eksekusi Executor. Komponen ini mengolah keluaran dari PDB pada tiap tahapan Executor. Olahan tersebut dapat berupa data yang dapat dikumpulkan dari \textit{stack trace}, fungsi logika untuk melakukan pengecekan terhadap kondisi eksekusi program, dsb. Komponen Parser juga mengorganisasi hasil olahan \textit{stack trace} agar menjadi terstruktur dan dapat divisualisasikan pada sistem \textit{Frontend}.
+
+% \subsubsection{Implementasi Komponen Controller}
+% Komponen Controller merupakan komponen yang digunakan untuk menerima permintaan 
 
 \subsection{Implementasi Backend}
-\subsubsection{Implementasi Modul GradeHelper}
-\blindtext
+\subsubsection{Implementasi Komponen Helper}
+Komponen Helper merupakan komponen yang digunakan untuk mendeteksi perintah-perintah yang tidak diperbolehkan eksekusi pada kode. Apabila tidak terdapat perintah yang dilarang pada kode, maka kode diteruskan kepada sistem Executor dan mengembalikan hasilnya. Apabila terdapat perintah yang dilarang pada kode, maka kode akan ditolak dan tidak akan dieksekusi.
 
 
 \subsection{Implementasi Frontend}
-\subsubsection{Implementasi Modul WebIDE}
-\blindtext
-\subsubsection{Implementasi Modul Visualizer}
-\blindtext
+
+\subsubsection{Implementasi Komponen Web IDE}
+Komponen Web IDE dibuat menggunakan Monaco Editor yang dibuat oleh Microsoft. Komponen ini dapat memperlihatkan \textit{syntax highlighting} pada kode, menunjukkan angka baris, serta navigasi menggunakan \textit{scrollbar} yang memiliki \textit{overview} dari seluruh kode program.
+
+\subsubsection{Implementasi Komponen Visualizer}
+Komponen Visualizer merupakan komponen yang dapat memvisualisasikan hasil olahan \textit{stack trace} suatu kode. Komponen ini dapat berinteraksi dengan Web IDE untuk menunjukkan lokasi eksekusi suatu langkah dengan memberikan warna pada baris eksekusi, serta membuat tabel data pada memori pada setiap \textit{stack frame}. Pengguna dapat mengubah alur maju mundur visualisasi, melihat isi data dan baris kode yang sedang dieksekusi pada setiap \textit{stack frame}, serta melihat perubahan pada data dalam memori.
 
 
 \section{Pengujian}
 
-Liat di TA Source Code Analyzer sama yg Arduino
-
 \subsection{Tujuan Pengujian}
-\blindtext
+Tujuan dari pengujian ini adalah untuk mendapatkan data terkait dampak ILE yang telah dibuat terhadap pemahaman pelajar mengenai konsep serta alur kerja eksekusi kode program.
 
 \subsection{Lingkungan Pengujian}
-\blindtext
+Pengujian  dilakukan terhadap faktor pemahaman siswa mengenai konsep pemrograman serta alur kerja eksekusi kode program. Maka dari itu, pengujian dilakukan berdasarkan pengujian pada \textcite{mayer1981psychology} untuk faktor pemahaman konsep program serta pada \textcite{moons2013pilot} untuk faktor pemahaman alur kerja serta.
 
-\subsection{Skenario dan Hasil Pengujian}
-\blindtext
+Pengujian dilakukan pada platform web KodeBareng dengan menggunakan kelas pembelajaran khusus untuk melakukan pengujian. Pengujian dilakukan pada 2 grup dengan masing-masing grup memiliki 10 orang penguji, yaitu grup kontrol dan grup perlakuan. Grup kontrol mendapatkan materi pembelajaran tanpa adanya integrasi visualisasi eksekusi kode, sementara grup perlakuan mendapatkan materi pembelajaran yang terdapat integrasi visualisasi eksekusi kode. Setiap grup mendapatkan materi pembelajaran yang sama serta kuesioner setelah melakukan pembelajaran.
+
+Kuesioner memiliki 2 bagian pertanyaan, masing-masing untuk tiap faktor yang diuji. Bagian pertama berdasar pada \textcite{mayer1981psychology} yang terdapat suatu kode untuk kemudian diminta kepada penguji untuk dijelaskan konsep-konsepnya di dalam kode tersebut. Bagian kedua berdasar pada \textcite{moons2013pilot} juga terdapat suatu kode yang telah diperumit penamaannya dan diminta kepada penguji untuk menjelaskan alur kerja program tersebut. Pada bagian kedua, penguji pada grup perlakuan dapat melakukan visualisasi eksekusi pada kode tersebut, sementara pada grup kontrol tidak.
+
+% \subsection{Skenario dan Hasil Pengujian}
+% \blindtext
 
 
-\section{Analisis Hasil Pengujian}
-\blindtext
+% \section{Analisis Hasil Pengujian}
+% \blindtext
