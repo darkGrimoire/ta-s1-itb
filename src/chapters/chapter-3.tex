@@ -22,6 +22,8 @@ Metode non-visual kebanyakan menggunakan Web IDE dalam pembelajarannya. Pengguna
 
 Diluar dari platform-platform kelas pembelajaran pemrograman, sebenarnya terdapat berbagai macam pembelajaran interaktif yang menawarkan solusi yang lebih variatif, seperti pada \textcite{tran2013interactive} IDE yang dibuat digabungkan dengan aspek interaktif berupa kolaborasi antara pelajar dengan pelajar lainnya. Terdapat juga implementasi pada \textcite{guo2013pythontutor} serta \textcite{moons2013pilot} yang menerapkan pendekatan keempat berupa visualisasi eksekusi kode. Visualisasi eksekusi kode menjadi salah satu aspek yang menarik karena tidak banyak ditemukan implementasinya pada platform kelas pembelajaran pemrograman yang sudah ada. Hal ini akan menjadi keunikan tersendiri karena berbeda dari platform kelas pembelajaran pemrograman lainnya sehingga dapat menjadi nilai tambah pada platform pembelajaran pemrograman KodeBareng.
 
+  [\hl{TODO: MASUKIN ANALISIS BISNIS MULTIDIMENSIONAL DISINI}]
+
 % Selain itu, Web IDE bisa dikembangkan lebih lanjut pada aspek kolaboratif \parencite{tran2013interactive} ataupun mendukung visualisasi langkah eksekusi program seperti pada \textcite{guo2013pythontutor}. Visualisasi langkah eksekusi menjadi salah satu aspek yang menarik karena tidak banyak ditemukan implementasinya pada platform pembelajaran pemrograman yang sudah terkenal.
 
 % REVISI II
@@ -174,11 +176,35 @@ Berdasarkan hasil analisis permasalahan dan kebutuhan sebelumnya, dibuatlah ranc
 
 ILE akan diintegrasikan pada komponen-komponen terkait materi pembelajaran di KodeBareng. Maka dari itu, komponen-komponen yang akan dimodifikasi atau ditambahkan akan terkait dengan komponen Stage yang mendefinisikan bagaimana suatu tahap (\textit{stage}) materi pada suatu modul pembelajaran dijelaskan (berupa teks, latihan pemrograman, dsb).
 
+  [\hl{TODO: MASUKIN SEQUENCE DIAGRAM KESELURUHAN}]
+
 Pada sistem \textit{Frontend}, ditambahkan komponen baru yaitu Visualizer yang dapat memvisualisasikan kode eksekusi yang dimasukkan pada komponen Web IDE. Web IDE yang sudah ada dimodifikasi sehingga dapat berinteraksi dengan Visualizer serta dapat memiliki mode latihan soal atau materi sehingga dapat dipakai pada penjelasan materi (tanpa penilaian) dan latihan soal (dengan penilaian).
+
+  [\hl{TODO: MASUKIN WIREFRAME}]
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\textwidth]{chapter3/visualizer-explanation.png}
+  \caption{Wireframe Visualizer pada Explanation Stage} \label{fig:wireframe-explanation}
+\end{figure}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\textwidth]{chapter3/visualizer-quiz.png}
+  \caption{Wireframe Visualizer pada Quiz Stage} \label{fig:wireframe-quiz}
+\end{figure}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\textwidth]{chapter3/visualizer-lesson.png}
+  \caption{Wireframe Visualizer pada Lesson Stage} \label{fig:wireframe-lesson}
+\end{figure}
 
 Pada sistem \textit{Backend}, ditambahkan rute baru pada \textit{Stage Controller} untuk dapat mengolah permintaan visualisasi eksekusi kode. Dibuat juga fungsi-fungsi \textit{Helper} tambahan untuk mengolah permintaan tersebut dan melanjutkannya pada sistem eksekutor apabila kode diperbolehkan untuk dieksekusi.
 
-Pada sistem \textit{Executor}, dibuat komponen-komponen baru untuk mendapatkan informasi yang dibutuhkan untuk visualisasi. Komponen \lstinline{PDB (debugger)} merupakan komponen bawaan \lstinline{Python} yang dapat digunakan untuk melakukan \textit{debugging} pada suatu kode. Komponen \lstinline{Executor} digunakan untuk mengeksekusi kode program menggunakan PDB sehingga dapat dengan otomatis menjelajahi eksekusi kode program dan mendapatkan \textit{stack trace}. Komponen \lstinline{Parser} digunakan untuk mengolah hasil eksekusi serta \textit{stack trace} dari \lstinline{Executor} sehingga dapat dimanfaatkan untuk visualisasi eksekusi kode. Terdapat juga modifikasi pada Kontroller dan Autograder agar dapat menyesuaikan dengan spesifikasi kebutuhan fungsional.
+  [\hl{TODO: MASUKIN ACTIVITY DIAGRAM BUAT TIAP SISTEM}]
+
+Pada sistem \textit{Executor}, dibuat komponen-komponen baru untuk mendapatkan informasi yang dibutuhkan untuk visualisasi. Komponen \verb|PDB (debugger)| merupakan komponen bawaan \verb|Python| yang dapat digunakan untuk melakukan \textit{debugging} pada suatu kode. Komponen \verb|Executor| digunakan untuk mengeksekusi kode program menggunakan PDB sehingga dapat dengan otomatis menjelajahi eksekusi kode program dan mendapatkan \textit{stack trace}. Komponen \verb|Parser| digunakan untuk mengolah hasil eksekusi serta \textit{stack trace} dari \verb|Executor| sehingga dapat dimanfaatkan untuk visualisasi eksekusi kode. Terdapat juga modifikasi pada Kontroller dan Autograder agar dapat menyesuaikan dengan spesifikasi kebutuhan fungsional.
 
 Alur program utama terkait visualisasi eksekusi kode dimulai dari pengguna atau sistem memasukkan kode pada Web IDE yang digunakan pada sistem \textit{Frontend}, kemudian melakukan permintaan kepada sistem \textit{Backend} untuk memvisualisasikan kode tersebut. Sistem \textit{Backend} akan memfilter kode yang akan dieksekusi, lalu apabila lolos akan dilanjutkan kepada sistem \textit{Executor} untuk mendapatkan hasil olahan eksekusi program yang dapat divisualisasikan. Hasil tersebut dikembalikan pada sistem \textit{Frontend} untuk divisualisasikan dan dieksplorasi langkah-langkah eksekusinya oleh pengguna.
 

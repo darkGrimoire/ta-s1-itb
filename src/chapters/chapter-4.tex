@@ -24,15 +24,36 @@ Implementasi dilakukan menggunakan teknologi yang telah dipakai pada KodeBareng 
 
 Selain dari teknologi yang digunakan, terdapat juga batasan dari bahasa pemrograman yang dapat divisualisasikan eksekusinya yaitu Python sesuai dengan kelas pembelajaran pemrograman yang sudah ada pada platform web KodeBareng.
 
+  [\hl{TODO: MASUKIN SCOPE PYTHON YANG DIIMPLEMENTASIIN DI ILE}]
+
 \subsection{Implementasi Sistem Eksekutor}
+[\hl{TODO: MASUKIN INPUT, PROSES, OUTPUT MASING2 KOMPONEN}]
+[\hl{TODO: MASUKIN KOMPONEN/LIBRARY YANG DIGUNAKNA UNTUK TIAP KOMPONEN}]
+[\hl{TODO: MASUKIN TREE VIEW TIAP KOMPONEN LETAKNYA ADA DIMANA AJA}]
+[\hl{TODO: MASUKIN HAMBATAN DAN SOLUSI DI TIAP KOMPONEN}]
+
+Sistem Eksekutor menggunakan \textit{tech stack} berupa ExpressJS dengan Typescript yang dijalankan pada NodeJS menggunakan kakas \textit{nodemon}. Sistem tersebut kemudian diisolasi menggunakan Docker dengan \textit{image} Debian 10 dan dilakukan instalasi Python 3.9. Terdapat juga kakas berupa \textit{swagger} yang digunakan untuk dokumentasi rute-rute yang terdapat pada sistem ini.
+
+\subsubsection{Modifikasi Komponen Controller}
+Pada sistem ini sudah terdapat \textit{controller} pada tiap bagian rute untuk mengolah data yang diberikan. Pada Tugas Akhir ini, ditambahkan rute untuk melakukan visualisasi serta \textit{controller} untuk mengolah data tersebut. \textit{Controller} mendapatkan masukan berupa kode program berupa \textit{string} serta input berupa \verb|array of string| untuk diberikan pada program yang dieksekusi. Kemudian, \textit{Controller} melakukan pengecekan apakah kode diperbolehkan untuk dieksekusi, lalu menuliskan kode pada file Python sementara. Setelah itu, \textit{controller} menjalankan \textit{helper} berupa Komponen Executor dan Parser dengan memberikan masukan berupa lokasi \textit{file} kode program serta \textit{input} yang akan diberikan pada program.
+
 \subsubsection{Implementasi Komponen Executor}
-Komponen Executor merupakan komponen yang digunakan untuk mengeksekusi kode program menggunakan PDB. Setelah dijalankan, Executor melakukan inisialisasi, lalu melanjutkan eksekusi kode langkah demi langkah. Pada tiap langkahnya, Executor memerhatikan tahapan eksekusi perintah untuk mendapatkan informasi dari PDB, yaitu tahap pengecekan dan tahap mendapatkan informasi. Tahap pengecekan dilakukan pada tiap awal langkah eksekusi kode untuk mengecek apabila terdapat permintaan \textit{input} atau adanya\textit{output} dari hasil eksekusi kode sebelumnya, serta mengecek apakah PDB sedang menjalankan \textit{built-in functions} yang terdapat pada \textit{standard library} Python. Apabila pengecekan selesai, dilanjutkan ke tahap pengumpulan informasi yaitu mengeksekusi semua perintah yang relevan untuk mendapatkan informasi \textit{stack trace}. Apabila semua tahapan telah selesai, maka Executor melanjutkan langkah eksekusi hingga program selesai dieksekusi atau telah mencapai batas langkah atau waktu eksekusi.
+Komponen Executor merupakan komponen yang digunakan untuk mengeksekusi kode program menggunakan PDB. Komponen ini membutuhkan masukan berupa lokasi \textit{file} berisi kode program yang akan dieksekusi serta \textit{input} yang akan diberikan kepada program. Terdapat 3 tahapan utama dalam komponen ini, yaitu tahap inisialisasi, tahap pengecekan, serta tahap pengumpulan data.
+
+Tahap inisialisasi adalah tahap menginjeksi kode tambahan ke dalam eksekusi Python untuk keperluan Komponen Executor dan Parser. Pada tahap ini, dimasukkan kode untuk mengubah keluaran Python menjadi JSON agar dapat diolah oleh NodeJS. Selain itu, terdapat juga fungsi-fungsi tambahan untuk mendapatkan tipe data pada Python serta melakukan \textit{deep iteration} untuk mendapatkan informasi tipe data serta id dari variabel yang bertipe \textit{sequence} atau \textit{hashmap}. Tahap inisialisasi hanya dilakukan sekali untuk setiap kode program yang dijalankan.
+
+Setelah inisialisasi dijalankan, dilakukan tahap pengecekan yaitu untuk mengecek apakah eksekusi program sedang berada di luar kode program yang seharusnya karena terkadang PDB menjalankan kode program pada modul \textit{standard library} (\textit{built-in module}). Apabila program sedang mengeksekusi baris diluar kode program (penentuan dilakukan oleh Komponen Parser), maka Komponen Executor akan mengeksekusi perintah untuk kembali keluar modul tersebut dan kembali pada kode program awal. Setelah itu, Komponen Executor akan melanjutkan langkah eksekusi tanpa melalui tahapan pengumpulan data.
+
+Apabila program lolos dari tahap pengecekan (program tidak berada di luar kode program), maka dilakukan tahap pengumpulan data. Tahap pengumpulan data adalah tahap pengumpulan \textit{fields} yang berada pada \textit{runtime memory} seperti variabel, fungsi dan metode, serta modul yang telah dimuat. Tahap ini terbagi menjadi 3 subtahap, yaitu tahap \verb|Local|, \verb|Global|, dan \verb|Stack|. Tahap \verb|Lokal| adalah tahap mengeksekusi perintah untuk mengumpulkan \textit{fields} pada memori lokal suatu \textit{stack frame}. Tahap \verb|Global| adalah tahap mengeksekusi perintah untuk mengumpulkan \textit{fields} pada memori global suatu program. Tahap \verb|Stack| adalah tahap mengeksekusi perintah untuk mengumpulkan data pada \textit{stack frame} berupa baris kode yang sedang dieksekusi, \textit{return value}, serta daftar \textit{frame} yang tersimpan pada \textit{stack frame}.
+Hasil keluaran dari seluruh perintah tersebut akan diolah oleh Komponen Parser.
+
+Setelah Komponen Executor dan Parser melewati tahap pengumpulan data dan tidak terjadi error, maka Komponen Executor akan melanjutkan langkah eksekusi kode dan me-\textit{reset} data-data dan tahapan-tahapan yang dilakukan lalu kembali pada tahap pengecekan. Apabila terdapat error selama tahap pengumpulan data, maka Komponen Executor akan mematikan program yang sedang dieksekusi. Apabila jumlah langkah atau lama waktu eksekusi sudah melebihi batas yang telah ditentukan, maka Komponen Executor juga akan mematikan program yang sedang dieksekusi.
 
 \subsubsection{Implementasi Komponen Parser}
-Komponen Parser merupakan komponen yang digunakan untuk mengolah data dari hasil eksekusi Executor. Komponen ini mengolah keluaran dari PDB pada tiap tahapan Executor. Olahan tersebut dapat berupa data yang dapat dikumpulkan dari \textit{stack trace}, fungsi logika untuk melakukan pengecekan terhadap kondisi eksekusi program, dsb. Komponen Parser juga mengorganisasi hasil olahan \textit{stack trace} agar menjadi terstruktur dan dapat divisualisasikan pada sistem \textit{Frontend}.
+Komponen Parser merupakan komponen yang digunakan untuk mengolah hasil keluaran Komponen Executor. Komponen ini juga menentukan logika dan langkah yang akan diambil oleh Komponen Executor. Komponen ini membutuhkan masukan berupa \verb|array of string| yang merupakan hasil keluaran Komponen Executor yang telah dipisahkan tiap barisnya. Terdapat 2 tahapan utama dalam komponen ini, yaitu tahap pengecekan dan tahap pengumpulan data.
 
-% \subsubsection{Implementasi Komponen Controller}
-% Komponen Controller merupakan komponen yang digunakan untuk menerima permintaan 
+Tahap pengecekan dilakukan bersamaan dengan Komponen Executor melakukan tahap pengecekan. Pada tahap ini, terdapat beberapa subtahap yaitu pengecekan \textit{input}, pengecekan \textit{output}, serta pengecekan eksekusi \textit{built-in module}. Pada Tahap pengecekan \textit{input}
+, dilakukan pengecekan terhadap \textit{signature output} dari PDB serta pengecekan waktu eksekusi suatu baris. Apabila tidak ditemukan \textit{signature output} dari PDB atau waktu eksekusi suatu baris melebihi batas, maka komponen ini akan memasukkan \textit{input} (melalui Komponen Executor) sesuai dengan \textit{input} yang dberikan oleh \textit{controller}. Apabila tidak ada \textit{input} yang diberikan oleh \textit{controller} atau \textit{input} yang diberikan oleh \textit{controller} kurang dari jumlah input yang dibutuhkan, maka Komponen Parser akan memasukkan \textit{event} untuk meminta tambahan input dan mematikan program yang dieksekusi. Setelah itu, dilakukan tahap pengecekan \textit{output} untuk mengecek dan mengolah apabila program mengeluarkan \textit{output} atau \textit{error} setelah melanjutkan langkah eksekusi. Apabila program mengeluarkan \textit{error}, maka Komponen Parser akan
 
 \subsection{Implementasi Backend}
 \subsubsection{Implementasi Komponen Helper}
@@ -56,13 +77,17 @@ Tujuan dari pengujian ini adalah untuk mendapatkan data terkait dampak ILE yang 
 \subsection{Lingkungan Pengujian}
 Pengujian  dilakukan terhadap faktor pemahaman siswa mengenai konsep pemrograman serta alur kerja eksekusi kode program. Maka dari itu, pengujian dilakukan berdasarkan pengujian pada \textcite{mayer1981psychology} untuk faktor pemahaman konsep program serta pada \textcite{moons2013pilot} untuk faktor pemahaman alur kerja serta.
 
+  [\hl{TODO: MASUKIN MATERI YANG DDIPAKAI, DEMOGRAFIS, SPEK HARDWARE}]
+
+\subsection{Skenario dan Hasil Pengujian}
+[\hl{TODO: MASUKIN TABEL ACC TESTING, MASUKIN CONTROL EXPERIMENT}]
+
 Pengujian dilakukan pada platform web KodeBareng dengan menggunakan kelas pembelajaran khusus untuk melakukan pengujian. Pengujian dilakukan pada 2 grup dengan masing-masing grup memiliki 10 orang penguji, yaitu grup kontrol dan grup perlakuan. Grup kontrol mendapatkan materi pembelajaran tanpa adanya integrasi visualisasi eksekusi kode, sementara grup perlakuan mendapatkan materi pembelajaran yang terdapat integrasi visualisasi eksekusi kode. Setiap grup mendapatkan materi pembelajaran yang sama serta kuesioner setelah melakukan pembelajaran.
 
 Kuesioner memiliki 2 bagian pertanyaan, masing-masing untuk tiap faktor yang diuji. Bagian pertama berdasar pada \textcite{mayer1981psychology} yang terdapat suatu kode untuk kemudian diminta kepada penguji untuk dijelaskan konsep-konsepnya di dalam kode tersebut. Bagian kedua berdasar pada \textcite{moons2013pilot} juga terdapat suatu kode yang telah diperumit penamaannya dan diminta kepada penguji untuk menjelaskan alur kerja program tersebut. Pada bagian kedua, penguji pada grup perlakuan dapat melakukan visualisasi eksekusi pada kode tersebut, sementara pada grup kontrol tidak.
 
-% \subsection{Skenario dan Hasil Pengujian}
-% \blindtext
 
+\section{Analisis Hasil Pengujian}
+ [\hl{TODO: MASUKIN HASIL OLAHAN DATA NUMERIK, DATA LOGGING, SAMA DATA KUESIONER}]
 
-% \section{Analisis Hasil Pengujian}
-% \blindtext
+\blindtext
