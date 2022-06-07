@@ -1,0 +1,3486 @@
+[
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653963081245,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/28",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:11:22.631",
+    "id": 1698,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653963133066,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:12:14.464",
+    "id": 1703,
+    "timediff": 51.833,
+    "timediff_human": "0:00:51.833000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653963133092,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:12:14.481",
+    "id": 1704,
+    "timediff": 0.017,
+    "timediff_human": "0:00:00.017000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653963457862,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:17:39.258",
+    "id": 1713,
+    "timediff": 324.777,
+    "timediff_human": "0:05:24.777000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653963457894,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:17:39.49",
+    "id": 1714,
+    "timediff": 0.232,
+    "timediff_human": "0:00:00.232000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653963711171,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:21:52.569",
+    "id": 1730,
+    "timediff": 253.079,
+    "timediff_human": "0:04:13.079000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653963711198,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:21:52.811",
+    "id": 1731,
+    "timediff": 0.242,
+    "timediff_human": "0:00:00.242000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653963796389,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:23:18.919",
+    "id": 1734,
+    "timediff": 86.108,
+    "timediff_human": "0:01:26.108000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653963796416,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:23:18.922",
+    "id": 1735,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653963813442,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:23:34.846",
+    "id": 1736,
+    "timediff": 15.924,
+    "timediff_human": "0:00:15.924000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653963813466,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:23:34.85",
+    "id": 1737,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653963820308,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:23:41.738",
+    "id": 1738,
+    "timediff": 6.888,
+    "timediff_human": "0:00:06.888000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653963820331,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:23:41.741",
+    "id": 1739,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653963821958,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:23:43.13",
+    "id": 1740,
+    "timediff": 1.389,
+    "timediff_human": "0:00:01.389000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653963877296,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "answer": "Meminta masukkan dari pengguna",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T02:24:38.686",
+    "id": 1741,
+    "timediff": 55.556,
+    "timediff_human": "0:00:55.556000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653963884026,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:24:45.421",
+    "id": 1742,
+    "timediff": 6.735,
+    "timediff_human": "0:00:06.735000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653963884049,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:24:45.441",
+    "id": 1743,
+    "timediff": 0.02,
+    "timediff_human": "0:00:00.020000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653963888326,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:24:49.51",
+    "id": 1744,
+    "timediff": 4.069,
+    "timediff_human": "0:00:04.069000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653963888350,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:24:49.543",
+    "id": 1745,
+    "timediff": 0.033,
+    "timediff_human": "0:00:00.033000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653963892090,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:24:53.476",
+    "id": 1748,
+    "timediff": 3.933,
+    "timediff_human": "0:00:03.933000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653963892117,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:24:53.518",
+    "id": 1749,
+    "timediff": 0.042,
+    "timediff_human": "0:00:00.042000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964002601,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:26:44.798",
+    "id": 1754,
+    "timediff": 111.28,
+    "timediff_human": "0:01:51.280000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964002619,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:26:44.811",
+    "id": 1755,
+    "timediff": 0.013,
+    "timediff_human": "0:00:00.013000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964032591,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:27:13.988",
+    "id": 1758,
+    "timediff": 29.177,
+    "timediff_human": "0:00:29.177000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964032619,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:27:14.021",
+    "id": 1759,
+    "timediff": 0.033,
+    "timediff_human": "0:00:00.033000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964035555,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:27:16.741",
+    "id": 1760,
+    "timediff": 2.72,
+    "timediff_human": "0:00:02.720000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964035571,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:27:16.756",
+    "id": 1761,
+    "timediff": 0.015,
+    "timediff_human": "0:00:00.015000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964036778,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:27:17.954",
+    "id": 1762,
+    "timediff": 1.198,
+    "timediff_human": "0:00:01.198000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964051946,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "answer": "Menampilkan sesuatu pada program",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T02:27:33.341",
+    "id": 1763,
+    "timediff": 15.387,
+    "timediff_human": "0:00:15.387000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964058863,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:27:40.258",
+    "id": 1764,
+    "timediff": 6.917,
+    "timediff_human": "0:00:06.917000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964058889,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:27:40.271",
+    "id": 1765,
+    "timediff": 0.013,
+    "timediff_human": "0:00:00.013000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964060278,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:27:41.455",
+    "id": 1766,
+    "timediff": 1.184,
+    "timediff_human": "0:00:01.184000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964073282,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "answer": 3,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T02:27:54.684",
+    "id": 1767,
+    "timediff": 13.229,
+    "timediff_human": "0:00:13.229000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964078509,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:27:59.903",
+    "id": 1768,
+    "timediff": 5.219,
+    "timediff_human": "0:00:05.219000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964078536,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:27:59.939",
+    "id": 1769,
+    "timediff": 0.036,
+    "timediff_human": "0:00:00.036000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964123212,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:29:07.257",
+    "id": 1773,
+    "timediff": 67.318,
+    "timediff_human": "0:01:07.318000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964123238,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:29:07.313",
+    "id": 1774,
+    "timediff": 0.056,
+    "timediff_human": "0:00:00.056000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964147318,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:29:08.496",
+    "id": 1775,
+    "timediff": 1.183,
+    "timediff_human": "0:00:01.183000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964156293,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:29:18.522",
+    "id": 1776,
+    "timediff": 10.026,
+    "timediff_human": "0:00:10.026000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964156321,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:29:18.545",
+    "id": 1777,
+    "timediff": 0.023,
+    "timediff_human": "0:00:00.023000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964158535,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:29:19.715",
+    "id": 1778,
+    "timediff": 1.17,
+    "timediff_human": "0:00:01.170000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964172530,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:29:33.914",
+    "id": 1779,
+    "timediff": 14.199,
+    "timediff_human": "0:00:14.199000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964172554,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:29:33.931",
+    "id": 1780,
+    "timediff": 0.017,
+    "timediff_human": "0:00:00.017000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964177412,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:29:38.597",
+    "id": 1781,
+    "timediff": 4.666,
+    "timediff_human": "0:00:04.666000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964177437,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:29:38.615",
+    "id": 1782,
+    "timediff": 0.018,
+    "timediff_human": "0:00:00.018000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964209501,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:30:10.899",
+    "id": 1790,
+    "timediff": 32.284,
+    "timediff_human": "0:00:32.284000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964209522,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:30:10.927",
+    "id": 1791,
+    "timediff": 0.028,
+    "timediff_human": "0:00:00.028000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964212794,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:30:13.99",
+    "id": 1792,
+    "timediff": 3.063,
+    "timediff_human": "0:00:03.063000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964212821,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:30:14.014",
+    "id": 1793,
+    "timediff": 0.024,
+    "timediff_human": "0:00:00.024000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964213992,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:30:15.173",
+    "id": 1794,
+    "timediff": 1.159,
+    "timediff_human": "0:00:01.159000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964222042,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "answer": "Menampilkan sesuatu pada program",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T02:30:23.456",
+    "id": 1795,
+    "timediff": 8.283,
+    "timediff_human": "0:00:08.283000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964224713,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:30:25.891",
+    "id": 1796,
+    "timediff": 2.435,
+    "timediff_human": "0:00:02.435000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964224738,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:30:25.929",
+    "id": 1797,
+    "timediff": 0.038,
+    "timediff_human": "0:00:00.038000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964226100,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:30:27.281",
+    "id": 1798,
+    "timediff": 1.352,
+    "timediff_human": "0:00:01.352000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964228649,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:30:30.042",
+    "id": 1799,
+    "timediff": 2.761,
+    "timediff_human": "0:00:02.761000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964228672,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:30:30.079",
+    "id": 1800,
+    "timediff": 0.037,
+    "timediff_human": "0:00:00.037000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964344320,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:32:26.542",
+    "id": 1811,
+    "timediff": 116.463,
+    "timediff_human": "0:01:56.463000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964344357,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:32:26.545",
+    "id": 1812,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964346564,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:32:27.742",
+    "id": 1813,
+    "timediff": 1.197,
+    "timediff_human": "0:00:01.197000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964351379,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:32:32.792",
+    "id": 1814,
+    "timediff": 5.05,
+    "timediff_human": "0:00:05.050000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964351407,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:32:32.856",
+    "id": 1815,
+    "timediff": 0.064,
+    "timediff_human": "0:00:00.064000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964352880,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:32:34.059",
+    "id": 1816,
+    "timediff": 1.203,
+    "timediff_human": "0:00:01.203000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964360780,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:32:42.178",
+    "id": 1817,
+    "timediff": 8.119,
+    "timediff_human": "0:00:08.119000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964360807,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:32:42.204",
+    "id": 1818,
+    "timediff": 0.026,
+    "timediff_human": "0:00:00.026000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964366514,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:32:47.901",
+    "id": 1819,
+    "timediff": 5.697,
+    "timediff_human": "0:00:05.697000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964366540,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:32:47.932",
+    "id": 1820,
+    "timediff": 0.031,
+    "timediff_human": "0:00:00.031000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964433982,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:33:56.177",
+    "id": 1821,
+    "timediff": 68.245,
+    "timediff_human": "0:01:08.245000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964434009,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:33:56.222",
+    "id": 1822,
+    "timediff": 0.045,
+    "timediff_human": "0:00:00.045000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964477287,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:34:38.695",
+    "id": 1823,
+    "timediff": 42.473,
+    "timediff_human": "0:00:42.473000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964477310,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:34:38.701",
+    "id": 1824,
+    "timediff": 0.006,
+    "timediff_human": "0:00:00.006000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964478712,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:34:39.893",
+    "id": 1825,
+    "timediff": 1.192,
+    "timediff_human": "0:00:01.192000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964480070,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:34:41.269",
+    "id": 1826,
+    "timediff": 1.376,
+    "timediff_human": "0:00:01.376000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964480099,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:34:41.302",
+    "id": 1827,
+    "timediff": 0.033,
+    "timediff_human": "0:00:00.033000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964481264,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:34:42.442",
+    "id": 1828,
+    "timediff": 1.14,
+    "timediff_human": "0:00:01.140000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964482928,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:34:44.322",
+    "id": 1829,
+    "timediff": 1.88,
+    "timediff_human": "0:00:01.880000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964482950,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:34:44.34",
+    "id": 1830,
+    "timediff": 0.018,
+    "timediff_human": "0:00:00.018000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964722776,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:38:45.07",
+    "id": 1833,
+    "timediff": 240.73,
+    "timediff_human": "0:04:00.730000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964725223,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:38:46.412",
+    "id": 1834,
+    "timediff": 1.342,
+    "timediff_human": "0:00:01.342000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964731901,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "answer": 3,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T02:38:53.304",
+    "id": 1835,
+    "timediff": 6.892,
+    "timediff_human": "0:00:06.892000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964735167,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:38:56.37",
+    "id": 1836,
+    "timediff": 3.066,
+    "timediff_human": "0:00:03.066000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964735183,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:38:56.373",
+    "id": 1837,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964795350,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:39:56.774",
+    "id": 1840,
+    "timediff": 60.401,
+    "timediff_human": "0:01:00.401000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964795379,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:39:56.789",
+    "id": 1841,
+    "timediff": 0.015,
+    "timediff_human": "0:00:00.015000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964796950,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:39:58.132",
+    "id": 1842,
+    "timediff": 1.343,
+    "timediff_human": "0:00:01.343000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964800537,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:40:01.735",
+    "id": 1843,
+    "timediff": 3.603,
+    "timediff_human": "0:00:03.603000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964800565,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:40:01.781",
+    "id": 1844,
+    "timediff": 0.046,
+    "timediff_human": "0:00:00.046000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964801778,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:40:03.173",
+    "id": 1845,
+    "timediff": 1.392,
+    "timediff_human": "0:00:01.392000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964803670,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:40:04.859",
+    "id": 1846,
+    "timediff": 1.686,
+    "timediff_human": "0:00:01.686000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964803684,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:40:04.878",
+    "id": 1847,
+    "timediff": 0.019,
+    "timediff_human": "0:00:00.019000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964814142,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:40:15.542",
+    "id": 1848,
+    "timediff": 10.664,
+    "timediff_human": "0:00:10.664000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964814165,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:40:15.569",
+    "id": 1849,
+    "timediff": 0.027,
+    "timediff_human": "0:00:00.027000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964824220,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:40:25.618",
+    "id": 1850,
+    "timediff": 10.049,
+    "timediff_human": "0:00:10.049000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964824249,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:40:25.66",
+    "id": 1851,
+    "timediff": 0.042,
+    "timediff_human": "0:00:00.042000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964836648,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:40:38.056",
+    "id": 1852,
+    "timediff": 12.396,
+    "timediff_human": "0:00:12.396000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964836666,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:40:38.06",
+    "id": 1853,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964840519,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:40:41.705",
+    "id": 1854,
+    "timediff": 3.645,
+    "timediff_human": "0:00:03.645000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964840533,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:40:41.736",
+    "id": 1855,
+    "timediff": 0.031,
+    "timediff_human": "0:00:00.031000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964842696,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:40:44.106",
+    "id": 1856,
+    "timediff": 2.37,
+    "timediff_human": "0:00:02.370000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964842716,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:40:44.111",
+    "id": 1857,
+    "timediff": 0.005,
+    "timediff_human": "0:00:00.005000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964844097,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:40:45.282",
+    "id": 1858,
+    "timediff": 1.171,
+    "timediff_human": "0:00:01.171000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964847971,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:40:49.368",
+    "id": 1859,
+    "timediff": 4.086,
+    "timediff_human": "0:00:04.086000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964847999,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:40:49.401",
+    "id": 1860,
+    "timediff": 0.033,
+    "timediff_human": "0:00:00.033000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964849374,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:40:50.554",
+    "id": 1861,
+    "timediff": 1.153,
+    "timediff_human": "0:00:01.153000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964851485,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:40:52.674",
+    "id": 1862,
+    "timediff": 2.12,
+    "timediff_human": "0:00:02.120000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964851499,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:40:52.697",
+    "id": 1863,
+    "timediff": 0.023,
+    "timediff_human": "0:00:00.023000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964915040,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "print(\"Halo Dunia\")",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:41:56.449",
+    "id": 1864,
+    "timediff": 63.752,
+    "timediff_human": "0:01:03.752000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964927318,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "print(\"Halo Dunia\")",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:42:08.715",
+    "id": 1865,
+    "timediff": 12.266,
+    "timediff_human": "0:00:12.266000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964958845,
+      "input": [
+        "hal"
+      ],
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "print(\"Halo Dunia\")",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:42:40.245",
+    "id": 1866,
+    "timediff": 31.53,
+    "timediff_human": "0:00:31.530000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964961524,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "print(\"Halo Dunia\")",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:42:42.709",
+    "id": 1867,
+    "timediff": 2.464,
+    "timediff_human": "0:00:02.464000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653964986606,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "print(\"Halo Dunia\")",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:43:08.017",
+    "id": 1868,
+    "timediff": 25.308,
+    "timediff_human": "0:00:25.308000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965000377,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "print(\"Halo Dunia\")",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:43:21.775",
+    "id": 1872,
+    "timediff": 13.758,
+    "timediff_human": "0:00:13.758000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965010389,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "print(\"Halo Dunia\")",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:43:31.78",
+    "id": 1874,
+    "timediff": 10.005,
+    "timediff_human": "0:00:10.005000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965029846,
+      "input": [
+        "Halo dunia",
+        ""
+      ],
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "print(\"Halo Dunia\")",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:43:51.236",
+    "id": 1878,
+    "timediff": 19.456,
+    "timediff_human": "0:00:19.456000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965031755,
+      "input": [
+        "Halo dunia",
+        ""
+      ],
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "print(\"Halo Dunia\")",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:43:52.945",
+    "id": 1879,
+    "timediff": 1.709,
+    "timediff_human": "0:00:01.709000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965038639,
+      "input": [
+        "Halo Dunia"
+      ],
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "print(\"Halo Dunia\")",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:44:00.042",
+    "id": 1882,
+    "timediff": 7.097,
+    "timediff_human": "0:00:07.097000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965039788,
+      "input": [
+        "Halo Dunia"
+      ],
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "print(\"Halo Dunia\")",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:44:00.973",
+    "id": 1883,
+    "timediff": 0.931,
+    "timediff_human": "0:00:00.931000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965044237,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "print(\"Halo Dunia\")",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:44:05.627",
+    "id": 1886,
+    "timediff": 4.654,
+    "timediff_human": "0:00:04.654000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965053114,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "In",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:44:14.506",
+    "id": 1890,
+    "timediff": 8.879,
+    "timediff_human": "0:00:08.879000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965055265,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "Iny",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:44:16.453",
+    "id": 1891,
+    "timediff": 1.947,
+    "timediff_human": "0:00:01.947000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965064947,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "Iny",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:44:26.342",
+    "id": 1894,
+    "timediff": 9.889,
+    "timediff_human": "0:00:09.889000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965069725,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "Iny",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:44:30.912",
+    "id": 1898,
+    "timediff": 4.57,
+    "timediff_human": "0:00:04.570000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965096226,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "Iny",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:44:57.62",
+    "id": 1902,
+    "timediff": 26.708,
+    "timediff_human": "0:00:26.708000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965102481,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:45:03.887",
+    "id": 1904,
+    "timediff": 6.267,
+    "timediff_human": "0:00:06.267000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965102526,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:45:04.125",
+    "id": 1905,
+    "timediff": 0.238,
+    "timediff_human": "0:00:00.238000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965104338,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:45:05.525",
+    "id": 1906,
+    "timediff": 1.4,
+    "timediff_human": "0:00:01.400000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965106577,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:45:07.765",
+    "id": 1907,
+    "timediff": 2.24,
+    "timediff_human": "0:00:02.240000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965106603,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:45:07.801",
+    "id": 1908,
+    "timediff": 0.036,
+    "timediff_human": "0:00:00.036000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965107766,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:45:08.95",
+    "id": 1909,
+    "timediff": 1.149,
+    "timediff_human": "0:00:01.149000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965110164,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:45:11.56",
+    "id": 1910,
+    "timediff": 2.61,
+    "timediff_human": "0:00:02.610000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965110186,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:45:11.57",
+    "id": 1911,
+    "timediff": 0.01,
+    "timediff_human": "0:00:00.010000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965113401,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:45:14.611",
+    "id": 1912,
+    "timediff": 3.041,
+    "timediff_human": "0:00:03.041000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965113420,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:45:14.613",
+    "id": 1913,
+    "timediff": 0.002,
+    "timediff_human": "0:00:00.002000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965126614,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:45:28.019",
+    "id": 1919,
+    "timediff": 13.406,
+    "timediff_human": "0:00:13.406000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965126638,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:45:28.044",
+    "id": 1920,
+    "timediff": 0.025,
+    "timediff_human": "0:00:00.025000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965129807,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:45:31.001",
+    "id": 1921,
+    "timediff": 2.957,
+    "timediff_human": "0:00:02.957000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965129837,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:45:31.028",
+    "id": 1922,
+    "timediff": 0.027,
+    "timediff_human": "0:00:00.027000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965131013,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:45:32.2",
+    "id": 1923,
+    "timediff": 1.172,
+    "timediff_human": "0:00:01.172000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965133732,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:45:35.131",
+    "id": 1924,
+    "timediff": 2.931,
+    "timediff_human": "0:00:02.931000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965133753,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:45:35.156",
+    "id": 1925,
+    "timediff": 0.025,
+    "timediff_human": "0:00:00.025000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965135142,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:45:36.326",
+    "id": 1926,
+    "timediff": 1.17,
+    "timediff_human": "0:00:01.170000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965137693,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:45:38.88",
+    "id": 1927,
+    "timediff": 2.554,
+    "timediff_human": "0:00:02.554000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965137720,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:45:38.918",
+    "id": 1928,
+    "timediff": 0.038,
+    "timediff_human": "0:00:00.038000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965164069,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:46:05.476",
+    "id": 1931,
+    "timediff": 26.558,
+    "timediff_human": "0:00:26.558000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965164094,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:46:05.503",
+    "id": 1932,
+    "timediff": 0.027,
+    "timediff_human": "0:00:00.027000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965165566,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:46:06.752",
+    "id": 1933,
+    "timediff": 1.249,
+    "timediff_human": "0:00:01.249000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965168787,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:46:09.992",
+    "id": 1935,
+    "timediff": 3.24,
+    "timediff_human": "0:00:03.240000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965168806,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:46:09.996",
+    "id": 1936,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965169961,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:46:11.352",
+    "id": 1937,
+    "timediff": 1.356,
+    "timediff_human": "0:00:01.356000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965171859,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:46:13.047",
+    "id": 1938,
+    "timediff": 1.695,
+    "timediff_human": "0:00:01.695000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965171888,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:46:13.094",
+    "id": 1939,
+    "timediff": 0.047,
+    "timediff_human": "0:00:00.047000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965175021,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:46:16.222",
+    "id": 1940,
+    "timediff": 3.128,
+    "timediff_human": "0:00:03.128000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965175039,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:46:16.241",
+    "id": 1941,
+    "timediff": 0.019,
+    "timediff_human": "0:00:00.019000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965199161,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:46:40.566",
+    "id": 1948,
+    "timediff": 24.325,
+    "timediff_human": "0:00:24.325000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965199190,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:46:40.592",
+    "id": 1949,
+    "timediff": 0.026,
+    "timediff_human": "0:00:00.026000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965201574,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:46:42.768",
+    "id": 1950,
+    "timediff": 2.176,
+    "timediff_human": "0:00:02.176000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965201622,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:46:42.815",
+    "id": 1951,
+    "timediff": 0.047,
+    "timediff_human": "0:00:00.047000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965202793,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:46:43.978",
+    "id": 1952,
+    "timediff": 1.163,
+    "timediff_human": "0:00:01.163000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965204061,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:46:45.255",
+    "id": 1953,
+    "timediff": 1.277,
+    "timediff_human": "0:00:01.277000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965204088,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:46:45.289",
+    "id": 1954,
+    "timediff": 0.034,
+    "timediff_human": "0:00:00.034000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965205260,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:46:46.65",
+    "id": 1955,
+    "timediff": 1.361,
+    "timediff_human": "0:00:01.361000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965206425,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:46:47.614",
+    "id": 1956,
+    "timediff": 0.964,
+    "timediff_human": "0:00:00.964000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965206445,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:46:47.649",
+    "id": 1957,
+    "timediff": 0.035,
+    "timediff_human": "0:00:00.035000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965295636,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:48:17.873",
+    "id": 1966,
+    "timediff": 90.224,
+    "timediff_human": "0:01:30.224000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965295658,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:48:17.878",
+    "id": 1967,
+    "timediff": 0.005,
+    "timediff_human": "0:00:00.005000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965297869,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:48:19.056",
+    "id": 1968,
+    "timediff": 1.178,
+    "timediff_human": "0:00:01.178000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965301397,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:48:22.794",
+    "id": 1969,
+    "timediff": 3.738,
+    "timediff_human": "0:00:03.738000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965301361,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:48:22.8",
+    "id": 1970,
+    "timediff": 0.006,
+    "timediff_human": "0:00:00.006000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965302771,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:48:23.961",
+    "id": 1971,
+    "timediff": 1.161,
+    "timediff_human": "0:00:01.161000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965304794,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:48:25.986",
+    "id": 1972,
+    "timediff": 2.025,
+    "timediff_human": "0:00:02.025000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965304823,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:48:26.028",
+    "id": 1973,
+    "timediff": 0.042,
+    "timediff_human": "0:00:00.042000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965306882,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:48:28.3",
+    "id": 1974,
+    "timediff": 2.272,
+    "timediff_human": "0:00:02.272000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965306906,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:48:28.303",
+    "id": 1975,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965321747,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:48:43.162",
+    "id": 1976,
+    "timediff": 14.859,
+    "timediff_human": "0:00:14.859000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965321774,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:48:43.181",
+    "id": 1977,
+    "timediff": 0.019,
+    "timediff_human": "0:00:00.019000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965324113,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:48:45.307",
+    "id": 1978,
+    "timediff": 2.126,
+    "timediff_human": "0:00:02.126000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965324140,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:48:45.331",
+    "id": 1979,
+    "timediff": 0.024,
+    "timediff_human": "0:00:00.024000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965325314,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:48:46.503",
+    "id": 1980,
+    "timediff": 1.172,
+    "timediff_human": "0:00:01.172000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965326015,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:48:47.216",
+    "id": 1981,
+    "timediff": 0.713,
+    "timediff_human": "0:00:00.713000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965326037,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:48:47.239",
+    "id": 1982,
+    "timediff": 0.023,
+    "timediff_human": "0:00:00.023000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965327191,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:48:48.588",
+    "id": 1983,
+    "timediff": 1.349,
+    "timediff_human": "0:00:01.349000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965329116,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:48:50.311",
+    "id": 1984,
+    "timediff": 1.723,
+    "timediff_human": "0:00:01.723000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965329141,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:48:50.33",
+    "id": 1985,
+    "timediff": 0.019,
+    "timediff_human": "0:00:00.019000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965353661,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "A = int(input()\r\nB = int(input())\r\nA = A + B\r\nprint(A)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-31T02:49:15.067",
+    "id": 1986,
+    "timediff": 24.737,
+    "timediff_human": "0:00:24.737000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965364203,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "A = int(input()\r\nB = int(input())\r\nA = A + B\r\nprint(A)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:49:25.612",
+    "id": 1987,
+    "timediff": 10.545,
+    "timediff_human": "0:00:10.545000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965375356,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "A = int(input()\r\nB = int(input())\r\nA = A + B\r\nprint(A)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:49:36.756",
+    "id": 1988,
+    "timediff": 11.144,
+    "timediff_human": "0:00:11.144000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965378348,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:49:39.542",
+    "id": 1989,
+    "timediff": 2.786,
+    "timediff_human": "0:00:02.786000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965378375,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:49:39.571",
+    "id": 1990,
+    "timediff": 0.029,
+    "timediff_human": "0:00:00.029000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965379729,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:49:40.917",
+    "id": 1991,
+    "timediff": 1.346,
+    "timediff_human": "0:00:01.346000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965383980,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:49:45.392",
+    "id": 1992,
+    "timediff": 4.475,
+    "timediff_human": "0:00:04.475000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965384009,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:49:45.413",
+    "id": 1993,
+    "timediff": 0.021,
+    "timediff_human": "0:00:00.021000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965385379,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:49:46.567",
+    "id": 1994,
+    "timediff": 1.154,
+    "timediff_human": "0:00:01.154000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965386997,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:49:48.189",
+    "id": 1995,
+    "timediff": 1.622,
+    "timediff_human": "0:00:01.622000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965387025,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:49:48.221",
+    "id": 1996,
+    "timediff": 0.032,
+    "timediff_human": "0:00:00.032000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965389916,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:49:51.321",
+    "id": 1997,
+    "timediff": 3.1,
+    "timediff_human": "0:00:03.100000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965389942,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:49:51.337",
+    "id": 1998,
+    "timediff": 0.016,
+    "timediff_human": "0:00:00.016000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965404810,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:50:06.203",
+    "id": 1999,
+    "timediff": 14.866,
+    "timediff_human": "0:00:14.866000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965404789,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:50:06.219",
+    "id": 2000,
+    "timediff": 0.016,
+    "timediff_human": "0:00:00.016000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965407138,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:50:08.333",
+    "id": 2001,
+    "timediff": 2.114,
+    "timediff_human": "0:00:02.114000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965407159,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:50:08.358",
+    "id": 2002,
+    "timediff": 0.025,
+    "timediff_human": "0:00:00.025000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965408317,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:50:09.504",
+    "id": 2003,
+    "timediff": 1.146,
+    "timediff_human": "0:00:01.146000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965412078,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:50:13.48",
+    "id": 2004,
+    "timediff": 3.976,
+    "timediff_human": "0:00:03.976000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965412092,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:50:13.5",
+    "id": 2005,
+    "timediff": 0.02,
+    "timediff_human": "0:00:00.020000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965413481,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:50:14.668",
+    "id": 2006,
+    "timediff": 1.168,
+    "timediff_human": "0:00:01.168000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965415877,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:50:17.075",
+    "id": 2007,
+    "timediff": 2.407,
+    "timediff_human": "0:00:02.407000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965415893,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:50:17.097",
+    "id": 2008,
+    "timediff": 0.022,
+    "timediff_human": "0:00:00.022000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965432900,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "A = int(input())\r\nB = int(input())\r\nA = A + B\r\nprint(A)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-31T02:50:34.291",
+    "id": 2009,
+    "timediff": 17.194,
+    "timediff_human": "0:00:17.194000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965435047,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "A = int(input())\r\nB = int(input())\r\nA = A + B\r\nprint(A)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-31T02:50:36.269",
+    "id": 2010,
+    "timediff": 1.978,
+    "timediff_human": "0:00:01.978000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965438897,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "A = int(input())\r\nB = int(input())\r\nA = A + B\r\nprint(A)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:50:40.3",
+    "id": 2011,
+    "timediff": 4.031,
+    "timediff_human": "0:00:04.031000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965478415,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:51:19.835",
+    "id": 2012,
+    "timediff": 39.535,
+    "timediff_human": "0:00:39.535000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965478443,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:51:19.849",
+    "id": 2013,
+    "timediff": 0.014,
+    "timediff_human": "0:00:00.014000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965480039,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:51:21.229",
+    "id": 2014,
+    "timediff": 1.38,
+    "timediff_human": "0:00:01.380000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965483593,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:51:24.793",
+    "id": 2015,
+    "timediff": 3.564,
+    "timediff_human": "0:00:03.564000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965483610,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:51:24.81",
+    "id": 2016,
+    "timediff": 0.017,
+    "timediff_human": "0:00:00.017000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965484781,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:51:26.177",
+    "id": 2017,
+    "timediff": 1.367,
+    "timediff_human": "0:00:01.367000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965486964,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:51:28.166",
+    "id": 2018,
+    "timediff": 1.989,
+    "timediff_human": "0:00:01.989000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965486993,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:51:28.185",
+    "id": 2019,
+    "timediff": 0.019,
+    "timediff_human": "0:00:00.019000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965489972,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:51:31.17",
+    "id": 2020,
+    "timediff": 2.985,
+    "timediff_human": "0:00:02.985000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965489995,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:51:31.393",
+    "id": 2021,
+    "timediff": 0.223,
+    "timediff_human": "0:00:00.223000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965511308,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:51:52.744",
+    "id": 2022,
+    "timediff": 21.351,
+    "timediff_human": "0:00:21.351000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965511328,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:51:52.749",
+    "id": 2023,
+    "timediff": 0.005,
+    "timediff_human": "0:00:00.005000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965513949,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:51:55.145",
+    "id": 2024,
+    "timediff": 2.396,
+    "timediff_human": "0:00:02.396000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965513976,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:51:55.182",
+    "id": 2025,
+    "timediff": 0.037,
+    "timediff_human": "0:00:00.037000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965515151,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:51:56.342",
+    "id": 2026,
+    "timediff": 1.16,
+    "timediff_human": "0:00:01.160000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965516789,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:51:58.204",
+    "id": 2027,
+    "timediff": 1.862,
+    "timediff_human": "0:00:01.862000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965516821,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:51:58.225",
+    "id": 2028,
+    "timediff": 0.021,
+    "timediff_human": "0:00:00.021000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965518197,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:51:59.384",
+    "id": 2029,
+    "timediff": 1.159,
+    "timediff_human": "0:00:01.159000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965519334,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:52:00.548",
+    "id": 2030,
+    "timediff": 1.164,
+    "timediff_human": "0:00:01.164000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965519372,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:52:00.588",
+    "id": 2031,
+    "timediff": 0.04,
+    "timediff_human": "0:00:00.040000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965534599,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "A = int(input()\r\nB = int(input())\r\nA = A + B\r\nprint(A)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:52:16.006",
+    "id": 2032,
+    "timediff": 15.418,
+    "timediff_human": "0:00:15.418000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965545984,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "A = int(input())\r\nB = int(input())\r\nA = A + B\r\nprint(A)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:52:27.387",
+    "id": 2033,
+    "timediff": 11.381,
+    "timediff_human": "0:00:11.381000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965601288,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:53:22.722",
+    "id": 2034,
+    "timediff": 55.335,
+    "timediff_human": "0:00:55.335000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965601313,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:53:22.956",
+    "id": 2035,
+    "timediff": 0.234,
+    "timediff_human": "0:00:00.234000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965603140,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:53:24.331",
+    "id": 2036,
+    "timediff": 1.375,
+    "timediff_human": "0:00:01.375000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965605378,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:53:26.573",
+    "id": 2037,
+    "timediff": 2.242,
+    "timediff_human": "0:00:02.242000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965605395,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:53:26.596",
+    "id": 2038,
+    "timediff": 0.023,
+    "timediff_human": "0:00:00.023000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965606556,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:53:27.744",
+    "id": 2039,
+    "timediff": 1.148,
+    "timediff_human": "0:00:01.148000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965608511,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:53:59.872",
+    "id": 2040,
+    "timediff": 32.128,
+    "timediff_human": "0:00:32.128000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965608530,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:54:00.276",
+    "id": 2041,
+    "timediff": 0.404,
+    "timediff_human": "0:00:00.404000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965650781,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:54:13.018",
+    "id": 2042,
+    "timediff": 12.742,
+    "timediff_human": "0:00:12.742000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965650798,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:54:13.021",
+    "id": 2043,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965662455,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:54:23.877",
+    "id": 2044,
+    "timediff": 10.856,
+    "timediff_human": "0:00:10.856000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965662480,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:54:23.898",
+    "id": 2045,
+    "timediff": 0.021,
+    "timediff_human": "0:00:00.021000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965664905,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:54:26.101",
+    "id": 2046,
+    "timediff": 2.203,
+    "timediff_human": "0:00:02.203000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965664930,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:54:26.123",
+    "id": 2047,
+    "timediff": 0.022,
+    "timediff_human": "0:00:00.022000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965666100,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:54:27.289",
+    "id": 2048,
+    "timediff": 1.166,
+    "timediff_human": "0:00:01.166000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965668471,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:54:29.896",
+    "id": 2049,
+    "timediff": 2.607,
+    "timediff_human": "0:00:02.607000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965668498,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:54:29.9",
+    "id": 2050,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965669881,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:54:31.089",
+    "id": 2051,
+    "timediff": 1.189,
+    "timediff_human": "0:00:01.189000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965672538,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:54:33.733",
+    "id": 2052,
+    "timediff": 2.644,
+    "timediff_human": "0:00:02.644000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965672564,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:54:33.757",
+    "id": 2053,
+    "timediff": 0.024,
+    "timediff_human": "0:00:00.024000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965703842,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "A = int(input())\r\nB = int(input())\r\nA = A + B\r\nprint(A)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:55:05.243",
+    "id": 2054,
+    "timediff": 31.486,
+    "timediff_human": "0:00:31.486000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965712123,
+      "input": [
+        "Halo duni"
+      ],
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "A = int(input())\r\nB = int(input())\r\nA = A + B\r\nprint(A)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:55:13.524",
+    "id": 2055,
+    "timediff": 8.281,
+    "timediff_human": "0:00:08.281000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965713436,
+      "input": [
+        "Halo dunia"
+      ],
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "A = int(input())\r\nB = int(input())\r\nA = A + B\r\nprint(A)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:55:14.631",
+    "id": 2056,
+    "timediff": 1.107,
+    "timediff_human": "0:00:01.107000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965731096,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "A = int(input())\r\nB = int(input())\r\nA = A + B\r\nprint(A)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:55:32.494",
+    "id": 2057,
+    "timediff": 17.863,
+    "timediff_human": "0:00:17.863000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965745984,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "A = int(input(Hal))\r\nB = int(input())\r\nA = A + B\r\nprint(A)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:55:47.39",
+    "id": 2058,
+    "timediff": 14.896,
+    "timediff_human": "0:00:14.896000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965749458,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "A = int(input())\r\nB = int(input())\r\nA = A + B\r\nprint(A)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:55:50.649",
+    "id": 2059,
+    "timediff": 3.259,
+    "timediff_human": "0:00:03.259000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965817336,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "print('Halo Dunia!')",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:56:58.831",
+    "id": 2060,
+    "timediff": 68.182,
+    "timediff_human": "0:01:08.182000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965829027,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "print(\"Halo Dunia!')",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:57:10.424",
+    "id": 2061,
+    "timediff": 11.593,
+    "timediff_human": "0:00:11.593000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965835271,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "print(\"Halo Dunia!\"",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:57:16.67",
+    "id": 2062,
+    "timediff": 6.246,
+    "timediff_human": "0:00:06.246000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965843603,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "print(\"Halo Dunia!\")",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:57:24.992",
+    "id": 2063,
+    "timediff": 8.322,
+    "timediff_human": "0:00:08.322000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965845300,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "print(\"Halo Dunia!\")",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:57:26.497",
+    "id": 2064,
+    "timediff": 1.505,
+    "timediff_human": "0:00:01.505000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965849748,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "print(\"Halo Dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-31T02:57:31.522",
+    "id": 2065,
+    "timediff": 5.025,
+    "timediff_human": "0:00:05.025000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965857725,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:57:39.131",
+    "id": 2066,
+    "timediff": 7.609,
+    "timediff_human": "0:00:07.609000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965871938,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:57:53.369",
+    "id": 2067,
+    "timediff": 14.238,
+    "timediff_human": "0:00:14.238000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965893261,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:58:14.7",
+    "id": 2068,
+    "timediff": 21.331,
+    "timediff_human": "0:00:21.331000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965897744,
+      "route": "/learn/python-dasar:-control/lesson/2",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:58:18.949",
+    "id": 2069,
+    "timediff": 4.249,
+    "timediff_human": "0:00:04.249000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653965909970,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/35",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:58:31.399",
+    "id": 2070,
+    "timediff": 12.45,
+    "timediff_human": "0:00:12.450000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653966201281,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T03:03:22.698",
+    "id": 2071,
+    "timediff": 291.299,
+    "timediff_human": "0:04:51.299000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653966201307,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T03:03:22.937",
+    "id": 2072,
+    "timediff": 0.239,
+    "timediff_human": "0:00:00.239000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653966337376,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T03:05:38.781",
+    "id": 2073,
+    "timediff": 135.844,
+    "timediff_human": "0:02:15.844000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653966337392,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T03:05:39.03",
+    "id": 2074,
+    "timediff": 0.249,
+    "timediff_human": "0:00:00.249000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653966414302,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T03:06:55.724",
+    "id": 2075,
+    "timediff": 76.694,
+    "timediff_human": "0:01:16.694000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653966414326,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T03:06:55.979",
+    "id": 2076,
+    "timediff": 0.255,
+    "timediff_human": "0:00:00.255000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653966501847,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T03:08:23.277",
+    "id": 2077,
+    "timediff": 87.298,
+    "timediff_human": "0:01:27.298000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653966501881,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T03:08:23.51",
+    "id": 2078,
+    "timediff": 0.233,
+    "timediff_human": "0:00:00.233000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653966585873,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T03:09:47.304",
+    "id": 2080,
+    "timediff": 83.794,
+    "timediff_human": "0:01:23.794000"
+  },
+  {
+    "name": "Bernadus adwitiya darma",
+    "details": {
+      "date": 1653966585898,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T03:09:47.535",
+    "id": 2081,
+    "timediff": 0.231,
+    "timediff_human": "0:00:00.231000"
+  }
+]

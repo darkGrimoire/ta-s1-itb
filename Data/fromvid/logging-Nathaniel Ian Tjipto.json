@@ -1,0 +1,194 @@
+[
+  {
+    "name": "Nathaniel Ian Tjipto",
+    "details": {
+      "date": 1653812399912,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/3",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-29T15:19:59.912",
+    "id": 249,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "Nathaniel Ian Tjipto",
+    "details": {
+      "date": 1653812478752,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T15:21:18.752",
+    "id": 255,
+    "timediff": 78.84,
+    "timediff_human": "0:01:18.840000"
+  },
+  {
+    "name": "Nathaniel Ian Tjipto",
+    "details": {
+      "date": 1653812522627,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T15:22:02.627",
+    "id": 259,
+    "timediff": 43.875,
+    "timediff_human": "0:00:43.875000"
+  },
+  {
+    "name": "Nathaniel Ian Tjipto",
+    "details": {
+      "date": 1653812941088,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/5",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T15:29:01.088",
+    "id": 278,
+    "timediff": 418.461,
+    "timediff_human": "0:06:58.461000"
+  },
+  {
+    "name": "Nathaniel Ian Tjipto",
+    "details": {
+      "date": 1653815563262,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/20",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T16:12:43.262",
+    "id": 285,
+    "timediff": 2622.174,
+    "timediff_human": "0:43:42.174000"
+  },
+  {
+    "name": "Nathaniel Ian Tjipto",
+    "details": {
+      "date": 1653815576371,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/20",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T16:12:56.371",
+    "id": 287,
+    "timediff": 13.109,
+    "timediff_human": "0:00:13.109000"
+  },
+  {
+    "name": "Nathaniel Ian Tjipto",
+    "details": {
+      "date": 1653815614345,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/20",
+      "user_event": "visualizer_click_prev"
+    },
+    "createdAt": "2022-05-29T16:13:34.345",
+    "id": 290,
+    "timediff": 37.974,
+    "timediff_human": "0:00:37.974000"
+  },
+  {
+    "name": "Nathaniel Ian Tjipto",
+    "details": {
+      "date": 1653815626974,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/21",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T16:13:46.974",
+    "id": 293,
+    "timediff": 12.629,
+    "timediff_human": "0:00:12.629000"
+  },
+  {
+    "name": "Nathaniel Ian Tjipto",
+    "details": {
+      "date": 1653815724634,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/21",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T16:15:24.634",
+    "id": 302,
+    "timediff": 97.66,
+    "timediff_human": "0:01:37.660000"
+  },
+  {
+    "name": "Nathaniel Ian Tjipto",
+    "details": {
+      "date": 1653815737199,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T16:15:37.199",
+    "id": 305,
+    "timediff": 12.565,
+    "timediff_human": "0:00:12.565000"
+  },
+  {
+    "name": "Nathaniel Ian Tjipto",
+    "details": {
+      "date": 1653815762412,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/21",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T16:16:02.412",
+    "id": 311,
+    "timediff": 25.213,
+    "timediff_human": "0:00:25.213000"
+  },
+  {
+    "name": "Nathaniel Ian Tjipto",
+    "details": {
+      "date": 1653815783030,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/21",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T16:16:23.030",
+    "id": 313,
+    "timediff": 20.618,
+    "timediff_human": "0:00:20.618000"
+  },
+  {
+    "name": "Nathaniel Ian Tjipto",
+    "details": {
+      "date": 1653815806976,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T16:16:46.976",
+    "id": 316,
+    "timediff": 23.946,
+    "timediff_human": "0:00:23.946000"
+  },
+  {
+    "name": "Nathaniel Ian Tjipto",
+    "details": {
+      "date": 1653815899214,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T16:18:19.214",
+    "id": 318,
+    "timediff": 92.238,
+    "timediff_human": "0:01:32.238000"
+  },
+  {
+    "name": "Nathaniel Ian Tjipto",
+    "details": {
+      "date": 1653816087906,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/24",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-29T16:21:27.906",
+    "id": 321,
+    "timediff": 188.692,
+    "timediff_human": "0:03:08.692000"
+  },
+  {
+    "name": "Nathaniel Ian Tjipto",
+    "details": {
+      "date": 1653816735425,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/25",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-29T16:32:15.425",
+    "id": 335,
+    "timediff": 647.519,
+    "timediff_human": "0:10:47.519000"
+  }
+]

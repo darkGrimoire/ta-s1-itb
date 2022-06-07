@@ -1,0 +1,86 @@
+[
+  {
+    "name": "Marzuli Suhada",
+    "details": {
+      "date": 1653818589337,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/27",
+      "answer": "true",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T00:05:54.721",
+    "id": 1,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "Marzuli Suhada",
+    "details": {
+      "date": 1653885247578,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:31:17.08",
+    "id": 938,
+    "timediff": 15922.359,
+    "timediff_human": "4:25:22.359000"
+  },
+  {
+    "name": "Marzuli Suhada",
+    "details": {
+      "date": 1653885274202,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "program": "#menghasilkan true\nprint(15 == 15)\n# menghasilkan false\nprint(15 != 15)\n# menghasilkan true, karena kurang dari sama dengan\nprint(15 <= 15)\n# menghasilkan false\nprint(15 < 15)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:31:40.251",
+    "id": 939,
+    "timediff": 23.171,
+    "timediff_human": "0:00:23.171000"
+  },
+  {
+    "name": "Marzuli Suhada",
+    "details": {
+      "date": 1653885274481,
+      "input": [
+        "8\\n5"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "program": "a = int(input())\nb = int(input())\n\nif (a >= b):\n    print(str(a) + \" lebih besar atau sama dengan \" + str(b))\nelse:\n    print(str(a) + \" lebih kecil daripada \" + str(b))",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:31:40.51",
+    "id": 940,
+    "timediff": 0.259,
+    "timediff_human": "0:00:00.259000"
+  },
+  {
+    "name": "Marzuli Suhada",
+    "details": {
+      "date": 1653885274501,
+      "input": [
+        "10",
+        "21"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "program": "# Dapatkan a dan b melalui input\na = int(input())\nb = int(input())\n\n# Berikut hasil penggunaan operator-operator yang disebutkan\nhasil_sama_dengan = a == b\nhasil_tidak_sama = a != b\nhasil_lebih_besar = a > b\nhasil_lebih_kecil = a < b\nhasil_lebih_besar_sama_dengan = a >= b\nhasil_lebih_kecil_sama_dengan = a <= b",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:31:40.782",
+    "id": 941,
+    "timediff": 0.272,
+    "timediff_human": "0:00:00.272000"
+  },
+  {
+    "name": "Marzuli Suhada",
+    "details": {
+      "date": 1653885274521,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "program": "a = 5\nb = 15\n# menghasilkan true\nprint(a < 13)\n# menghasilkan false\nprint(a == 3)\n# Operator aritmatika akan didahulukan sebelum operator relasional\nprint(a * 3 == b)\n# menghasilkan true\nprint(a + 10 == b)\n# menghasilkan true",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:31:41.034",
+    "id": 942,
+    "timediff": 0.252,
+    "timediff_human": "0:00:00.252000"
+  }
+]

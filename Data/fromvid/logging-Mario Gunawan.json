@@ -1,0 +1,38 @@
+[
+  {
+    "name": "Mario Gunawan",
+    "details": {
+      "date": 1653802990757,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/3",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-29T12:43:10.757",
+    "id": 1,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "Mario Gunawan",
+    "details": {
+      "date": 1653808372715,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/15",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-29T14:12:52.715",
+    "id": 201,
+    "timediff": 5381.958,
+    "timediff_human": "1:29:41.958000"
+  },
+  {
+    "name": "Mario Gunawan",
+    "details": {
+      "date": 1653808956290,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/23",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T14:22:36.290",
+    "id": 207,
+    "timediff": 583.575,
+    "timediff_human": "0:09:43.575000"
+  }
+]

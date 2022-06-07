@@ -1,0 +1,1881 @@
+[
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963071848,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/28",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:11:10.571",
+    "id": 1697,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963110414,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:11:49.143",
+    "id": 1699,
+    "timediff": 38.572,
+    "timediff_human": "0:00:38.572000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963110446,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:11:49.154",
+    "id": 1700,
+    "timediff": 0.011,
+    "timediff_human": "0:00:00.011000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963130812,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:12:09.569",
+    "id": 1701,
+    "timediff": 20.415,
+    "timediff_human": "0:00:20.415000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963130835,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:12:09.572",
+    "id": 1702,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963165498,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:12:44.237",
+    "id": 1705,
+    "timediff": 34.665,
+    "timediff_human": "0:00:34.665000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963165518,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:12:44.241",
+    "id": 1706,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963211588,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/28",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:13:30.344",
+    "id": 1707,
+    "timediff": 46.103,
+    "timediff_human": "0:00:46.103000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963211617,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/28",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:13:30.347",
+    "id": 1708,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963294469,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:14:54.081",
+    "id": 1709,
+    "timediff": 83.734,
+    "timediff_human": "0:01:23.734000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963294494,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:14:54.111",
+    "id": 1710,
+    "timediff": 0.03,
+    "timediff_human": "0:00:00.030000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963398486,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:16:38.097",
+    "id": 1711,
+    "timediff": 103.986,
+    "timediff_human": "0:01:43.986000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963398462,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:16:38.103",
+    "id": 1712,
+    "timediff": 0.006,
+    "timediff_human": "0:00:00.006000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963510387,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:18:29.163",
+    "id": 1715,
+    "timediff": 111.06,
+    "timediff_human": "0:01:51.060000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963510416,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:18:29.406",
+    "id": 1716,
+    "timediff": 0.243,
+    "timediff_human": "0:00:00.243000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963549072,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:19:07.802",
+    "id": 1717,
+    "timediff": 38.396,
+    "timediff_human": "0:00:38.396000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963549101,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:19:07.816",
+    "id": 1718,
+    "timediff": 0.014,
+    "timediff_human": "0:00:00.014000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963550728,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:19:09.232",
+    "id": 1719,
+    "timediff": 1.416,
+    "timediff_human": "0:00:01.416000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963567153,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "answer": "Menampilkan sesuatu pada program",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T02:19:25.873",
+    "id": 1720,
+    "timediff": 16.641,
+    "timediff_human": "0:00:16.641000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963571452,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:19:29.993",
+    "id": 1721,
+    "timediff": 4.12,
+    "timediff_human": "0:00:04.120000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963571473,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:19:30.046",
+    "id": 1722,
+    "timediff": 0.053,
+    "timediff_human": "0:00:00.053000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963573013,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:19:31.728",
+    "id": 1723,
+    "timediff": 1.682,
+    "timediff_human": "0:00:01.682000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963581154,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "answer": 3,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T02:19:39.946",
+    "id": 1724,
+    "timediff": 8.218,
+    "timediff_human": "0:00:08.218000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963583954,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:19:42.498",
+    "id": 1725,
+    "timediff": 2.552,
+    "timediff_human": "0:00:02.552000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963583983,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:19:42.503",
+    "id": 1726,
+    "timediff": 0.005,
+    "timediff_human": "0:00:00.005000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963609977,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "print(\"Halo Dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-31T02:20:08.699",
+    "id": 1727,
+    "timediff": 26.196,
+    "timediff_human": "0:00:26.196000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963625626,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:20:24.348",
+    "id": 1728,
+    "timediff": 15.649,
+    "timediff_human": "0:00:15.649000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963653804,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/35",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:20:52.532",
+    "id": 1729,
+    "timediff": 28.184,
+    "timediff_human": "0:00:28.184000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963784117,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:23:02.855",
+    "id": 1732,
+    "timediff": 130.323,
+    "timediff_human": "0:02:10.323000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963784140,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:23:03.081",
+    "id": 1733,
+    "timediff": 0.226,
+    "timediff_human": "0:00:00.226000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963891072,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:24:49.808",
+    "id": 1746,
+    "timediff": 106.727,
+    "timediff_human": "0:01:46.727000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963891100,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:24:50.041",
+    "id": 1747,
+    "timediff": 0.233,
+    "timediff_human": "0:00:00.233000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963935502,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:25:34.23",
+    "id": 1750,
+    "timediff": 44.189,
+    "timediff_human": "0:00:44.189000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963935525,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:25:34.253",
+    "id": 1751,
+    "timediff": 0.023,
+    "timediff_human": "0:00:00.023000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963968368,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:26:07.107",
+    "id": 1752,
+    "timediff": 32.854,
+    "timediff_human": "0:00:32.854000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653963968396,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:26:07.129",
+    "id": 1753,
+    "timediff": 0.022,
+    "timediff_human": "0:00:00.022000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964007727,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:26:46.444",
+    "id": 1756,
+    "timediff": 39.315,
+    "timediff_human": "0:00:39.315000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964007743,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:26:46.459",
+    "id": 1757,
+    "timediff": 0.015,
+    "timediff_human": "0:00:00.015000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964142564,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:29:01.3",
+    "id": 1770,
+    "timediff": 134.841,
+    "timediff_human": "0:02:14.841000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964142583,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:29:01.52",
+    "id": 1771,
+    "timediff": 0.22,
+    "timediff_human": "0:00:00.220000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964144725,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "program": "x = true\nx = \"abc\"\nx = 5.0\nx = '10'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:29:03.244",
+    "id": 1772,
+    "timediff": 1.724,
+    "timediff_human": "0:00:01.724000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964182465,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "answer": "x = true",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T02:29:41.202",
+    "id": 1783,
+    "timediff": 37.958,
+    "timediff_human": "0:00:37.958000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964186272,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:29:44.793",
+    "id": 1784,
+    "timediff": 3.591,
+    "timediff_human": "0:00:03.591000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964186299,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:29:44.819",
+    "id": 1785,
+    "timediff": 0.026,
+    "timediff_human": "0:00:00.026000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964187721,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:29:46.431",
+    "id": 1786,
+    "timediff": 1.612,
+    "timediff_human": "0:00:01.612000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964197844,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "answer": "float",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T02:29:56.571",
+    "id": 1787,
+    "timediff": 10.14,
+    "timediff_human": "0:00:10.140000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964200450,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:29:58.972",
+    "id": 1788,
+    "timediff": 2.401,
+    "timediff_human": "0:00:02.401000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964200481,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:29:58.992",
+    "id": 1789,
+    "timediff": 0.02,
+    "timediff_human": "0:00:00.020000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964240994,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "program": "x = int(65.5)\r\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:30:39.71",
+    "id": 1801,
+    "timediff": 40.718,
+    "timediff_human": "0:00:40.718000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964244907,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "program": "x = int(65.5)\r\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:30:43.436",
+    "id": 1802,
+    "timediff": 3.726,
+    "timediff_human": "0:00:03.726000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964252013,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "program": "x = int(65.5)\r\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:30:50.725",
+    "id": 1803,
+    "timediff": 7.289,
+    "timediff_human": "0:00:07.289000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964256697,
+      "step": 0,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T02:30:55.213",
+    "id": 1804,
+    "timediff": 4.488,
+    "timediff_human": "0:00:04.488000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964258791,
+      "step": 1,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T02:30:57.509",
+    "id": 1805,
+    "timediff": 2.296,
+    "timediff_human": "0:00:02.296000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964275934,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "program": "x = int(65.5)\r\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:31:14.656",
+    "id": 1806,
+    "timediff": 17.147,
+    "timediff_human": "0:00:17.147000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964278023,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "program": "x = int(65.5)\r\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:31:16.536",
+    "id": 1807,
+    "timediff": 1.88,
+    "timediff_human": "0:00:01.880000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964280212,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "answer": "x = int(65.5)\r\nprint(x)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-31T02:31:18.749",
+    "id": 1808,
+    "timediff": 2.213,
+    "timediff_human": "0:00:02.213000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964287480,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:31:26.21",
+    "id": 1809,
+    "timediff": 7.461,
+    "timediff_human": "0:00:07.461000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964302972,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/46",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:31:41.737",
+    "id": 1810,
+    "timediff": 15.527,
+    "timediff_human": "0:00:15.527000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964637041,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:37:15.777",
+    "id": 1831,
+    "timediff": 334.04,
+    "timediff_human": "0:05:34.040000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964637068,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:37:16.007",
+    "id": 1832,
+    "timediff": 0.23,
+    "timediff_human": "0:00:00.230000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964754870,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:39:13.623",
+    "id": 1838,
+    "timediff": 117.616,
+    "timediff_human": "0:01:57.616000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964754907,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:39:13.91",
+    "id": 1839,
+    "timediff": 0.287,
+    "timediff_human": "0:00:00.287000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964989589,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:43:08.329",
+    "id": 1869,
+    "timediff": 234.419,
+    "timediff_human": "0:03:54.419000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964989616,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:43:08.564",
+    "id": 1870,
+    "timediff": 0.235,
+    "timediff_human": "0:00:00.235000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653964991391,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:43:09.913",
+    "id": 1871,
+    "timediff": 1.349,
+    "timediff_human": "0:00:01.349000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965004086,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:43:22.808",
+    "id": 1873,
+    "timediff": 12.895,
+    "timediff_human": "0:00:12.895000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965017713,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "program": "print()",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:43:36.454",
+    "id": 1875,
+    "timediff": 13.646,
+    "timediff_human": "0:00:13.646000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965024225,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "program": "print(20+15*)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:43:42.962",
+    "id": 1876,
+    "timediff": 6.508,
+    "timediff_human": "0:00:06.508000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965026588,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "program": "print(20+15*3)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:43:45.106",
+    "id": 1877,
+    "timediff": 2.144,
+    "timediff_human": "0:00:02.144000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965037963,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "program": "x=20+15*3",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:43:56.685",
+    "id": 1880,
+    "timediff": 11.579,
+    "timediff_human": "0:00:11.579000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965039475,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "program": "x=20+15*3",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:43:57.993",
+    "id": 1881,
+    "timediff": 1.308,
+    "timediff_human": "0:00:01.308000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965045853,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "program": "x=20+15*3\r\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:44:04.564",
+    "id": 1884,
+    "timediff": 6.571,
+    "timediff_human": "0:00:06.571000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965046851,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "program": "x=20+15*3\r\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:44:05.379",
+    "id": 1885,
+    "timediff": 0.815,
+    "timediff_human": "0:00:00.815000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965049990,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "program": "x=20+15*3\r\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:44:08.536",
+    "id": 1887,
+    "timediff": 3.157,
+    "timediff_human": "0:00:03.157000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965052126,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "program": "x=20+15*3\r\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:44:10.837",
+    "id": 1888,
+    "timediff": 2.301,
+    "timediff_human": "0:00:02.301000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965054786,
+      "step": 0,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T02:44:13.308",
+    "id": 1889,
+    "timediff": 2.471,
+    "timediff_human": "0:00:02.471000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965060769,
+      "step": 1,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T02:44:19.491",
+    "id": 1892,
+    "timediff": 6.183,
+    "timediff_human": "0:00:06.183000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965067185,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "answer": 65,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T02:44:26.204",
+    "id": 1893,
+    "timediff": 6.713,
+    "timediff_human": "0:00:06.713000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965070550,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:44:29.093",
+    "id": 1895,
+    "timediff": 2.889,
+    "timediff_human": "0:00:02.889000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965070571,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:44:29.097",
+    "id": 1896,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965071955,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:44:30.471",
+    "id": 1897,
+    "timediff": 1.374,
+    "timediff_human": "0:00:01.374000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965086972,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:44:45.708",
+    "id": 1899,
+    "timediff": 15.237,
+    "timediff_human": "0:00:15.237000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965093821,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "program": "print",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:44:52.545",
+    "id": 1900,
+    "timediff": 6.837,
+    "timediff_human": "0:00:06.837000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965098329,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "program": "print(5!=)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:44:56.844",
+    "id": 1901,
+    "timediff": 4.299,
+    "timediff_human": "0:00:04.299000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965103562,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "program": "print(5!=6==6)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:45:02.307",
+    "id": 1903,
+    "timediff": 5.463,
+    "timediff_human": "0:00:05.463000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965118989,
+      "step": 0,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T02:45:17.709",
+    "id": 1914,
+    "timediff": 15.402,
+    "timediff_human": "0:00:15.402000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965122358,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T02:45:20.882",
+    "id": 1915,
+    "timediff": 3.173,
+    "timediff_human": "0:00:03.173000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965127512,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:45:26.239",
+    "id": 1916,
+    "timediff": 5.357,
+    "timediff_human": "0:00:05.357000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965127561,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:45:26.645",
+    "id": 1917,
+    "timediff": 0.406,
+    "timediff_human": "0:00:00.406000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965129076,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:45:27.59",
+    "id": 1918,
+    "timediff": 0.945,
+    "timediff_human": "0:00:00.945000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965158936,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:45:57.658",
+    "id": 1929,
+    "timediff": 30.068,
+    "timediff_human": "0:00:30.068000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965163854,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "program": "print()",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:46:02.377",
+    "id": 1930,
+    "timediff": 4.719,
+    "timediff_human": "0:00:04.719000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965170678,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "program": "print(False and False)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:46:09.393",
+    "id": 1934,
+    "timediff": 7.016,
+    "timediff_human": "0:00:07.016000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965178121,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "program": "print((False and False)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:46:16.839",
+    "id": 1942,
+    "timediff": 7.446,
+    "timediff_human": "0:00:07.446000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965187093,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "program": "print((False and False) or (True and True))",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:46:25.828",
+    "id": 1943,
+    "timediff": 8.989,
+    "timediff_human": "0:00:08.989000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965188296,
+      "step": 0,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T02:46:26.812",
+    "id": 1944,
+    "timediff": 0.984,
+    "timediff_human": "0:00:00.984000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965190869,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T02:46:29.387",
+    "id": 1945,
+    "timediff": 2.575,
+    "timediff_human": "0:00:02.575000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965194130,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:46:32.861",
+    "id": 1946,
+    "timediff": 3.474,
+    "timediff_human": "0:00:03.474000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965194164,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T02:46:33.073",
+    "id": 1947,
+    "timediff": 0.212,
+    "timediff_human": "0:00:00.212000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965236102,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "program": "a=15\r\nb=30\r\njumlah = a+b\r\nprint(jumlah)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:47:14.828",
+    "id": 1958,
+    "timediff": 41.755,
+    "timediff_human": "0:00:41.755000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965238602,
+      "step": 0,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T02:47:17.141",
+    "id": 1959,
+    "timediff": 2.313,
+    "timediff_human": "0:00:02.313000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965239290,
+      "step": 1,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T02:47:17.806",
+    "id": 1960,
+    "timediff": 0.665,
+    "timediff_human": "0:00:00.665000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965239990,
+      "step": 2,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T02:47:18.518",
+    "id": 1961,
+    "timediff": 0.712,
+    "timediff_human": "0:00:00.712000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965240884,
+      "step": 3,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T02:47:19.408",
+    "id": 1962,
+    "timediff": 0.89,
+    "timediff_human": "0:00:00.890000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965245598,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "program": "a=15\r\nb=30\r\njumlah = a+b\r\nprint(jumlah)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T02:47:24.328",
+    "id": 1963,
+    "timediff": 4.92,
+    "timediff_human": "0:00:04.920000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965248081,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "answer": "a=15\r\nb=30\r\njumlah = a+b\r\nprint(jumlah)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-31T02:47:26.602",
+    "id": 1964,
+    "timediff": 2.274,
+    "timediff_human": "0:00:02.274000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653965252198,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/4",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T02:47:30.94",
+    "id": 1965,
+    "timediff": 4.338,
+    "timediff_human": "0:00:04.338000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966564197,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T03:09:23.47",
+    "id": 2079,
+    "timediff": 1312.53,
+    "timediff_human": "0:21:52.530000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966589630,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "program": "a = int(input(15))",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T03:09:48.372",
+    "id": 2082,
+    "timediff": 24.902,
+    "timediff_human": "0:00:24.902000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966592496,
+      "step": 0,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T03:09:51.1",
+    "id": 2083,
+    "timediff": 2.728,
+    "timediff_human": "0:00:02.728000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966607928,
+      "input": [
+        "14"
+      ],
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "program": "a = int(input())",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T03:10:06.666",
+    "id": 2084,
+    "timediff": 15.566,
+    "timediff_human": "0:00:15.566000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966617857,
+      "input": [
+        "15"
+      ],
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "program": "a = int(input())",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T03:10:16.619",
+    "id": 2085,
+    "timediff": 9.953,
+    "timediff_human": "0:00:09.953000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966632202,
+      "input": [
+        "15"
+      ],
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "program": "a = int(input())\r\nb = int(input())",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T03:10:30.93",
+    "id": 2086,
+    "timediff": 14.311,
+    "timediff_human": "0:00:14.311000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966635712,
+      "input": [
+        "1"
+      ],
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "program": "a = int(input())\r\nb = int(input())",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T03:10:34.235",
+    "id": 2087,
+    "timediff": 3.305,
+    "timediff_human": "0:00:03.305000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966637164,
+      "input": [
+        "15",
+        ""
+      ],
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "program": "a = int(input())\r\nb = int(input())",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T03:10:35.691",
+    "id": 2088,
+    "timediff": 1.456,
+    "timediff_human": "0:00:01.456000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966641094,
+      "input": [
+        "15",
+        "30"
+      ],
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "program": "a = int(input())\r\nb = int(input())",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T03:10:39.832",
+    "id": 2089,
+    "timediff": 4.141,
+    "timediff_human": "0:00:04.141000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966646090,
+      "input": [
+        "15",
+        "30"
+      ],
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "program": "a = int(input())\r\nb = int(input())\r\n",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T03:10:44.622",
+    "id": 2090,
+    "timediff": 4.79,
+    "timediff_human": "0:00:04.790000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966657697,
+      "input": [
+        "15",
+        "30"
+      ],
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "program": "a = int(input())\r\nb = int(input())\r\njumlah = a+b\r\nprint(jumlah)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T03:10:56.473",
+    "id": 2091,
+    "timediff": 11.851,
+    "timediff_human": "0:00:11.851000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966659299,
+      "step": 0,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T03:10:57.827",
+    "id": 2092,
+    "timediff": 1.354,
+    "timediff_human": "0:00:01.354000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966660210,
+      "step": 1,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T03:10:58.738",
+    "id": 2093,
+    "timediff": 0.911,
+    "timediff_human": "0:00:00.911000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966660849,
+      "step": 2,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T03:10:59.378",
+    "id": 2094,
+    "timediff": 0.64,
+    "timediff_human": "0:00:00.640000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966661509,
+      "step": 3,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T03:11:00.047",
+    "id": 2095,
+    "timediff": 0.669,
+    "timediff_human": "0:00:00.669000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966666295,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "answer": "a = int(input())\r\nb = int(input())\r\njumlah = a+b\r\nprint(jumlah)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-31T03:11:05.632",
+    "id": 2096,
+    "timediff": 5.585,
+    "timediff_human": "0:00:05.585000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966669646,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "answer": "a = int(input())\r\nb = int(input())\r\njumlah = a+b\r\nprint(jumlah)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-31T03:11:08.32",
+    "id": 2097,
+    "timediff": 2.688,
+    "timediff_human": "0:00:02.688000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966686264,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "answer": "a = 15\r\nb = 30\r\njumlah = a+b\r\nprint(jumlah)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-31T03:11:25.005",
+    "id": 2098,
+    "timediff": 16.685,
+    "timediff_human": "0:00:16.685000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966690907,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/4",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T03:11:29.442",
+    "id": 2099,
+    "timediff": 4.437,
+    "timediff_human": "0:00:04.437000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966712448,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/46",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T03:11:51.229",
+    "id": 2100,
+    "timediff": 21.787,
+    "timediff_human": "0:00:21.787000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966717690,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T03:11:56.454",
+    "id": 2101,
+    "timediff": 5.225,
+    "timediff_human": "0:00:05.225000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966717755,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T03:11:56.489",
+    "id": 2102,
+    "timediff": 0.035,
+    "timediff_human": "0:00:00.035000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966721274,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T03:11:59.842",
+    "id": 2103,
+    "timediff": 3.353,
+    "timediff_human": "0:00:03.353000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966721332,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T03:11:59.863",
+    "id": 2104,
+    "timediff": 0.021,
+    "timediff_human": "0:00:00.021000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966723886,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T03:12:02.645",
+    "id": 2105,
+    "timediff": 2.782,
+    "timediff_human": "0:00:02.782000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966723917,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T03:12:02.682",
+    "id": 2106,
+    "timediff": 0.037,
+    "timediff_human": "0:00:00.037000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966725933,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T03:12:04.483",
+    "id": 2107,
+    "timediff": 1.801,
+    "timediff_human": "0:00:01.801000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966733836,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "answer": 65,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T03:12:12.568",
+    "id": 2108,
+    "timediff": 8.085,
+    "timediff_human": "0:00:08.085000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966737140,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T03:12:15.678",
+    "id": 2109,
+    "timediff": 3.11,
+    "timediff_human": "0:00:03.110000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966737165,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T03:12:15.694",
+    "id": 2110,
+    "timediff": 0.016,
+    "timediff_human": "0:00:00.016000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966738985,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T03:12:17.508",
+    "id": 2111,
+    "timediff": 1.814,
+    "timediff_human": "0:00:01.814000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966743721,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T03:12:22.47",
+    "id": 2112,
+    "timediff": 4.962,
+    "timediff_human": "0:00:04.962000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966746423,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T03:12:24.957",
+    "id": 2113,
+    "timediff": 2.487,
+    "timediff_human": "0:00:02.487000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966746450,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T03:12:24.986",
+    "id": 2114,
+    "timediff": 0.029,
+    "timediff_human": "0:00:00.029000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966747948,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T03:12:26.53",
+    "id": 2115,
+    "timediff": 1.544,
+    "timediff_human": "0:00:01.544000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966752551,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T03:12:31.296",
+    "id": 2116,
+    "timediff": 4.766,
+    "timediff_human": "0:00:04.766000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966756016,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T03:12:34.556",
+    "id": 2117,
+    "timediff": 3.26,
+    "timediff_human": "0:00:03.260000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966756039,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T03:12:34.573",
+    "id": 2118,
+    "timediff": 0.017,
+    "timediff_human": "0:00:00.017000"
+  },
+  {
+    "name": "Grace Trinita Lamtiur Simatupang",
+    "details": {
+      "date": 1653966761287,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/4",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T03:12:40.058",
+    "id": 2119,
+    "timediff": 5.485,
+    "timediff_human": "0:00:05.485000"
+  }
+]

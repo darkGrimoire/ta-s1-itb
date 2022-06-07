@@ -1,0 +1,3986 @@
+[
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653901957356,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/3",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:12:38.523",
+    "id": 1075,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902274075,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:17:55.221",
+    "id": 1093,
+    "timediff": 316.698,
+    "timediff_human": "0:05:16.698000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902274105,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:17:55.25",
+    "id": 1094,
+    "timediff": 0.029,
+    "timediff_human": "0:00:00.029000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902276974,
+      "input": [
+        "Halo"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:17:57.119",
+    "id": 1095,
+    "timediff": 1.869,
+    "timediff_human": "0:00:01.869000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902314148,
+      "input": [
+        "Halo"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:18:34.946",
+    "id": 1096,
+    "timediff": 37.827,
+    "timediff_human": "0:00:37.827000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902340164,
+      "input": [
+        "Halo"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input(halo)\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:19:00.752",
+    "id": 1097,
+    "timediff": 25.806,
+    "timediff_human": "0:00:25.806000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902343593,
+      "input": [
+        "Halo!"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input(halo)\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:19:03.728",
+    "id": 1098,
+    "timediff": 2.976,
+    "timediff_human": "0:00:02.976000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902348745,
+      "input": [
+        "Halo!"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input(halo)\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:19:09.154",
+    "id": 1099,
+    "timediff": 5.426,
+    "timediff_human": "0:00:05.426000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902357932,
+      "input": [
+        "Halo!"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:19:18.548",
+    "id": 1100,
+    "timediff": 9.394,
+    "timediff_human": "0:00:09.394000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902427588,
+      "input": [
+        "Halo!"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:20:27.943",
+    "id": 1101,
+    "timediff": 69.395,
+    "timediff_human": "0:01:09.395000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902427825,
+      "input": [
+        "Halo!"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:20:27.978",
+    "id": 1102,
+    "timediff": 0.035,
+    "timediff_human": "0:00:00.035000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902434275,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:20:35.419",
+    "id": 1103,
+    "timediff": 7.441,
+    "timediff_human": "0:00:07.441000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902448377,
+      "input": [
+        "hallo worl"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:20:48.731",
+    "id": 1104,
+    "timediff": 13.312,
+    "timediff_human": "0:00:13.312000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902449576,
+      "input": [
+        "hallo world"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:20:49.717",
+    "id": 1105,
+    "timediff": 0.986,
+    "timediff_human": "0:00:00.986000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902451498,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:20:51.641",
+    "id": 1106,
+    "timediff": 1.924,
+    "timediff_human": "0:00:01.924000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902461864,
+      "input": [
+        "hallo world"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)\npritnt()",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:21:02.219",
+    "id": 1107,
+    "timediff": 10.578,
+    "timediff_human": "0:00:10.578000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902465743,
+      "input": [
+        "hallo world"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)\npritnt(y)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:21:05.885",
+    "id": 1108,
+    "timediff": 3.666,
+    "timediff_human": "0:00:03.666000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902471170,
+      "input": [
+        "hallo world"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\ny \n# OUTPUT = Tampilkan isi variabel x\nprint(x)\npritnt(y)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:21:11.527",
+    "id": 1109,
+    "timediff": 5.642,
+    "timediff_human": "0:00:05.642000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902475887,
+      "input": [
+        "hallo world"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\ny = y +\n# OUTPUT = Tampilkan isi variabel x\nprint(x)\npritnt(y)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:21:16.028",
+    "id": 1110,
+    "timediff": 4.501,
+    "timediff_human": "0:00:04.501000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902480870,
+      "input": [
+        "hallo world"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\ny = y + \"?\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)\npritnt(y)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:21:21.223",
+    "id": 1111,
+    "timediff": 5.195,
+    "timediff_human": "0:00:05.195000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902489735,
+      "input": [
+        "hallo world"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\ny = input ()\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\ny = y + \"?\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)\npritnt(y)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:21:30.094",
+    "id": 1112,
+    "timediff": 8.871,
+    "timediff_human": "0:00:08.871000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902500741,
+      "input": [
+        "hallo world",
+        "how are yo"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\ny = input ()\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\ny = y + \"?\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)\npritnt(y)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:21:41.103",
+    "id": 1113,
+    "timediff": 11.009,
+    "timediff_human": "0:00:11.009000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902502208,
+      "input": [
+        "hallo world",
+        "how are you"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\ny = input ()\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\ny = y + \"?\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)\npritnt(y)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:21:42.362",
+    "id": 1114,
+    "timediff": 1.259,
+    "timediff_human": "0:00:01.259000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902502720,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:21:42.867",
+    "id": 1115,
+    "timediff": 0.505,
+    "timediff_human": "0:00:00.505000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902519573,
+      "input": [
+        "hallo world"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\ny = input ()\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\ny = y + \"?\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)\npritnt(y)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:21:59.919",
+    "id": 1116,
+    "timediff": 17.052,
+    "timediff_human": "0:00:17.052000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902527867,
+      "input": [
+        "hallo world"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\ny = input (\"How are you\")\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\ny = y + \"?\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)\npritnt(y)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:22:08.222",
+    "id": 1117,
+    "timediff": 8.303,
+    "timediff_human": "0:00:08.303000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902528510,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:22:08.646",
+    "id": 1118,
+    "timediff": 0.424,
+    "timediff_human": "0:00:00.424000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902544781,
+      "input": [
+        "hallo world"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\ny = y + \"?\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)\npritnt(y)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:22:25.529",
+    "id": 1119,
+    "timediff": 16.883,
+    "timediff_human": "0:00:16.883000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902548945,
+      "input": [
+        "hallo world"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\n\n# OUTPUT = Tampilkan isi variabel x\nprint(x)\npritnt(y)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:22:29.091",
+    "id": 1120,
+    "timediff": 3.562,
+    "timediff_human": "0:00:03.562000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902556471,
+      "input": [
+        "hallo world"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\n\n# OUTPUT = Tampilkan isi variabel x\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:22:36.823",
+    "id": 1121,
+    "timediff": 7.732,
+    "timediff_human": "0:00:07.732000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902558844,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:22:38.99",
+    "id": 1122,
+    "timediff": 2.167,
+    "timediff_human": "0:00:02.167000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902563656,
+      "input": [
+        "hello world"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\n\n# OUTPUT = Tampilkan isi variabel x\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:22:44.01",
+    "id": 1123,
+    "timediff": 5.02,
+    "timediff_human": "0:00:05.020000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902572994,
+      "input": [
+        "hello world"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\n\n# OUTPUT = Tampilkan isi variabel x\nprint(x)\nprint (x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:22:53.337",
+    "id": 1124,
+    "timediff": 9.327,
+    "timediff_human": "0:00:09.327000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902577951,
+      "input": [
+        "hello world"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\ny \n\n# OUTPUT = Tampilkan isi variabel x\nprint(x)\nprint (x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:22:58.09",
+    "id": 1125,
+    "timediff": 4.753,
+    "timediff_human": "0:00:04.753000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902585566,
+      "input": [
+        "hello world"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\ny = x + \"?\"\n\n# OUTPUT = Tampilkan isi variabel x\nprint(x)\nprint (x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:23:05.916",
+    "id": 1126,
+    "timediff": 7.826,
+    "timediff_human": "0:00:07.826000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902589280,
+      "input": [
+        "hello world"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\ny = x + \"?\"\n\n# OUTPUT = Tampilkan isi variabel x\nprint(x)\nprint (y)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:23:09.419",
+    "id": 1127,
+    "timediff": 3.503,
+    "timediff_human": "0:00:03.503000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902589864,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:23:10.006",
+    "id": 1128,
+    "timediff": 0.587,
+    "timediff_human": "0:00:00.587000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902603528,
+      "input": [
+        "hello world"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\n\n# OUTPUT = Tampilkan isi variabel x\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:23:23.884",
+    "id": 1129,
+    "timediff": 13.878,
+    "timediff_human": "0:00:13.878000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902605539,
+      "input": [
+        "hello world"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\n\n# OUTPUT = Tampilkan isi variabel x\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:23:25.677",
+    "id": 1130,
+    "timediff": 1.793,
+    "timediff_human": "0:00:01.793000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902606215,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:23:26.349",
+    "id": 1131,
+    "timediff": 0.672,
+    "timediff_human": "0:00:00.672000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902615101,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:23:36.349",
+    "id": 1132,
+    "timediff": 10.0,
+    "timediff_human": "0:00:10"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902615162,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:23:36.392",
+    "id": 1133,
+    "timediff": 0.043,
+    "timediff_human": "0:00:00.043000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902617982,
+      "input": [
+        "3",
+        "5"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "program": "# INPUT = Meminta masukkan berupa 2 bilangan bulat positif\n# lalu masukkan pada variabel A dan B\nA = int(input())\nB = int(input())\n\n# PROSES = Jumlahkan A dan B kemudian masukkan hasilnya ke dalam variabel A\nA = A + B\n\n# OUTPUT = Tampilkan kedua variabel setelah dilakukan proses penjumlahan\nprint(A)\nprint(B)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:23:38.118",
+    "id": 1134,
+    "timediff": 1.726,
+    "timediff_human": "0:00:01.726000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902691221,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:24:52.563",
+    "id": 1143,
+    "timediff": 74.445,
+    "timediff_human": "0:01:14.445000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902696451,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:24:57.663",
+    "id": 1144,
+    "timediff": 5.1,
+    "timediff_human": "0:00:05.100000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902697211,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:24:58.58",
+    "id": 1145,
+    "timediff": 0.917,
+    "timediff_human": "0:00:00.917000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902699480,
+      "step": 3,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:24:59.699",
+    "id": 1146,
+    "timediff": 1.119,
+    "timediff_human": "0:00:01.119000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902700095,
+      "step": 4,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:25:00.309",
+    "id": 1147,
+    "timediff": 0.61,
+    "timediff_human": "0:00:00.610000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902706230,
+      "step": 5,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "visualizer_click_prev"
+    },
+    "createdAt": "2022-05-30T09:25:09.094",
+    "id": 1148,
+    "timediff": 8.785,
+    "timediff_human": "0:00:08.785000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902730565,
+      "input": [
+        "4",
+        "5"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "program": "# INPUT = Meminta masukkan berupa 2 bilangan bulat positif\n# lalu masukkan pada variabel A dan B\nA = int(input())\nB = int(input())\n\n# PROSES = Jumlahkan A dan B kemudian masukkan hasilnya ke dalam variabel A\nA = A + B\n\n# OUTPUT = Tampilkan kedua variabel setelah dilakukan proses penjumlahan\nprint(A)\nprint(B)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:25:31.161",
+    "id": 1149,
+    "timediff": 22.067,
+    "timediff_human": "0:00:22.067000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902731081,
+      "input": [
+        "4",
+        "5"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "program": "# INPUT = Meminta masukkan berupa 2 bilangan bulat positif\n# lalu masukkan pada variabel A dan B\nA = int(input())\nB = int(input())\n\n# PROSES = Jumlahkan A dan B kemudian masukkan hasilnya ke dalam variabel A\nA = A + B\n\n# OUTPUT = Tampilkan kedua variabel setelah dilakukan proses penjumlahan\nprint(A)\nprint(B)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:25:31.967",
+    "id": 1150,
+    "timediff": 0.806,
+    "timediff_human": "0:00:00.806000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902733495,
+      "input": [
+        "4",
+        "5"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "program": "# INPUT = Meminta masukkan berupa 2 bilangan bulat positif\n# lalu masukkan pada variabel A dan B\nA = int(input())\nB = int(input())\n\n# PROSES = Jumlahkan A dan B kemudian masukkan hasilnya ke dalam variabel A\nA = A + B\n\n# OUTPUT = Tampilkan kedua variabel setelah dilakukan proses penjumlahan\nprint(A)\nprint(B)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:25:33.749",
+    "id": 1151,
+    "timediff": 1.782,
+    "timediff_human": "0:00:01.782000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902733985,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:25:34.159",
+    "id": 1152,
+    "timediff": 0.41,
+    "timediff_human": "0:00:00.410000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902735258,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:25:35.732",
+    "id": 1153,
+    "timediff": 1.573,
+    "timediff_human": "0:00:01.573000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902737796,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:25:38.578",
+    "id": 1154,
+    "timediff": 2.846,
+    "timediff_human": "0:00:02.846000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902744670,
+      "step": 3,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:25:45.876",
+    "id": 1155,
+    "timediff": 7.298,
+    "timediff_human": "0:00:07.298000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902747637,
+      "step": 4,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:25:49.129",
+    "id": 1156,
+    "timediff": 3.253,
+    "timediff_human": "0:00:03.253000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902749373,
+      "step": 5,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "visualizer_click_prev"
+    },
+    "createdAt": "2022-05-30T09:25:49.52",
+    "id": 1157,
+    "timediff": 0.391,
+    "timediff_human": "0:00:00.391000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902759897,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/6",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:26:00.406",
+    "id": 1158,
+    "timediff": 10.886,
+    "timediff_human": "0:00:10.886000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902759934,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/6",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:26:00.651",
+    "id": 1159,
+    "timediff": 0.245,
+    "timediff_human": "0:00:00.245000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902762994,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/6",
+      "program": "# Ini adalah komentar\nprint(5 + 5) # Komentar juga bisa ditaruh di akhir suatu perintah\n# print(100)\n# Program tidak akan mengeluarkan angka 100 karena baris tersebut adalah komentar",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:26:03.146",
+    "id": 1160,
+    "timediff": 2.495,
+    "timediff_human": "0:00:02.495000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902786549,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/6",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:26:27.712",
+    "id": 1161,
+    "timediff": 24.566,
+    "timediff_human": "0:00:24.566000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902791291,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/6",
+      "user_event": "visualizer_click_prev"
+    },
+    "createdAt": "2022-05-30T09:26:31.457",
+    "id": 1162,
+    "timediff": 3.745,
+    "timediff_human": "0:00:03.745000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902802805,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/7",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:26:43.416",
+    "id": 1163,
+    "timediff": 11.959,
+    "timediff_human": "0:00:11.959000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902802855,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/7",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:26:43.657",
+    "id": 1164,
+    "timediff": 0.241,
+    "timediff_human": "0:00:00.241000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902805362,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/7",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:26:45.507",
+    "id": 1165,
+    "timediff": 1.85,
+    "timediff_human": "0:00:01.850000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902815361,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/7",
+      "answer": "Menampilkan sesuatu pada program",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:26:56.51",
+    "id": 1166,
+    "timediff": 11.003,
+    "timediff_human": "0:00:11.003000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902826637,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/8",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:27:07.935",
+    "id": 1167,
+    "timediff": 11.425,
+    "timediff_human": "0:00:11.425000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902826669,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/8",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:27:08.013",
+    "id": 1168,
+    "timediff": 0.078,
+    "timediff_human": "0:00:00.078000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902829319,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/8",
+      "program": "print(1)\nprint(2)\n# print(3)\nprint(4)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:27:09.463",
+    "id": 1169,
+    "timediff": 1.45,
+    "timediff_human": "0:00:01.450000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902839601,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/8",
+      "answer": 3,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:27:20.816",
+    "id": 1170,
+    "timediff": 11.353,
+    "timediff_human": "0:00:11.353000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902844873,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:27:25.409",
+    "id": 1171,
+    "timediff": 4.593,
+    "timediff_human": "0:00:04.593000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902844895,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:27:25.424",
+    "id": 1172,
+    "timediff": 0.015,
+    "timediff_human": "0:00:00.015000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902883929,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "answer": "print(\"Halo Dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:28:05.442",
+    "id": 1173,
+    "timediff": 40.018,
+    "timediff_human": "0:00:40.018000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902891908,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:28:12.315",
+    "id": 1174,
+    "timediff": 6.873,
+    "timediff_human": "0:00:06.873000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902906331,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/10",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:28:27.478",
+    "id": 1175,
+    "timediff": 15.163,
+    "timediff_human": "0:00:15.163000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902909116,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/10",
+      "program": "#Variabel 'nama_lengkap' menyimpan data \"Maskot\"\nnama_lengkap = \"Maskot\"\n\n#Variabel 'umur' menyimpan data angka integer 9\numur = 9\n\n#Variabel 'belajar_kode_bareng' menyimpan data boolean True\nbelajar_kode_bareng = True",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:28:29.256",
+    "id": 1176,
+    "timediff": 1.778,
+    "timediff_human": "0:00:01.778000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902909145,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/10",
+      "program": "# KAMUS (bagian deklarasi)\n# nama_lengkap: string\n# umur : int\n# belajar_kode_bareng : boolean\n\n# ALGORITMA (isi program)\n\nnama_lengkap = \"Maskot\"\numur = 9\nbelajar_kode_bareng = True",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:28:29.281",
+    "id": 1177,
+    "timediff": 0.025,
+    "timediff_human": "0:00:00.025000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902924082,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:28:45.272",
+    "id": 1178,
+    "timediff": 15.991,
+    "timediff_human": "0:00:15.991000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902946406,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/10",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:29:07.954",
+    "id": 1179,
+    "timediff": 22.682,
+    "timediff_human": "0:00:22.682000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902949619,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/10",
+      "program": "#Variabel 'nama_lengkap' menyimpan data \"Maskot\"\nnama_lengkap = \"Maskot\"\n\n#Variabel 'umur' menyimpan data angka integer 9\numur = 9\n\n#Variabel 'belajar_kode_bareng' menyimpan data boolean True\nbelajar_kode_bareng = True",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:29:09.785",
+    "id": 1180,
+    "timediff": 1.831,
+    "timediff_human": "0:00:01.831000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653902949630,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/10",
+      "program": "# KAMUS (bagian deklarasi)\n# nama_lengkap: string\n# umur : int\n# belajar_kode_bareng : boolean\n\n# ALGORITMA (isi program)\n\nnama_lengkap = \"Maskot\"\numur = 9\nbelajar_kode_bareng = True",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:29:09.787",
+    "id": 1181,
+    "timediff": 0.002,
+    "timediff_human": "0:00:00.002000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903021127,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/10",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:30:22.31",
+    "id": 1182,
+    "timediff": 72.523,
+    "timediff_human": "0:01:12.523000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903026640,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/10",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:30:27.193",
+    "id": 1183,
+    "timediff": 4.883,
+    "timediff_human": "0:00:04.883000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903030880,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/10",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:30:31.884",
+    "id": 1184,
+    "timediff": 4.691,
+    "timediff_human": "0:00:04.691000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903164571,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/10",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:32:45.742",
+    "id": 1186,
+    "timediff": 133.858,
+    "timediff_human": "0:02:13.858000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903164667,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/10",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:32:45.83",
+    "id": 1187,
+    "timediff": 0.088,
+    "timediff_human": "0:00:00.088000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903166014,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/10",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:32:46.169",
+    "id": 1188,
+    "timediff": 0.339,
+    "timediff_human": "0:00:00.339000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903174836,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/11",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:32:55.659",
+    "id": 1192,
+    "timediff": 9.49,
+    "timediff_human": "0:00:09.490000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903174901,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/11",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:32:55.691",
+    "id": 1193,
+    "timediff": 0.032,
+    "timediff_human": "0:00:00.032000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903242036,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/12",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:34:02.402",
+    "id": 1207,
+    "timediff": 66.711,
+    "timediff_human": "0:01:06.711000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903242057,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/12",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:34:02.794",
+    "id": 1208,
+    "timediff": 0.392,
+    "timediff_human": "0:00:00.392000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903244375,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/12",
+      "program": "# Contoh penggunaan tipe data integer\numur = 15\nharga_barang = 50000\nbanyak_mobil = 0\nsuhu_kulkas = -7\n\n# Contoh penggunaan tipe data float\ndiskon = 0.3\nluas_tanah = 800.5\nvar = -8.93",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:34:04.529",
+    "id": 1209,
+    "timediff": 1.735,
+    "timediff_human": "0:00:01.735000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903274553,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/12",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:34:35.712",
+    "id": 1210,
+    "timediff": 31.183,
+    "timediff_human": "0:00:31.183000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903275402,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/12",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:34:35.951",
+    "id": 1211,
+    "timediff": 0.239,
+    "timediff_human": "0:00:00.239000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903275993,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/12",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:34:36.139",
+    "id": 1212,
+    "timediff": 0.188,
+    "timediff_human": "0:00:00.188000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903276753,
+      "step": 3,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/12",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:34:36.905",
+    "id": 1213,
+    "timediff": 0.766,
+    "timediff_human": "0:00:00.766000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903277151,
+      "step": 4,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/12",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:34:37.306",
+    "id": 1214,
+    "timediff": 0.401,
+    "timediff_human": "0:00:00.401000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903277633,
+      "step": 5,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/12",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:34:37.79",
+    "id": 1215,
+    "timediff": 0.484,
+    "timediff_human": "0:00:00.484000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903278004,
+      "step": 6,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/12",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:34:38.183",
+    "id": 1216,
+    "timediff": 0.393,
+    "timediff_human": "0:00:00.393000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903285884,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/13",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:34:47.039",
+    "id": 1217,
+    "timediff": 8.856,
+    "timediff_human": "0:00:08.856000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903285826,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/13",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:34:47.044",
+    "id": 1218,
+    "timediff": 0.005,
+    "timediff_human": "0:00:00.005000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903288247,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/13",
+      "program": "# Contoh penggunaan tipe data string dan char\nnama_lengkap = \"Maskot\"\nusername = \"@abc123\"\n_sapaan = \"Hello, World!\"\nteks = \"Ini adalah sebuah teks yang memiliki tipe data string.\"\nkode_barang = 'a'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:34:48.393",
+    "id": 1219,
+    "timediff": 1.349,
+    "timediff_human": "0:00:01.349000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903314239,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/13",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:35:15.444",
+    "id": 1220,
+    "timediff": 27.051,
+    "timediff_human": "0:00:27.051000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903315773,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/13",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:35:15.927",
+    "id": 1221,
+    "timediff": 0.483,
+    "timediff_human": "0:00:00.483000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903319842,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/13",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:35:20.003",
+    "id": 1222,
+    "timediff": 4.076,
+    "timediff_human": "0:00:04.076000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903323868,
+      "step": 3,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/13",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:35:24.63",
+    "id": 1223,
+    "timediff": 4.627,
+    "timediff_human": "0:00:04.627000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903329211,
+      "step": 4,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/13",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:35:29.785",
+    "id": 1224,
+    "timediff": 5.155,
+    "timediff_human": "0:00:05.155000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903337461,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:35:41.661",
+    "id": 1226,
+    "timediff": 11.876,
+    "timediff_human": "0:00:11.876000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903337511,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:35:41.69",
+    "id": 1227,
+    "timediff": 0.029,
+    "timediff_human": "0:00:00.029000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903343102,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "program": "# Contoh penggunaan tipe data boolean\nequals = True\nfound = False\nbelajar_kode_bareng = True\nsudah_makan = True\nsudah_tidur = False",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:35:43.254",
+    "id": 1228,
+    "timediff": 1.564,
+    "timediff_human": "0:00:01.564000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903343124,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "program": "# Contoh penggunaan None\nvar = None",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:35:43.278",
+    "id": 1229,
+    "timediff": 0.024,
+    "timediff_human": "0:00:00.024000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903376812,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:36:18.436",
+    "id": 1233,
+    "timediff": 35.158,
+    "timediff_human": "0:00:35.158000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903392514,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:36:34.732",
+    "id": 1237,
+    "timediff": 16.296,
+    "timediff_human": "0:00:16.296000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903397932,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:36:38.973",
+    "id": 1238,
+    "timediff": 4.241,
+    "timediff_human": "0:00:04.241000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903401325,
+      "step": 3,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:36:42.266",
+    "id": 1241,
+    "timediff": 3.293,
+    "timediff_human": "0:00:03.293000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903402059,
+      "step": 4,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:36:42.512",
+    "id": 1242,
+    "timediff": 0.246,
+    "timediff_human": "0:00:00.246000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903455642,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:37:37.601",
+    "id": 1266,
+    "timediff": 55.089,
+    "timediff_human": "0:00:55.089000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903463903,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:37:44.411",
+    "id": 1270,
+    "timediff": 6.81,
+    "timediff_human": "0:00:06.810000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903463958,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:37:44.796",
+    "id": 1271,
+    "timediff": 0.385,
+    "timediff_human": "0:00:00.385000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903467094,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "# Variabel umur berisi 9 (integer)\numur = 9\n\n# Melakukan konversi tipe variabel umur menjadi string\numur_dalam_string = str(umur) # Variabel umur_dalam_string berisi '9' (string)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:37:47.751",
+    "id": 1272,
+    "timediff": 2.955,
+    "timediff_human": "0:00:02.955000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903467734,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "# Variabel umur berisi 9 (integer)\numur = 9\n\n# Melakukan konversi tipe variabel umur menjadi float\numur = float(umur) # Variabel umur sekarang 9.0 (float)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:37:47.889",
+    "id": 1273,
+    "timediff": 0.138,
+    "timediff_human": "0:00:00.138000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903467768,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "angka = 65\nhasil_ubah = float(angka)\nprint(hasil_ubah)\nhasil_ubah = str(angka)\nprint(hasil_ubah)\nhasil_ubah = chr(angka)\nprint(hasil_ubah)\n\nchar = \"A\"\nhasil_ubah = ord(char)\nprint(hasil_ubah)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:37:47.918",
+    "id": 1274,
+    "timediff": 0.029,
+    "timediff_human": "0:00:00.029000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903467957,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "var = int(\"Hello World!\") # fungsi ini akan mengembalikan error",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:37:48.114",
+    "id": 1275,
+    "timediff": 0.196,
+    "timediff_human": "0:00:00.196000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903486990,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:38:10.332",
+    "id": 1278,
+    "timediff": 22.218,
+    "timediff_human": "0:00:22.218000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903500757,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:38:23.703",
+    "id": 1279,
+    "timediff": 13.371,
+    "timediff_human": "0:00:13.371000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903509444,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "# Variabel umur berisi 9 (integer)\numur = 9\n\n# Melakukan konversi tipe variabel umur menjadi string\numur_dalam_string = str(umur) # Variabel umur_dalam_string berisi '9' (string)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:38:29.933",
+    "id": 1280,
+    "timediff": 6.23,
+    "timediff_human": "0:00:06.230000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903540065,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:39:01.226",
+    "id": 1282,
+    "timediff": 31.293,
+    "timediff_human": "0:00:31.293000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903541380,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:39:01.54",
+    "id": 1283,
+    "timediff": 0.314,
+    "timediff_human": "0:00:00.314000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903568182,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:39:29.489",
+    "id": 1285,
+    "timediff": 27.949,
+    "timediff_human": "0:00:27.949000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903573369,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:39:33.542",
+    "id": 1286,
+    "timediff": 4.053,
+    "timediff_human": "0:00:04.053000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903675843,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:41:17.106",
+    "id": 1291,
+    "timediff": 103.564,
+    "timediff_human": "0:01:43.564000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903676317,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:41:17.294",
+    "id": 1292,
+    "timediff": 0.188,
+    "timediff_human": "0:00:00.188000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903681159,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:41:21.32",
+    "id": 1293,
+    "timediff": 4.026,
+    "timediff_human": "0:00:04.026000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903685627,
+      "step": 3,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:41:26.376",
+    "id": 1295,
+    "timediff": 5.056,
+    "timediff_human": "0:00:05.056000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903689267,
+      "step": 4,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:41:29.46",
+    "id": 1300,
+    "timediff": 3.084,
+    "timediff_human": "0:00:03.084000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903719064,
+      "step": 5,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:42:00.339",
+    "id": 1313,
+    "timediff": 30.879,
+    "timediff_human": "0:00:30.879000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903723951,
+      "step": 6,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:42:04.113",
+    "id": 1318,
+    "timediff": 3.774,
+    "timediff_human": "0:00:03.774000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903725370,
+      "step": 7,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:42:05.746",
+    "id": 1320,
+    "timediff": 1.633,
+    "timediff_human": "0:00:01.633000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903730550,
+      "step": 8,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:42:10.716",
+    "id": 1321,
+    "timediff": 4.97,
+    "timediff_human": "0:00:04.970000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903735491,
+      "step": 9,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:42:16.669",
+    "id": 1322,
+    "timediff": 5.953,
+    "timediff_human": "0:00:05.953000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903753016,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:42:34.188",
+    "id": 1326,
+    "timediff": 17.519,
+    "timediff_human": "0:00:17.519000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903762955,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "var = int(print(\"Hello World!\") # fungsi ini akan mengembalikan error",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:42:43.322",
+    "id": 1328,
+    "timediff": 9.134,
+    "timediff_human": "0:00:09.134000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903771754,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "var = int(print(\"Hello World!\") # fungsi ini akan mengembalikan error",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:42:52.179",
+    "id": 1331,
+    "timediff": 8.857,
+    "timediff_human": "0:00:08.857000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903783052,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "var = print(\"Hello World!\") # fungsi ini akan mengembalikan error",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:43:03.707",
+    "id": 1332,
+    "timediff": 11.528,
+    "timediff_human": "0:00:11.528000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903785807,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:43:06.559",
+    "id": 1333,
+    "timediff": 2.852,
+    "timediff_human": "0:00:02.852000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903794973,
+      "input": [
+        "Hello world"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "var = print(\"Hello World!\") # fungsi ini akan mengembalikan error",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:43:15.398",
+    "id": 1334,
+    "timediff": 8.839,
+    "timediff_human": "0:00:08.839000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903795589,
+      "input": [
+        "Hello world"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "var = print(\"Hello World!\") # fungsi ini akan mengembalikan error",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:43:15.749",
+    "id": 1335,
+    "timediff": 0.351,
+    "timediff_human": "0:00:00.351000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903797067,
+      "input": [
+        "Hello world!"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "var = print(\"Hello World!\") # fungsi ini akan mengembalikan error",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:43:17.226",
+    "id": 1336,
+    "timediff": 1.477,
+    "timediff_human": "0:00:01.477000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903799775,
+      "input": [
+        "Hello World!"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "var = print(\"Hello World!\") # fungsi ini akan mengembalikan error",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:43:19.927",
+    "id": 1337,
+    "timediff": 2.701,
+    "timediff_human": "0:00:02.701000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903804740,
+      "input": [
+        "Hello World!"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "\r\nvar = print(\"Hello World!\") # fungsi ini akan mengembalikan error",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:43:25.112",
+    "id": 1339,
+    "timediff": 5.185,
+    "timediff_human": "0:00:05.185000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903813408,
+      "input": [
+        "Hello World!"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "input = H\r\nvar = print(\"Hello World!\") # fungsi ini akan mengembalikan error",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:43:33.928",
+    "id": 1340,
+    "timediff": 8.816,
+    "timediff_human": "0:00:08.816000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903820232,
+      "input": [
+        "Hello World!"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "input = Hello World\r\nvar = print(\"Hello World!\") # fungsi ini akan mengembalikan error",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:43:40.719",
+    "id": 1341,
+    "timediff": 6.791,
+    "timediff_human": "0:00:06.791000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903828926,
+      "input": [
+        "Hello World!"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "input = Hello World\r\nvar = print(inp) # fungsi ini akan mengembalikan error",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:43:49.902",
+    "id": 1342,
+    "timediff": 9.183,
+    "timediff_human": "0:00:09.183000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903831115,
+      "input": [
+        "Hello World!"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "input = Hello World\r\nvar = print(input) # fungsi ini akan mengembalikan error",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:43:51.273",
+    "id": 1343,
+    "timediff": 1.371,
+    "timediff_human": "0:00:01.371000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903837833,
+      "input": [
+        "Hello World!"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "input = Hello World\r\nvar = print(input) # fungsi ini akan mengembalikan error",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:43:58.252",
+    "id": 1344,
+    "timediff": 6.979,
+    "timediff_human": "0:00:06.979000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903850941,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/42",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:44:11.375",
+    "id": 1345,
+    "timediff": 13.123,
+    "timediff_human": "0:00:13.123000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903851012,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/42",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:44:11.625",
+    "id": 1346,
+    "timediff": 0.25,
+    "timediff_human": "0:00:00.250000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903854960,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/42",
+      "program": "x = true\nx = \"abc\"\nx = 5.0\nx = '10'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:44:15.122",
+    "id": 1347,
+    "timediff": 3.497,
+    "timediff_human": "0:00:03.497000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903880137,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/42",
+      "answer": "x = '10'",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:44:41.339",
+    "id": 1349,
+    "timediff": 26.217,
+    "timediff_human": "0:00:26.217000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903887300,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/42",
+      "answer": "x = true",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:44:48.478",
+    "id": 1351,
+    "timediff": 7.139,
+    "timediff_human": "0:00:07.139000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903893775,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/19",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:44:54.149",
+    "id": 1352,
+    "timediff": 5.671,
+    "timediff_human": "0:00:05.671000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903893751,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/19",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:44:54.154",
+    "id": 1353,
+    "timediff": 0.005,
+    "timediff_human": "0:00:00.005000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903898078,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/19",
+      "program": "x = 10.000\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:44:58.233",
+    "id": 1354,
+    "timediff": 4.079,
+    "timediff_human": "0:00:04.079000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903918276,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/19",
+      "answer": "float",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:45:20.211",
+    "id": 1362,
+    "timediff": 21.978,
+    "timediff_human": "0:00:21.978000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903922745,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/18",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:45:22.914",
+    "id": 1363,
+    "timediff": 2.703,
+    "timediff_human": "0:00:02.703000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903922773,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/18",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:45:22.953",
+    "id": 1364,
+    "timediff": 0.039,
+    "timediff_human": "0:00:00.039000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653903959550,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/18",
+      "answer": "x = 65.5\r\nint(65.5)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:46:00.716",
+    "id": 1367,
+    "timediff": 37.763,
+    "timediff_human": "0:00:37.763000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904019779,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/18",
+      "answer": "x = 65.5\r\nNilai = int(x)\r\nprint(Nilai)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:47:02.078",
+    "id": 1373,
+    "timediff": 61.362,
+    "timediff_human": "0:01:01.362000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904029082,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:47:09.905",
+    "id": 1374,
+    "timediff": 7.827,
+    "timediff_human": "0:00:07.827000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904038240,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:47:19.826",
+    "id": 1377,
+    "timediff": 9.921,
+    "timediff_human": "0:00:09.921000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904042247,
+      "input": [
+        "10",
+        "21"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "program": "# Dapatkan a dan b melalui input\na = int(input())\nb = int(input())\n\n# Berikut hasil penggunaan operator-operator yang disebutkan\nhasil_penjumlahan = a + b\nhasil_pengurangan = a - b\nhasil_perkalian = a * b\nhasil_pembagian_bulat = a // b\nhasil_pembagian_riil = a / b\nhasil_modulo = a % b\nhasil_pangkat = a**b",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:47:22.66",
+    "id": 1378,
+    "timediff": 2.834,
+    "timediff_human": "0:00:02.834000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904042291,
+      "input": [
+        "12.5",
+        "5"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "program": "alas = float(input())\ntinggi = float(input())\n\n# Rumus luas segitiga\nluas = 1/2 * alas * tinggi\n\nprint(luas)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:47:22.666",
+    "id": 1379,
+    "timediff": 0.006,
+    "timediff_human": "0:00:00.006000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904042923,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "program": "# Contoh operasi + dan * pada string\nkata = \"Halo\"\nkata_sambungan = kata + \" aku sapiderman!\"\nkata_diulang = kata * 5\nprint(\"Bisa juga disambung disini: \" + kata_sambungan)\n\n# Untuk menambahkan baris baru bisa menggunakan \n\n# notes: print akan selalu menambah pada akhir output\nbaris_baru = \"\"\nkata_sambung_diulang = (kata + \"!\" + baris_baru) * 3\nprint(kata_sambung_diulang)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:47:23.087",
+    "id": 1380,
+    "timediff": 0.421,
+    "timediff_human": "0:00:00.421000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904042933,
+      "input": [
+        "Ayang"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "program": "nama = input()\nsapaan = \"Hai \" + nama + \"!\"\nprint(sapaan)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:47:23.091",
+    "id": 1381,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904098020,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:48:19.247",
+    "id": 1404,
+    "timediff": 56.156,
+    "timediff_human": "0:00:56.156000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904098891,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:48:19.447",
+    "id": 1406,
+    "timediff": 0.2,
+    "timediff_human": "0:00:00.200000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904099712,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:48:19.879",
+    "id": 1408,
+    "timediff": 0.432,
+    "timediff_human": "0:00:00.432000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904103057,
+      "step": 3,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:48:23.224",
+    "id": 1413,
+    "timediff": 3.345,
+    "timediff_human": "0:00:03.345000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904103714,
+      "step": 4,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:48:24.086",
+    "id": 1416,
+    "timediff": 0.862,
+    "timediff_human": "0:00:00.862000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904104225,
+      "step": 5,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:48:24.387",
+    "id": 1417,
+    "timediff": 0.301,
+    "timediff_human": "0:00:00.301000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904127825,
+      "step": 6,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:48:49",
+    "id": 1426,
+    "timediff": 24.613,
+    "timediff_human": "0:00:24.613000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904133774,
+      "step": 7,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:48:54.16",
+    "id": 1433,
+    "timediff": 5.16,
+    "timediff_human": "0:00:05.160000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904135485,
+      "step": 8,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:48:55.653",
+    "id": 1435,
+    "timediff": 1.493,
+    "timediff_human": "0:00:01.493000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904192208,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:49:53.39",
+    "id": 1469,
+    "timediff": 57.737,
+    "timediff_human": "0:00:57.737000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904200592,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:50:01.78",
+    "id": 1471,
+    "timediff": 8.39,
+    "timediff_human": "0:00:08.390000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904202874,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:50:03.065",
+    "id": 1472,
+    "timediff": 1.285,
+    "timediff_human": "0:00:01.285000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904215076,
+      "step": 3,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:50:16.966",
+    "id": 1473,
+    "timediff": 13.901,
+    "timediff_human": "0:00:13.901000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904259899,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:51:00.31",
+    "id": 1476,
+    "timediff": 43.344,
+    "timediff_human": "0:00:43.344000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904280428,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:51:22.145",
+    "id": 1477,
+    "timediff": 21.835,
+    "timediff_human": "0:00:21.835000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904285081,
+      "input": [
+        "10",
+        "21"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "program": "# Dapatkan a dan b melalui input\na = int(input())\nb = int(input())\n\n# Berikut hasil penggunaan operator-operator yang disebutkan\nhasil_penjumlahan = a + b\nhasil_pengurangan = a - b\nhasil_perkalian = a * b\nhasil_pembagian_bulat = a // b\nhasil_pembagian_riil = a / b\nhasil_modulo = a % b\nhasil_pangkat = a**b",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:51:25.589",
+    "id": 1478,
+    "timediff": 3.444,
+    "timediff_human": "0:00:03.444000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904285436,
+      "input": [
+        "12.5",
+        "5"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "program": "alas = float(input())\ntinggi = float(input())\n\n# Rumus luas segitiga\nluas = 1/2 * alas * tinggi\n\nprint(luas)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:51:25.729",
+    "id": 1479,
+    "timediff": 0.14,
+    "timediff_human": "0:00:00.140000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904286010,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "program": "# Contoh operasi + dan * pada string\nkata = \"Halo\"\nkata_sambungan = kata + \" aku sapiderman!\"\nkata_diulang = kata * 5\nprint(\"Bisa juga disambung disini: \" + kata_sambungan)\n\n# Untuk menambahkan baris baru bisa menggunakan \n\n# notes: print akan selalu menambah pada akhir output\nbaris_baru = \"\"\nkata_sambung_diulang = (kata + \"!\" + baris_baru) * 3\nprint(kata_sambung_diulang)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:51:26.175",
+    "id": 1480,
+    "timediff": 0.446,
+    "timediff_human": "0:00:00.446000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904286032,
+      "input": [
+        "Ayang"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "program": "nama = input()\nsapaan = \"Hai \" + nama + \"!\"\nprint(sapaan)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:51:26.194",
+    "id": 1481,
+    "timediff": 0.019,
+    "timediff_human": "0:00:00.019000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904298875,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:51:41.247",
+    "id": 1487,
+    "timediff": 15.053,
+    "timediff_human": "0:00:15.053000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904299704,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:51:41.652",
+    "id": 1488,
+    "timediff": 0.405,
+    "timediff_human": "0:00:00.405000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904309465,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:51:51.637",
+    "id": 1489,
+    "timediff": 9.985,
+    "timediff_human": "0:00:09.985000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904316460,
+      "step": 3,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:51:58.542",
+    "id": 1492,
+    "timediff": 6.905,
+    "timediff_human": "0:00:06.905000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904335742,
+      "step": 4,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:52:17.618",
+    "id": 1497,
+    "timediff": 19.076,
+    "timediff_human": "0:00:19.076000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904342214,
+      "step": 5,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:52:22.97",
+    "id": 1498,
+    "timediff": 5.352,
+    "timediff_human": "0:00:05.352000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904389809,
+      "step": 6,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:53:11.254",
+    "id": 1512,
+    "timediff": 48.284,
+    "timediff_human": "0:00:48.284000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904426043,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:53:47.222",
+    "id": 1531,
+    "timediff": 35.968,
+    "timediff_human": "0:00:35.968000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904428242,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:53:48.408",
+    "id": 1532,
+    "timediff": 1.186,
+    "timediff_human": "0:00:01.186000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904431604,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:53:51.786",
+    "id": 1534,
+    "timediff": 3.378,
+    "timediff_human": "0:00:03.378000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904460679,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:54:21.889",
+    "id": 1540,
+    "timediff": 30.103,
+    "timediff_human": "0:00:30.103000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904460771,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:54:21.964",
+    "id": 1541,
+    "timediff": 0.075,
+    "timediff_human": "0:00:00.075000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904463571,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "program": "#menghasilkan true\nprint(15 == 15)\n# menghasilkan false\nprint(15 != 15)\n# menghasilkan true, karena kurang dari sama dengan\nprint(15 <= 15)\n# menghasilkan false\nprint(15 < 15)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:54:23.735",
+    "id": 1542,
+    "timediff": 1.771,
+    "timediff_human": "0:00:01.771000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904463674,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "program": "a = 5\nb = 15\n# menghasilkan true\nprint(a < 13)\n# menghasilkan false\nprint(a == 3)\n# Operator aritmatika akan didahulukan sebelum operator relasional\nprint(a * 3 == b)\n# menghasilkan true\nprint(a + 10 == b)\n# menghasilkan true",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:54:23.832",
+    "id": 1543,
+    "timediff": 0.097,
+    "timediff_human": "0:00:00.097000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904463705,
+      "input": [
+        "10",
+        "21"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "program": "# Dapatkan a dan b melalui input\na = int(input())\nb = int(input())\n\n# Berikut hasil penggunaan operator-operator yang disebutkan\nhasil_sama_dengan = a == b\nhasil_tidak_sama = a != b\nhasil_lebih_besar = a > b\nhasil_lebih_kecil = a < b\nhasil_lebih_besar_sama_dengan = a >= b\nhasil_lebih_kecil_sama_dengan = a <= b",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:54:23.868",
+    "id": 1544,
+    "timediff": 0.036,
+    "timediff_human": "0:00:00.036000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904464054,
+      "input": [
+        "8",
+        "5"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "program": "a = int(input())\nb = int(input())\n\nif (a >= b):\n    print(str(a) + \" lebih besar atau sama dengan \" + str(b))\nelse:\n    print(str(a) + \" lebih kecil daripada \" + str(b))",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:54:24.209",
+    "id": 1545,
+    "timediff": 0.341,
+    "timediff_human": "0:00:00.341000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904468930,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:54:30.116",
+    "id": 1547,
+    "timediff": 5.907,
+    "timediff_human": "0:00:05.907000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904470568,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:54:30.733",
+    "id": 1549,
+    "timediff": 0.617,
+    "timediff_human": "0:00:00.617000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904471191,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:54:31.356",
+    "id": 1550,
+    "timediff": 0.623,
+    "timediff_human": "0:00:00.623000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904475942,
+      "step": 3,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:54:37.131",
+    "id": 1553,
+    "timediff": 5.775,
+    "timediff_human": "0:00:05.775000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904479366,
+      "step": 4,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:54:39.522",
+    "id": 1555,
+    "timediff": 2.391,
+    "timediff_human": "0:00:02.391000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904481554,
+      "step": 5,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:54:41.75",
+    "id": 1556,
+    "timediff": 2.228,
+    "timediff_human": "0:00:02.228000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904482632,
+      "step": 6,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:54:43.428",
+    "id": 1557,
+    "timediff": 1.678,
+    "timediff_human": "0:00:01.678000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904483226,
+      "step": 7,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:54:43.678",
+    "id": 1558,
+    "timediff": 0.25,
+    "timediff_human": "0:00:00.250000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904499085,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:55:00.242",
+    "id": 1559,
+    "timediff": 16.564,
+    "timediff_human": "0:00:16.564000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904501102,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:55:01.263",
+    "id": 1561,
+    "timediff": 1.021,
+    "timediff_human": "0:00:01.021000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904509339,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:55:10.532",
+    "id": 1564,
+    "timediff": 9.269,
+    "timediff_human": "0:00:09.269000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904512921,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "program": "a = 5\nb = 15\n# menghasilkan true\nprint(a < 13)\n# menghasilkan false\nprint(a == 3)\n# Operator aritmatika akan didahulukan sebelum operator relasional\nprint(a * 3 == b)\n# menghasilkan true\nprint(a + 10 == b)\n# menghasilkan true",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:55:13.086",
+    "id": 1565,
+    "timediff": 2.554,
+    "timediff_human": "0:00:02.554000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904512948,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "program": "#menghasilkan true\nprint(15 == 15)\n# menghasilkan false\nprint(15 != 15)\n# menghasilkan true, karena kurang dari sama dengan\nprint(15 <= 15)\n# menghasilkan false\nprint(15 < 15)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:55:13.118",
+    "id": 1566,
+    "timediff": 0.032,
+    "timediff_human": "0:00:00.032000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904513029,
+      "input": [
+        "10",
+        "21"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "program": "# Dapatkan a dan b melalui input\na = int(input())\nb = int(input())\n\n# Berikut hasil penggunaan operator-operator yang disebutkan\nhasil_sama_dengan = a == b\nhasil_tidak_sama = a != b\nhasil_lebih_besar = a > b\nhasil_lebih_kecil = a < b\nhasil_lebih_besar_sama_dengan = a >= b\nhasil_lebih_kecil_sama_dengan = a <= b",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:55:13.192",
+    "id": 1567,
+    "timediff": 0.074,
+    "timediff_human": "0:00:00.074000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904513461,
+      "input": [
+        "8",
+        "5"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "program": "a = int(input())\nb = int(input())\n\nif (a >= b):\n    print(str(a) + \" lebih besar atau sama dengan \" + str(b))\nelse:\n    print(str(a) + \" lebih kecil daripada \" + str(b))",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:55:13.619",
+    "id": 1568,
+    "timediff": 0.427,
+    "timediff_human": "0:00:00.427000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904516431,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:55:16.808",
+    "id": 1572,
+    "timediff": 3.189,
+    "timediff_human": "0:00:03.189000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904516538,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:55:16.905",
+    "id": 1573,
+    "timediff": 0.097,
+    "timediff_human": "0:00:00.097000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904516869,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:55:17.054",
+    "id": 1574,
+    "timediff": 0.149,
+    "timediff_human": "0:00:00.149000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904516962,
+      "step": 3,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:55:17.144",
+    "id": 1575,
+    "timediff": 0.09,
+    "timediff_human": "0:00:00.090000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904517273,
+      "step": 4,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:55:17.477",
+    "id": 1576,
+    "timediff": 0.333,
+    "timediff_human": "0:00:00.333000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904517821,
+      "step": 5,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:55:17.999",
+    "id": 1577,
+    "timediff": 0.522,
+    "timediff_human": "0:00:00.522000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904518314,
+      "step": 6,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:55:18.485",
+    "id": 1579,
+    "timediff": 0.486,
+    "timediff_human": "0:00:00.486000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904518812,
+      "step": 7,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:55:18.98",
+    "id": 1580,
+    "timediff": 0.495,
+    "timediff_human": "0:00:00.495000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904527524,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:55:28.913",
+    "id": 1584,
+    "timediff": 9.933,
+    "timediff_human": "0:00:09.933000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904527623,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:55:29.132",
+    "id": 1585,
+    "timediff": 0.219,
+    "timediff_human": "0:00:00.219000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904528711,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:55:29.157",
+    "id": 1586,
+    "timediff": 0.025,
+    "timediff_human": "0:00:00.025000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904532328,
+      "step": 3,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:55:32.566",
+    "id": 1590,
+    "timediff": 3.409,
+    "timediff_human": "0:00:03.409000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904541559,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:55:42.756",
+    "id": 1591,
+    "timediff": 10.19,
+    "timediff_human": "0:00:10.190000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904541666,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:55:42.866",
+    "id": 1592,
+    "timediff": 0.11,
+    "timediff_human": "0:00:00.110000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904542381,
+      "step": 3,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:55:42.945",
+    "id": 1593,
+    "timediff": 0.079,
+    "timediff_human": "0:00:00.079000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904542024,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:55:42.955",
+    "id": 1594,
+    "timediff": 0.01,
+    "timediff_human": "0:00:00.010000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904542489,
+      "step": 4,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:55:43.101",
+    "id": 1595,
+    "timediff": 0.146,
+    "timediff_human": "0:00:00.146000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904542726,
+      "step": 5,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:55:43.107",
+    "id": 1596,
+    "timediff": 0.006,
+    "timediff_human": "0:00:00.006000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904557268,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:55:58.496",
+    "id": 1600,
+    "timediff": 15.389,
+    "timediff_human": "0:00:15.389000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904563293,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:56:03.952",
+    "id": 1601,
+    "timediff": 5.456,
+    "timediff_human": "0:00:05.456000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904564036,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:56:04.222",
+    "id": 1602,
+    "timediff": 0.27,
+    "timediff_human": "0:00:00.270000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904564422,
+      "step": 3,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:56:04.587",
+    "id": 1603,
+    "timediff": 0.365,
+    "timediff_human": "0:00:00.365000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904575571,
+      "step": 4,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_prev"
+    },
+    "createdAt": "2022-05-30T09:56:16.847",
+    "id": 1604,
+    "timediff": 12.26,
+    "timediff_human": "0:00:12.260000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904598773,
+      "step": 3,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:56:39.941",
+    "id": 1605,
+    "timediff": 23.094,
+    "timediff_human": "0:00:23.094000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904620923,
+      "step": 4,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_prev"
+    },
+    "createdAt": "2022-05-30T09:57:02.134",
+    "id": 1611,
+    "timediff": 22.193,
+    "timediff_human": "0:00:22.193000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904621574,
+      "step": 3,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_prev"
+    },
+    "createdAt": "2022-05-30T09:57:02.138",
+    "id": 1612,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904621668,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_prev"
+    },
+    "createdAt": "2022-05-30T09:57:02.236",
+    "id": 1613,
+    "timediff": 0.098,
+    "timediff_human": "0:00:00.098000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904623359,
+      "input": [
+        "8",
+        "5"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "program": "a = int(input())\nb = int(input())\n\nif (a >= b):\n    print(str(a) + \" lebih besar atau sama dengan \" + str(b))\nelse:\n    print(str(a) + \" lebih kecil daripada \" + str(b))",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:57:03.525",
+    "id": 1614,
+    "timediff": 1.289,
+    "timediff_human": "0:00:01.289000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904625021,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:57:05.183",
+    "id": 1615,
+    "timediff": 1.658,
+    "timediff_human": "0:00:01.658000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904625687,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:57:05.855",
+    "id": 1616,
+    "timediff": 0.672,
+    "timediff_human": "0:00:00.672000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904626545,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:57:06.912",
+    "id": 1617,
+    "timediff": 1.057,
+    "timediff_human": "0:00:01.057000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904627398,
+      "step": 3,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:57:07.976",
+    "id": 1618,
+    "timediff": 1.064,
+    "timediff_human": "0:00:01.064000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904672115,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:57:53.342",
+    "id": 1632,
+    "timediff": 45.366,
+    "timediff_human": "0:00:45.366000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904672195,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:57:53.364",
+    "id": 1633,
+    "timediff": 0.022,
+    "timediff_human": "0:00:00.022000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904674913,
+      "input": [
+        "True",
+        "False"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "program": "# Dapatkan a dan b melalui input\na = bool(input())\nb = bool(input())\n\n# Berikut hasil penggunaan operator-operator yang disebutkan\nhasil_and = a and b\nhasil_or = a or b\nhasil_not = not a",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:57:55.08",
+    "id": 1634,
+    "timediff": 1.716,
+    "timediff_human": "0:00:01.716000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904675044,
+      "input": [
+        "Josep",
+        "18",
+        "menulis"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "program": "nama = input()\nusia = int(input())\nhobi = input()\nwibu = True\n\nprint(\"Apakah \" + nama + \" berusia di antara 15 dan 25?\")\nprint(usia >= 15 and usia <= 25)\nprint(\"Apakah \" + nama + \" memiliki hobi membaca atau menulis?\")\nprint(hobi == \"membaca\" or hobi == \"menulis\")\nprint(\"Apakah \" + nama + \" adalah seorang wibu?\")\nprint(not wibu)\nprint(\"Kamu bohongg :)\")",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:57:55.208",
+    "id": 1635,
+    "timediff": 0.128,
+    "timediff_human": "0:00:00.128000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904697068,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:58:20.363",
+    "id": 1644,
+    "timediff": 25.155,
+    "timediff_human": "0:00:25.155000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904698874,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:58:20.441",
+    "id": 1645,
+    "timediff": 0.078,
+    "timediff_human": "0:00:00.078000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904700982,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:58:21.203",
+    "id": 1646,
+    "timediff": 0.762,
+    "timediff_human": "0:00:00.762000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904708750,
+      "step": 3,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:58:31.001",
+    "id": 1649,
+    "timediff": 9.798,
+    "timediff_human": "0:00:09.798000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904727645,
+      "step": 4,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:58:49.661",
+    "id": 1653,
+    "timediff": 18.66,
+    "timediff_human": "0:00:18.660000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904786471,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:59:47.654",
+    "id": 1656,
+    "timediff": 57.993,
+    "timediff_human": "0:00:57.993000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904787694,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:59:47.897",
+    "id": 1657,
+    "timediff": 0.243,
+    "timediff_human": "0:00:00.243000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904788775,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:59:48.945",
+    "id": 1658,
+    "timediff": 1.048,
+    "timediff_human": "0:00:01.048000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904791431,
+      "step": 3,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:59:51.602",
+    "id": 1659,
+    "timediff": 2.657,
+    "timediff_human": "0:00:02.657000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904793625,
+      "step": 4,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T09:59:54.397",
+    "id": 1660,
+    "timediff": 2.795,
+    "timediff_human": "0:00:02.795000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904816030,
+      "step": 5,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T10:00:17.415",
+    "id": 1661,
+    "timediff": 23.018,
+    "timediff_human": "0:00:23.018000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904830083,
+      "step": 6,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T10:00:32.692",
+    "id": 1662,
+    "timediff": 15.277,
+    "timediff_human": "0:00:15.277000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904845336,
+      "step": 7,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T10:00:48.46",
+    "id": 1664,
+    "timediff": 15.768,
+    "timediff_human": "0:00:15.768000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904870002,
+      "step": 8,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T10:01:12.291",
+    "id": 1665,
+    "timediff": 23.831,
+    "timediff_human": "0:00:23.831000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904874078,
+      "step": 9,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T10:01:14.298",
+    "id": 1666,
+    "timediff": 2.007,
+    "timediff_human": "0:00:02.007000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904879174,
+      "step": 10,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T10:01:21.412",
+    "id": 1667,
+    "timediff": 7.114,
+    "timediff_human": "0:00:07.114000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904890036,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/24",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T10:01:31.713",
+    "id": 1668,
+    "timediff": 10.301,
+    "timediff_human": "0:00:10.301000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904889988,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/24",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T10:01:31.74",
+    "id": 1669,
+    "timediff": 0.027,
+    "timediff_human": "0:00:00.027000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904893410,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/24",
+      "program": "a =  20 + 15 * 3",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T10:01:33.588",
+    "id": 1670,
+    "timediff": 1.848,
+    "timediff_human": "0:00:01.848000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904900473,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/24",
+      "answer": 65,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T10:01:42.27",
+    "id": 1671,
+    "timediff": 8.682,
+    "timediff_human": "0:00:08.682000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904905567,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T10:01:45.749",
+    "id": 1672,
+    "timediff": 3.479,
+    "timediff_human": "0:00:03.479000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904905591,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T10:01:45.779",
+    "id": 1673,
+    "timediff": 0.03,
+    "timediff_human": "0:00:00.030000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904907890,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
+      "program": "print(5 != 6 == 6)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T10:01:49.745",
+    "id": 1674,
+    "timediff": 3.966,
+    "timediff_human": "0:00:03.966000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904917619,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T10:01:58.94",
+    "id": 1675,
+    "timediff": 9.195,
+    "timediff_human": "0:00:09.195000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904921362,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/27",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T10:02:01.576",
+    "id": 1676,
+    "timediff": 2.636,
+    "timediff_human": "0:00:02.636000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904921388,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/27",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T10:02:01.579",
+    "id": 1677,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904923059,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/27",
+      "program": "print((False and False) or (True and True))",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T10:02:03.227",
+    "id": 1678,
+    "timediff": 1.648,
+    "timediff_human": "0:00:01.648000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904944298,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/27",
+      "answer": "False",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T10:02:25.729",
+    "id": 1679,
+    "timediff": 22.502,
+    "timediff_human": "0:00:22.502000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904948040,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/27",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T10:02:28.954",
+    "id": 1680,
+    "timediff": 3.225,
+    "timediff_human": "0:00:03.225000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904951737,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/45",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T10:02:32.59",
+    "id": 1681,
+    "timediff": 3.636,
+    "timediff_human": "0:00:03.636000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904951720,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/45",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T10:02:32.595",
+    "id": 1682,
+    "timediff": 0.005,
+    "timediff_human": "0:00:00.005000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904983548,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/45",
+      "answer": "a = 15\r\nb = 30\r\njumlah = a + b\r\nprint(jumlah)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T10:03:07.593",
+    "id": 1683,
+    "timediff": 34.998,
+    "timediff_human": "0:00:34.998000"
+  },
+  {
+    "name": "Jihan Aurelia",
+    "details": {
+      "date": 1653904992303,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/4",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T10:03:12.701",
+    "id": 1684,
+    "timediff": 5.108,
+    "timediff_human": "0:00:05.108000"
+  }
+]

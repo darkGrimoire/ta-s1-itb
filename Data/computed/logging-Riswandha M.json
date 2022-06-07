@@ -1,0 +1,883 @@
+[
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654074328682,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/28",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T09:05:28.404",
+    "id": 3317,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654074483372,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T09:08:03.099",
+    "id": 3320,
+    "timediff": 154.695,
+    "timediff_human": "0:02:34.695000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654074483387,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T09:08:03.33",
+    "id": 3321,
+    "timediff": 0.231,
+    "timediff_human": "0:00:00.231000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654074634302,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T09:10:34.035",
+    "id": 3322,
+    "timediff": 150.705,
+    "timediff_human": "0:02:30.705000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654074634324,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T09:10:34.272",
+    "id": 3323,
+    "timediff": 0.237,
+    "timediff_human": "0:00:00.237000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654074763226,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T09:12:42.955",
+    "id": 3326,
+    "timediff": 128.683,
+    "timediff_human": "0:02:08.683000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654074763255,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T09:12:43.188",
+    "id": 3327,
+    "timediff": 0.233,
+    "timediff_human": "0:00:00.233000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654074805814,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T09:13:25.537",
+    "id": 3328,
+    "timediff": 42.349,
+    "timediff_human": "0:00:42.349000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654074805839,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T09:13:25.558",
+    "id": 3329,
+    "timediff": 0.021,
+    "timediff_human": "0:00:00.021000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654074807243,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T09:13:26.744",
+    "id": 3330,
+    "timediff": 1.186,
+    "timediff_human": "0:00:01.186000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654074838723,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "answer": "Menampilkan sesuatu pada program",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T09:13:58.448",
+    "id": 3331,
+    "timediff": 31.704,
+    "timediff_human": "0:00:31.704000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654074842376,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T09:14:01.89",
+    "id": 3332,
+    "timediff": 3.442,
+    "timediff_human": "0:00:03.442000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654074842406,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T09:14:01.919",
+    "id": 3333,
+    "timediff": 0.029,
+    "timediff_human": "0:00:00.029000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654074843807,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T09:14:03.31",
+    "id": 3334,
+    "timediff": 1.391,
+    "timediff_human": "0:00:01.391000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654074850098,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "answer": 3,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T09:14:09.84",
+    "id": 3335,
+    "timediff": 6.53,
+    "timediff_human": "0:00:06.530000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654074854051,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T09:14:13.566",
+    "id": 3336,
+    "timediff": 3.726,
+    "timediff_human": "0:00:03.726000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654074854073,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T09:14:13.584",
+    "id": 3337,
+    "timediff": 0.018,
+    "timediff_human": "0:00:00.018000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654074866326,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T09:14:26.042",
+    "id": 3338,
+    "timediff": 12.458,
+    "timediff_human": "0:00:12.458000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654074944409,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "print(\"Hello World!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T09:15:45.039",
+    "id": 3341,
+    "timediff": 78.997,
+    "timediff_human": "0:01:18.997000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654074967965,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "print(\"Halo Dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T09:16:07.684",
+    "id": 3342,
+    "timediff": 22.645,
+    "timediff_human": "0:00:22.645000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654074974487,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T09:16:14.223",
+    "id": 3343,
+    "timediff": 6.539,
+    "timediff_human": "0:00:06.539000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075002559,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/35",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T09:16:42.305",
+    "id": 3344,
+    "timediff": 28.082,
+    "timediff_human": "0:00:28.082000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075089135,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T09:18:08.874",
+    "id": 3345,
+    "timediff": 86.569,
+    "timediff_human": "0:01:26.569000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075089158,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T09:18:09.116",
+    "id": 3346,
+    "timediff": 0.242,
+    "timediff_human": "0:00:00.242000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075134403,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T09:18:54.137",
+    "id": 3347,
+    "timediff": 45.021,
+    "timediff_human": "0:00:45.021000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075134426,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T09:18:54.157",
+    "id": 3348,
+    "timediff": 0.02,
+    "timediff_human": "0:00:00.020000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075162364,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T09:19:22.11",
+    "id": 3349,
+    "timediff": 27.953,
+    "timediff_human": "0:00:27.953000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075162393,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T09:19:22.116",
+    "id": 3350,
+    "timediff": 0.006,
+    "timediff_human": "0:00:00.006000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075187874,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T09:19:47.646",
+    "id": 3351,
+    "timediff": 25.53,
+    "timediff_human": "0:00:25.530000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075187894,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T09:19:47.65",
+    "id": 3352,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075210757,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T09:20:10.52",
+    "id": 3353,
+    "timediff": 22.87,
+    "timediff_human": "0:00:22.870000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075210777,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T09:20:10.529",
+    "id": 3354,
+    "timediff": 0.009,
+    "timediff_human": "0:00:00.009000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075300992,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T09:21:40.736",
+    "id": 3356,
+    "timediff": 90.207,
+    "timediff_human": "0:01:30.207000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075301011,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T09:21:40.974",
+    "id": 3357,
+    "timediff": 0.238,
+    "timediff_human": "0:00:00.238000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075303064,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "program": "x = true\nx = \"abc\"\nx = 5.0\nx = '10'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T09:21:42.571",
+    "id": 3358,
+    "timediff": 1.597,
+    "timediff_human": "0:00:01.597000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075337352,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "answer": "x = '10'",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T09:22:17.082",
+    "id": 3359,
+    "timediff": 34.511,
+    "timediff_human": "0:00:34.511000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075359761,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "answer": "x = true",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T09:22:39.811",
+    "id": 3360,
+    "timediff": 22.729,
+    "timediff_human": "0:00:22.729000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075363698,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T09:22:43.22",
+    "id": 3361,
+    "timediff": 3.409,
+    "timediff_human": "0:00:03.409000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075363728,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T09:22:43.245",
+    "id": 3362,
+    "timediff": 0.025,
+    "timediff_human": "0:00:00.025000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075365090,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T09:22:44.629",
+    "id": 3363,
+    "timediff": 1.384,
+    "timediff_human": "0:00:01.384000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075381945,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "answer": "integer",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T09:23:01.683",
+    "id": 3364,
+    "timediff": 17.054,
+    "timediff_human": "0:00:17.054000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075392029,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "answer": "float",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T09:23:11.763",
+    "id": 3365,
+    "timediff": 10.08,
+    "timediff_human": "0:00:10.080000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075397384,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T09:23:17.144",
+    "id": 3366,
+    "timediff": 5.381,
+    "timediff_human": "0:00:05.381000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075397411,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T09:23:17.147",
+    "id": 3367,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075558742,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "answer": "x = 65.5\r\nint(x)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T09:25:59.284",
+    "id": 3369,
+    "timediff": 162.137,
+    "timediff_human": "0:02:42.137000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075623078,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "answer": "x = 65.5\r\na = int(x)\r\nprint(a)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T09:27:02.81",
+    "id": 3370,
+    "timediff": 63.526,
+    "timediff_human": "0:01:03.526000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075627989,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T09:27:07.528",
+    "id": 3371,
+    "timediff": 4.718,
+    "timediff_human": "0:00:04.718000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075636296,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/46",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T09:27:16.021",
+    "id": 3372,
+    "timediff": 8.493,
+    "timediff_human": "0:00:08.493000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075812202,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T09:30:11.94",
+    "id": 3375,
+    "timediff": 175.919,
+    "timediff_human": "0:02:55.919000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075812231,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T09:30:12.171",
+    "id": 3376,
+    "timediff": 0.231,
+    "timediff_human": "0:00:00.231000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075972320,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T09:32:52.074",
+    "id": 3377,
+    "timediff": 159.903,
+    "timediff_human": "0:02:39.903000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654075972350,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T09:32:52.311",
+    "id": 3378,
+    "timediff": 0.237,
+    "timediff_human": "0:00:00.237000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654076074434,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T09:34:34.176",
+    "id": 3381,
+    "timediff": 101.865,
+    "timediff_human": "0:01:41.865000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654076074453,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T09:34:34.823",
+    "id": 3382,
+    "timediff": 0.647,
+    "timediff_human": "0:00:00.647000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654076076230,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T09:34:35.747",
+    "id": 3383,
+    "timediff": 0.924,
+    "timediff_human": "0:00:00.924000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654076085286,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "answer": 65,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T09:34:45.023",
+    "id": 3384,
+    "timediff": 9.276,
+    "timediff_human": "0:00:09.276000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654076088978,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T09:34:48.51",
+    "id": 3385,
+    "timediff": 3.487,
+    "timediff_human": "0:00:03.487000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654076089001,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T09:34:48.532",
+    "id": 3386,
+    "timediff": 0.022,
+    "timediff_human": "0:00:00.022000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654076090768,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T09:34:50.514",
+    "id": 3387,
+    "timediff": 1.982,
+    "timediff_human": "0:00:01.982000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654076158535,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T09:35:59.281",
+    "id": 3398,
+    "timediff": 68.767,
+    "timediff_human": "0:01:08.767000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654076162854,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T09:36:02.386",
+    "id": 3399,
+    "timediff": 3.105,
+    "timediff_human": "0:00:03.105000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654076162885,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T09:36:02.409",
+    "id": 3400,
+    "timediff": 0.023,
+    "timediff_human": "0:00:00.023000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654076164290,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T09:36:03.808",
+    "id": 3401,
+    "timediff": 1.399,
+    "timediff_human": "0:00:01.399000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654076186335,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "answer": "False",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T09:36:26.08",
+    "id": 3405,
+    "timediff": 22.272,
+    "timediff_human": "0:00:22.272000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654076192075,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T09:36:31.835",
+    "id": 3406,
+    "timediff": 5.755,
+    "timediff_human": "0:00:05.755000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654076198351,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T09:36:38.099",
+    "id": 3407,
+    "timediff": 6.264,
+    "timediff_human": "0:00:06.264000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654076198368,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T09:36:38.102",
+    "id": 3408,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654076310088,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "answer": "a = 15\r\nb = 30\r\njumlah = a + b\r\nprint(\"jumlah\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T09:38:30.801",
+    "id": 3409,
+    "timediff": 112.699,
+    "timediff_human": "0:01:52.699000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654076351805,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "answer": "a = 15\r\nb = 30\r\njumlah = a + b\r\nprint(jumlah)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T09:39:11.554",
+    "id": 3410,
+    "timediff": 40.753,
+    "timediff_human": "0:00:40.753000"
+  },
+  {
+    "name": "Riswandha M",
+    "details": {
+      "date": 1654076355823,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/4",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T09:39:15.376",
+    "id": 3411,
+    "timediff": 3.822,
+    "timediff_human": "0:00:03.822000"
+  }
+]

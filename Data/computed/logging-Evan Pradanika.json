@@ -1,0 +1,284 @@
+[
+  {
+    "name": "Evan Pradanika",
+    "details": {
+      "date": 1653980537746,
+      "route": "/learn/python-dasar/lesson/1/stage/1",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T07:02:19.634",
+    "id": 2439,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "Evan Pradanika",
+    "details": {
+      "date": 1653980541984,
+      "route": "/learn/python-dasar/lesson/1/stage/1",
+      "program": "",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T07:02:23.666",
+    "id": 2440,
+    "timediff": 4.032,
+    "timediff_human": "0:00:04.032000"
+  },
+  {
+    "name": "Evan Pradanika",
+    "details": {
+      "date": 1653980549320,
+      "route": "/learn/python-dasar/lesson/1/stage/1",
+      "program": "",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T07:02:31.2",
+    "id": 2441,
+    "timediff": 7.534,
+    "timediff_human": "0:00:07.534000"
+  },
+  {
+    "name": "Evan Pradanika",
+    "details": {
+      "date": 1653980555730,
+      "route": "/learn/python-dasar/lesson/1/stage/1",
+      "program": "print(\"Hello World\")",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T07:02:37.609",
+    "id": 2442,
+    "timediff": 6.409,
+    "timediff_human": "0:00:06.409000"
+  },
+  {
+    "name": "Evan Pradanika",
+    "details": {
+      "date": 1653980561099,
+      "route": "/learn/python-dasar/lesson/1/stage/1",
+      "answer": "print(\"Hello World\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-31T07:02:42.976",
+    "id": 2443,
+    "timediff": 5.367,
+    "timediff_human": "0:00:05.367000"
+  },
+  {
+    "name": "Evan Pradanika",
+    "details": {
+      "date": 1653980565134,
+      "done": false,
+      "route": "/learn/python-dasar/lesson/1/stage/2",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T07:02:46.829",
+    "id": 2444,
+    "timediff": 3.853,
+    "timediff_human": "0:00:03.853000"
+  },
+  {
+    "name": "Evan Pradanika",
+    "details": {
+      "date": 1653980565144,
+      "route": "/learn/python-dasar/lesson/1/stage/2",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T07:02:46.833",
+    "id": 2445,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Evan Pradanika",
+    "details": {
+      "date": 1653980591979,
+      "route": "/learn/python-dasar/lesson/1/stage/2",
+      "program": "print(\"Halo nama saya <code>xxx</code>\")",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T07:03:13.86",
+    "id": 2446,
+    "timediff": 27.027,
+    "timediff_human": "0:00:27.027000"
+  },
+  {
+    "name": "Evan Pradanika",
+    "details": {
+      "date": 1653980594030,
+      "route": "/learn/python-dasar/lesson/1/stage/2",
+      "program": "print(\"Halo nama saya <code>xxx</code>\")",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T07:03:15.708",
+    "id": 2447,
+    "timediff": 1.848,
+    "timediff_human": "0:00:01.848000"
+  },
+  {
+    "name": "Evan Pradanika",
+    "details": {
+      "date": 1653980596630,
+      "route": "/learn/python-dasar/lesson/1/stage/2",
+      "program": "print(\"Halo nama saya <code>xxx</code>\")",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T07:03:18.31",
+    "id": 2448,
+    "timediff": 2.602,
+    "timediff_human": "0:00:02.602000"
+  },
+  {
+    "name": "Evan Pradanika",
+    "details": {
+      "date": 1653980598218,
+      "route": "/learn/python-dasar/lesson/1/stage/2",
+      "answer": "print(\"Halo nama saya <code>xxx</code>\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-31T07:03:20.099",
+    "id": 2449,
+    "timediff": 1.789,
+    "timediff_human": "0:00:01.789000"
+  },
+  {
+    "name": "Evan Pradanika",
+    "details": {
+      "date": 1653980619177,
+      "route": "/learn/python-dasar/lesson/1/stage/2",
+      "answer": "print('Halo nama saya <code>xxx</code>')",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-31T07:03:41.055",
+    "id": 2450,
+    "timediff": 20.956,
+    "timediff_human": "0:00:20.956000"
+  },
+  {
+    "name": "Evan Pradanika",
+    "details": {
+      "date": 1653980653802,
+      "route": "/learn/python-dasar/lesson/1/stage/2",
+      "answer": "print('Halo nama saya <code>xxx</code>')",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-31T07:04:15.687",
+    "id": 2451,
+    "timediff": 34.632,
+    "timediff_human": "0:00:34.632000"
+  },
+  {
+    "name": "Evan Pradanika",
+    "details": {
+      "date": 1653980662708,
+      "done": false,
+      "route": "/challenge/1",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T07:04:24.594",
+    "id": 2452,
+    "timediff": 8.907,
+    "timediff_human": "0:00:08.907000"
+  },
+  {
+    "name": "Evan Pradanika",
+    "details": {
+      "date": 1653980698915,
+      "route": "/learn/python-dasar/lesson/1/stage/2",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T07:05:00.805",
+    "id": 2453,
+    "timediff": 36.211,
+    "timediff_human": "0:00:36.211000"
+  },
+  {
+    "name": "Evan Pradanika",
+    "details": {
+      "date": 1653980712131,
+      "route": "/learn/python-dasar/lesson/1/stage/2",
+      "answer": "print('Halo nama saya Evan Pradanika')",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-31T07:05:14.009",
+    "id": 2454,
+    "timediff": 13.204,
+    "timediff_human": "0:00:13.204000"
+  },
+  {
+    "name": "Evan Pradanika",
+    "details": {
+      "date": 1653980715662,
+      "done": false,
+      "route": "/profile",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T07:05:17.35",
+    "id": 2455,
+    "timediff": 3.341,
+    "timediff_human": "0:00:03.341000"
+  },
+  {
+    "name": "Evan Pradanika",
+    "details": {
+      "date": 1653980725311,
+      "route": "/learn/python-dasar/lesson/1/stage/2",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T07:05:27.209",
+    "id": 2456,
+    "timediff": 9.859,
+    "timediff_human": "0:00:09.859000"
+  },
+  {
+    "name": "Evan Pradanika",
+    "details": {
+      "date": 1653980745898,
+      "route": "/learn/python-dasar/lesson/1/stage/2",
+      "answer": "print('Halo nama saya xxx')",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-31T07:05:47.777",
+    "id": 2457,
+    "timediff": 20.568,
+    "timediff_human": "0:00:20.568000"
+  },
+  {
+    "name": "Evan Pradanika",
+    "details": {
+      "date": 1653980752759,
+      "route": "/learn/python-dasar/lesson/1/stage/2",
+      "program": "print('Halo nama saya xxx')",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T07:05:54.641",
+    "id": 2458,
+    "timediff": 6.864,
+    "timediff_human": "0:00:06.864000"
+  },
+  {
+    "name": "Evan Pradanika",
+    "details": {
+      "date": 1653980756720,
+      "route": "/learn/python-dasar/lesson/1/stage/2",
+      "program": "print('Halo nama saya xxx')",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T07:05:58.402",
+    "id": 2459,
+    "timediff": 3.761,
+    "timediff_human": "0:00:03.761000"
+  },
+  {
+    "name": "Evan Pradanika",
+    "details": {
+      "date": 1653980760223,
+      "route": "/learn/python-dasar/lesson/1/stage/2",
+      "program": "print('Halo nama saya xxx')",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T07:06:02.094",
+    "id": 2460,
+    "timediff": 3.692,
+    "timediff_human": "0:00:03.692000"
+  }
+]

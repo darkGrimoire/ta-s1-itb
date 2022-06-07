@@ -1,0 +1,575 @@
+[
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879113657,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/28",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T02:51:55.704",
+    "id": 297,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879119633,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T02:51:59.874",
+    "id": 298,
+    "timediff": 4.17,
+    "timediff_human": "0:00:04.170000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879119660,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T02:51:59.882",
+    "id": 299,
+    "timediff": 0.008,
+    "timediff_human": "0:00:00.008000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879127955,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T02:52:08.399",
+    "id": 300,
+    "timediff": 8.517,
+    "timediff_human": "0:00:08.517000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879127976,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T02:52:08.405",
+    "id": 301,
+    "timediff": 0.006,
+    "timediff_human": "0:00:00.006000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879134481,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T02:52:15.159",
+    "id": 302,
+    "timediff": 6.754,
+    "timediff_human": "0:00:06.754000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879134506,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T02:52:15.163",
+    "id": 303,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879139562,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T02:52:19.735",
+    "id": 304,
+    "timediff": 4.572,
+    "timediff_human": "0:00:04.572000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879139584,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T02:52:19.775",
+    "id": 305,
+    "timediff": 0.04,
+    "timediff_human": "0:00:00.040000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879141051,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T02:52:21.425",
+    "id": 306,
+    "timediff": 1.65,
+    "timediff_human": "0:00:01.650000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879613794,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:00:14.985",
+    "id": 307,
+    "timediff": 473.56,
+    "timediff_human": "0:07:53.560000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879616051,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:00:16.241",
+    "id": 308,
+    "timediff": 1.256,
+    "timediff_human": "0:00:01.256000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879633002,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:00:33.405",
+    "id": 309,
+    "timediff": 17.164,
+    "timediff_human": "0:00:17.164000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879634442,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:00:34.627",
+    "id": 310,
+    "timediff": 1.222,
+    "timediff_human": "0:00:01.222000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879636148,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:00:36.331",
+    "id": 311,
+    "timediff": 1.704,
+    "timediff_human": "0:00:01.704000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879636496,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:00:36.687",
+    "id": 312,
+    "timediff": 0.356,
+    "timediff_human": "0:00:00.356000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879637377,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:00:37.561",
+    "id": 313,
+    "timediff": 0.874,
+    "timediff_human": "0:00:00.874000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879647137,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "answer": "Menampilkan sesuatu pada program",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:00:47.533",
+    "id": 314,
+    "timediff": 9.972,
+    "timediff_human": "0:00:09.972000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879650065,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:00:50.258",
+    "id": 315,
+    "timediff": 2.725,
+    "timediff_human": "0:00:02.725000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879650090,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:00:50.295",
+    "id": 316,
+    "timediff": 0.037,
+    "timediff_human": "0:00:00.037000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879651555,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:00:51.738",
+    "id": 317,
+    "timediff": 1.443,
+    "timediff_human": "0:00:01.443000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879654688,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "answer": 3,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:00:55.123",
+    "id": 318,
+    "timediff": 3.385,
+    "timediff_human": "0:00:03.385000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879657044,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:00:57.259",
+    "id": 319,
+    "timediff": 2.136,
+    "timediff_human": "0:00:02.136000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879657068,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:00:57.27",
+    "id": 320,
+    "timediff": 0.011,
+    "timediff_human": "0:00:00.011000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879676512,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "print(\"Halo Dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:01:16.928",
+    "id": 321,
+    "timediff": 19.658,
+    "timediff_human": "0:00:19.658000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879679546,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:01:19.753",
+    "id": 322,
+    "timediff": 2.825,
+    "timediff_human": "0:00:02.825000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879692239,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/35",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:01:32.634",
+    "id": 323,
+    "timediff": 12.881,
+    "timediff_human": "0:00:12.881000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879698029,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:01:38.423",
+    "id": 324,
+    "timediff": 5.789,
+    "timediff_human": "0:00:05.789000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879698000,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:01:38.426",
+    "id": 325,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879706579,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:01:46.98",
+    "id": 326,
+    "timediff": 8.554,
+    "timediff_human": "0:00:08.554000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879706606,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:01:47.001",
+    "id": 327,
+    "timediff": 0.021,
+    "timediff_human": "0:00:00.021000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879711370,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:01:51.565",
+    "id": 328,
+    "timediff": 4.564,
+    "timediff_human": "0:00:04.564000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879711402,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:01:51.585",
+    "id": 329,
+    "timediff": 0.02,
+    "timediff_human": "0:00:00.020000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879715530,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:01:55.949",
+    "id": 330,
+    "timediff": 4.364,
+    "timediff_human": "0:00:04.364000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879715566,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:01:55.976",
+    "id": 331,
+    "timediff": 0.027,
+    "timediff_human": "0:00:00.027000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879719605,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:01:59.798",
+    "id": 332,
+    "timediff": 3.822,
+    "timediff_human": "0:00:03.822000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879719636,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:01:59.828",
+    "id": 333,
+    "timediff": 0.03,
+    "timediff_human": "0:00:00.030000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879727643,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:02:08.053",
+    "id": 334,
+    "timediff": 8.225,
+    "timediff_human": "0:00:08.225000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879727670,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:02:08.088",
+    "id": 335,
+    "timediff": 0.035,
+    "timediff_human": "0:00:00.035000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879729273,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "program": "x = true\nx = \"abc\"\nx = 5.0\nx = '10'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:02:09.459",
+    "id": 336,
+    "timediff": 1.371,
+    "timediff_human": "0:00:01.371000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879781432,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "answer": "x = '10'",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:03:01.906",
+    "id": 337,
+    "timediff": 52.447,
+    "timediff_human": "0:00:52.447000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879800051,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "answer": "x = 5.0",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:03:20.453",
+    "id": 338,
+    "timediff": 18.547,
+    "timediff_human": "0:00:18.547000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879926623,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "answer": "x = true",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:05:28.007",
+    "id": 339,
+    "timediff": 127.554,
+    "timediff_human": "0:02:07.554000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879931946,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:05:32.15",
+    "id": 340,
+    "timediff": 4.143,
+    "timediff_human": "0:00:04.143000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879931978,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:05:32.194",
+    "id": 341,
+    "timediff": 0.044,
+    "timediff_human": "0:00:00.044000"
+  },
+  {
+    "name": "Kode Bareng",
+    "details": {
+      "date": 1653879933326,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:05:33.73",
+    "id": 342,
+    "timediff": 1.536,
+    "timediff_human": "0:00:01.536000"
+  }
+]

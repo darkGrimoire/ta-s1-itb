@@ -1,0 +1,1947 @@
+[
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654052736913,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/28",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:20:04.077",
+    "id": 2727,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654052778358,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:20:45.567",
+    "id": 2728,
+    "timediff": 41.49,
+    "timediff_human": "0:00:41.490000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654052778386,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:20:45.571",
+    "id": 2729,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654052907777,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:22:56.463",
+    "id": 2732,
+    "timediff": 130.892,
+    "timediff_human": "0:02:10.892000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654052907797,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:22:56.717",
+    "id": 2733,
+    "timediff": 0.254,
+    "timediff_human": "0:00:00.254000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654052964448,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:23:51.618",
+    "id": 2734,
+    "timediff": 54.901,
+    "timediff_human": "0:00:54.901000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654052964470,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:23:51.625",
+    "id": 2735,
+    "timediff": 0.007,
+    "timediff_human": "0:00:00.007000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053013240,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:24:40.406",
+    "id": 2736,
+    "timediff": 48.781,
+    "timediff_human": "0:00:48.781000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053013216,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:24:40.413",
+    "id": 2737,
+    "timediff": 0.007,
+    "timediff_human": "0:00:00.007000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053014811,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:24:41.741",
+    "id": 2738,
+    "timediff": 1.328,
+    "timediff_human": "0:00:01.328000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053024664,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "answer": "Tidak dieksekusi oleh komputer",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T03:24:51.825",
+    "id": 2739,
+    "timediff": 10.084,
+    "timediff_human": "0:00:10.084000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053029248,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:24:56.199",
+    "id": 2740,
+    "timediff": 4.374,
+    "timediff_human": "0:00:04.374000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053029271,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:24:56.202",
+    "id": 2741,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053052892,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:25:20.074",
+    "id": 2742,
+    "timediff": 23.872,
+    "timediff_human": "0:00:23.872000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053052919,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:25:20.1",
+    "id": 2743,
+    "timediff": 0.026,
+    "timediff_human": "0:00:00.026000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053061242,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:25:28.408",
+    "id": 2746,
+    "timediff": 8.308,
+    "timediff_human": "0:00:08.308000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053061263,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:25:28.422",
+    "id": 2747,
+    "timediff": 0.014,
+    "timediff_human": "0:00:00.014000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053137589,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:26:45.748",
+    "id": 2748,
+    "timediff": 77.326,
+    "timediff_human": "0:01:17.326000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053137625,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:26:45.762",
+    "id": 2749,
+    "timediff": 0.014,
+    "timediff_human": "0:00:00.014000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053232498,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:28:22.002",
+    "id": 2750,
+    "timediff": 96.24,
+    "timediff_human": "0:01:36.240000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053232526,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:28:22.009",
+    "id": 2751,
+    "timediff": 0.007,
+    "timediff_human": "0:00:00.007000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053251932,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:28:39.099",
+    "id": 2752,
+    "timediff": 17.09,
+    "timediff_human": "0:00:17.090000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053251962,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:28:39.116",
+    "id": 2753,
+    "timediff": 0.017,
+    "timediff_human": "0:00:00.017000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053253419,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:28:40.348",
+    "id": 2754,
+    "timediff": 1.232,
+    "timediff_human": "0:00:01.232000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053257152,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "answer": "Menampilkan sesuatu pada program",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T03:28:44.094",
+    "id": 2755,
+    "timediff": 3.746,
+    "timediff_human": "0:00:03.746000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053266666,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:28:53.822",
+    "id": 2756,
+    "timediff": 9.728,
+    "timediff_human": "0:00:09.728000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053266690,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:28:53.85",
+    "id": 2757,
+    "timediff": 0.028,
+    "timediff_human": "0:00:00.028000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053268159,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:28:55.088",
+    "id": 2758,
+    "timediff": 1.238,
+    "timediff_human": "0:00:01.238000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053273191,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "answer": 3,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T03:29:00.353",
+    "id": 2759,
+    "timediff": 5.265,
+    "timediff_human": "0:00:05.265000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053276368,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:29:03.304",
+    "id": 2760,
+    "timediff": 2.951,
+    "timediff_human": "0:00:02.951000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053276388,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:29:03.318",
+    "id": 2761,
+    "timediff": 0.014,
+    "timediff_human": "0:00:00.014000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053307810,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:29:34.991",
+    "id": 2762,
+    "timediff": 31.673,
+    "timediff_human": "0:00:31.673000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053307849,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:29:35.004",
+    "id": 2763,
+    "timediff": 0.013,
+    "timediff_human": "0:00:00.013000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053309306,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:29:36.235",
+    "id": 2764,
+    "timediff": 1.231,
+    "timediff_human": "0:00:01.231000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053310696,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:29:37.633",
+    "id": 2765,
+    "timediff": 1.398,
+    "timediff_human": "0:00:01.398000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053310714,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:29:37.954",
+    "id": 2766,
+    "timediff": 0.321,
+    "timediff_human": "0:00:00.321000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053311918,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:29:38.847",
+    "id": 2767,
+    "timediff": 0.893,
+    "timediff_human": "0:00:00.893000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053316079,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:29:43.233",
+    "id": 2768,
+    "timediff": 4.386,
+    "timediff_human": "0:00:04.386000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053316097,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:29:43.26",
+    "id": 2769,
+    "timediff": 0.027,
+    "timediff_human": "0:00:00.027000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053319536,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:29:46.481",
+    "id": 2770,
+    "timediff": 3.221,
+    "timediff_human": "0:00:03.221000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053319561,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:29:46.5",
+    "id": 2771,
+    "timediff": 0.019,
+    "timediff_human": "0:00:00.019000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053335686,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:30:02.86",
+    "id": 2772,
+    "timediff": 16.36,
+    "timediff_human": "0:00:16.360000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053335709,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:30:03.205",
+    "id": 2773,
+    "timediff": 0.345,
+    "timediff_human": "0:00:00.345000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053367728,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:30:34.905",
+    "id": 2774,
+    "timediff": 31.7,
+    "timediff_human": "0:00:31.700000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053367754,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:30:34.908",
+    "id": 2775,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053396400,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:31:03.574",
+    "id": 2776,
+    "timediff": 28.666,
+    "timediff_human": "0:00:28.666000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053396372,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:31:03.578",
+    "id": 2777,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053405119,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:31:12.299",
+    "id": 2778,
+    "timediff": 8.721,
+    "timediff_human": "0:00:08.721000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053405145,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:31:13.966",
+    "id": 2779,
+    "timediff": 1.667,
+    "timediff_human": "0:00:01.667000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053408276,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:31:15.21",
+    "id": 2780,
+    "timediff": 1.244,
+    "timediff_human": "0:00:01.244000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053411349,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "answer": "Menampilkan sesuatu pada program",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T03:31:18.289",
+    "id": 2781,
+    "timediff": 3.079,
+    "timediff_human": "0:00:03.079000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053414126,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:31:21.285",
+    "id": 2782,
+    "timediff": 2.996,
+    "timediff_human": "0:00:02.996000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053414104,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:31:21.289",
+    "id": 2783,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053415599,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:31:22.532",
+    "id": 2784,
+    "timediff": 1.243,
+    "timediff_human": "0:00:01.243000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053423213,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "answer": 3,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T03:31:30.387",
+    "id": 2785,
+    "timediff": 7.855,
+    "timediff_human": "0:00:07.855000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053427559,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:31:34.498",
+    "id": 2786,
+    "timediff": 4.111,
+    "timediff_human": "0:00:04.111000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053427588,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:31:34.519",
+    "id": 2787,
+    "timediff": 0.021,
+    "timediff_human": "0:00:00.021000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053540026,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "x = input(\"Hello Word\")\r\nx = x + \"!\"\r\nprint(x)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T03:33:29.504",
+    "id": 2801,
+    "timediff": 114.985,
+    "timediff_human": "0:01:54.985000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053683283,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "print(\"Halo Dunia!\") ",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T03:35:52.482",
+    "id": 2835,
+    "timediff": 142.978,
+    "timediff_human": "0:02:22.978000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053749203,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:36:56.41",
+    "id": 2837,
+    "timediff": 63.928,
+    "timediff_human": "0:01:03.928000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654053764971,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/35",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:37:12.139",
+    "id": 2839,
+    "timediff": 15.729,
+    "timediff_human": "0:00:15.729000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054000134,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:41:08.329",
+    "id": 2863,
+    "timediff": 236.19,
+    "timediff_human": "0:03:56.190000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054000104,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:41:08.6",
+    "id": 2864,
+    "timediff": 0.271,
+    "timediff_human": "0:00:00.271000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054072839,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:42:20.004",
+    "id": 2870,
+    "timediff": 71.404,
+    "timediff_human": "0:01:11.404000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054072865,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:42:20.271",
+    "id": 2873,
+    "timediff": 0.267,
+    "timediff_human": "0:00:00.267000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054124413,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:43:11.571",
+    "id": 2874,
+    "timediff": 51.3,
+    "timediff_human": "0:00:51.300000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054124440,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:43:11.62",
+    "id": 2875,
+    "timediff": 0.049,
+    "timediff_human": "0:00:00.049000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054199015,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:44:26.192",
+    "id": 2878,
+    "timediff": 74.572,
+    "timediff_human": "0:01:14.572000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054199040,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:44:26.443",
+    "id": 2879,
+    "timediff": 0.251,
+    "timediff_human": "0:00:00.251000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054339884,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:46:47.068",
+    "id": 2880,
+    "timediff": 140.625,
+    "timediff_human": "0:02:20.625000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054339910,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:46:47.313",
+    "id": 2881,
+    "timediff": 0.245,
+    "timediff_human": "0:00:00.245000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054505169,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:49:32.339",
+    "id": 2888,
+    "timediff": 165.026,
+    "timediff_human": "0:02:45.026000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054505197,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:49:32.58",
+    "id": 2889,
+    "timediff": 0.241,
+    "timediff_human": "0:00:00.241000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054507533,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "program": "x = true\nx = \"abc\"\nx = 5.0\nx = '10'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:49:34.467",
+    "id": 2890,
+    "timediff": 1.887,
+    "timediff_human": "0:00:01.887000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054527721,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:49:54.895",
+    "id": 2891,
+    "timediff": 20.428,
+    "timediff_human": "0:00:20.428000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054527743,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:49:54.898",
+    "id": 2892,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054559636,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:50:26.818",
+    "id": 2895,
+    "timediff": 31.92,
+    "timediff_human": "0:00:31.920000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054559617,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:50:26.821",
+    "id": 2896,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054562994,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "program": "x = true\nx = \"abc\"\nx = 5.0\nx = '10'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:50:30.068",
+    "id": 2897,
+    "timediff": 3.247,
+    "timediff_human": "0:00:03.247000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054635161,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "answer": "x = 5.0",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T03:51:43.205",
+    "id": 2898,
+    "timediff": 73.137,
+    "timediff_human": "0:01:13.137000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054648981,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:51:56.153",
+    "id": 2899,
+    "timediff": 12.948,
+    "timediff_human": "0:00:12.948000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054649000,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:51:56.165",
+    "id": 2900,
+    "timediff": 0.012,
+    "timediff_human": "0:00:00.012000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054703517,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:52:50.701",
+    "id": 2901,
+    "timediff": 54.536,
+    "timediff_human": "0:00:54.536000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054703541,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:52:50.748",
+    "id": 2902,
+    "timediff": 0.047,
+    "timediff_human": "0:00:00.047000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054706688,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:52:53.625",
+    "id": 2903,
+    "timediff": 2.877,
+    "timediff_human": "0:00:02.877000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054706705,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:52:53.668",
+    "id": 2904,
+    "timediff": 0.043,
+    "timediff_human": "0:00:00.043000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054709164,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:52:56.328",
+    "id": 2905,
+    "timediff": 2.66,
+    "timediff_human": "0:00:02.660000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054709188,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:52:56.354",
+    "id": 2906,
+    "timediff": 0.026,
+    "timediff_human": "0:00:00.026000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054714613,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:53:01.772",
+    "id": 2907,
+    "timediff": 5.418,
+    "timediff_human": "0:00:05.418000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054714637,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:53:01.81",
+    "id": 2908,
+    "timediff": 0.038,
+    "timediff_human": "0:00:00.038000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054718252,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/35",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:53:05.188",
+    "id": 2909,
+    "timediff": 3.378,
+    "timediff_human": "0:00:03.378000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054718271,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/35",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:53:05.212",
+    "id": 2910,
+    "timediff": 0.024,
+    "timediff_human": "0:00:00.024000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054814761,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:54:42.84",
+    "id": 2911,
+    "timediff": 97.628,
+    "timediff_human": "0:01:37.628000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054814786,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:54:42.845",
+    "id": 2912,
+    "timediff": 0.005,
+    "timediff_human": "0:00:00.005000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054819015,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:54:45.953",
+    "id": 2913,
+    "timediff": 3.108,
+    "timediff_human": "0:00:03.108000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054819039,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:54:45.986",
+    "id": 2914,
+    "timediff": 0.033,
+    "timediff_human": "0:00:00.033000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054828488,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:54:55.711",
+    "id": 2915,
+    "timediff": 9.725,
+    "timediff_human": "0:00:09.725000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054828517,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:54:55.721",
+    "id": 2916,
+    "timediff": 0.01,
+    "timediff_human": "0:00:00.010000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054837256,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:55:04.417",
+    "id": 2917,
+    "timediff": 8.696,
+    "timediff_human": "0:00:08.696000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054837283,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:55:04.431",
+    "id": 2918,
+    "timediff": 0.014,
+    "timediff_human": "0:00:00.014000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054844567,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:55:11.743",
+    "id": 2919,
+    "timediff": 7.312,
+    "timediff_human": "0:00:07.312000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054844595,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:55:11.762",
+    "id": 2920,
+    "timediff": 0.019,
+    "timediff_human": "0:00:00.019000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054860664,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:55:27.829",
+    "id": 2921,
+    "timediff": 16.067,
+    "timediff_human": "0:00:16.067000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054860690,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:55:27.845",
+    "id": 2922,
+    "timediff": 0.016,
+    "timediff_human": "0:00:00.016000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054862626,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "program": "x = true\nx = \"abc\"\nx = 5.0\nx = '10'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:55:29.558",
+    "id": 2923,
+    "timediff": 1.713,
+    "timediff_human": "0:00:01.713000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054898899,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "answer": "x = '10'",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T03:56:06.068",
+    "id": 2927,
+    "timediff": 36.51,
+    "timediff_human": "0:00:36.510000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054983886,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "answer": "x = \"abc\"",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T03:57:31.913",
+    "id": 2946,
+    "timediff": 85.845,
+    "timediff_human": "0:01:25.845000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654054992266,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "answer": "x = true",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T03:57:39.432",
+    "id": 2952,
+    "timediff": 7.519,
+    "timediff_human": "0:00:07.519000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654055018380,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:58:05.537",
+    "id": 2953,
+    "timediff": 26.105,
+    "timediff_human": "0:00:26.105000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654055018362,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:58:05.539",
+    "id": 2954,
+    "timediff": 0.002,
+    "timediff_human": "0:00:00.002000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654055020053,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:58:06.986",
+    "id": 2955,
+    "timediff": 1.447,
+    "timediff_human": "0:00:01.447000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654055067787,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "answer": "integer",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T03:58:54.946",
+    "id": 2969,
+    "timediff": 47.96,
+    "timediff_human": "0:00:47.960000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654055070280,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "answer": "float",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T03:58:57.225",
+    "id": 2970,
+    "timediff": 2.279,
+    "timediff_human": "0:00:02.279000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654055075087,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:59:02.25",
+    "id": 2971,
+    "timediff": 5.025,
+    "timediff_human": "0:00:05.025000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654055075116,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:59:02.268",
+    "id": 2972,
+    "timediff": 0.018,
+    "timediff_human": "0:00:00.018000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654055250851,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "answer": "hasil_ubah = int(65,5)\r\nprint(hasil_ubah) ",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T04:01:58.91",
+    "id": 3015,
+    "timediff": 176.642,
+    "timediff_human": "0:02:56.642000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654055330050,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "answer": "hasil_ubah = int(65.5)\r\nprint(hasil_ubah) ",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T04:03:18.096",
+    "id": 3021,
+    "timediff": 79.186,
+    "timediff_human": "0:01:19.186000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654055341555,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T04:03:28.752",
+    "id": 3022,
+    "timediff": 10.656,
+    "timediff_human": "0:00:10.656000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654055341611,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T04:03:28.769",
+    "id": 3023,
+    "timediff": 0.017,
+    "timediff_human": "0:00:00.017000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654055343329,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T04:03:30.263",
+    "id": 3024,
+    "timediff": 1.494,
+    "timediff_human": "0:00:01.494000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654055356501,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T04:03:43.708",
+    "id": 3025,
+    "timediff": 13.445,
+    "timediff_human": "0:00:13.445000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654055356527,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T04:03:43.714",
+    "id": 3026,
+    "timediff": 0.006,
+    "timediff_human": "0:00:00.006000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654055358238,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "program": "x = true\nx = \"abc\"\nx = 5.0\nx = '10'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T04:03:45.175",
+    "id": 3027,
+    "timediff": 1.461,
+    "timediff_human": "0:00:01.461000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654055378753,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T04:04:05.918",
+    "id": 3028,
+    "timediff": 20.743,
+    "timediff_human": "0:00:20.743000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654055378776,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T04:04:05.938",
+    "id": 3029,
+    "timediff": 0.02,
+    "timediff_human": "0:00:00.020000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654055380258,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T04:04:07.192",
+    "id": 3030,
+    "timediff": 1.254,
+    "timediff_human": "0:00:01.254000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654055381521,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T04:04:08.459",
+    "id": 3031,
+    "timediff": 1.267,
+    "timediff_human": "0:00:01.267000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654055381500,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T04:04:08.477",
+    "id": 3032,
+    "timediff": 0.018,
+    "timediff_human": "0:00:00.018000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654055397132,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T04:04:24.318",
+    "id": 3033,
+    "timediff": 15.841,
+    "timediff_human": "0:00:15.841000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654055403001,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/46",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T04:04:30.166",
+    "id": 3034,
+    "timediff": 5.848,
+    "timediff_human": "0:00:05.848000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654055856780,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T04:12:03.937",
+    "id": 3035,
+    "timediff": 453.771,
+    "timediff_human": "0:07:33.771000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654055856800,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T04:12:04.182",
+    "id": 3036,
+    "timediff": 0.245,
+    "timediff_human": "0:00:00.245000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654056051321,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T04:15:18.514",
+    "id": 3039,
+    "timediff": 194.332,
+    "timediff_human": "0:03:14.332000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654056051341,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T04:15:18.808",
+    "id": 3040,
+    "timediff": 0.294,
+    "timediff_human": "0:00:00.294000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654056228619,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T04:18:15.812",
+    "id": 3043,
+    "timediff": 177.004,
+    "timediff_human": "0:02:57.004000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654056228637,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T04:18:16.06",
+    "id": 3044,
+    "timediff": 0.248,
+    "timediff_human": "0:00:00.248000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654056230525,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T04:18:17.465",
+    "id": 3045,
+    "timediff": 1.405,
+    "timediff_human": "0:00:01.405000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654056238391,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "answer": 65,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T04:18:25.564",
+    "id": 3046,
+    "timediff": 8.099,
+    "timediff_human": "0:00:08.099000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654056241453,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T04:18:28.398",
+    "id": 3047,
+    "timediff": 2.834,
+    "timediff_human": "0:00:02.834000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654056241479,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T04:18:28.418",
+    "id": 3048,
+    "timediff": 0.02,
+    "timediff_human": "0:00:00.020000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654056242940,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T04:18:29.874",
+    "id": 3049,
+    "timediff": 1.456,
+    "timediff_human": "0:00:01.456000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654056272743,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T04:18:59.916",
+    "id": 3050,
+    "timediff": 30.042,
+    "timediff_human": "0:00:30.042000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654056285425,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T04:19:12.581",
+    "id": 3051,
+    "timediff": 12.665,
+    "timediff_human": "0:00:12.665000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654056285401,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T04:19:12.586",
+    "id": 3052,
+    "timediff": 0.005,
+    "timediff_human": "0:00:00.005000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654056286999,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T04:19:13.933",
+    "id": 3053,
+    "timediff": 1.347,
+    "timediff_human": "0:00:01.347000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654056379888,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T04:20:47.917",
+    "id": 3060,
+    "timediff": 93.984,
+    "timediff_human": "0:01:33.984000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654056383806,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T04:20:50.783",
+    "id": 3062,
+    "timediff": 2.866,
+    "timediff_human": "0:00:02.866000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654056383841,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T04:20:50.817",
+    "id": 3063,
+    "timediff": 0.034,
+    "timediff_human": "0:00:00.034000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654056488421,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "answer": "a = \"15\"\r\nb = \"30\"\r\njumlah = a + b\r\nprint(jumlah)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T04:22:36.459",
+    "id": 3072,
+    "timediff": 105.642,
+    "timediff_human": "0:01:45.642000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654056549104,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "answer": "a = \"15\"\r\nb = \"30\"\r\njumlah = \"a + b\"\r\nprint(jumlah)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T04:23:36.283",
+    "id": 3080,
+    "timediff": 59.824,
+    "timediff_human": "0:00:59.824000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654056638577,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "answer": "a = int('15')\r\nb = int('30')\r\njumlah = a + b\r\nprint(jumlah)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T04:25:08.225",
+    "id": 3082,
+    "timediff": 91.942,
+    "timediff_human": "0:01:31.942000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654056641142,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "answer": "a = int('15')\r\nb = int('30')\r\njumlah = a + b\r\nprint(jumlah)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T04:25:08.536",
+    "id": 3083,
+    "timediff": 0.311,
+    "timediff_human": "0:00:00.311000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654056690265,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "answer": "x = int('15')\r\ny = int('30')\r\njumlah = x + y\r\nprint(jumlah)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T04:25:57.431",
+    "id": 3086,
+    "timediff": 48.895,
+    "timediff_human": "0:00:48.895000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654056774501,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "answer": "x = 14.9\r\ny = 30.1\r\njumlah = x + y\r\nprint(jumlah)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T04:27:22.51",
+    "id": 3092,
+    "timediff": 85.079,
+    "timediff_human": "0:01:25.079000"
+  },
+  {
+    "name": "Ridwan Fauzan",
+    "details": {
+      "date": 1654056788519,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/4",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T04:27:35.713",
+    "id": 3093,
+    "timediff": 13.203,
+    "timediff_human": "0:00:13.203000"
+  }
+]

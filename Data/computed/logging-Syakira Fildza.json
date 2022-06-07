@@ -1,0 +1,818 @@
+[
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653998912339,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/28",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T12:08:31.71",
+    "id": 2658,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653998966565,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T12:09:25.839",
+    "id": 2659,
+    "timediff": 54.129,
+    "timediff_human": "0:00:54.129000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653998966777,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T12:09:26.286",
+    "id": 2660,
+    "timediff": 0.447,
+    "timediff_human": "0:00:00.447000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999044124,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T12:10:43.442",
+    "id": 2661,
+    "timediff": 77.156,
+    "timediff_human": "0:01:17.156000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999044301,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T12:10:43.444",
+    "id": 2662,
+    "timediff": 0.002,
+    "timediff_human": "0:00:00.002000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999145028,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T12:12:23.615",
+    "id": 2663,
+    "timediff": 100.171,
+    "timediff_human": "0:01:40.171000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999145187,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T12:12:23.928",
+    "id": 2664,
+    "timediff": 0.313,
+    "timediff_human": "0:00:00.313000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999158372,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T12:12:36.789",
+    "id": 2665,
+    "timediff": 12.861,
+    "timediff_human": "0:00:12.861000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999158535,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T12:12:37.041",
+    "id": 2666,
+    "timediff": 0.252,
+    "timediff_human": "0:00:00.252000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999161518,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T12:12:39.584",
+    "id": 2667,
+    "timediff": 2.543,
+    "timediff_human": "0:00:02.543000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999168340,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "answer": "Menampilkan sesuatu pada program",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T12:12:47.079",
+    "id": 2668,
+    "timediff": 7.495,
+    "timediff_human": "0:00:07.495000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999172809,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T12:12:51.42",
+    "id": 2669,
+    "timediff": 4.341,
+    "timediff_human": "0:00:04.341000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999172966,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T12:12:51.489",
+    "id": 2670,
+    "timediff": 0.069,
+    "timediff_human": "0:00:00.069000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999175567,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T12:12:53.864",
+    "id": 2671,
+    "timediff": 2.375,
+    "timediff_human": "0:00:02.375000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999187461,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "answer": 3,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T12:13:06.794",
+    "id": 2672,
+    "timediff": 12.93,
+    "timediff_human": "0:00:12.930000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999194074,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T12:13:13.24",
+    "id": 2673,
+    "timediff": 6.446,
+    "timediff_human": "0:00:06.446000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999194288,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T12:13:13.485",
+    "id": 2674,
+    "timediff": 0.245,
+    "timediff_human": "0:00:00.245000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999220731,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "print(\"Halo Dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-31T12:13:40.077",
+    "id": 2675,
+    "timediff": 26.592,
+    "timediff_human": "0:00:26.592000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999228141,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T12:13:46.833",
+    "id": 2676,
+    "timediff": 6.756,
+    "timediff_human": "0:00:06.756000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999237003,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/35",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T12:13:56.816",
+    "id": 2677,
+    "timediff": 9.983,
+    "timediff_human": "0:00:09.983000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999274980,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T12:14:34.288",
+    "id": 2678,
+    "timediff": 37.472,
+    "timediff_human": "0:00:37.472000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999275314,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T12:14:34.563",
+    "id": 2679,
+    "timediff": 0.275,
+    "timediff_human": "0:00:00.275000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999295936,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T12:14:54.313",
+    "id": 2680,
+    "timediff": 19.75,
+    "timediff_human": "0:00:19.750000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999296166,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T12:14:54.574",
+    "id": 2681,
+    "timediff": 0.261,
+    "timediff_human": "0:00:00.261000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999310802,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T12:15:09.698",
+    "id": 2682,
+    "timediff": 15.124,
+    "timediff_human": "0:00:15.124000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999311116,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T12:15:09.932",
+    "id": 2683,
+    "timediff": 0.234,
+    "timediff_human": "0:00:00.234000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999333928,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T12:15:32.222",
+    "id": 2684,
+    "timediff": 22.29,
+    "timediff_human": "0:00:22.290000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999334002,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T12:15:32.464",
+    "id": 2685,
+    "timediff": 0.242,
+    "timediff_human": "0:00:00.242000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999359108,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T12:15:58.264",
+    "id": 2686,
+    "timediff": 25.8,
+    "timediff_human": "0:00:25.800000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999359269,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T12:15:58.468",
+    "id": 2687,
+    "timediff": 0.204,
+    "timediff_human": "0:00:00.204000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999440030,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T12:17:19.187",
+    "id": 2688,
+    "timediff": 80.719,
+    "timediff_human": "0:01:20.719000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999440124,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T12:17:19.231",
+    "id": 2689,
+    "timediff": 0.044,
+    "timediff_human": "0:00:00.044000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999443033,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "program": "x = true\nx = \"abc\"\nx = 5.0\nx = '10'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T12:17:21.104",
+    "id": 2690,
+    "timediff": 1.873,
+    "timediff_human": "0:00:01.873000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999514785,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "answer": "x = true",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T12:18:34.103",
+    "id": 2691,
+    "timediff": 72.999,
+    "timediff_human": "0:01:12.999000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999521131,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T12:18:39.98",
+    "id": 2692,
+    "timediff": 5.877,
+    "timediff_human": "0:00:05.877000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999521297,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T12:18:40.021",
+    "id": 2693,
+    "timediff": 0.041,
+    "timediff_human": "0:00:00.041000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999523761,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T12:18:41.814",
+    "id": 2694,
+    "timediff": 1.793,
+    "timediff_human": "0:00:01.793000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999558087,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "answer": "integer",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T12:19:17.298",
+    "id": 2695,
+    "timediff": 35.484,
+    "timediff_human": "0:00:35.484000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999563962,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "answer": "float",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T12:19:22.373",
+    "id": 2696,
+    "timediff": 5.075,
+    "timediff_human": "0:00:05.075000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999568887,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T12:19:27.737",
+    "id": 2697,
+    "timediff": 5.364,
+    "timediff_human": "0:00:05.364000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999568999,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T12:19:27.92",
+    "id": 2698,
+    "timediff": 0.183,
+    "timediff_human": "0:00:00.183000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999633393,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "answer": "x = 65.5\r\nprint(int(x))",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-31T12:20:32.685",
+    "id": 2699,
+    "timediff": 64.765,
+    "timediff_human": "0:01:04.765000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999641090,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T12:20:39.535",
+    "id": 2700,
+    "timediff": 6.85,
+    "timediff_human": "0:00:06.850000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999662736,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/46",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T12:21:02.337",
+    "id": 2701,
+    "timediff": 22.802,
+    "timediff_human": "0:00:22.802000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999720564,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T12:21:59.404",
+    "id": 2702,
+    "timediff": 57.067,
+    "timediff_human": "0:00:57.067000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999720767,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T12:21:59.485",
+    "id": 2703,
+    "timediff": 0.081,
+    "timediff_human": "0:00:00.081000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999809403,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T12:23:28.91",
+    "id": 2704,
+    "timediff": 89.425,
+    "timediff_human": "0:01:29.425000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999809741,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T12:23:28.914",
+    "id": 2705,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999843060,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T12:24:02.357",
+    "id": 2706,
+    "timediff": 33.443,
+    "timediff_human": "0:00:33.443000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999843114,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T12:24:02.36",
+    "id": 2707,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999846212,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T12:24:04.258",
+    "id": 2708,
+    "timediff": 1.898,
+    "timediff_human": "0:00:01.898000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999864972,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "answer": 65,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T12:24:24.191",
+    "id": 2709,
+    "timediff": 19.933,
+    "timediff_human": "0:00:19.933000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999870804,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T12:24:29.582",
+    "id": 2710,
+    "timediff": 5.391,
+    "timediff_human": "0:00:05.391000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999870940,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T12:24:29.659",
+    "id": 2711,
+    "timediff": 0.077,
+    "timediff_human": "0:00:00.077000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999873540,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T12:24:31.594",
+    "id": 2712,
+    "timediff": 1.935,
+    "timediff_human": "0:00:01.935000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999922684,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "answer": "False",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T12:25:21.843",
+    "id": 2713,
+    "timediff": 50.249,
+    "timediff_human": "0:00:50.249000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999926848,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T12:25:25.576",
+    "id": 2714,
+    "timediff": 3.733,
+    "timediff_human": "0:00:03.733000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999931436,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T12:25:30.433",
+    "id": 2715,
+    "timediff": 4.857,
+    "timediff_human": "0:00:04.857000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999931652,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T12:25:30.728",
+    "id": 2716,
+    "timediff": 0.295,
+    "timediff_human": "0:00:00.295000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999934122,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T12:25:32.166",
+    "id": 2717,
+    "timediff": 1.438,
+    "timediff_human": "0:00:01.438000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999946875,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T12:25:46.831",
+    "id": 2718,
+    "timediff": 14.665,
+    "timediff_human": "0:00:14.665000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999958127,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T12:25:57.375",
+    "id": 2719,
+    "timediff": 10.544,
+    "timediff_human": "0:00:10.544000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999957997,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T12:25:57.391",
+    "id": 2720,
+    "timediff": 0.016,
+    "timediff_human": "0:00:00.016000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1653999996903,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "answer": "a = 15\r\nb = 30\r\njumlah = a + b\r\nprint(jumlah)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-31T12:26:36.297",
+    "id": 2721,
+    "timediff": 38.906,
+    "timediff_human": "0:00:38.906000"
+  },
+  {
+    "name": "Syakira Fildza",
+    "details": {
+      "date": 1654000004805,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/4",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T12:26:43.189",
+    "id": 2722,
+    "timediff": 6.892,
+    "timediff_human": "0:00:06.892000"
+  }
+]

@@ -1,0 +1,155 @@
+[
+  {
+    "name": "Steven S",
+    "details": {
+      "date": 1653911802845,
+      "route": "/learn/python-dasar/lesson/1/stage/1",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T11:56:43.716",
+    "id": 1685,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "Steven S",
+    "details": {
+      "date": 1653911834165,
+      "route": "/learn/python-dasar/lesson/1/stage/1",
+      "answer": "print(\"Hello World\");\r\n",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T11:57:14.882",
+    "id": 1686,
+    "timediff": 31.166,
+    "timediff_human": "0:00:31.166000"
+  },
+  {
+    "name": "Steven S",
+    "details": {
+      "date": 1653911854104,
+      "route": "/learn/python-dasar/lesson/1/stage/1",
+      "program": "print(\"Hello World\");\r\nprint",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T11:57:33.951",
+    "id": 1687,
+    "timediff": 19.069,
+    "timediff_human": "0:00:19.069000"
+  },
+  {
+    "name": "Steven S",
+    "details": {
+      "date": 1653911859198,
+      "step": 0,
+      "route": "/learn/python-dasar/lesson/1/stage/1",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T11:57:38.797",
+    "id": 1688,
+    "timediff": 4.846,
+    "timediff_human": "0:00:04.846000"
+  },
+  {
+    "name": "Steven S",
+    "details": {
+      "date": 1653911861091,
+      "step": 1,
+      "route": "/learn/python-dasar/lesson/1/stage/1",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T11:57:41.962",
+    "id": 1689,
+    "timediff": 3.165,
+    "timediff_human": "0:00:03.165000"
+  },
+  {
+    "name": "Steven S",
+    "details": {
+      "date": 1653911877255,
+      "route": "/learn/python-dasar/lesson/1/stage/1",
+      "program": "print(\"Hello World\");\r\nprint(\"kontol\")",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T11:57:57.084",
+    "id": 1690,
+    "timediff": 15.122,
+    "timediff_human": "0:00:15.122000"
+  },
+  {
+    "name": "Steven S",
+    "details": {
+      "date": 1653911881511,
+      "step": 0,
+      "route": "/learn/python-dasar/lesson/1/stage/1",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T11:58:01.701",
+    "id": 1691,
+    "timediff": 4.617,
+    "timediff_human": "0:00:04.617000"
+  },
+  {
+    "name": "Steven S",
+    "details": {
+      "date": 1653911884556,
+      "step": 1,
+      "route": "/learn/python-dasar/lesson/1/stage/1",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-30T11:58:04.866",
+    "id": 1692,
+    "timediff": 3.165,
+    "timediff_human": "0:00:03.165000"
+  },
+  {
+    "name": "Steven S",
+    "details": {
+      "date": 1653911889835,
+      "route": "/learn/python-dasar/lesson/1/stage/1",
+      "program": "print(\"Hello World\");\r\nprint(\"kontol\")",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T11:58:09.434",
+    "id": 1693,
+    "timediff": 4.568,
+    "timediff_human": "0:00:04.568000"
+  },
+  {
+    "name": "Steven S",
+    "details": {
+      "date": 1653911904334,
+      "done": false,
+      "route": "/learn",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T11:58:24.196",
+    "id": 1694,
+    "timediff": 14.762,
+    "timediff_human": "0:00:14.762000"
+  },
+  {
+    "name": "Steven S",
+    "details": {
+      "date": 1653911935887,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T11:58:56.733",
+    "id": 1695,
+    "timediff": 32.537,
+    "timediff_human": "0:00:32.537000"
+  },
+  {
+    "name": "Steven S",
+    "details": {
+      "date": 1653911946721,
+      "route": "/learn/python-dasar:-control/lesson/1",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T11:59:06.558",
+    "id": 1696,
+    "timediff": 9.825,
+    "timediff_human": "0:00:09.825000"
+  }
+]

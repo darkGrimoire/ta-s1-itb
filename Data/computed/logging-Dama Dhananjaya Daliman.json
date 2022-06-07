@@ -1,0 +1,2417 @@
+[
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988094244,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/3",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:08:14.859",
+    "id": 2462,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988123740,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:08:44.307",
+    "id": 2466,
+    "timediff": 29.448,
+    "timediff_human": "0:00:29.448000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988123756,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:08:44.31",
+    "id": 2467,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988126993,
+      "input": [
+        "Halo"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:08:47.353",
+    "id": 2468,
+    "timediff": 3.043,
+    "timediff_human": "0:00:03.043000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988162530,
+      "input": [
+        "Halo"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:09:23.206",
+    "id": 2475,
+    "timediff": 35.853,
+    "timediff_human": "0:00:35.853000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988165615,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:09:26.065",
+    "id": 2477,
+    "timediff": 2.859,
+    "timediff_human": "0:00:02.859000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988172313,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:09:33.995",
+    "id": 2478,
+    "timediff": 7.93,
+    "timediff_human": "0:00:07.930000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988175769,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:09:36.167",
+    "id": 2479,
+    "timediff": 2.172,
+    "timediff_human": "0:00:02.172000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988178255,
+      "step": 3,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_prev"
+    },
+    "createdAt": "2022-05-31T09:09:38.686",
+    "id": 2480,
+    "timediff": 2.519,
+    "timediff_human": "0:00:02.519000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988178661,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_prev"
+    },
+    "createdAt": "2022-05-31T09:09:39.263",
+    "id": 2481,
+    "timediff": 0.577,
+    "timediff_human": "0:00:00.577000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988187047,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:09:47.744",
+    "id": 2484,
+    "timediff": 8.481,
+    "timediff_human": "0:00:08.481000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988188135,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:09:48.483",
+    "id": 2485,
+    "timediff": 0.739,
+    "timediff_human": "0:00:00.739000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988189463,
+      "step": 3,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_prev"
+    },
+    "createdAt": "2022-05-31T09:09:49.865",
+    "id": 2486,
+    "timediff": 1.382,
+    "timediff_human": "0:00:01.382000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988189895,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_prev"
+    },
+    "createdAt": "2022-05-31T09:09:50.243",
+    "id": 2487,
+    "timediff": 0.378,
+    "timediff_human": "0:00:00.378000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988190694,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:09:51.04",
+    "id": 2488,
+    "timediff": 0.797,
+    "timediff_human": "0:00:00.797000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988191079,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:09:51.424",
+    "id": 2489,
+    "timediff": 0.384,
+    "timediff_human": "0:00:00.384000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988195118,
+      "step": 3,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_prev"
+    },
+    "createdAt": "2022-05-31T09:09:55.673",
+    "id": 2490,
+    "timediff": 4.249,
+    "timediff_human": "0:00:04.249000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988195335,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_prev"
+    },
+    "createdAt": "2022-05-31T09:09:55.994",
+    "id": 2491,
+    "timediff": 0.321,
+    "timediff_human": "0:00:00.321000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988195952,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_prev"
+    },
+    "createdAt": "2022-05-31T09:09:56.299",
+    "id": 2492,
+    "timediff": 0.305,
+    "timediff_human": "0:00:00.305000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988197430,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:09:57.795",
+    "id": 2493,
+    "timediff": 1.496,
+    "timediff_human": "0:00:01.496000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988198238,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:09:58.582",
+    "id": 2494,
+    "timediff": 0.787,
+    "timediff_human": "0:00:00.787000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988198749,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:09:59.095",
+    "id": 2495,
+    "timediff": 0.513,
+    "timediff_human": "0:00:00.513000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988202105,
+      "input": [
+        "Halo"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:10:02.662",
+    "id": 2496,
+    "timediff": 3.567,
+    "timediff_human": "0:00:03.567000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988204343,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:10:04.693",
+    "id": 2497,
+    "timediff": 2.031,
+    "timediff_human": "0:00:02.031000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988205575,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:10:05.926",
+    "id": 2498,
+    "timediff": 1.233,
+    "timediff_human": "0:00:01.233000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988205895,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:10:06.239",
+    "id": 2499,
+    "timediff": 0.313,
+    "timediff_human": "0:00:00.313000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988208770,
+      "input": [
+        "Halo"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:10:09.331",
+    "id": 2501,
+    "timediff": 3.092,
+    "timediff_human": "0:00:03.092000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988221306,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:10:21.925",
+    "id": 2502,
+    "timediff": 12.594,
+    "timediff_human": "0:00:12.594000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988222476,
+      "input": [
+        "Halo"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"?\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:10:22.826",
+    "id": 2503,
+    "timediff": 0.901,
+    "timediff_human": "0:00:00.901000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988223630,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:10:23.979",
+    "id": 2504,
+    "timediff": 1.153,
+    "timediff_human": "0:00:01.153000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988224758,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:10:25.104",
+    "id": 2505,
+    "timediff": 1.125,
+    "timediff_human": "0:00:01.125000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988225735,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:10:26.132",
+    "id": 2506,
+    "timediff": 1.028,
+    "timediff_human": "0:00:01.028000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988347561,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:12:28.246",
+    "id": 2507,
+    "timediff": 122.114,
+    "timediff_human": "0:02:02.114000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988347629,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:12:28.474",
+    "id": 2508,
+    "timediff": 0.228,
+    "timediff_human": "0:00:00.228000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988350441,
+      "input": [
+        "3",
+        "5"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "program": "# INPUT = Meminta masukkan berupa 2 bilangan bulat positif\n# lalu masukkan pada variabel A dan B\nA = int(input())\nB = int(input())\n\n# PROSES = Jumlahkan A dan B kemudian masukkan hasilnya ke dalam variabel A\nA = A + B\n\n# OUTPUT = Tampilkan kedua variabel setelah dilakukan proses penjumlahan\nprint(A)\nprint(B)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:12:30.795",
+    "id": 2509,
+    "timediff": 2.321,
+    "timediff_human": "0:00:02.321000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988391758,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:13:12.442",
+    "id": 2510,
+    "timediff": 41.647,
+    "timediff_human": "0:00:41.647000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988392271,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:13:12.627",
+    "id": 2511,
+    "timediff": 0.185,
+    "timediff_human": "0:00:00.185000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988394431,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:13:14.784",
+    "id": 2512,
+    "timediff": 2.157,
+    "timediff_human": "0:00:02.157000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988397959,
+      "step": 3,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:13:18.593",
+    "id": 2513,
+    "timediff": 3.809,
+    "timediff_human": "0:00:03.809000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988398453,
+      "step": 4,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:13:18.919",
+    "id": 2514,
+    "timediff": 0.326,
+    "timediff_human": "0:00:00.326000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988409898,
+      "input": [
+        "3",
+        "5"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "program": "# INPUT = Meminta masukkan berupa 2 bilangan bulat positif\n# lalu masukkan pada variabel A dan B\nA = int(input())\nB = int(input())\nC = int(input())\n\n# PROSES = Jumlahkan A dan B kemudian masukkan hasilnya ke dalam variabel A\nA = A + B\n\n# OUTPUT = Tampilkan kedua variabel setelah dilakukan proses penjumlahan\nprint(A)\nprint(B)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:13:30.467",
+    "id": 2515,
+    "timediff": 11.548,
+    "timediff_human": "0:00:11.548000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988417193,
+      "input": [
+        "3",
+        "5"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "program": "# INPUT = Meminta masukkan berupa 2 bilangan bulat positif\n# lalu masukkan pada variabel A dan B\nA = int(input())\nB = int(input())\nC = int(input())\n\n# PROSES = Jumlahkan A dan B kemudian masukkan hasilnya ke dalam variabel A\nA = A + B\nB = B \n\n# OUTPUT = Tampilkan kedua variabel setelah dilakukan proses penjumlahan\nprint(A)\nprint(B)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:13:37.753",
+    "id": 2516,
+    "timediff": 7.286,
+    "timediff_human": "0:00:07.286000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988420669,
+      "input": [
+        "3",
+        "5"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "program": "# INPUT = Meminta masukkan berupa 2 bilangan bulat positif\n# lalu masukkan pada variabel A dan B\nA = int(input())\nB = int(input())\nC = int(input())\n\n# PROSES = Jumlahkan A dan B kemudian masukkan hasilnya ke dalam variabel A\nA = A + B\nB = B + C\n\n# OUTPUT = Tampilkan kedua variabel setelah dilakukan proses penjumlahan\nprint(A)\nprint(B)\n",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:13:41.014",
+    "id": 2517,
+    "timediff": 3.261,
+    "timediff_human": "0:00:03.261000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988425130,
+      "input": [
+        "3",
+        "5"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "program": "# INPUT = Meminta masukkan berupa 2 bilangan bulat positif\n# lalu masukkan pada variabel A dan B\nA = int(input())\nB = int(input())\nC = int(input())\n\n# PROSES = Jumlahkan A dan B kemudian masukkan hasilnya ke dalam variabel A\nA = A + B\nB = B + C\n\n# OUTPUT = Tampilkan kedua variabel setelah dilakukan proses penjumlahan\nprint(A)\nprint(B)\nprint(C)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:13:45.789",
+    "id": 2518,
+    "timediff": 4.775,
+    "timediff_human": "0:00:04.775000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988427998,
+      "input": [
+        "3",
+        "5",
+        ""
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "program": "# INPUT = Meminta masukkan berupa 2 bilangan bulat positif\n# lalu masukkan pada variabel A dan B\nA = int(input())\nB = int(input())\nC = int(input())\n\n# PROSES = Jumlahkan A dan B kemudian masukkan hasilnya ke dalam variabel A\nA = A + B\nB = B + C\n\n# OUTPUT = Tampilkan kedua variabel setelah dilakukan proses penjumlahan\nprint(A)\nprint(B)\nprint(C)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:13:48.462",
+    "id": 2519,
+    "timediff": 2.673,
+    "timediff_human": "0:00:02.673000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988431244,
+      "input": [
+        "3",
+        "5",
+        "7"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "program": "# INPUT = Meminta masukkan berupa 2 bilangan bulat positif\n# lalu masukkan pada variabel A dan B\nA = int(input())\nB = int(input())\nC = int(input())\n\n# PROSES = Jumlahkan A dan B kemudian masukkan hasilnya ke dalam variabel A\nA = A + B\nB = B + C\n\n# OUTPUT = Tampilkan kedua variabel setelah dilakukan proses penjumlahan\nprint(A)\nprint(B)\nprint(C)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:13:51.909",
+    "id": 2520,
+    "timediff": 3.447,
+    "timediff_human": "0:00:03.447000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988432127,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:13:52.472",
+    "id": 2521,
+    "timediff": 0.563,
+    "timediff_human": "0:00:00.563000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988433414,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:13:53.856",
+    "id": 2522,
+    "timediff": 1.384,
+    "timediff_human": "0:00:01.384000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988433925,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:13:54.273",
+    "id": 2523,
+    "timediff": 0.417,
+    "timediff_human": "0:00:00.417000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988435398,
+      "step": 3,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:13:55.745",
+    "id": 2524,
+    "timediff": 1.472,
+    "timediff_human": "0:00:01.472000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988436278,
+      "step": 4,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:13:56.738",
+    "id": 2525,
+    "timediff": 0.993,
+    "timediff_human": "0:00:00.993000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988437518,
+      "step": 5,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:13:58.076",
+    "id": 2526,
+    "timediff": 1.338,
+    "timediff_human": "0:00:01.338000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988438407,
+      "step": 6,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:13:58.751",
+    "id": 2527,
+    "timediff": 0.675,
+    "timediff_human": "0:00:00.675000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988439198,
+      "step": 7,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:13:59.546",
+    "id": 2528,
+    "timediff": 0.795,
+    "timediff_human": "0:00:00.795000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988448692,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:14:09.281",
+    "id": 2529,
+    "timediff": 9.735,
+    "timediff_human": "0:00:09.735000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988448743,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:14:09.504",
+    "id": 2530,
+    "timediff": 0.223,
+    "timediff_human": "0:00:00.223000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988450837,
+      "input": [
+        "Halo"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:14:11.187",
+    "id": 2531,
+    "timediff": 1.683,
+    "timediff_human": "0:00:01.683000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988473611,
+      "done": true,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:14:34.186",
+    "id": 2532,
+    "timediff": 22.999,
+    "timediff_human": "0:00:22.999000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988473648,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:14:34.304",
+    "id": 2533,
+    "timediff": 0.118,
+    "timediff_human": "0:00:00.118000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988475821,
+      "input": [
+        "3",
+        "5"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "program": "# INPUT = Meminta masukkan berupa 2 bilangan bulat positif\n# lalu masukkan pada variabel A dan B\nA = int(input())\nB = int(input())\n\n# PROSES = Jumlahkan A dan B kemudian masukkan hasilnya ke dalam variabel A\nA = A + B\n\n# OUTPUT = Tampilkan kedua variabel setelah dilakukan proses penjumlahan\nprint(A)\nprint(B)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:14:36.27",
+    "id": 2534,
+    "timediff": 1.966,
+    "timediff_human": "0:00:01.966000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988480192,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/6",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:14:40.821",
+    "id": 2535,
+    "timediff": 4.551,
+    "timediff_human": "0:00:04.551000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988480227,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/6",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:14:40.824",
+    "id": 2536,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988482182,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/6",
+      "program": "# Ini adalah komentar\nprint(5 + 5) # Komentar juga bisa ditaruh di akhir suatu perintah\n# print(100)\n# Program tidak akan mengeluarkan angka 100 karena baris tersebut adalah komentar",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:14:42.529",
+    "id": 2537,
+    "timediff": 1.705,
+    "timediff_human": "0:00:01.705000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988498256,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/7",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:14:58.949",
+    "id": 2538,
+    "timediff": 16.42,
+    "timediff_human": "0:00:16.420000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988498308,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/7",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:14:58.979",
+    "id": 2539,
+    "timediff": 0.03,
+    "timediff_human": "0:00:00.030000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988500887,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/7",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:15:01.243",
+    "id": 2540,
+    "timediff": 2.264,
+    "timediff_human": "0:00:02.264000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988508910,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/7",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:15:09.462",
+    "id": 2541,
+    "timediff": 8.219,
+    "timediff_human": "0:00:08.219000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988509838,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/7",
+      "user_event": "visualizer_click_prev"
+    },
+    "createdAt": "2022-05-31T09:15:10.187",
+    "id": 2542,
+    "timediff": 0.725,
+    "timediff_human": "0:00:00.725000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988512521,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/7",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:15:12.867",
+    "id": 2543,
+    "timediff": 2.68,
+    "timediff_human": "0:00:02.680000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988517064,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/7",
+      "answer": "Meminta masukkan dari pengguna",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T09:15:17.684",
+    "id": 2544,
+    "timediff": 4.817,
+    "timediff_human": "0:00:04.817000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988520333,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/7",
+      "answer": "Menampilkan sesuatu pada program",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T09:15:20.685",
+    "id": 2545,
+    "timediff": 3.001,
+    "timediff_human": "0:00:03.001000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988522402,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/8",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:15:23.082",
+    "id": 2546,
+    "timediff": 2.397,
+    "timediff_human": "0:00:02.397000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988522418,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/8",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:15:23.086",
+    "id": 2547,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988524251,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/8",
+      "program": "print(1)\nprint(2)\n# print(3)\nprint(4)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:15:24.599",
+    "id": 2548,
+    "timediff": 1.513,
+    "timediff_human": "0:00:01.513000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988549247,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/8",
+      "answer": 3,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T09:15:49.831",
+    "id": 2549,
+    "timediff": 25.232,
+    "timediff_human": "0:00:25.232000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988552725,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:15:53.092",
+    "id": 2550,
+    "timediff": 3.261,
+    "timediff_human": "0:00:03.261000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988552742,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:15:53.095",
+    "id": 2551,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988562390,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "program": "",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:16:02.983",
+    "id": 2552,
+    "timediff": 9.888,
+    "timediff_human": "0:00:09.888000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988576816,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "answer": "print(\"Hello World\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-31T09:16:17.441",
+    "id": 2553,
+    "timediff": 14.458,
+    "timediff_human": "0:00:14.458000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988586166,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "answer": "print(\"Halo Dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-31T09:16:26.795",
+    "id": 2554,
+    "timediff": 9.354,
+    "timediff_human": "0:00:09.354000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988591201,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:16:31.56",
+    "id": 2555,
+    "timediff": 4.765,
+    "timediff_human": "0:00:04.765000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988607224,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/10",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:16:47.875",
+    "id": 2556,
+    "timediff": 16.315,
+    "timediff_human": "0:00:16.315000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988609304,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/10",
+      "program": "# KAMUS (bagian deklarasi)\n# nama_lengkap: string\n# umur : int\n# belajar_kode_bareng : boolean\n\n# ALGORITMA (isi program)\n\nnama_lengkap = \"Maskot\"\numur = 9\nbelajar_kode_bareng = True",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:16:49.657",
+    "id": 2557,
+    "timediff": 1.782,
+    "timediff_human": "0:00:01.782000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988609337,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/10",
+      "program": "#Variabel 'nama_lengkap' menyimpan data \"Maskot\"\nnama_lengkap = \"Maskot\"\n\n#Variabel 'umur' menyimpan data angka integer 9\numur = 9\n\n#Variabel 'belajar_kode_bareng' menyimpan data boolean True\nbelajar_kode_bareng = True",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:16:49.689",
+    "id": 2558,
+    "timediff": 0.032,
+    "timediff_human": "0:00:00.032000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988648378,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/11",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:17:29.019",
+    "id": 2559,
+    "timediff": 39.33,
+    "timediff_human": "0:00:39.330000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988648432,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/11",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:17:29.022",
+    "id": 2560,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988674892,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/12",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:17:55.481",
+    "id": 2561,
+    "timediff": 26.459,
+    "timediff_human": "0:00:26.459000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988674908,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/12",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:17:55.488",
+    "id": 2562,
+    "timediff": 0.007,
+    "timediff_human": "0:00:00.007000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988677327,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/12",
+      "program": "# Contoh penggunaan tipe data integer\numur = 15\nharga_barang = 50000\nbanyak_mobil = 0\nsuhu_kulkas = -7\n\n# Contoh penggunaan tipe data float\ndiskon = 0.3\nluas_tanah = 800.5\nvar = -8.93",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:17:57.683",
+    "id": 2563,
+    "timediff": 2.195,
+    "timediff_human": "0:00:02.195000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988691526,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/12",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:18:12.091",
+    "id": 2564,
+    "timediff": 14.408,
+    "timediff_human": "0:00:14.408000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988692189,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/12",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:18:12.542",
+    "id": 2565,
+    "timediff": 0.451,
+    "timediff_human": "0:00:00.451000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988692925,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/12",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:18:13.302",
+    "id": 2566,
+    "timediff": 0.76,
+    "timediff_human": "0:00:00.760000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988694261,
+      "step": 3,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/12",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:18:14.615",
+    "id": 2567,
+    "timediff": 1.313,
+    "timediff_human": "0:00:01.313000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988695071,
+      "step": 4,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/12",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:18:15.433",
+    "id": 2568,
+    "timediff": 0.818,
+    "timediff_human": "0:00:00.818000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988695734,
+      "step": 5,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/12",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:18:16.085",
+    "id": 2569,
+    "timediff": 0.652,
+    "timediff_human": "0:00:00.652000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988695997,
+      "step": 6,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/12",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:18:16.35",
+    "id": 2570,
+    "timediff": 0.265,
+    "timediff_human": "0:00:00.265000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988704744,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/13",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:18:25.315",
+    "id": 2571,
+    "timediff": 8.965,
+    "timediff_human": "0:00:08.965000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988704785,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/13",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:18:25.34",
+    "id": 2572,
+    "timediff": 0.025,
+    "timediff_human": "0:00:00.025000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988706559,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/13",
+      "program": "# Contoh penggunaan tipe data string dan char\nnama_lengkap = \"Maskot\"\nusername = \"@abc123\"\n_sapaan = \"Hello, World!\"\nteks = \"Ini adalah sebuah teks yang memiliki tipe data string.\"\nkode_barang = 'a'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:18:26.908",
+    "id": 2573,
+    "timediff": 1.568,
+    "timediff_human": "0:00:01.568000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988709071,
+      "done": false,
+      "route": "/learn",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:18:29.441",
+    "id": 2574,
+    "timediff": 2.533,
+    "timediff_human": "0:00:02.533000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988729972,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/13",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:18:50.541",
+    "id": 2575,
+    "timediff": 21.1,
+    "timediff_human": "0:00:21.100000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988732020,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/13",
+      "program": "# Contoh penggunaan tipe data string dan char\nnama_lengkap = \"Maskot\"\nusername = \"@abc123\"\n_sapaan = \"Hello, World!\"\nteks = \"Ini adalah sebuah teks yang memiliki tipe data string.\"\nkode_barang = 'a'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:18:52.369",
+    "id": 2576,
+    "timediff": 1.828,
+    "timediff_human": "0:00:01.828000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988759263,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:19:19.849",
+    "id": 2577,
+    "timediff": 27.48,
+    "timediff_human": "0:00:27.480000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988759226,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:19:19.854",
+    "id": 2578,
+    "timediff": 0.005,
+    "timediff_human": "0:00:00.005000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988761297,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "program": "# Contoh penggunaan None\nvar = None",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:19:21.65",
+    "id": 2579,
+    "timediff": 1.796,
+    "timediff_human": "0:00:01.796000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988761462,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "program": "# Contoh penggunaan tipe data boolean\nequals = True\nfound = False\nbelajar_kode_bareng = True\nsudah_makan = True\nsudah_tidur = False",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:19:21.819",
+    "id": 2580,
+    "timediff": 0.169,
+    "timediff_human": "0:00:00.169000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988804202,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "program": "# Contoh penggunaan tipe data boolean\nequals = True\nfound = False\nbelajar_kode_bareng = True\nsudah_makan = True\nsudah_tidur = False",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:20:04.861",
+    "id": 2581,
+    "timediff": 43.042,
+    "timediff_human": "0:00:43.042000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988807047,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:20:07.397",
+    "id": 2582,
+    "timediff": 2.536,
+    "timediff_human": "0:00:02.536000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988807381,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:20:07.73",
+    "id": 2583,
+    "timediff": 0.333,
+    "timediff_human": "0:00:00.333000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988808158,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:20:08.608",
+    "id": 2584,
+    "timediff": 0.878,
+    "timediff_human": "0:00:00.878000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988808582,
+      "step": 3,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:20:08.97",
+    "id": 2585,
+    "timediff": 0.362,
+    "timediff_human": "0:00:00.362000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988809841,
+      "step": 4,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:20:10.495",
+    "id": 2586,
+    "timediff": 1.525,
+    "timediff_human": "0:00:01.525000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988833739,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:20:34.386",
+    "id": 2587,
+    "timediff": 23.891,
+    "timediff_human": "0:00:23.891000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988833790,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:20:34.625",
+    "id": 2588,
+    "timediff": 0.239,
+    "timediff_human": "0:00:00.239000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988836359,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "# Variabel umur berisi 9 (integer)\numur = 9\n\n# Melakukan konversi tipe variabel umur menjadi float\numur = float(umur) # Variabel umur sekarang 9.0 (float)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:20:36.713",
+    "id": 2589,
+    "timediff": 2.088,
+    "timediff_human": "0:00:02.088000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988836367,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "# Variabel umur berisi 9 (integer)\numur = 9\n\n# Melakukan konversi tipe variabel umur menjadi string\numur_dalam_string = str(umur) # Variabel umur_dalam_string berisi '9' (string)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:20:36.785",
+    "id": 2590,
+    "timediff": 0.072,
+    "timediff_human": "0:00:00.072000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988836498,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "angka = 65\nhasil_ubah = float(angka)\nprint(hasil_ubah)\nhasil_ubah = str(angka)\nprint(hasil_ubah)\nhasil_ubah = chr(angka)\nprint(hasil_ubah)\n\nchar = \"A\"\nhasil_ubah = ord(char)\nprint(hasil_ubah)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:20:36.845",
+    "id": 2591,
+    "timediff": 0.06,
+    "timediff_human": "0:00:00.060000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988836782,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "var = int(\"Hello World!\") # fungsi ini akan mengembalikan error",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:20:37.131",
+    "id": 2592,
+    "timediff": 0.286,
+    "timediff_human": "0:00:00.286000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988885077,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "angka = 65\nhasil_ubah = float(angka)\nprint(hasil_ubah)\nhasil_ubah = str(angka)\nprint(hasil_ubah)\nhasil_ubah = chr(angka)\nprint(hasil_ubah)\n\nchar = \"A\"\nhasil_ubah = ord(char)\nprint(hasil_ubah)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:21:25.644",
+    "id": 2593,
+    "timediff": 48.513,
+    "timediff_human": "0:00:48.513000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988888525,
+      "step": 0,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:21:28.883",
+    "id": 2594,
+    "timediff": 3.239,
+    "timediff_human": "0:00:03.239000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988889213,
+      "step": 1,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:21:29.568",
+    "id": 2595,
+    "timediff": 0.685,
+    "timediff_human": "0:00:00.685000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988890782,
+      "step": 2,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:21:31.364",
+    "id": 2596,
+    "timediff": 1.796,
+    "timediff_human": "0:00:01.796000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988891352,
+      "step": 3,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:21:31.715",
+    "id": 2597,
+    "timediff": 0.351,
+    "timediff_human": "0:00:00.351000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988893128,
+      "step": 4,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:21:33.509",
+    "id": 2598,
+    "timediff": 1.794,
+    "timediff_human": "0:00:01.794000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988894046,
+      "step": 5,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:21:34.396",
+    "id": 2599,
+    "timediff": 0.887,
+    "timediff_human": "0:00:00.887000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988894462,
+      "step": 6,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:21:34.811",
+    "id": 2600,
+    "timediff": 0.415,
+    "timediff_human": "0:00:00.415000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988894713,
+      "step": 7,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:21:35.077",
+    "id": 2601,
+    "timediff": 0.266,
+    "timediff_human": "0:00:00.266000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988894870,
+      "step": 8,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:21:35.307",
+    "id": 2602,
+    "timediff": 0.23,
+    "timediff_human": "0:00:00.230000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988895109,
+      "step": 9,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-31T09:21:35.467",
+    "id": 2603,
+    "timediff": 0.16,
+    "timediff_human": "0:00:00.160000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988920657,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/42",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:22:01.265",
+    "id": 2604,
+    "timediff": 25.798,
+    "timediff_human": "0:00:25.798000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988920731,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/42",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:22:01.61",
+    "id": 2605,
+    "timediff": 0.345,
+    "timediff_human": "0:00:00.345000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988923142,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/42",
+      "program": "x = true\nx = \"abc\"\nx = 5.0\nx = '10'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:22:03.493",
+    "id": 2606,
+    "timediff": 1.883,
+    "timediff_human": "0:00:01.883000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988933404,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/42",
+      "program": "x = true\nx = \"abc\"\nx = 5.0\nx = '10'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:22:13.971",
+    "id": 2607,
+    "timediff": 10.478,
+    "timediff_human": "0:00:10.478000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988951251,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/42",
+      "answer": "x = true",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T09:22:31.821",
+    "id": 2608,
+    "timediff": 17.85,
+    "timediff_human": "0:00:17.850000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988954354,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/19",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:22:34.716",
+    "id": 2609,
+    "timediff": 2.895,
+    "timediff_human": "0:00:02.895000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988954374,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/19",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:22:34.731",
+    "id": 2610,
+    "timediff": 0.015,
+    "timediff_human": "0:00:00.015000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988956049,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/19",
+      "program": "x = 10.000\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:22:36.416",
+    "id": 2611,
+    "timediff": 1.685,
+    "timediff_human": "0:00:01.685000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988960133,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/19",
+      "answer": "float",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T09:22:40.725",
+    "id": 2612,
+    "timediff": 4.309,
+    "timediff_human": "0:00:04.309000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988963124,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/18",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:22:43.483",
+    "id": 2613,
+    "timediff": 2.758,
+    "timediff_human": "0:00:02.758000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653988963139,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/18",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:22:43.503",
+    "id": 2614,
+    "timediff": 0.02,
+    "timediff_human": "0:00:00.020000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989063721,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/18",
+      "answer": "x = 65.5\r\nprint(int(x))",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-31T09:24:25.331",
+    "id": 2615,
+    "timediff": 101.828,
+    "timediff_human": "0:01:41.828000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989068755,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:24:29.186",
+    "id": 2616,
+    "timediff": 3.855,
+    "timediff_human": "0:00:03.855000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989086572,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/18",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:24:47.206",
+    "id": 2617,
+    "timediff": 18.02,
+    "timediff_human": "0:00:18.020000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989094911,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/18",
+      "answer": "print(65)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-31T09:24:55.481",
+    "id": 2618,
+    "timediff": 8.275,
+    "timediff_human": "0:00:08.275000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989102067,
+      "done": true,
+      "route": "/learn/python-dasar:-treatment/lesson/3",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:25:02.645",
+    "id": 2619,
+    "timediff": 7.164,
+    "timediff_human": "0:00:07.164000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989106541,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:25:06.898",
+    "id": 2620,
+    "timediff": 4.253,
+    "timediff_human": "0:00:04.253000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989108660,
+      "input": [
+        "12.5",
+        "5"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "program": "alas = float(input())\ntinggi = float(input())\n\n# Rumus luas segitiga\nluas = 1/2 * alas * tinggi\n\nprint(luas)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:25:09.236",
+    "id": 2621,
+    "timediff": 2.338,
+    "timediff_human": "0:00:02.338000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989108680,
+      "input": [
+        "10",
+        "21"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "program": "# Dapatkan a dan b melalui input\na = int(input())\nb = int(input())\n\n# Berikut hasil penggunaan operator-operator yang disebutkan\nhasil_penjumlahan = a + b\nhasil_pengurangan = a - b\nhasil_perkalian = a * b\nhasil_pembagian_bulat = a // b\nhasil_pembagian_riil = a / b\nhasil_modulo = a % b\nhasil_pangkat = a**b",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:25:09.48",
+    "id": 2622,
+    "timediff": 0.244,
+    "timediff_human": "0:00:00.244000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989109198,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "program": "# Contoh operasi + dan * pada string\nkata = \"Halo\"\nkata_sambungan = kata + \" aku sapiderman!\"\nkata_diulang = kata * 5\nprint(\"Bisa juga disambung disini: \" + kata_sambungan)\n\n# Untuk menambahkan baris baru bisa menggunakan \n\n# notes: print akan selalu menambah pada akhir output\nbaris_baru = \"\\n\"\nkata_sambung_diulang = (kata + \"!\" + baris_baru) * 3\nprint(kata_sambung_diulang)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:25:09.548",
+    "id": 2623,
+    "timediff": 0.068,
+    "timediff_human": "0:00:00.068000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989109327,
+      "input": [
+        "Ayang"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "program": "nama = input()\nsapaan = \"Hai \" + nama + \"!\"\nprint(sapaan)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:25:09.677",
+    "id": 2624,
+    "timediff": 0.129,
+    "timediff_human": "0:00:00.129000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989130441,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:25:31.106",
+    "id": 2625,
+    "timediff": 21.429,
+    "timediff_human": "0:00:21.429000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989130496,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:25:31.142",
+    "id": 2626,
+    "timediff": 0.036,
+    "timediff_human": "0:00:00.036000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989133118,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "program": "#menghasilkan true\nprint(15 == 15)\n# menghasilkan false\nprint(15 != 15)\n# menghasilkan true, karena kurang dari sama dengan\nprint(15 <= 15)\n# menghasilkan false\nprint(15 < 15)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:25:33.567",
+    "id": 2627,
+    "timediff": 2.425,
+    "timediff_human": "0:00:02.425000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989133239,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "program": "a = 5\nb = 15\n# menghasilkan true\nprint(a < 13)\n# menghasilkan false\nprint(a == 3)\n# Operator aritmatika akan didahulukan sebelum operator relasional\nprint(a * 3 == b)\n# menghasilkan true\nprint(a + 10 == b)\n# menghasilkan true",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:25:33.6",
+    "id": 2628,
+    "timediff": 0.033,
+    "timediff_human": "0:00:00.033000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989133247,
+      "input": [
+        "8",
+        "5"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "program": "a = int(input())\nb = int(input())\n\nif (a >= b):\n    print(str(a) + \" lebih besar atau sama dengan \" + str(b))\nelse:\n    print(str(a) + \" lebih kecil daripada \" + str(b))",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:25:33.603",
+    "id": 2629,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989133254,
+      "input": [
+        "10",
+        "21"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "program": "# Dapatkan a dan b melalui input\na = int(input())\nb = int(input())\n\n# Berikut hasil penggunaan operator-operator yang disebutkan\nhasil_sama_dengan = a == b\nhasil_tidak_sama = a != b\nhasil_lebih_besar = a > b\nhasil_lebih_kecil = a < b\nhasil_lebih_besar_sama_dengan = a >= b\nhasil_lebih_kecil_sama_dengan = a <= b",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:25:33.612",
+    "id": 2630,
+    "timediff": 0.009,
+    "timediff_human": "0:00:00.009000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989191810,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:26:32.4",
+    "id": 2631,
+    "timediff": 58.788,
+    "timediff_human": "0:00:58.788000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989191860,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:26:32.424",
+    "id": 2632,
+    "timediff": 0.024,
+    "timediff_human": "0:00:00.024000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989193743,
+      "input": [
+        "True",
+        "False"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "program": "# Dapatkan a dan b melalui input\na = bool(input())\nb = bool(input())\n\n# Berikut hasil penggunaan operator-operator yang disebutkan\nhasil_and = a and b\nhasil_or = a or b\nhasil_not = not a",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:26:34.091",
+    "id": 2633,
+    "timediff": 1.667,
+    "timediff_human": "0:00:01.667000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989193930,
+      "input": [
+        "Josep",
+        "18",
+        "menulis"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "program": "nama = input()\nusia = int(input())\nhobi = input()\nwibu = True\n\nprint(\"Apakah \" + nama + \" berusia di antara 15 dan 25?\")\nprint(usia >= 15 and usia <= 25)\nprint(\"Apakah \" + nama + \" memiliki hobi membaca atau menulis?\")\nprint(hobi == \"membaca\" or hobi == \"menulis\")\nprint(\"Apakah \" + nama + \" adalah seorang wibu?\")\nprint(not wibu)\nprint(\"Kamu bohongg :)\")",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:26:34.287",
+    "id": 2634,
+    "timediff": 0.196,
+    "timediff_human": "0:00:00.196000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989227156,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/24",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:27:07.737",
+    "id": 2635,
+    "timediff": 33.45,
+    "timediff_human": "0:00:33.450000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989227217,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/24",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:27:07.804",
+    "id": 2636,
+    "timediff": 0.067,
+    "timediff_human": "0:00:00.067000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989229612,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/24",
+      "program": "a =  20 + 15 * 3",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:27:09.968",
+    "id": 2637,
+    "timediff": 2.164,
+    "timediff_human": "0:00:02.164000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989238245,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/24",
+      "answer": 65,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T09:27:18.835",
+    "id": 2638,
+    "timediff": 8.867,
+    "timediff_human": "0:00:08.867000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989242881,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:27:23.237",
+    "id": 2639,
+    "timediff": 4.402,
+    "timediff_human": "0:00:04.402000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989242901,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:27:23.256",
+    "id": 2640,
+    "timediff": 0.019,
+    "timediff_human": "0:00:00.019000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989245034,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
+      "program": "print(5 != 6 == 6)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:27:25.608",
+    "id": 2641,
+    "timediff": 2.352,
+    "timediff_human": "0:00:02.352000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989262912,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T09:27:43.596",
+    "id": 2642,
+    "timediff": 17.988,
+    "timediff_human": "0:00:17.988000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989278771,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/24",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:27:59.393",
+    "id": 2643,
+    "timediff": 15.797,
+    "timediff_human": "0:00:15.797000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989278787,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/24",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:27:59.399",
+    "id": 2644,
+    "timediff": 0.006,
+    "timediff_human": "0:00:00.006000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989280783,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/24",
+      "program": "a =  20 + 15 * 3",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:28:01.136",
+    "id": 2645,
+    "timediff": 1.737,
+    "timediff_human": "0:00:01.737000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989283465,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:28:03.866",
+    "id": 2646,
+    "timediff": 2.73,
+    "timediff_human": "0:00:02.730000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989283449,
+      "done": true,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:28:03.875",
+    "id": 2647,
+    "timediff": 0.009,
+    "timediff_human": "0:00:00.009000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989285449,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
+      "program": "print(5 != 6 == 6)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:28:06.042",
+    "id": 2648,
+    "timediff": 2.167,
+    "timediff_human": "0:00:02.167000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989286022,
+      "done": true,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/27",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:28:06.383",
+    "id": 2649,
+    "timediff": 0.341,
+    "timediff_human": "0:00:00.341000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989286056,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/27",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:28:06.42",
+    "id": 2650,
+    "timediff": 0.037,
+    "timediff_human": "0:00:00.037000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989288481,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/27",
+      "program": "print((False and False) or (True and True))",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T09:28:08.833",
+    "id": 2651,
+    "timediff": 2.413,
+    "timediff_human": "0:00:02.413000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989298574,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/27",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T09:28:19.746",
+    "id": 2652,
+    "timediff": 10.913,
+    "timediff_human": "0:00:10.913000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989301555,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/45",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:28:21.923",
+    "id": 2653,
+    "timediff": 2.177,
+    "timediff_human": "0:00:02.177000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989301569,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/45",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T09:28:21.927",
+    "id": 2654,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989330135,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/45",
+      "answer": "print(45)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-31T09:28:50.806",
+    "id": 2655,
+    "timediff": 28.879,
+    "timediff_human": "0:00:28.879000"
+  },
+  {
+    "name": "Dama Dhananjaya Daliman",
+    "details": {
+      "date": 1653989335320,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/4",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T09:28:55.678",
+    "id": 2656,
+    "timediff": 4.872,
+    "timediff_human": "0:00:04.872000"
+  }
+]

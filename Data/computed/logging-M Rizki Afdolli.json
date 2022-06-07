@@ -1,0 +1,2590 @@
+[
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654053602488,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/28",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:20:01.876",
+    "id": 2726,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654053694628,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:21:33.997",
+    "id": 2730,
+    "timediff": 92.121,
+    "timediff_human": "0:01:32.121000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654053694645,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:21:34.244",
+    "id": 2731,
+    "timediff": 0.247,
+    "timediff_human": "0:00:00.247000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654053926888,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:25:26.265",
+    "id": 2744,
+    "timediff": 232.021,
+    "timediff_human": "0:03:52.021000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654053926910,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:25:26.512",
+    "id": 2745,
+    "timediff": 0.247,
+    "timediff_human": "0:00:00.247000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054303269,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:31:42.634",
+    "id": 2788,
+    "timediff": 376.122,
+    "timediff_human": "0:06:16.122000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054303298,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:31:42.882",
+    "id": 2789,
+    "timediff": 0.248,
+    "timediff_human": "0:00:00.248000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054346034,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:32:25.428",
+    "id": 2790,
+    "timediff": 42.546,
+    "timediff_human": "0:00:42.546000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054346059,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:32:25.431",
+    "id": 2791,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054347669,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:32:26.797",
+    "id": 2792,
+    "timediff": 1.366,
+    "timediff_human": "0:00:01.366000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054364187,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "answer": "Menjumlahkan 2 angka",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T03:32:43.542",
+    "id": 2793,
+    "timediff": 16.745,
+    "timediff_human": "0:00:16.745000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054368737,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "answer": "Menampilkan sesuatu pada program",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T03:32:47.88",
+    "id": 2794,
+    "timediff": 4.338,
+    "timediff_human": "0:00:04.338000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054371238,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:32:50.607",
+    "id": 2795,
+    "timediff": 2.727,
+    "timediff_human": "0:00:02.727000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054371271,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:32:50.635",
+    "id": 2796,
+    "timediff": 0.028,
+    "timediff_human": "0:00:00.028000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054372809,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:32:51.937",
+    "id": 2797,
+    "timediff": 1.302,
+    "timediff_human": "0:00:01.302000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054381584,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "answer": 3,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T03:33:00.957",
+    "id": 2798,
+    "timediff": 9.02,
+    "timediff_human": "0:00:09.020000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054386995,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:33:06.372",
+    "id": 2799,
+    "timediff": 5.415,
+    "timediff_human": "0:00:05.415000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054387027,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:33:06.386",
+    "id": 2800,
+    "timediff": 0.014,
+    "timediff_human": "0:00:00.014000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054426010,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "print(\"halo dunia\")+!",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T03:33:45.374",
+    "id": 2802,
+    "timediff": 38.988,
+    "timediff_human": "0:00:38.988000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054433460,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "print(\"halo dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T03:33:52.817",
+    "id": 2803,
+    "timediff": 7.443,
+    "timediff_human": "0:00:07.443000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054440669,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:34:00.012",
+    "id": 2804,
+    "timediff": 7.195,
+    "timediff_human": "0:00:07.195000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054440635,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:34:00.016",
+    "id": 2805,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054442140,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:34:01.268",
+    "id": 2806,
+    "timediff": 1.252,
+    "timediff_human": "0:00:01.252000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054445693,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:34:04.861",
+    "id": 2807,
+    "timediff": 3.593,
+    "timediff_human": "0:00:03.593000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054445723,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:34:04.922",
+    "id": 2808,
+    "timediff": 0.061,
+    "timediff_human": "0:00:00.061000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054451019,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:34:10.38",
+    "id": 2809,
+    "timediff": 5.458,
+    "timediff_human": "0:00:05.458000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054451071,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:34:10.443",
+    "id": 2810,
+    "timediff": 0.063,
+    "timediff_human": "0:00:00.063000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054452596,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:34:11.732",
+    "id": 2811,
+    "timediff": 1.289,
+    "timediff_human": "0:00:01.289000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054452975,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:34:12.109",
+    "id": 2812,
+    "timediff": 0.377,
+    "timediff_human": "0:00:00.377000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054452990,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:34:12.169",
+    "id": 2813,
+    "timediff": 0.06,
+    "timediff_human": "0:00:00.060000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054454329,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:34:13.469",
+    "id": 2814,
+    "timediff": 1.3,
+    "timediff_human": "0:00:01.300000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054455211,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:34:14.361",
+    "id": 2815,
+    "timediff": 0.892,
+    "timediff_human": "0:00:00.892000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054455251,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:34:14.382",
+    "id": 2816,
+    "timediff": 0.021,
+    "timediff_human": "0:00:00.021000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054458192,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:34:17.572",
+    "id": 2817,
+    "timediff": 3.19,
+    "timediff_human": "0:00:03.190000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054458239,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:34:17.59",
+    "id": 2818,
+    "timediff": 0.018,
+    "timediff_human": "0:00:00.018000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054485339,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:34:44.71",
+    "id": 2819,
+    "timediff": 27.12,
+    "timediff_human": "0:00:27.120000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054485374,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:34:44.734",
+    "id": 2820,
+    "timediff": 0.024,
+    "timediff_human": "0:00:00.024000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054501613,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:35:00.973",
+    "id": 2821,
+    "timediff": 16.239,
+    "timediff_human": "0:00:16.239000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054501638,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:35:01.01",
+    "id": 2822,
+    "timediff": 0.037,
+    "timediff_human": "0:00:00.037000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054504670,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:35:03.815",
+    "id": 2823,
+    "timediff": 2.805,
+    "timediff_human": "0:00:02.805000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054504693,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:35:03.836",
+    "id": 2824,
+    "timediff": 0.021,
+    "timediff_human": "0:00:00.021000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054506409,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:35:05.551",
+    "id": 2825,
+    "timediff": 1.715,
+    "timediff_human": "0:00:01.715000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054506430,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:35:05.566",
+    "id": 2826,
+    "timediff": 0.015,
+    "timediff_human": "0:00:00.015000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054507936,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:35:07.286",
+    "id": 2827,
+    "timediff": 1.72,
+    "timediff_human": "0:00:01.720000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054508293,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:35:07.427",
+    "id": 2828,
+    "timediff": 0.141,
+    "timediff_human": "0:00:00.141000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054508318,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:35:07.469",
+    "id": 2829,
+    "timediff": 0.042,
+    "timediff_human": "0:00:00.042000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054509820,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:35:08.946",
+    "id": 2830,
+    "timediff": 1.477,
+    "timediff_human": "0:00:01.477000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054510654,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:35:09.789",
+    "id": 2831,
+    "timediff": 0.843,
+    "timediff_human": "0:00:00.843000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054510673,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:35:09.816",
+    "id": 2832,
+    "timediff": 0.027,
+    "timediff_human": "0:00:00.027000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054522453,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "print(halo dunia!)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T03:35:21.798",
+    "id": 2833,
+    "timediff": 11.982,
+    "timediff_human": "0:00:11.982000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054535390,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "print(\"halo dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T03:35:34.735",
+    "id": 2834,
+    "timediff": 12.937,
+    "timediff_human": "0:00:12.937000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054566735,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "print(\"Halo Dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T03:36:06.091",
+    "id": 2836,
+    "timediff": 31.356,
+    "timediff_human": "0:00:31.356000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054625427,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:37:04.907",
+    "id": 2838,
+    "timediff": 58.816,
+    "timediff_human": "0:00:58.816000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054634219,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/35",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:37:13.601",
+    "id": 2840,
+    "timediff": 8.694,
+    "timediff_human": "0:00:08.694000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054647503,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:37:26.838",
+    "id": 2841,
+    "timediff": 13.237,
+    "timediff_human": "0:00:13.237000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054665164,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/28",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:37:44.55",
+    "id": 2842,
+    "timediff": 17.712,
+    "timediff_human": "0:00:17.712000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054668098,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:37:47.236",
+    "id": 2843,
+    "timediff": 2.686,
+    "timediff_human": "0:00:02.686000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054668117,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:37:47.254",
+    "id": 2844,
+    "timediff": 0.018,
+    "timediff_human": "0:00:00.018000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054680228,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:37:59.606",
+    "id": 2845,
+    "timediff": 12.352,
+    "timediff_human": "0:00:12.352000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054680245,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:37:59.618",
+    "id": 2846,
+    "timediff": 0.012,
+    "timediff_human": "0:00:00.012000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054705366,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:38:24.724",
+    "id": 2847,
+    "timediff": 25.106,
+    "timediff_human": "0:00:25.106000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054705387,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:38:24.768",
+    "id": 2848,
+    "timediff": 0.044,
+    "timediff_human": "0:00:00.044000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054718046,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:38:37.396",
+    "id": 2849,
+    "timediff": 12.628,
+    "timediff_human": "0:00:12.628000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054718069,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:38:37.441",
+    "id": 2850,
+    "timediff": 0.045,
+    "timediff_human": "0:00:00.045000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054735180,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:38:54.547",
+    "id": 2851,
+    "timediff": 17.106,
+    "timediff_human": "0:00:17.106000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054735204,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:38:54.581",
+    "id": 2852,
+    "timediff": 0.034,
+    "timediff_human": "0:00:00.034000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054740897,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:39:00.294",
+    "id": 2853,
+    "timediff": 5.713,
+    "timediff_human": "0:00:05.713000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054740935,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:39:00.308",
+    "id": 2854,
+    "timediff": 0.014,
+    "timediff_human": "0:00:00.014000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054742476,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:39:01.611",
+    "id": 2855,
+    "timediff": 1.303,
+    "timediff_human": "0:00:01.303000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054743899,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:39:03.037",
+    "id": 2856,
+    "timediff": 1.426,
+    "timediff_human": "0:00:01.426000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054743926,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:39:03.076",
+    "id": 2857,
+    "timediff": 0.039,
+    "timediff_human": "0:00:00.039000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054745269,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:39:04.399",
+    "id": 2858,
+    "timediff": 1.323,
+    "timediff_human": "0:00:01.323000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054745938,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:39:05.085",
+    "id": 2859,
+    "timediff": 0.686,
+    "timediff_human": "0:00:00.686000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054745990,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:39:05.165",
+    "id": 2860,
+    "timediff": 0.08,
+    "timediff_human": "0:00:00.080000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054750048,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:39:09.465",
+    "id": 2861,
+    "timediff": 4.3,
+    "timediff_human": "0:00:04.300000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654054754741,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/35",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:39:13.872",
+    "id": 2862,
+    "timediff": 4.407,
+    "timediff_human": "0:00:04.407000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055033206,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:43:52.583",
+    "id": 2876,
+    "timediff": 278.711,
+    "timediff_human": "0:04:38.711000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055033226,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:43:52.84",
+    "id": 2877,
+    "timediff": 0.257,
+    "timediff_human": "0:00:00.257000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055229663,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:47:09.03",
+    "id": 2882,
+    "timediff": 196.19,
+    "timediff_human": "0:03:16.190000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055229681,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:47:09.284",
+    "id": 2883,
+    "timediff": 0.254,
+    "timediff_human": "0:00:00.254000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055325071,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:48:44.479",
+    "id": 2884,
+    "timediff": 95.195,
+    "timediff_human": "0:01:35.195000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055325215,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:48:44.739",
+    "id": 2885,
+    "timediff": 0.26,
+    "timediff_human": "0:00:00.260000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055368044,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:49:27.401",
+    "id": 2886,
+    "timediff": 42.662,
+    "timediff_human": "0:00:42.662000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055368089,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:49:27.453",
+    "id": 2887,
+    "timediff": 0.052,
+    "timediff_human": "0:00:00.052000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055409714,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:50:09.071",
+    "id": 2893,
+    "timediff": 41.618,
+    "timediff_human": "0:00:41.618000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055409761,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:50:09.114",
+    "id": 2894,
+    "timediff": 0.043,
+    "timediff_human": "0:00:00.043000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055751325,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:55:50.679",
+    "id": 2924,
+    "timediff": 341.565,
+    "timediff_human": "0:05:41.565000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055751342,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:55:51.042",
+    "id": 2925,
+    "timediff": 0.363,
+    "timediff_human": "0:00:00.363000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055753569,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "program": "x = true\nx = \"abc\"\nx = 5.0\nx = '10'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:55:52.69",
+    "id": 2926,
+    "timediff": 1.648,
+    "timediff_human": "0:00:01.648000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055772473,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "answer": "x = 5.0",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T03:56:11.822",
+    "id": 2928,
+    "timediff": 19.132,
+    "timediff_human": "0:00:19.132000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055778338,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "answer": "x = true",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T03:56:17.685",
+    "id": 2929,
+    "timediff": 5.863,
+    "timediff_human": "0:00:05.863000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055780861,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:56:20.012",
+    "id": 2930,
+    "timediff": 2.327,
+    "timediff_human": "0:00:02.327000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055780942,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:56:20.064",
+    "id": 2931,
+    "timediff": 0.052,
+    "timediff_human": "0:00:00.052000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055782512,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:56:21.635",
+    "id": 2932,
+    "timediff": 1.571,
+    "timediff_human": "0:00:01.571000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055786769,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "answer": "float",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T03:56:26.16",
+    "id": 2933,
+    "timediff": 4.525,
+    "timediff_human": "0:00:04.525000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055791062,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:56:30.207",
+    "id": 2934,
+    "timediff": 4.047,
+    "timediff_human": "0:00:04.047000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055791134,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:56:30.251",
+    "id": 2935,
+    "timediff": 0.044,
+    "timediff_human": "0:00:00.044000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055826787,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "program": "print",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:57:06.156",
+    "id": 2936,
+    "timediff": 35.905,
+    "timediff_human": "0:00:35.905000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055828532,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "program": "print",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:57:07.651",
+    "id": 2937,
+    "timediff": 1.495,
+    "timediff_human": "0:00:01.495000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055842766,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:57:22.164",
+    "id": 2938,
+    "timediff": 14.513,
+    "timediff_human": "0:00:14.513000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055842839,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:57:22.18",
+    "id": 2939,
+    "timediff": 0.016,
+    "timediff_human": "0:00:00.016000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055845007,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:57:24.151",
+    "id": 2940,
+    "timediff": 1.971,
+    "timediff_human": "0:00:01.971000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055845047,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:57:24.167",
+    "id": 2941,
+    "timediff": 0.016,
+    "timediff_human": "0:00:00.016000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055845127,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:57:24.402",
+    "id": 2942,
+    "timediff": 0.235,
+    "timediff_human": "0:00:00.235000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055849555,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:57:28.956",
+    "id": 2943,
+    "timediff": 4.554,
+    "timediff_human": "0:00:04.554000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055849654,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:57:29.002",
+    "id": 2944,
+    "timediff": 0.046,
+    "timediff_human": "0:00:00.046000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055851160,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:57:30.279",
+    "id": 2945,
+    "timediff": 1.277,
+    "timediff_human": "0:00:01.277000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055855580,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:57:34.905",
+    "id": 2947,
+    "timediff": 4.626,
+    "timediff_human": "0:00:04.626000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055855588,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:57:34.938",
+    "id": 2948,
+    "timediff": 0.033,
+    "timediff_human": "0:00:00.033000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055857368,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "program": "x = true\nx = \"abc\"\nx = 5.0\nx = '10'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:57:36.485",
+    "id": 2949,
+    "timediff": 1.547,
+    "timediff_human": "0:00:01.547000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055857718,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:57:36.844",
+    "id": 2950,
+    "timediff": 0.359,
+    "timediff_human": "0:00:00.359000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055857745,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:57:36.875",
+    "id": 2951,
+    "timediff": 0.031,
+    "timediff_human": "0:00:00.031000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055910019,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:58:29.388",
+    "id": 2956,
+    "timediff": 52.513,
+    "timediff_human": "0:00:52.513000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055910059,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:58:29.431",
+    "id": 2957,
+    "timediff": 0.043,
+    "timediff_human": "0:00:00.043000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055912065,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "program": "x = true\nx = \"abc\"\nx = 5.0\nx = '10'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:58:31.197",
+    "id": 2958,
+    "timediff": 1.766,
+    "timediff_human": "0:00:01.766000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055913194,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:58:32.335",
+    "id": 2959,
+    "timediff": 1.138,
+    "timediff_human": "0:00:01.138000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055913245,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:58:32.375",
+    "id": 2960,
+    "timediff": 0.04,
+    "timediff_human": "0:00:00.040000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055927693,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:58:47.061",
+    "id": 2961,
+    "timediff": 14.686,
+    "timediff_human": "0:00:14.686000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055927708,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:58:47.066",
+    "id": 2962,
+    "timediff": 0.005,
+    "timediff_human": "0:00:00.005000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055929552,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "program": "x = true\nx = \"abc\"\nx = 5.0\nx = '10'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:58:48.671",
+    "id": 2963,
+    "timediff": 1.605,
+    "timediff_human": "0:00:01.605000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055930164,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:58:49.289",
+    "id": 2964,
+    "timediff": 0.618,
+    "timediff_human": "0:00:00.618000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055930191,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:58:49.331",
+    "id": 2965,
+    "timediff": 0.042,
+    "timediff_human": "0:00:00.042000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055932046,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:58:51.183",
+    "id": 2966,
+    "timediff": 1.852,
+    "timediff_human": "0:00:01.852000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055932915,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:58:52.335",
+    "id": 2967,
+    "timediff": 1.152,
+    "timediff_human": "0:00:01.152000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055933002,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:58:52.38",
+    "id": 2968,
+    "timediff": 0.045,
+    "timediff_human": "0:00:00.045000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055960022,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:59:19.447",
+    "id": 2973,
+    "timediff": 27.067,
+    "timediff_human": "0:00:27.067000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055960117,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:59:19.464",
+    "id": 2974,
+    "timediff": 0.017,
+    "timediff_human": "0:00:00.017000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055962123,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:59:21.29",
+    "id": 2975,
+    "timediff": 1.826,
+    "timediff_human": "0:00:01.826000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055962544,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:59:21.682",
+    "id": 2976,
+    "timediff": 0.392,
+    "timediff_human": "0:00:00.392000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055962615,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:59:21.74",
+    "id": 2977,
+    "timediff": 0.058,
+    "timediff_human": "0:00:00.058000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055963468,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:59:22.601",
+    "id": 2978,
+    "timediff": 0.861,
+    "timediff_human": "0:00:00.861000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055963509,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:59:22.62",
+    "id": 2979,
+    "timediff": 0.019,
+    "timediff_human": "0:00:00.019000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055964373,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:59:23.488",
+    "id": 2980,
+    "timediff": 0.868,
+    "timediff_human": "0:00:00.868000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055964773,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:59:23.892",
+    "id": 2981,
+    "timediff": 0.404,
+    "timediff_human": "0:00:00.404000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055964795,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:59:23.914",
+    "id": 2982,
+    "timediff": 0.022,
+    "timediff_human": "0:00:00.022000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055966195,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:59:25.558",
+    "id": 2983,
+    "timediff": 1.644,
+    "timediff_human": "0:00:01.644000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055966227,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:59:25.594",
+    "id": 2984,
+    "timediff": 0.036,
+    "timediff_human": "0:00:00.036000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055966338,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "program": "x = true\nx = \"abc\"\nx = 5.0\nx = '10'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:59:25.811",
+    "id": 2985,
+    "timediff": 0.217,
+    "timediff_human": "0:00:00.217000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055967842,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:59:26.972",
+    "id": 2986,
+    "timediff": 1.161,
+    "timediff_human": "0:00:01.161000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055967871,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:59:26.994",
+    "id": 2987,
+    "timediff": 0.022,
+    "timediff_human": "0:00:00.022000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055969062,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "program": "x = true\nx = \"abc\"\nx = 5.0\nx = '10'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:59:28.184",
+    "id": 2988,
+    "timediff": 1.19,
+    "timediff_human": "0:00:01.190000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055970508,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:59:29.666",
+    "id": 2989,
+    "timediff": 1.482,
+    "timediff_human": "0:00:01.482000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055970552,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:59:29.671",
+    "id": 2990,
+    "timediff": 0.005,
+    "timediff_human": "0:00:00.005000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055987112,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:59:46.475",
+    "id": 2991,
+    "timediff": 16.804,
+    "timediff_human": "0:00:16.804000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055987151,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:59:46.498",
+    "id": 2992,
+    "timediff": 0.023,
+    "timediff_human": "0:00:00.023000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055987363,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:59:46.528",
+    "id": 2993,
+    "timediff": 0.03,
+    "timediff_human": "0:00:00.030000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055987365,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:59:46.733",
+    "id": 2994,
+    "timediff": 0.205,
+    "timediff_human": "0:00:00.205000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055987558,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:59:46.769",
+    "id": 2995,
+    "timediff": 0.036,
+    "timediff_human": "0:00:00.036000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055987559,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:59:46.773",
+    "id": 2996,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055987754,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:59:46.955",
+    "id": 2997,
+    "timediff": 0.182,
+    "timediff_human": "0:00:00.182000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055987754,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:59:46.983",
+    "id": 2998,
+    "timediff": 0.028,
+    "timediff_human": "0:00:00.028000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055987906,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:59:47.037",
+    "id": 2999,
+    "timediff": 0.054,
+    "timediff_human": "0:00:00.054000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055987907,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:59:47.061",
+    "id": 3000,
+    "timediff": 0.024,
+    "timediff_human": "0:00:00.024000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055988193,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:59:47.341",
+    "id": 3001,
+    "timediff": 0.28,
+    "timediff_human": "0:00:00.280000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055988193,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:59:47.362",
+    "id": 3002,
+    "timediff": 0.021,
+    "timediff_human": "0:00:00.021000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055990598,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T03:59:49.735",
+    "id": 3003,
+    "timediff": 2.373,
+    "timediff_human": "0:00:02.373000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055993703,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "answer": "float",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T03:59:53.085",
+    "id": 3004,
+    "timediff": 3.35,
+    "timediff_human": "0:00:03.350000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055996259,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T03:59:55.408",
+    "id": 3005,
+    "timediff": 2.323,
+    "timediff_human": "0:00:02.323000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654055996312,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T03:59:55.443",
+    "id": 3006,
+    "timediff": 0.035,
+    "timediff_human": "0:00:00.035000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654056029229,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "answer": "x = 65.5\r\nhasil_ubah = str(x)\r\nprint(hasil_ubah)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T04:00:28.581",
+    "id": 3007,
+    "timediff": 33.138,
+    "timediff_human": "0:00:33.138000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654056033036,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T04:00:32.325",
+    "id": 3008,
+    "timediff": 3.744,
+    "timediff_human": "0:00:03.744000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654056073798,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T04:01:13.159",
+    "id": 3009,
+    "timediff": 40.834,
+    "timediff_human": "0:00:40.834000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654056116132,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T04:01:55.504",
+    "id": 3010,
+    "timediff": 42.345,
+    "timediff_human": "0:00:42.345000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654056116158,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T04:01:55.533",
+    "id": 3011,
+    "timediff": 0.029,
+    "timediff_human": "0:00:00.029000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654056118791,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T04:01:57.979",
+    "id": 3012,
+    "timediff": 2.446,
+    "timediff_human": "0:00:02.446000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654056118869,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T04:01:58.004",
+    "id": 3013,
+    "timediff": 0.025,
+    "timediff_human": "0:00:00.025000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654056118896,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "program": "x = true\nx = \"abc\"\nx = 5.0\nx = '10'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T04:01:58.24",
+    "id": 3014,
+    "timediff": 0.236,
+    "timediff_human": "0:00:00.236000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654056120347,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T04:01:59.482",
+    "id": 3016,
+    "timediff": 1.242,
+    "timediff_human": "0:00:01.242000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654056120647,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T04:01:59.807",
+    "id": 3017,
+    "timediff": 0.325,
+    "timediff_human": "0:00:00.325000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654056120726,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T04:01:59.848",
+    "id": 3018,
+    "timediff": 0.041,
+    "timediff_human": "0:00:00.041000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654056123440,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T04:02:02.843",
+    "id": 3019,
+    "timediff": 2.995,
+    "timediff_human": "0:00:02.995000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654056128749,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/46",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T04:02:08.267",
+    "id": 3020,
+    "timediff": 5.424,
+    "timediff_human": "0:00:05.424000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654056744257,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T04:12:23.64",
+    "id": 3037,
+    "timediff": 615.373,
+    "timediff_human": "0:10:15.373000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654056744615,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T04:12:23.896",
+    "id": 3038,
+    "timediff": 0.256,
+    "timediff_human": "0:00:00.256000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057046184,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T04:17:25.6",
+    "id": 3041,
+    "timediff": 301.704,
+    "timediff_human": "0:05:01.704000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057046271,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T04:17:25.846",
+    "id": 3042,
+    "timediff": 0.246,
+    "timediff_human": "0:00:00.246000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057235539,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T04:20:34.891",
+    "id": 3054,
+    "timediff": 189.045,
+    "timediff_human": "0:03:09.045000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057235564,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T04:20:35.151",
+    "id": 3055,
+    "timediff": 0.26,
+    "timediff_human": "0:00:00.260000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057237715,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T04:20:36.83",
+    "id": 3056,
+    "timediff": 1.679,
+    "timediff_human": "0:00:01.679000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057244534,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "answer": 65,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T04:20:44.259",
+    "id": 3057,
+    "timediff": 7.429,
+    "timediff_human": "0:00:07.429000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057247202,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T04:20:46.322",
+    "id": 3058,
+    "timediff": 2.063,
+    "timediff_human": "0:00:02.063000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057247278,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T04:20:46.419",
+    "id": 3059,
+    "timediff": 0.097,
+    "timediff_human": "0:00:00.097000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057249568,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T04:20:48.667",
+    "id": 3061,
+    "timediff": 2.248,
+    "timediff_human": "0:00:02.248000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057264285,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T04:21:03.631",
+    "id": 3064,
+    "timediff": 14.964,
+    "timediff_human": "0:00:14.964000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057266916,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T04:21:06.312",
+    "id": 3065,
+    "timediff": 2.681,
+    "timediff_human": "0:00:02.681000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057267327,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T04:21:06.5",
+    "id": 3066,
+    "timediff": 0.188,
+    "timediff_human": "0:00:00.188000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057269149,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T04:21:08.262",
+    "id": 3067,
+    "timediff": 1.762,
+    "timediff_human": "0:00:01.762000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057281925,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-06-01T04:21:21.281",
+    "id": 3068,
+    "timediff": 13.019,
+    "timediff_human": "0:00:13.019000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057283801,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T04:21:22.95",
+    "id": 3069,
+    "timediff": 1.669,
+    "timediff_human": "0:00:01.669000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057283897,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T04:21:23.017",
+    "id": 3070,
+    "timediff": 0.067,
+    "timediff_human": "0:00:00.067000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057354374,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "answer": "a=\"15\"\r\nb=\"30\"\r\njumlah = a+b\r\nprint(jumlah)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T04:22:34.562",
+    "id": 3071,
+    "timediff": 71.545,
+    "timediff_human": "0:01:11.545000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057395489,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T04:23:14.858",
+    "id": 3073,
+    "timediff": 40.296,
+    "timediff_human": "0:00:40.296000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057405639,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T04:23:25.01",
+    "id": 3074,
+    "timediff": 10.152,
+    "timediff_human": "0:00:10.152000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057405687,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T04:23:25.258",
+    "id": 3075,
+    "timediff": 0.248,
+    "timediff_human": "0:00:00.248000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057407378,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-06-01T04:23:26.478",
+    "id": 3076,
+    "timediff": 1.22,
+    "timediff_human": "0:00:01.220000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057407548,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T04:23:26.661",
+    "id": 3077,
+    "timediff": 0.183,
+    "timediff_human": "0:00:00.183000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057407559,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T04:23:26.667",
+    "id": 3078,
+    "timediff": 0.006,
+    "timediff_human": "0:00:00.006000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057411119,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T04:23:30.456",
+    "id": 3079,
+    "timediff": 3.789,
+    "timediff_human": "0:00:03.789000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057438809,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "answer": "a=15\r\nb=30\r\njumlah = a+b\r\nprint(jumlah)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T04:23:58.131",
+    "id": 3081,
+    "timediff": 27.675,
+    "timediff_human": "0:00:27.675000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057509294,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "answer": "a='15'\r\nb='30'\r\nint('15')\r\nint('30')\r\njumlah = a+b\r\nprint(jumlah)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T04:25:09.469",
+    "id": 3084,
+    "timediff": 71.338,
+    "timediff_human": "0:01:11.338000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057512046,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "answer": "a='15'\r\nb='30'\r\nint('15')\r\nint('30')\r\njumlah = a+b\r\nprint(jumlah)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T04:25:11.164",
+    "id": 3085,
+    "timediff": 1.695,
+    "timediff_human": "0:00:01.695000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057566454,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "answer": "a='15'\r\nb='30'\r\na1=int('15')\r\nb2=int('30')\r\njumlah = a1+b2\r\nprint(jumlah)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T04:26:05.798",
+    "id": 3087,
+    "timediff": 54.634,
+    "timediff_human": "0:00:54.634000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057587148,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "answer": "a='15'\r\nb='30'\r\na1=float('15')\r\nb2=int('30')\r\njumlah = a1+b2\r\nprint(jumlah)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T04:26:26.473",
+    "id": 3088,
+    "timediff": 20.675,
+    "timediff_human": "0:00:20.675000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057607240,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "answer": "a='15.123131'\r\nb='30'\r\na1=int('15')\r\nb2=int('30')\r\njumlah = a1+b2\r\nprint(jumlah)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T04:26:46.584",
+    "id": 3089,
+    "timediff": 20.111,
+    "timediff_human": "0:00:20.111000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057627669,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "answer": "a='15.123131'\r\nb='30.1231321'\r\na1=int('15')\r\nb2=int('30')\r\njumlah = a1+b2\r\nprint(jumlah)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-06-01T04:27:06.994",
+    "id": 3090,
+    "timediff": 20.41,
+    "timediff_human": "0:00:20.410000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654057632742,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/4",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T04:27:12.255",
+    "id": 3091,
+    "timediff": 5.261,
+    "timediff_human": "0:00:05.261000"
+  },
+  {
+    "name": "M Rizki Afdolli",
+    "details": {
+      "date": 1654058220021,
+      "done": false,
+      "route": "/home",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T04:36:59.402",
+    "id": 3094,
+    "timediff": 587.147,
+    "timediff_human": "0:09:47.147000"
+  }
+]

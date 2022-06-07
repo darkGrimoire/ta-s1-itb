@@ -1,0 +1,2524 @@
+[
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653881292582,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/28",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:28:13.022",
+    "id": 487,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653881425103,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:30:25.566",
+    "id": 526,
+    "timediff": 132.544,
+    "timediff_human": "0:02:12.544000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653881425128,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:30:25.776",
+    "id": 527,
+    "timediff": 0.21,
+    "timediff_human": "0:00:00.210000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653881581540,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:33:02.005",
+    "id": 597,
+    "timediff": 156.229,
+    "timediff_human": "0:02:36.229000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653881581559,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:33:02.221",
+    "id": 598,
+    "timediff": 0.216,
+    "timediff_human": "0:00:00.216000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653881767822,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:36:08.289",
+    "id": 605,
+    "timediff": 186.068,
+    "timediff_human": "0:03:06.068000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653881767840,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:36:08.501",
+    "id": 606,
+    "timediff": 0.212,
+    "timediff_human": "0:00:00.212000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653881811146,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:36:51.601",
+    "id": 611,
+    "timediff": 43.1,
+    "timediff_human": "0:00:43.100000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653881811172,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:36:51.643",
+    "id": 612,
+    "timediff": 0.042,
+    "timediff_human": "0:00:00.042000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653881812454,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:36:52.71",
+    "id": 613,
+    "timediff": 1.067,
+    "timediff_human": "0:00:01.067000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653881816879,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "answer": "Menampilkan sesuatu pada program",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:36:57.335",
+    "id": 614,
+    "timediff": 4.625,
+    "timediff_human": "0:00:04.625000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653881825039,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:37:05.496",
+    "id": 615,
+    "timediff": 8.161,
+    "timediff_human": "0:00:08.161000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653881825017,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:37:05.504",
+    "id": 616,
+    "timediff": 0.008,
+    "timediff_human": "0:00:00.008000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653881826296,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:37:06.553",
+    "id": 617,
+    "timediff": 1.049,
+    "timediff_human": "0:00:01.049000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653881834681,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "answer": 3,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:37:15.165",
+    "id": 618,
+    "timediff": 8.612,
+    "timediff_human": "0:00:08.612000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653881837573,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:37:17.861",
+    "id": 619,
+    "timediff": 2.696,
+    "timediff_human": "0:00:02.696000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653881837589,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:37:17.864",
+    "id": 620,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653881864895,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "print(\"Halo Dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:37:45.358",
+    "id": 621,
+    "timediff": 27.494,
+    "timediff_human": "0:00:27.494000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653881870555,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:37:51.035",
+    "id": 622,
+    "timediff": 5.677,
+    "timediff_human": "0:00:05.677000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653881888237,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/35",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:38:08.718",
+    "id": 623,
+    "timediff": 17.683,
+    "timediff_human": "0:00:17.683000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653882121018,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:42:01.493",
+    "id": 653,
+    "timediff": 232.775,
+    "timediff_human": "0:03:52.775000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653882121033,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:42:01.507",
+    "id": 654,
+    "timediff": 0.014,
+    "timediff_human": "0:00:00.014000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653882388156,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:46:28.648",
+    "id": 694,
+    "timediff": 267.141,
+    "timediff_human": "0:04:27.141000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653882388182,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:46:28.869",
+    "id": 695,
+    "timediff": 0.221,
+    "timediff_human": "0:00:00.221000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653882427574,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:47:08.046",
+    "id": 697,
+    "timediff": 39.177,
+    "timediff_human": "0:00:39.177000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653882427601,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:47:08.051",
+    "id": 698,
+    "timediff": 0.005,
+    "timediff_human": "0:00:00.005000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653882482002,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:48:02.505",
+    "id": 704,
+    "timediff": 54.454,
+    "timediff_human": "0:00:54.454000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653882481981,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:48:02.51",
+    "id": 705,
+    "timediff": 0.005,
+    "timediff_human": "0:00:00.005000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653882558935,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:49:19.406",
+    "id": 714,
+    "timediff": 76.896,
+    "timediff_human": "0:01:16.896000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653882558920,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:49:19.626",
+    "id": 715,
+    "timediff": 0.22,
+    "timediff_human": "0:00:00.220000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653882924422,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:55:24.898",
+    "id": 821,
+    "timediff": 365.272,
+    "timediff_human": "0:06:05.272000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653882924432,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:55:25.123",
+    "id": 822,
+    "timediff": 0.225,
+    "timediff_human": "0:00:00.225000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653882926310,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "program": "x = true\nx = \"abc\"\nx = 5.0\nx = '10'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:55:26.585",
+    "id": 823,
+    "timediff": 1.462,
+    "timediff_human": "0:00:01.462000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653882955629,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "answer": "x = true",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:55:56.106",
+    "id": 827,
+    "timediff": 29.521,
+    "timediff_human": "0:00:29.521000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653882961395,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:56:01.862",
+    "id": 828,
+    "timediff": 5.756,
+    "timediff_human": "0:00:05.756000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653882961414,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:56:01.88",
+    "id": 829,
+    "timediff": 0.018,
+    "timediff_human": "0:00:00.018000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653882963246,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:56:03.502",
+    "id": 830,
+    "timediff": 1.622,
+    "timediff_human": "0:00:01.622000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653882969427,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "answer": "float",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:56:09.899",
+    "id": 831,
+    "timediff": 6.397,
+    "timediff_human": "0:00:06.397000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653882972521,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:56:12.806",
+    "id": 832,
+    "timediff": 2.907,
+    "timediff_human": "0:00:02.907000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653882972546,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:56:12.809",
+    "id": 833,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653883021268,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "answer": "x = 65.5\nprint(int(x))",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:57:01.727",
+    "id": 836,
+    "timediff": 48.918,
+    "timediff_human": "0:00:48.918000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653883025876,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:57:06.14",
+    "id": 837,
+    "timediff": 4.413,
+    "timediff_human": "0:00:04.413000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653883033012,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/46",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:57:13.462",
+    "id": 839,
+    "timediff": 7.322,
+    "timediff_human": "0:00:07.322000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653883575446,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:06:15.87",
+    "id": 866,
+    "timediff": 542.408,
+    "timediff_human": "0:09:02.408000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653883575467,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:06:16.084",
+    "id": 867,
+    "timediff": 0.214,
+    "timediff_human": "0:00:00.214000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653883786473,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:09:46.908",
+    "id": 890,
+    "timediff": 210.824,
+    "timediff_human": "0:03:30.824000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653883786499,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:09:47.128",
+    "id": 891,
+    "timediff": 0.22,
+    "timediff_human": "0:00:00.220000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653883975983,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:12:56.408",
+    "id": 892,
+    "timediff": 189.28,
+    "timediff_human": "0:03:09.280000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653883975959,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:12:56.633",
+    "id": 893,
+    "timediff": 0.225,
+    "timediff_human": "0:00:00.225000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653883977656,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:12:57.88",
+    "id": 894,
+    "timediff": 1.247,
+    "timediff_human": "0:00:01.247000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653883988202,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "answer": 65,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:13:08.652",
+    "id": 895,
+    "timediff": 10.772,
+    "timediff_human": "0:00:10.772000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653883991572,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:13:11.823",
+    "id": 896,
+    "timediff": 3.171,
+    "timediff_human": "0:00:03.171000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653883991599,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:13:11.831",
+    "id": 897,
+    "timediff": 0.008,
+    "timediff_human": "0:00:00.008000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653883992929,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:13:13.151",
+    "id": 898,
+    "timediff": 1.32,
+    "timediff_human": "0:00:01.320000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653884011338,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "answer": "False",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:13:31.752",
+    "id": 899,
+    "timediff": 18.601,
+    "timediff_human": "0:00:18.601000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653884021469,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:13:41.902",
+    "id": 900,
+    "timediff": 10.15,
+    "timediff_human": "0:00:10.150000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653884047699,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:14:08.115",
+    "id": 901,
+    "timediff": 26.213,
+    "timediff_human": "0:00:26.213000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653884047673,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:14:08.118",
+    "id": 902,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653884049169,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:14:09.381",
+    "id": 903,
+    "timediff": 1.263,
+    "timediff_human": "0:00:01.263000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653884060012,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:14:20.46",
+    "id": 904,
+    "timediff": 11.079,
+    "timediff_human": "0:00:11.079000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653884062805,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:14:23.046",
+    "id": 905,
+    "timediff": 2.586,
+    "timediff_human": "0:00:02.586000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653884062832,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:14:23.063",
+    "id": 906,
+    "timediff": 0.017,
+    "timediff_human": "0:00:00.017000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653884102403,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "answer": "a = \"15\"\nb = \"30\"\njumlah = int(a) + int(b)\nprint(jumlah)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:15:02.806",
+    "id": 907,
+    "timediff": 39.743,
+    "timediff_human": "0:00:39.743000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653884105608,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/4",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:15:05.829",
+    "id": 908,
+    "timediff": 3.023,
+    "timediff_human": "0:00:03.023000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653884177665,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/46",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:16:18.089",
+    "id": 909,
+    "timediff": 72.26,
+    "timediff_human": "0:01:12.260000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653884368480,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/46",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:19:30.155",
+    "id": 912,
+    "timediff": 192.066,
+    "timediff_human": "0:03:12.066000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653884495633,
+      "done": true,
+      "route": "/learn",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:21:36.037",
+    "id": 913,
+    "timediff": 125.882,
+    "timediff_human": "0:02:05.882000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885302277,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/46",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:35:02.638",
+    "id": 943,
+    "timediff": 806.601,
+    "timediff_human": "0:13:26.601000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885305059,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:35:05.244",
+    "id": 944,
+    "timediff": 2.606,
+    "timediff_human": "0:00:02.606000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885305072,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:35:05.247",
+    "id": 945,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885307829,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:35:08.184",
+    "id": 946,
+    "timediff": 2.937,
+    "timediff_human": "0:00:02.937000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885307855,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:35:08.191",
+    "id": 947,
+    "timediff": 0.007,
+    "timediff_human": "0:00:00.007000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885310240,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:35:10.423",
+    "id": 948,
+    "timediff": 2.232,
+    "timediff_human": "0:00:02.232000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885310254,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:35:10.426",
+    "id": 949,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885311429,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:35:11.59",
+    "id": 950,
+    "timediff": 1.164,
+    "timediff_human": "0:00:01.164000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885312272,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:35:12.451",
+    "id": 951,
+    "timediff": 0.861,
+    "timediff_human": "0:00:00.861000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885312288,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:35:12.455",
+    "id": 952,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885313348,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:35:13.697",
+    "id": 953,
+    "timediff": 1.242,
+    "timediff_human": "0:00:01.242000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885315396,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:35:15.569",
+    "id": 954,
+    "timediff": 1.872,
+    "timediff_human": "0:00:01.872000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885315422,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:35:15.583",
+    "id": 955,
+    "timediff": 0.014,
+    "timediff_human": "0:00:00.014000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885316660,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:35:16.814",
+    "id": 956,
+    "timediff": 1.231,
+    "timediff_human": "0:00:01.231000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885318581,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "answer": 65,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:35:18.938",
+    "id": 957,
+    "timediff": 2.124,
+    "timediff_human": "0:00:02.124000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885321398,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:35:21.565",
+    "id": 958,
+    "timediff": 2.627,
+    "timediff_human": "0:00:02.627000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885321422,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:35:21.58",
+    "id": 959,
+    "timediff": 0.015,
+    "timediff_human": "0:00:00.015000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885322867,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:35:23.023",
+    "id": 960,
+    "timediff": 1.443,
+    "timediff_human": "0:00:01.443000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885325086,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:35:25.687",
+    "id": 961,
+    "timediff": 2.664,
+    "timediff_human": "0:00:02.664000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885327337,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:35:27.52",
+    "id": 962,
+    "timediff": 1.833,
+    "timediff_human": "0:00:01.833000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885327355,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:35:27.533",
+    "id": 963,
+    "timediff": 0.013,
+    "timediff_human": "0:00:00.013000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885328621,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:35:28.783",
+    "id": 964,
+    "timediff": 1.25,
+    "timediff_human": "0:00:01.250000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885332965,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:35:33.323",
+    "id": 965,
+    "timediff": 4.54,
+    "timediff_human": "0:00:04.540000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885335875,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:35:36.069",
+    "id": 966,
+    "timediff": 2.746,
+    "timediff_human": "0:00:02.746000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885335905,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:35:36.071",
+    "id": 967,
+    "timediff": 0.002,
+    "timediff_human": "0:00:00.002000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885368493,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "answer": "a = \"15\"\nb = \"30\"\njumlah = int(a) + int(b)\nprint(jumlah)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:36:08.848",
+    "id": 968,
+    "timediff": 32.777,
+    "timediff_human": "0:00:32.777000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885372430,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "program": "a = \"15\"\nb = \"30\"\njumlah = int(a) + int(b)\nprint(jumlah)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:36:12.59",
+    "id": 969,
+    "timediff": 3.742,
+    "timediff_human": "0:00:03.742000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885375119,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/4",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:36:15.485",
+    "id": 970,
+    "timediff": 2.895,
+    "timediff_human": "0:00:02.895000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885399206,
+      "route": "/learn/python-dasar/lesson/1/stage/1",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:36:39.729",
+    "id": 971,
+    "timediff": 24.244,
+    "timediff_human": "0:00:24.244000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885433394,
+      "route": "/learn/python-dasar/lesson/1/stage/1",
+      "answer": "print(\"Hello World\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:37:13.827",
+    "id": 972,
+    "timediff": 34.098,
+    "timediff_human": "0:00:34.098000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885436563,
+      "done": false,
+      "route": "/learn/python-dasar/lesson/1/stage/2",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:37:16.738",
+    "id": 973,
+    "timediff": 2.911,
+    "timediff_human": "0:00:02.911000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885436588,
+      "route": "/learn/python-dasar/lesson/1/stage/2",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:37:16.76",
+    "id": 974,
+    "timediff": 0.022,
+    "timediff_human": "0:00:00.022000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885473577,
+      "route": "/learn/python-dasar/lesson/1/stage/2",
+      "answer": "print('Halo nama saya <code>xxx</code>')",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:37:53.943",
+    "id": 975,
+    "timediff": 37.183,
+    "timediff_human": "0:00:37.183000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885482278,
+      "route": "/learn/python-dasar/lesson/1/stage/2",
+      "answer": "print('Halo nama saya <1>xxx</1>')",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:38:02.634",
+    "id": 976,
+    "timediff": 8.691,
+    "timediff_human": "0:00:08.691000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885489311,
+      "route": "/learn/python-dasar/lesson/1/stage/2",
+      "answer": "print('Halo nama saya xxx')",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:38:10.182",
+    "id": 977,
+    "timediff": 7.548,
+    "timediff_human": "0:00:07.548000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885492797,
+      "done": false,
+      "route": "/learn/python-dasar/lesson/1/stage/1",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:38:12.983",
+    "id": 978,
+    "timediff": 2.801,
+    "timediff_human": "0:00:02.801000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885492822,
+      "route": "/learn/python-dasar/lesson/1/stage/1",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:38:12.987",
+    "id": 979,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885500146,
+      "done": true,
+      "route": "/learn/python-dasar/lesson/1/stage/2",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:38:20.516",
+    "id": 980,
+    "timediff": 7.529,
+    "timediff_human": "0:00:07.529000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885500173,
+      "route": "/learn/python-dasar/lesson/1/stage/2",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:38:20.53",
+    "id": 981,
+    "timediff": 0.014,
+    "timediff_human": "0:00:00.014000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885502846,
+      "route": "/learn/python-dasar/lesson/1/stage/2",
+      "program": "",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:38:23.002",
+    "id": 982,
+    "timediff": 2.472,
+    "timediff_human": "0:00:02.472000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885525027,
+      "route": "/learn/python-dasar/lesson/1/stage/2",
+      "answer": "print('Halo nama saya Gavin')",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:38:45.386",
+    "id": 983,
+    "timediff": 22.384,
+    "timediff_human": "0:00:22.384000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885537144,
+      "route": "/learn/python-dasar/lesson/1/stage/2",
+      "answer": "print('Halo nama saya <code>Gavin</code>')",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:38:57.497",
+    "id": 984,
+    "timediff": 12.111,
+    "timediff_human": "0:00:12.111000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885542936,
+      "route": "/learn/python-dasar/lesson/1/stage/2",
+      "program": "print('Halo nama saya <code>Gavin</code>')",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:39:03.297",
+    "id": 985,
+    "timediff": 5.8,
+    "timediff_human": "0:00:05.800000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885546877,
+      "done": false,
+      "route": "/learn",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:39:07.045",
+    "id": 986,
+    "timediff": 3.748,
+    "timediff_human": "0:00:03.748000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885557123,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/3",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:39:17.478",
+    "id": 987,
+    "timediff": 10.433,
+    "timediff_human": "0:00:10.433000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885561083,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:39:21.251",
+    "id": 988,
+    "timediff": 3.773,
+    "timediff_human": "0:00:03.773000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885561107,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:39:21.271",
+    "id": 989,
+    "timediff": 0.02,
+    "timediff_human": "0:00:00.020000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885562898,
+      "input": [
+        "Halo"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:39:23.255",
+    "id": 990,
+    "timediff": 1.984,
+    "timediff_human": "0:00:01.984000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885571537,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:39:31.903",
+    "id": 991,
+    "timediff": 8.648,
+    "timediff_human": "0:00:08.648000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885571557,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:39:31.909",
+    "id": 992,
+    "timediff": 0.006,
+    "timediff_human": "0:00:00.006000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885573356,
+      "input": [
+        "3",
+        "5"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "program": "# INPUT = Meminta masukkan berupa 2 bilangan bulat positif\n# lalu masukkan pada variabel A dan B\nA = int(input())\nB = int(input())\n\n# PROSES = Jumlahkan A dan B kemudian masukkan hasilnya ke dalam variabel A\nA = A + B\n\n# OUTPUT = Tampilkan kedua variabel setelah dilakukan proses penjumlahan\nprint(A)\nprint(B)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:39:33.516",
+    "id": 993,
+    "timediff": 1.607,
+    "timediff_human": "0:00:01.607000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885576816,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/6",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:39:37.178",
+    "id": 994,
+    "timediff": 3.662,
+    "timediff_human": "0:00:03.662000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885576841,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/6",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:39:37.189",
+    "id": 995,
+    "timediff": 0.011,
+    "timediff_human": "0:00:00.011000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885578139,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/6",
+      "program": "# Ini adalah komentar\nprint(5 + 5) # Komentar juga bisa ditaruh di akhir suatu perintah\n# print(100)\n# Program tidak akan mengeluarkan angka 100 karena baris tersebut adalah komentar",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:39:38.295",
+    "id": 996,
+    "timediff": 1.106,
+    "timediff_human": "0:00:01.106000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885580367,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/7",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:39:40.529",
+    "id": 997,
+    "timediff": 2.234,
+    "timediff_human": "0:00:02.234000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885580392,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/7",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:39:40.548",
+    "id": 998,
+    "timediff": 0.019,
+    "timediff_human": "0:00:00.019000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885581660,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/7",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:39:41.819",
+    "id": 999,
+    "timediff": 1.271,
+    "timediff_human": "0:00:01.271000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885584695,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/7",
+      "answer": "Menampilkan sesuatu pada program",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:39:45.058",
+    "id": 1000,
+    "timediff": 3.239,
+    "timediff_human": "0:00:03.239000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885586896,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/8",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:39:47.062",
+    "id": 1001,
+    "timediff": 2.004,
+    "timediff_human": "0:00:02.004000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885586923,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/8",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:39:47.095",
+    "id": 1002,
+    "timediff": 0.033,
+    "timediff_human": "0:00:00.033000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885588498,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/8",
+      "program": "print(1)\nprint(2)\n# print(3)\nprint(4)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:39:48.655",
+    "id": 1003,
+    "timediff": 1.56,
+    "timediff_human": "0:00:01.560000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885590154,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/8",
+      "answer": 3,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:39:50.507",
+    "id": 1004,
+    "timediff": 1.852,
+    "timediff_human": "0:00:01.852000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885592483,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:39:52.658",
+    "id": 1005,
+    "timediff": 2.151,
+    "timediff_human": "0:00:02.151000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885592508,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:39:52.661",
+    "id": 1006,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885602045,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "answer": "print(\"Halo Dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:40:02.415",
+    "id": 1007,
+    "timediff": 9.754,
+    "timediff_human": "0:00:09.754000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885605398,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:40:05.568",
+    "id": 1008,
+    "timediff": 3.153,
+    "timediff_human": "0:00:03.153000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885609191,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/10",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:40:09.539",
+    "id": 1009,
+    "timediff": 3.971,
+    "timediff_human": "0:00:03.971000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885610932,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/10",
+      "program": "#Variabel 'nama_lengkap' menyimpan data \"Maskot\"\nnama_lengkap = \"Maskot\"\n\n#Variabel 'umur' menyimpan data angka integer 9\numur = 9\n\n#Variabel 'belajar_kode_bareng' menyimpan data boolean True\nbelajar_kode_bareng = True",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:40:11.089",
+    "id": 1010,
+    "timediff": 1.55,
+    "timediff_human": "0:00:01.550000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885610970,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/10",
+      "program": "# KAMUS (bagian deklarasi)\n# nama_lengkap: string\n# umur : int\n# belajar_kode_bareng : boolean\n\n# ALGORITMA (isi program)\n\nnama_lengkap = \"Maskot\"\numur = 9\nbelajar_kode_bareng = True",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:40:11.128",
+    "id": 1011,
+    "timediff": 0.039,
+    "timediff_human": "0:00:00.039000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885614497,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/11",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:40:14.891",
+    "id": 1012,
+    "timediff": 3.763,
+    "timediff_human": "0:00:03.763000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885614524,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/11",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:40:14.894",
+    "id": 1013,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885627322,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/12",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:40:27.675",
+    "id": 1014,
+    "timediff": 12.781,
+    "timediff_human": "0:00:12.781000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885627341,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/12",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:40:27.694",
+    "id": 1015,
+    "timediff": 0.019,
+    "timediff_human": "0:00:00.019000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885628949,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/12",
+      "program": "# Contoh penggunaan tipe data integer\numur = 15\nharga_barang = 50000\nbanyak_mobil = 0\nsuhu_kulkas = -7\n\n# Contoh penggunaan tipe data float\ndiskon = 0.3\nluas_tanah = 800.5\nvar = -8.93",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:40:29.11",
+    "id": 1016,
+    "timediff": 1.416,
+    "timediff_human": "0:00:01.416000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885631990,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/13",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:40:32.159",
+    "id": 1017,
+    "timediff": 3.049,
+    "timediff_human": "0:00:03.049000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885631976,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/13",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:40:32.163",
+    "id": 1018,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885633430,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/13",
+      "program": "# Contoh penggunaan tipe data string dan char\nnama_lengkap = \"Maskot\"\nusername = \"@abc123\"\n_sapaan = \"Hello, World!\"\nteks = \"Ini adalah sebuah teks yang memiliki tipe data string.\"\nkode_barang = 'a'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:40:34.155",
+    "id": 1019,
+    "timediff": 1.992,
+    "timediff_human": "0:00:01.992000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885635167,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:40:35.334",
+    "id": 1020,
+    "timediff": 1.179,
+    "timediff_human": "0:00:01.179000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885635191,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:40:35.354",
+    "id": 1021,
+    "timediff": 0.02,
+    "timediff_human": "0:00:00.020000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885636745,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "program": "# Contoh penggunaan None\nvar = None",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:40:36.9",
+    "id": 1022,
+    "timediff": 1.546,
+    "timediff_human": "0:00:01.546000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885636776,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "program": "# Contoh penggunaan tipe data boolean\nequals = True\nfound = False\nbelajar_kode_bareng = True\nsudah_makan = True\nsudah_tidur = False",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:40:36.927",
+    "id": 1023,
+    "timediff": 0.027,
+    "timediff_human": "0:00:00.027000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885638784,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:40:39.139",
+    "id": 1024,
+    "timediff": 2.212,
+    "timediff_human": "0:00:02.212000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885638808,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:40:39.152",
+    "id": 1025,
+    "timediff": 0.013,
+    "timediff_human": "0:00:00.013000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885640193,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "# Variabel umur berisi 9 (integer)\numur = 9\n\n# Melakukan konversi tipe variabel umur menjadi string\numur_dalam_string = str(umur) # Variabel umur_dalam_string berisi '9' (string)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:40:40.372",
+    "id": 1026,
+    "timediff": 1.22,
+    "timediff_human": "0:00:01.220000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885640338,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "# Variabel umur berisi 9 (integer)\numur = 9\n\n# Melakukan konversi tipe variabel umur menjadi float\numur = float(umur) # Variabel umur sekarang 9.0 (float)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:40:40.49",
+    "id": 1027,
+    "timediff": 0.118,
+    "timediff_human": "0:00:00.118000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885640502,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "angka = 65\nhasil_ubah = float(angka)\nprint(hasil_ubah)\nhasil_ubah = str(angka)\nprint(hasil_ubah)\nhasil_ubah = chr(angka)\nprint(hasil_ubah)\n\nchar = \"A\"\nhasil_ubah = ord(char)\nprint(hasil_ubah)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:40:40.659",
+    "id": 1028,
+    "timediff": 0.169,
+    "timediff_human": "0:00:00.169000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885640601,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "var = int(\"Hello World!\") # fungsi ini akan mengembalikan error",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:40:40.758",
+    "id": 1029,
+    "timediff": 0.099,
+    "timediff_human": "0:00:00.099000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885851222,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/42",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:44:11.592",
+    "id": 1030,
+    "timediff": 210.834,
+    "timediff_human": "0:03:30.834000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885851243,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/42",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:44:11.812",
+    "id": 1031,
+    "timediff": 0.22,
+    "timediff_human": "0:00:00.220000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885853206,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/42",
+      "program": "x = true\nx = \"abc\"\nx = 5.0\nx = '10'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:44:13.357",
+    "id": 1032,
+    "timediff": 1.545,
+    "timediff_human": "0:00:01.545000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885855492,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/42",
+      "answer": "x = true",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:44:15.661",
+    "id": 1033,
+    "timediff": 2.304,
+    "timediff_human": "0:00:02.304000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885858716,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/19",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:44:19.061",
+    "id": 1034,
+    "timediff": 3.4,
+    "timediff_human": "0:00:03.400000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885858743,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/19",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:44:19.101",
+    "id": 1035,
+    "timediff": 0.04,
+    "timediff_human": "0:00:00.040000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885860220,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/19",
+      "program": "x = 10.000\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:44:20.376",
+    "id": 1036,
+    "timediff": 1.275,
+    "timediff_human": "0:00:01.275000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885864525,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/19",
+      "answer": "float",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:44:24.881",
+    "id": 1037,
+    "timediff": 4.505,
+    "timediff_human": "0:00:04.505000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885866566,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/18",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:44:26.728",
+    "id": 1038,
+    "timediff": 1.847,
+    "timediff_human": "0:00:01.847000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885866592,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/18",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:44:26.763",
+    "id": 1039,
+    "timediff": 0.035,
+    "timediff_human": "0:00:00.035000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885880997,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/18",
+      "answer": "x = 65.5\nprint(int(x))",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:44:41.336",
+    "id": 1040,
+    "timediff": 14.573,
+    "timediff_human": "0:00:14.573000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885884909,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:44:45.079",
+    "id": 1041,
+    "timediff": 3.743,
+    "timediff_human": "0:00:03.743000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885888476,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:44:48.821",
+    "id": 1042,
+    "timediff": 3.742,
+    "timediff_human": "0:00:03.742000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885890252,
+      "input": [
+        "12.5",
+        "5"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "program": "alas = float(input())\ntinggi = float(input())\n\n# Rumus luas segitiga\nluas = 1/2 * alas * tinggi\n\nprint(luas)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:44:50.417",
+    "id": 1043,
+    "timediff": 1.596,
+    "timediff_human": "0:00:01.596000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885890373,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "program": "# Contoh operasi + dan * pada string\nkata = \"Halo\"\nkata_sambungan = kata + \" aku sapiderman!\"\nkata_diulang = kata * 5\nprint(\"Bisa juga disambung disini: \" + kata_sambungan)\n\n# Untuk menambahkan baris baru bisa menggunakan \n\n# notes: print akan selalu menambah pada akhir output\nbaris_baru = \"\"\nkata_sambung_diulang = (kata + \"!\" + baris_baru) * 3\nprint(kata_sambung_diulang)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:44:50.531",
+    "id": 1044,
+    "timediff": 0.114,
+    "timediff_human": "0:00:00.114000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885890507,
+      "input": [
+        "10",
+        "21"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "program": "# Dapatkan a dan b melalui input\na = int(input())\nb = int(input())\n\n# Berikut hasil penggunaan operator-operator yang disebutkan\nhasil_penjumlahan = a + b\nhasil_pengurangan = a - b\nhasil_perkalian = a * b\nhasil_pembagian_bulat = a // b\nhasil_pembagian_riil = a / b\nhasil_modulo = a % b\nhasil_pangkat = a**b",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:44:50.656",
+    "id": 1045,
+    "timediff": 0.125,
+    "timediff_human": "0:00:00.125000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885890726,
+      "input": [
+        "Ayang"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "program": "nama = input()\nsapaan = \"Hai \" + nama + \"!\"\nprint(sapaan)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:44:50.877",
+    "id": 1046,
+    "timediff": 0.221,
+    "timediff_human": "0:00:00.221000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885896084,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:44:56.429",
+    "id": 1047,
+    "timediff": 5.552,
+    "timediff_human": "0:00:05.552000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885896109,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:44:56.47",
+    "id": 1048,
+    "timediff": 0.041,
+    "timediff_human": "0:00:00.041000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885897731,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "program": "#menghasilkan true\nprint(15 == 15)\n# menghasilkan false\nprint(15 != 15)\n# menghasilkan true, karena kurang dari sama dengan\nprint(15 <= 15)\n# menghasilkan false\nprint(15 < 15)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:44:57.899",
+    "id": 1049,
+    "timediff": 1.429,
+    "timediff_human": "0:00:01.429000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885897915,
+      "input": [
+        "8\\n5"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "program": "a = int(input())\nb = int(input())\n\nif (a >= b):\n    print(str(a) + \" lebih besar atau sama dengan \" + str(b))\nelse:\n    print(str(a) + \" lebih kecil daripada \" + str(b))",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:44:58.074",
+    "id": 1050,
+    "timediff": 0.175,
+    "timediff_human": "0:00:00.175000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885898024,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "program": "a = 5\nb = 15\n# menghasilkan true\nprint(a < 13)\n# menghasilkan false\nprint(a == 3)\n# Operator aritmatika akan didahulukan sebelum operator relasional\nprint(a * 3 == b)\n# menghasilkan true\nprint(a + 10 == b)\n# menghasilkan true",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:44:58.178",
+    "id": 1051,
+    "timediff": 0.104,
+    "timediff_human": "0:00:00.104000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885898086,
+      "input": [
+        "10",
+        "21"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "program": "# Dapatkan a dan b melalui input\na = int(input())\nb = int(input())\n\n# Berikut hasil penggunaan operator-operator yang disebutkan\nhasil_sama_dengan = a == b\nhasil_tidak_sama = a != b\nhasil_lebih_besar = a > b\nhasil_lebih_kecil = a < b\nhasil_lebih_besar_sama_dengan = a >= b\nhasil_lebih_kecil_sama_dengan = a <= b",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:44:58.235",
+    "id": 1052,
+    "timediff": 0.057,
+    "timediff_human": "0:00:00.057000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885903150,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:45:03.503",
+    "id": 1053,
+    "timediff": 5.268,
+    "timediff_human": "0:00:05.268000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885903176,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:45:03.516",
+    "id": 1054,
+    "timediff": 0.013,
+    "timediff_human": "0:00:00.013000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885904914,
+      "input": [
+        "True",
+        "False"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "program": "# Dapatkan a dan b melalui input\na = bool(input())\nb = bool(input())\n\n# Berikut hasil penggunaan operator-operator yang disebutkan\nhasil_and = a and b\nhasil_or = a or b\nhasil_not = not a",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:45:05.067",
+    "id": 1055,
+    "timediff": 1.551,
+    "timediff_human": "0:00:01.551000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885904986,
+      "input": [
+        "Josep",
+        "18",
+        "menulis"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "program": "nama = input()\nusia = int(input())\nhobi = input()\nwibu = True\n\nprint(\"Apakah \" + nama + \" berusia di antara 15 dan 25?\")\nprint(usia >= 15 and usia <= 25)\nprint(\"Apakah \" + nama + \" memiliki hobi membaca atau menulis?\")\nprint(hobi == \"membaca\" or hobi == \"menulis\")\nprint(\"Apakah \" + nama + \" adalah seorang wibu?\")\nprint(not wibu)\nprint(\"Kamu bohongg :)\")",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:45:05.143",
+    "id": 1056,
+    "timediff": 0.076,
+    "timediff_human": "0:00:00.076000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885908393,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/24",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:45:08.723",
+    "id": 1057,
+    "timediff": 3.58,
+    "timediff_human": "0:00:03.580000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885908368,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/24",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:45:09.119",
+    "id": 1058,
+    "timediff": 0.396,
+    "timediff_human": "0:00:00.396000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885909706,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/24",
+      "program": "a =  20 + 15 * 3",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:45:09.852",
+    "id": 1059,
+    "timediff": 0.733,
+    "timediff_human": "0:00:00.733000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885911463,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/24",
+      "answer": 65,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:45:11.624",
+    "id": 1060,
+    "timediff": 1.772,
+    "timediff_human": "0:00:01.772000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885913884,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:45:14.043",
+    "id": 1061,
+    "timediff": 2.419,
+    "timediff_human": "0:00:02.419000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885913909,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:45:14.071",
+    "id": 1062,
+    "timediff": 0.028,
+    "timediff_human": "0:00:00.028000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885915368,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
+      "program": "print(5 != 6 == (7 == 7))",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:45:15.71",
+    "id": 1063,
+    "timediff": 1.639,
+    "timediff_human": "0:00:01.639000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885929907,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
+      "answer": "False",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:45:30.267",
+    "id": 1064,
+    "timediff": 14.557,
+    "timediff_human": "0:00:14.557000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885932719,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/27",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:45:32.874",
+    "id": 1065,
+    "timediff": 2.607,
+    "timediff_human": "0:00:02.607000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885932743,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/27",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:45:32.902",
+    "id": 1066,
+    "timediff": 0.028,
+    "timediff_human": "0:00:00.028000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885934226,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/27",
+      "program": "print((False and False) or (True and True))",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:45:34.379",
+    "id": 1067,
+    "timediff": 1.477,
+    "timediff_human": "0:00:01.477000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885935919,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/27",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:45:36.277",
+    "id": 1068,
+    "timediff": 1.898,
+    "timediff_human": "0:00:01.898000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885937952,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/45",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:45:38.108",
+    "id": 1069,
+    "timediff": 1.831,
+    "timediff_human": "0:00:01.831000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885937977,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/45",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:45:38.134",
+    "id": 1070,
+    "timediff": 0.026,
+    "timediff_human": "0:00:00.026000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885964548,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/45",
+      "answer": "a = \"15\"\nb = \"30\"\njumlah = int(a) + int(b)\nprint(jumlah)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:46:04.895",
+    "id": 1071,
+    "timediff": 26.761,
+    "timediff_human": "0:00:26.761000"
+  },
+  {
+    "name": "gavin tan",
+    "details": {
+      "date": 1653885967706,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/4",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:46:07.873",
+    "id": 1072,
+    "timediff": 2.978,
+    "timediff_human": "0:00:02.978000"
+  }
+]

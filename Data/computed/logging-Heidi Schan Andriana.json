@@ -1,0 +1,1775 @@
+[
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653977199067,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/28",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:06:39.869",
+    "id": 2123,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653977388023,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:09:48.035",
+    "id": 2126,
+    "timediff": 188.166,
+    "timediff_human": "0:03:08.166000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653977388035,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:09:48.266",
+    "id": 2127,
+    "timediff": 0.231,
+    "timediff_human": "0:00:00.231000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653977436509,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:10:36.523",
+    "id": 2128,
+    "timediff": 48.257,
+    "timediff_human": "0:00:48.257000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653977436519,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:10:36.746",
+    "id": 2129,
+    "timediff": 0.223,
+    "timediff_human": "0:00:00.223000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653977580872,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:13:01.271",
+    "id": 2130,
+    "timediff": 144.525,
+    "timediff_human": "0:02:24.525000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653977580880,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:13:01.504",
+    "id": 2131,
+    "timediff": 0.233,
+    "timediff_human": "0:00:00.233000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653977652764,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:14:13.576",
+    "id": 2156,
+    "timediff": 72.072,
+    "timediff_human": "0:01:12.072000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653977652775,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:14:13.583",
+    "id": 2157,
+    "timediff": 0.007,
+    "timediff_human": "0:00:00.007000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653977654916,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T06:14:14.713",
+    "id": 2158,
+    "timediff": 1.13,
+    "timediff_human": "0:00:01.130000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653977666322,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "answer": "Menampilkan sesuatu pada program",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T06:14:27.135",
+    "id": 2168,
+    "timediff": 12.422,
+    "timediff_human": "0:00:12.422000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653977670170,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:14:30.374",
+    "id": 2170,
+    "timediff": 3.239,
+    "timediff_human": "0:00:03.239000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653977670183,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:14:30.408",
+    "id": 2171,
+    "timediff": 0.034,
+    "timediff_human": "0:00:00.034000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653977672042,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T06:14:32.04",
+    "id": 2172,
+    "timediff": 1.632,
+    "timediff_human": "0:00:01.632000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653977681958,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "answer": 3,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T06:14:42.788",
+    "id": 2173,
+    "timediff": 10.748,
+    "timediff_human": "0:00:10.748000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653977685060,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:14:44.871",
+    "id": 2174,
+    "timediff": 2.083,
+    "timediff_human": "0:00:02.083000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653977685068,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:14:44.877",
+    "id": 2175,
+    "timediff": 0.006,
+    "timediff_human": "0:00:00.006000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653977732895,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "print(\"Halo Dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-31T06:15:33.7",
+    "id": 2176,
+    "timediff": 48.823,
+    "timediff_human": "0:00:48.823000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653977737187,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:15:37.001",
+    "id": 2177,
+    "timediff": 3.301,
+    "timediff_human": "0:00:03.301000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653977759138,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/35",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:15:59.981",
+    "id": 2178,
+    "timediff": 22.98,
+    "timediff_human": "0:00:22.980000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653977860182,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:17:40.986",
+    "id": 2182,
+    "timediff": 101.005,
+    "timediff_human": "0:01:41.005000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653977860196,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:17:41.009",
+    "id": 2183,
+    "timediff": 0.023,
+    "timediff_human": "0:00:00.023000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653977912548,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:18:32.566",
+    "id": 2198,
+    "timediff": 51.557,
+    "timediff_human": "0:00:51.557000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653977912560,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:18:32.792",
+    "id": 2199,
+    "timediff": 0.226,
+    "timediff_human": "0:00:00.226000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653977948153,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:19:08.163",
+    "id": 2201,
+    "timediff": 35.371,
+    "timediff_human": "0:00:35.371000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653977948163,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:19:08.524",
+    "id": 2202,
+    "timediff": 0.361,
+    "timediff_human": "0:00:00.361000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978015061,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:20:15.077",
+    "id": 2203,
+    "timediff": 66.553,
+    "timediff_human": "0:01:06.553000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978015074,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:20:15.313",
+    "id": 2204,
+    "timediff": 0.236,
+    "timediff_human": "0:00:00.236000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978060934,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:21:01.724",
+    "id": 2205,
+    "timediff": 46.411,
+    "timediff_human": "0:00:46.411000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978060946,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:21:01.737",
+    "id": 2206,
+    "timediff": 0.013,
+    "timediff_human": "0:00:00.013000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978231713,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:23:52.124",
+    "id": 2207,
+    "timediff": 170.387,
+    "timediff_human": "0:02:50.387000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978231730,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:23:52.348",
+    "id": 2208,
+    "timediff": 0.224,
+    "timediff_human": "0:00:00.224000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978234178,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "program": "x = true\nx = \"abc\"\nx = 5.0\nx = '10'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T06:23:53.98",
+    "id": 2209,
+    "timediff": 1.632,
+    "timediff_human": "0:00:01.632000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978245209,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:24:06.026",
+    "id": 2210,
+    "timediff": 12.046,
+    "timediff_human": "0:00:12.046000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978245226,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:24:06.036",
+    "id": 2211,
+    "timediff": 0.01,
+    "timediff_human": "0:00:00.010000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978249246,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:24:09.07",
+    "id": 2212,
+    "timediff": 3.034,
+    "timediff_human": "0:00:03.034000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978249254,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:24:09.08",
+    "id": 2213,
+    "timediff": 0.01,
+    "timediff_human": "0:00:00.010000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978251528,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:24:11.94",
+    "id": 2214,
+    "timediff": 2.86,
+    "timediff_human": "0:00:02.860000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978251538,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:24:12.165",
+    "id": 2215,
+    "timediff": 0.225,
+    "timediff_human": "0:00:00.225000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978254541,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:24:14.35",
+    "id": 2216,
+    "timediff": 2.185,
+    "timediff_human": "0:00:02.185000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978254551,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:24:14.367",
+    "id": 2217,
+    "timediff": 0.017,
+    "timediff_human": "0:00:00.017000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978257443,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:24:17.467",
+    "id": 2218,
+    "timediff": 3.1,
+    "timediff_human": "0:00:03.100000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978257454,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:24:17.471",
+    "id": 2219,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978271131,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/35",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:24:31.941",
+    "id": 2220,
+    "timediff": 14.47,
+    "timediff_human": "0:00:14.470000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978271142,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/35",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:24:31.955",
+    "id": 2221,
+    "timediff": 0.014,
+    "timediff_human": "0:00:00.014000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978279070,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:24:39.087",
+    "id": 2222,
+    "timediff": 7.132,
+    "timediff_human": "0:00:07.132000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978310255,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/28",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:25:11.106",
+    "id": 2223,
+    "timediff": 32.019,
+    "timediff_human": "0:00:32.019000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978316393,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:25:16.41",
+    "id": 2224,
+    "timediff": 5.304,
+    "timediff_human": "0:00:05.304000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978316404,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:25:16.422",
+    "id": 2225,
+    "timediff": 0.012,
+    "timediff_human": "0:00:00.012000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978339797,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/28",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:25:40.611",
+    "id": 2226,
+    "timediff": 24.189,
+    "timediff_human": "0:00:24.189000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978339810,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/28",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:25:40.636",
+    "id": 2227,
+    "timediff": 0.025,
+    "timediff_human": "0:00:00.025000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978343430,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:25:43.236",
+    "id": 2228,
+    "timediff": 2.6,
+    "timediff_human": "0:00:02.600000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978357228,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/35",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:25:58.035",
+    "id": 2229,
+    "timediff": 14.799,
+    "timediff_human": "0:00:14.799000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978370395,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:26:11.208",
+    "id": 2230,
+    "timediff": 13.173,
+    "timediff_human": "0:00:13.173000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978370411,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:26:11.215",
+    "id": 2231,
+    "timediff": 0.007,
+    "timediff_human": "0:00:00.007000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978388003,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:26:28.816",
+    "id": 2232,
+    "timediff": 17.601,
+    "timediff_human": "0:00:17.601000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978388011,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:26:28.828",
+    "id": 2233,
+    "timediff": 0.012,
+    "timediff_human": "0:00:00.012000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978414405,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:26:55.207",
+    "id": 2234,
+    "timediff": 26.379,
+    "timediff_human": "0:00:26.379000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978414417,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:26:55.235",
+    "id": 2235,
+    "timediff": 0.028,
+    "timediff_human": "0:00:00.028000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978420300,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:27:01.123",
+    "id": 2236,
+    "timediff": 5.888,
+    "timediff_human": "0:00:05.888000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978420309,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:27:01.128",
+    "id": 2237,
+    "timediff": 0.005,
+    "timediff_human": "0:00:00.005000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978424586,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:27:04.397",
+    "id": 2238,
+    "timediff": 3.269,
+    "timediff_human": "0:00:03.269000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978424595,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:27:04.412",
+    "id": 2239,
+    "timediff": 0.015,
+    "timediff_human": "0:00:00.015000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978427395,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:27:07.428",
+    "id": 2240,
+    "timediff": 3.016,
+    "timediff_human": "0:00:03.016000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978427412,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:27:07.433",
+    "id": 2241,
+    "timediff": 0.005,
+    "timediff_human": "0:00:00.005000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978428959,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "program": "x = true\nx = \"abc\"\nx = 5.0\nx = '10'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T06:27:08.763",
+    "id": 2242,
+    "timediff": 1.33,
+    "timediff_human": "0:00:01.330000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978443002,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "answer": "x = '10'",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T06:27:23.823",
+    "id": 2243,
+    "timediff": 15.06,
+    "timediff_human": "0:00:15.060000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978538447,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "answer": "x = 5.0",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T06:28:59.272",
+    "id": 2244,
+    "timediff": 95.449,
+    "timediff_human": "0:01:35.449000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978558189,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "answer": "x = true",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T06:29:19.005",
+    "id": 2245,
+    "timediff": 19.733,
+    "timediff_human": "0:00:19.733000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978633455,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:30:34.324",
+    "id": 2246,
+    "timediff": 75.319,
+    "timediff_human": "0:01:15.319000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978633468,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:30:34.343",
+    "id": 2247,
+    "timediff": 0.019,
+    "timediff_human": "0:00:00.019000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978635665,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T06:30:35.469",
+    "id": 2248,
+    "timediff": 1.126,
+    "timediff_human": "0:00:01.126000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978646954,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "answer": "float",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T06:30:47.794",
+    "id": 2249,
+    "timediff": 12.325,
+    "timediff_human": "0:00:12.325000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978650822,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:30:51.042",
+    "id": 2250,
+    "timediff": 3.248,
+    "timediff_human": "0:00:03.248000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978650833,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:30:51.062",
+    "id": 2251,
+    "timediff": 0.02,
+    "timediff_human": "0:00:00.020000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978700896,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "answer": "x = 65.5\r\nprint(int(x))",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-31T06:31:41.71",
+    "id": 2252,
+    "timediff": 50.648,
+    "timediff_human": "0:00:50.648000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978704865,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:31:44.695",
+    "id": 2253,
+    "timediff": 2.985,
+    "timediff_human": "0:00:02.985000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978713626,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/46",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:31:54.444",
+    "id": 2254,
+    "timediff": 9.749,
+    "timediff_human": "0:00:09.749000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978955381,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:35:56.203",
+    "id": 2268,
+    "timediff": 241.759,
+    "timediff_human": "0:04:01.759000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653978955398,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:35:56.207",
+    "id": 2269,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979024110,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:37:04.132",
+    "id": 2300,
+    "timediff": 67.925,
+    "timediff_human": "0:01:07.925000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979024119,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:37:04.358",
+    "id": 2301,
+    "timediff": 0.226,
+    "timediff_human": "0:00:00.226000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979181248,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:39:42.061",
+    "id": 2302,
+    "timediff": 157.703,
+    "timediff_human": "0:02:37.703000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979181264,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:39:42.079",
+    "id": 2303,
+    "timediff": 0.018,
+    "timediff_human": "0:00:00.018000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979183399,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T06:39:43.208",
+    "id": 2304,
+    "timediff": 1.129,
+    "timediff_human": "0:00:01.129000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979191888,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "answer": 65,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T06:39:51.906",
+    "id": 2305,
+    "timediff": 8.698,
+    "timediff_human": "0:00:08.698000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979194044,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:39:53.872",
+    "id": 2306,
+    "timediff": 1.966,
+    "timediff_human": "0:00:01.966000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979194060,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:39:53.876",
+    "id": 2307,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979195366,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T06:39:55.175",
+    "id": 2308,
+    "timediff": 1.299,
+    "timediff_human": "0:00:01.299000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979219948,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T06:40:19.986",
+    "id": 2309,
+    "timediff": 24.811,
+    "timediff_human": "0:00:24.811000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979222275,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:40:22.089",
+    "id": 2310,
+    "timediff": 2.103,
+    "timediff_human": "0:00:02.103000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979222294,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:40:22.11",
+    "id": 2311,
+    "timediff": 0.021,
+    "timediff_human": "0:00:00.021000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979223595,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T06:40:23.406",
+    "id": 2312,
+    "timediff": 1.296,
+    "timediff_human": "0:00:01.296000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979268482,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:41:08.517",
+    "id": 2313,
+    "timediff": 45.111,
+    "timediff_human": "0:00:45.111000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979268497,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:41:08.528",
+    "id": 2314,
+    "timediff": 0.011,
+    "timediff_human": "0:00:00.011000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979270019,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T06:41:09.832",
+    "id": 2315,
+    "timediff": 1.304,
+    "timediff_human": "0:00:01.304000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979270901,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:41:10.734",
+    "id": 2316,
+    "timediff": 0.902,
+    "timediff_human": "0:00:00.902000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979270911,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:41:10.74",
+    "id": 2317,
+    "timediff": 0.006,
+    "timediff_human": "0:00:00.006000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979272119,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T06:41:11.936",
+    "id": 2318,
+    "timediff": 1.196,
+    "timediff_human": "0:00:01.196000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979273105,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:41:12.94",
+    "id": 2319,
+    "timediff": 1.004,
+    "timediff_human": "0:00:01.004000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979273119,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:41:12.945",
+    "id": 2320,
+    "timediff": 0.005,
+    "timediff_human": "0:00:00.005000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979300426,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:41:40.432",
+    "id": 2321,
+    "timediff": 27.487,
+    "timediff_human": "0:00:27.487000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979300438,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:41:40.443",
+    "id": 2322,
+    "timediff": 0.011,
+    "timediff_human": "0:00:00.011000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979301694,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T06:41:41.498",
+    "id": 2323,
+    "timediff": 1.055,
+    "timediff_human": "0:00:01.055000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979302285,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:41:42.119",
+    "id": 2324,
+    "timediff": 0.621,
+    "timediff_human": "0:00:00.621000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979302297,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:41:42.122",
+    "id": 2325,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979303416,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T06:41:43.226",
+    "id": 2326,
+    "timediff": 1.104,
+    "timediff_human": "0:00:01.104000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979304601,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T06:41:44.418",
+    "id": 2327,
+    "timediff": 1.192,
+    "timediff_human": "0:00:01.192000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979306562,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:41:46.593",
+    "id": 2328,
+    "timediff": 2.175,
+    "timediff_human": "0:00:02.175000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979306572,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:41:46.602",
+    "id": 2329,
+    "timediff": 0.009,
+    "timediff_human": "0:00:00.009000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979307886,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T06:41:47.695",
+    "id": 2330,
+    "timediff": 1.093,
+    "timediff_human": "0:00:01.093000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979330694,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:42:10.718",
+    "id": 2331,
+    "timediff": 23.023,
+    "timediff_human": "0:00:23.023000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979330704,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:42:10.738",
+    "id": 2332,
+    "timediff": 0.02,
+    "timediff_human": "0:00:00.020000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979332529,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T06:42:12.338",
+    "id": 2333,
+    "timediff": 1.6,
+    "timediff_human": "0:00:01.600000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979333710,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:42:13.542",
+    "id": 2334,
+    "timediff": 1.204,
+    "timediff_human": "0:00:01.204000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979333719,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:42:13.545",
+    "id": 2335,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979334836,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T06:42:14.645",
+    "id": 2336,
+    "timediff": 1.1,
+    "timediff_human": "0:00:01.100000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979341205,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:42:21.228",
+    "id": 2337,
+    "timediff": 6.583,
+    "timediff_human": "0:00:06.583000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979341234,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:42:21.251",
+    "id": 2338,
+    "timediff": 0.023,
+    "timediff_human": "0:00:00.023000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979342545,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T06:42:22.355",
+    "id": 2339,
+    "timediff": 1.104,
+    "timediff_human": "0:00:01.104000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979345667,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:42:25.499",
+    "id": 2340,
+    "timediff": 3.144,
+    "timediff_human": "0:00:03.144000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979345677,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:42:25.502",
+    "id": 2341,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979347264,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-31T06:42:27.276",
+    "id": 2342,
+    "timediff": 1.774,
+    "timediff_human": "0:00:01.774000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979348082,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-31T06:42:27.898",
+    "id": 2343,
+    "timediff": 0.622,
+    "timediff_human": "0:00:00.622000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979349874,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:42:29.699",
+    "id": 2344,
+    "timediff": 1.801,
+    "timediff_human": "0:00:01.801000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979349885,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:42:29.704",
+    "id": 2345,
+    "timediff": 0.005,
+    "timediff_human": "0:00:00.005000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979388909,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "answer": "a = 15\r\nb = 30\r\njumlah = a + b\r\nprint(jumlah)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-31T06:43:08.939",
+    "id": 2346,
+    "timediff": 39.235,
+    "timediff_human": "0:00:39.235000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979392144,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/4",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:43:11.973",
+    "id": 2347,
+    "timediff": 3.034,
+    "timediff_human": "0:00:03.034000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979407524,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/46",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T06:43:27.595",
+    "id": 2348,
+    "timediff": 15.622,
+    "timediff_human": "0:00:15.622000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1653979418762,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T06:43:38.783",
+    "id": 2349,
+    "timediff": 11.188,
+    "timediff_human": "0:00:11.188000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1654067961235,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/46",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T07:19:21.179",
+    "id": 3305,
+    "timediff": 88542.396,
+    "timediff_human": "1 day, 0:35:42.396000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1654067961232,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/46",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T07:19:21.253",
+    "id": 3306,
+    "timediff": 0.074,
+    "timediff_human": "0:00:00.074000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1654068053512,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T07:20:53.349",
+    "id": 3307,
+    "timediff": 92.096,
+    "timediff_human": "0:01:32.096000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1654068053513,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T07:20:53.6",
+    "id": 3308,
+    "timediff": 0.251,
+    "timediff_human": "0:00:00.251000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1654068059739,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/28",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T07:20:59.576",
+    "id": 3309,
+    "timediff": 5.976,
+    "timediff_human": "0:00:05.976000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1654068059741,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/28",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T07:20:59.581",
+    "id": 3310,
+    "timediff": 0.005,
+    "timediff_human": "0:00:00.005000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1654068556693,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T07:29:17.573",
+    "id": 3311,
+    "timediff": 497.992,
+    "timediff_human": "0:08:17.992000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1654068556694,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-01T07:29:17.636",
+    "id": 3312,
+    "timediff": 0.063,
+    "timediff_human": "0:00:00.063000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1654068556704,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T07:29:17.636",
+    "id": 3313,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1654068556707,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T07:29:17.821",
+    "id": 3314,
+    "timediff": 0.185,
+    "timediff_human": "0:00:00.185000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1654095885537,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/35",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T15:04:45.907",
+    "id": 3413,
+    "timediff": 27328.086,
+    "timediff_human": "7:35:28.086000"
+  },
+  {
+    "name": "Heidi Schan Andriana",
+    "details": {
+      "date": 1654095885540,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/35",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-01T15:04:46.134",
+    "id": 3414,
+    "timediff": 0.227,
+    "timediff_human": "0:00:00.227000"
+  }
+]

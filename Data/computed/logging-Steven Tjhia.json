@@ -1,0 +1,2021 @@
+[
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880157113,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/28",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:09:17.269",
+    "id": 356,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880157117,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/28",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:09:17.551",
+    "id": 357,
+    "timediff": 0.282,
+    "timediff_human": "0:00:00.282000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880205137,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:10:05.244",
+    "id": 358,
+    "timediff": 47.693,
+    "timediff_human": "0:00:47.693000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880205136,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:10:05.245",
+    "id": 359,
+    "timediff": 0.001,
+    "timediff_human": "0:00:00.001000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880205144,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:10:05.254",
+    "id": 360,
+    "timediff": 0.009,
+    "timediff_human": "0:00:00.009000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880205145,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:10:05.509",
+    "id": 361,
+    "timediff": 0.255,
+    "timediff_human": "0:00:00.255000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880368623,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:12:49.938",
+    "id": 366,
+    "timediff": 164.429,
+    "timediff_human": "0:02:44.429000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880368623,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:12:49.942",
+    "id": 367,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880368633,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:12:50.304",
+    "id": 368,
+    "timediff": 0.362,
+    "timediff_human": "0:00:00.362000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880368631,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:12:50.314",
+    "id": 369,
+    "timediff": 0.01,
+    "timediff_human": "0:00:00.010000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880469647,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:14:29.678",
+    "id": 378,
+    "timediff": 99.364,
+    "timediff_human": "0:01:39.364000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880469648,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:14:29.933",
+    "id": 379,
+    "timediff": 0.255,
+    "timediff_human": "0:00:00.255000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880469661,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:14:30.191",
+    "id": 380,
+    "timediff": 0.258,
+    "timediff_human": "0:00:00.258000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880469660,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:14:30.523",
+    "id": 381,
+    "timediff": 0.332,
+    "timediff_human": "0:00:00.332000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880499672,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:14:59.673",
+    "id": 390,
+    "timediff": 29.15,
+    "timediff_human": "0:00:29.150000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880499673,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:14:59.681",
+    "id": 391,
+    "timediff": 0.008,
+    "timediff_human": "0:00:00.008000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880499683,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:14:59.702",
+    "id": 392,
+    "timediff": 0.021,
+    "timediff_human": "0:00:00.021000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880499685,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:14:59.709",
+    "id": 393,
+    "timediff": 0.007,
+    "timediff_human": "0:00:00.007000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880501216,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:15:00.97",
+    "id": 394,
+    "timediff": 1.261,
+    "timediff_human": "0:00:01.261000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880501240,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:15:01.003",
+    "id": 395,
+    "timediff": 0.033,
+    "timediff_human": "0:00:00.033000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880509247,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "answer": "Menampilkan sesuatu pada program",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:15:09.237",
+    "id": 396,
+    "timediff": 8.234,
+    "timediff_human": "0:00:08.234000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880512583,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:15:12.346",
+    "id": 397,
+    "timediff": 3.109,
+    "timediff_human": "0:00:03.109000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880512583,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:15:12.351",
+    "id": 398,
+    "timediff": 0.005,
+    "timediff_human": "0:00:00.005000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880512593,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:15:12.38",
+    "id": 399,
+    "timediff": 0.029,
+    "timediff_human": "0:00:00.029000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880512594,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:15:12.385",
+    "id": 400,
+    "timediff": 0.005,
+    "timediff_human": "0:00:00.005000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880514096,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:15:13.85",
+    "id": 401,
+    "timediff": 1.465,
+    "timediff_human": "0:00:01.465000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880514125,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:15:13.884",
+    "id": 402,
+    "timediff": 0.034,
+    "timediff_human": "0:00:00.034000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880522061,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "answer": 3,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:15:22.05",
+    "id": 403,
+    "timediff": 8.166,
+    "timediff_human": "0:00:08.166000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880525675,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:15:25.467",
+    "id": 405,
+    "timediff": 3.417,
+    "timediff_human": "0:00:03.417000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880525676,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:15:25.467",
+    "id": 406,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880525682,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:15:25.474",
+    "id": 407,
+    "timediff": 0.007,
+    "timediff_human": "0:00:00.007000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880525684,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:15:25.479",
+    "id": 408,
+    "timediff": 0.005,
+    "timediff_human": "0:00:00.005000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880551885,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "print(\"Halo Dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:15:51.903",
+    "id": 414,
+    "timediff": 26.424,
+    "timediff_human": "0:00:26.424000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880560800,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:16:00.788",
+    "id": 415,
+    "timediff": 8.885,
+    "timediff_human": "0:00:08.885000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880560791,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:16:00.804",
+    "id": 416,
+    "timediff": 0.016,
+    "timediff_human": "0:00:00.016000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880576890,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/35",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:16:16.885",
+    "id": 417,
+    "timediff": 16.081,
+    "timediff_human": "0:00:16.081000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880576892,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/35",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:16:16.905",
+    "id": 418,
+    "timediff": 0.02,
+    "timediff_human": "0:00:00.020000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880681210,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:18:01.228",
+    "id": 419,
+    "timediff": 104.323,
+    "timediff_human": "0:01:44.323000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880681210,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:18:01.484",
+    "id": 420,
+    "timediff": 0.256,
+    "timediff_human": "0:00:00.256000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880681222,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:18:01.753",
+    "id": 421,
+    "timediff": 0.269,
+    "timediff_human": "0:00:00.269000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880681220,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:18:02.096",
+    "id": 422,
+    "timediff": 0.343,
+    "timediff_human": "0:00:00.343000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880735202,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:18:55.247",
+    "id": 427,
+    "timediff": 53.151,
+    "timediff_human": "0:00:53.151000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880735202,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:18:55.253",
+    "id": 428,
+    "timediff": 0.006,
+    "timediff_human": "0:00:00.006000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880735212,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:18:55.256",
+    "id": 429,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880735210,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:18:55.271",
+    "id": 430,
+    "timediff": 0.015,
+    "timediff_human": "0:00:00.015000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880770421,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:19:30.465",
+    "id": 431,
+    "timediff": 35.194,
+    "timediff_human": "0:00:35.194000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880770431,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:19:30.472",
+    "id": 432,
+    "timediff": 0.007,
+    "timediff_human": "0:00:00.007000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880770433,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:19:30.478",
+    "id": 433,
+    "timediff": 0.006,
+    "timediff_human": "0:00:00.006000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880770422,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:19:30.508",
+    "id": 434,
+    "timediff": 0.03,
+    "timediff_human": "0:00:00.030000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880811687,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:20:11.703",
+    "id": 441,
+    "timediff": 41.195,
+    "timediff_human": "0:00:41.195000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880811676,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:20:11.712",
+    "id": 442,
+    "timediff": 0.009,
+    "timediff_human": "0:00:00.009000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880811684,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:20:11.739",
+    "id": 443,
+    "timediff": 0.027,
+    "timediff_human": "0:00:00.027000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880811675,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:20:11.743",
+    "id": 444,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880949946,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:22:29.962",
+    "id": 462,
+    "timediff": 138.219,
+    "timediff_human": "0:02:18.219000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880949947,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:22:30.214",
+    "id": 463,
+    "timediff": 0.252,
+    "timediff_human": "0:00:00.252000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880949954,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:22:30.469",
+    "id": 464,
+    "timediff": 0.255,
+    "timediff_human": "0:00:00.255000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653880949956,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:22:30.739",
+    "id": 465,
+    "timediff": 0.27,
+    "timediff_human": "0:00:00.270000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653881355247,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:29:15.265",
+    "id": 491,
+    "timediff": 404.526,
+    "timediff_human": "0:06:44.526000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653881355247,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:29:15.513",
+    "id": 492,
+    "timediff": 0.248,
+    "timediff_human": "0:00:00.248000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653881355261,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:29:15.767",
+    "id": 493,
+    "timediff": 0.254,
+    "timediff_human": "0:00:00.254000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653881355259,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:29:16.232",
+    "id": 494,
+    "timediff": 0.465,
+    "timediff_human": "0:00:00.465000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653881357943,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "program": "x = true\nx = \"abc\"\nx = 5.0\nx = '10'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:29:17.699",
+    "id": 495,
+    "timediff": 1.467,
+    "timediff_human": "0:00:01.467000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653881357967,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "program": "x = true\nx = \"abc\"\nx = 5.0\nx = '10'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:29:17.73",
+    "id": 496,
+    "timediff": 0.031,
+    "timediff_human": "0:00:00.031000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653881387063,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "answer": "x = true",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:29:47.11",
+    "id": 501,
+    "timediff": 29.38,
+    "timediff_human": "0:00:29.380000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653881391056,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:29:50.839",
+    "id": 502,
+    "timediff": 3.729,
+    "timediff_human": "0:00:03.729000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653881391056,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:29:50.841",
+    "id": 503,
+    "timediff": 0.002,
+    "timediff_human": "0:00:00.002000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653881391066,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:29:50.874",
+    "id": 504,
+    "timediff": 0.033,
+    "timediff_human": "0:00:00.033000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653881391067,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:29:50.879",
+    "id": 505,
+    "timediff": 0.005,
+    "timediff_human": "0:00:00.005000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653881392617,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:29:52.628",
+    "id": 506,
+    "timediff": 1.749,
+    "timediff_human": "0:00:01.749000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653881392654,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:29:52.647",
+    "id": 507,
+    "timediff": 0.019,
+    "timediff_human": "0:00:00.019000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653881400665,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "answer": "integer",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:30:00.668",
+    "id": 510,
+    "timediff": 8.021,
+    "timediff_human": "0:00:08.021000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653881405769,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "answer": "float",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:30:05.544",
+    "id": 519,
+    "timediff": 4.876,
+    "timediff_human": "0:00:04.876000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653881415532,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:30:15.55",
+    "id": 520,
+    "timediff": 10.006,
+    "timediff_human": "0:00:10.006000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653881415531,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:30:15.552",
+    "id": 521,
+    "timediff": 0.002,
+    "timediff_human": "0:00:00.002000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653881415538,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:30:15.559",
+    "id": 522,
+    "timediff": 0.007,
+    "timediff_human": "0:00:00.007000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653881415539,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:30:15.77",
+    "id": 523,
+    "timediff": 0.211,
+    "timediff_human": "0:00:00.211000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653881465459,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "answer": "x = 65.5\r\nx = int(x)\r\nprint(x)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:31:05.461",
+    "id": 549,
+    "timediff": 49.691,
+    "timediff_human": "0:00:49.691000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653881478854,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:31:18.843",
+    "id": 559,
+    "timediff": 13.382,
+    "timediff_human": "0:00:13.382000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653881478844,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:31:18.858",
+    "id": 560,
+    "timediff": 0.015,
+    "timediff_human": "0:00:00.015000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653881489622,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/46",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:31:29.645",
+    "id": 563,
+    "timediff": 10.787,
+    "timediff_human": "0:00:10.787000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653881489624,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/46",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:31:29.648",
+    "id": 564,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882322400,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:45:22.414",
+    "id": 685,
+    "timediff": 832.766,
+    "timediff_human": "0:13:52.766000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882322400,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:45:22.691",
+    "id": 686,
+    "timediff": 0.277,
+    "timediff_human": "0:00:00.277000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882322412,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:45:22.955",
+    "id": 687,
+    "timediff": 0.264,
+    "timediff_human": "0:00:00.264000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882322410,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:45:23.322",
+    "id": 688,
+    "timediff": 0.367,
+    "timediff_human": "0:00:00.367000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882448143,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:47:28.155",
+    "id": 699,
+    "timediff": 124.833,
+    "timediff_human": "0:02:04.833000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882448144,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:47:28.436",
+    "id": 700,
+    "timediff": 0.281,
+    "timediff_human": "0:00:00.281000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882448154,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:47:28.712",
+    "id": 701,
+    "timediff": 0.276,
+    "timediff_human": "0:00:00.276000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882448152,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:47:29.04",
+    "id": 702,
+    "timediff": 0.328,
+    "timediff_human": "0:00:00.328000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882597943,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:49:57.941",
+    "id": 720,
+    "timediff": 148.901,
+    "timediff_human": "0:02:28.901000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882597943,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:49:58.197",
+    "id": 721,
+    "timediff": 0.256,
+    "timediff_human": "0:00:00.256000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882597954,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:49:58.444",
+    "id": 722,
+    "timediff": 0.247,
+    "timediff_human": "0:00:00.247000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882597953,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:49:58.813",
+    "id": 723,
+    "timediff": 0.369,
+    "timediff_human": "0:00:00.369000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882600185,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:49:59.958",
+    "id": 724,
+    "timediff": 1.145,
+    "timediff_human": "0:00:01.145000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882600249,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:50:00.007",
+    "id": 725,
+    "timediff": 0.049,
+    "timediff_human": "0:00:00.049000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882622488,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "answer": 65,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:50:22.514",
+    "id": 735,
+    "timediff": 22.507,
+    "timediff_human": "0:00:22.507000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882627281,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:50:27.062",
+    "id": 737,
+    "timediff": 4.548,
+    "timediff_human": "0:00:04.548000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882627292,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:50:27.103",
+    "id": 738,
+    "timediff": 0.041,
+    "timediff_human": "0:00:00.041000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882627283,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:50:27.12",
+    "id": 739,
+    "timediff": 0.017,
+    "timediff_human": "0:00:00.017000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882627294,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:50:27.124",
+    "id": 740,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882628781,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:50:28.785",
+    "id": 741,
+    "timediff": 1.661,
+    "timediff_human": "0:00:01.661000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882628807,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:50:28.84",
+    "id": 742,
+    "timediff": 0.055,
+    "timediff_human": "0:00:00.055000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882661931,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:51:01.936",
+    "id": 750,
+    "timediff": 33.096,
+    "timediff_human": "0:00:33.096000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882776031,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:52:57.391",
+    "id": 774,
+    "timediff": 115.455,
+    "timediff_human": "0:01:55.455000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882776031,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:52:57.405",
+    "id": 775,
+    "timediff": 0.014,
+    "timediff_human": "0:00:00.014000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882776041,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:52:57.806",
+    "id": 776,
+    "timediff": 0.401,
+    "timediff_human": "0:00:00.401000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882776043,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:52:57.837",
+    "id": 777,
+    "timediff": 0.031,
+    "timediff_human": "0:00:00.031000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882779137,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:52:58.918",
+    "id": 778,
+    "timediff": 1.081,
+    "timediff_human": "0:00:01.081000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882779180,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:52:58.942",
+    "id": 779,
+    "timediff": 0.024,
+    "timediff_human": "0:00:00.024000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882791412,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:53:11.469",
+    "id": 780,
+    "timediff": 12.527,
+    "timediff_human": "0:00:12.527000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882794850,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:53:14.636",
+    "id": 781,
+    "timediff": 3.167,
+    "timediff_human": "0:00:03.167000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882794849,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:53:14.641",
+    "id": 782,
+    "timediff": 0.005,
+    "timediff_human": "0:00:00.005000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882794860,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:53:14.677",
+    "id": 783,
+    "timediff": 0.036,
+    "timediff_human": "0:00:00.036000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882794862,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:53:14.68",
+    "id": 784,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882853027,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "answer": "a = \"15\"\r\nb = \"30\"\r\njumlah = int(a) + int(b)\r\nprint(jumlah)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:54:13.064",
+    "id": 787,
+    "timediff": 58.384,
+    "timediff_human": "0:00:58.384000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882862120,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/4",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:54:22.142",
+    "id": 788,
+    "timediff": 9.078,
+    "timediff_human": "0:00:09.078000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882862129,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/4",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:54:22.16",
+    "id": 789,
+    "timediff": 0.018,
+    "timediff_human": "0:00:00.018000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882873644,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:54:33.658",
+    "id": 790,
+    "timediff": 11.498,
+    "timediff_human": "0:00:11.498000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882873646,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:54:33.698",
+    "id": 791,
+    "timediff": 0.04,
+    "timediff_human": "0:00:00.040000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882885422,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:54:45.438",
+    "id": 792,
+    "timediff": 11.74,
+    "timediff_human": "0:00:11.740000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882885417,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:54:45.458",
+    "id": 793,
+    "timediff": 0.02,
+    "timediff_human": "0:00:00.020000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882885416,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:54:45.466",
+    "id": 794,
+    "timediff": 0.008,
+    "timediff_human": "0:00:00.008000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882885424,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/48",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:54:45.732",
+    "id": 795,
+    "timediff": 0.266,
+    "timediff_human": "0:00:00.266000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882895504,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:54:55.524",
+    "id": 796,
+    "timediff": 9.792,
+    "timediff_human": "0:00:09.792000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882895504,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:54:55.524",
+    "id": 797,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882895512,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:54:55.551",
+    "id": 798,
+    "timediff": 0.027,
+    "timediff_human": "0:00:00.027000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882895514,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:54:55.558",
+    "id": 799,
+    "timediff": 0.007,
+    "timediff_human": "0:00:00.007000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882897051,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:54:56.815",
+    "id": 800,
+    "timediff": 1.257,
+    "timediff_human": "0:00:01.257000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882897063,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:54:56.831",
+    "id": 801,
+    "timediff": 0.016,
+    "timediff_human": "0:00:00.016000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882900210,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/49",
+      "answer": 65,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:54:59.986",
+    "id": 802,
+    "timediff": 3.155,
+    "timediff_human": "0:00:03.155000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882903048,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:55:03.055",
+    "id": 803,
+    "timediff": 3.069,
+    "timediff_human": "0:00:03.069000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882903050,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:55:03.089",
+    "id": 804,
+    "timediff": 0.034,
+    "timediff_human": "0:00:00.034000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882903059,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:55:03.097",
+    "id": 805,
+    "timediff": 0.008,
+    "timediff_human": "0:00:00.008000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882903060,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:55:03.131",
+    "id": 806,
+    "timediff": 0.034,
+    "timediff_human": "0:00:00.034000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882904670,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:55:04.443",
+    "id": 807,
+    "timediff": 1.312,
+    "timediff_human": "0:00:01.312000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882904716,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:55:04.478",
+    "id": 808,
+    "timediff": 0.035,
+    "timediff_human": "0:00:00.035000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882906798,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/50",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:55:06.571",
+    "id": 809,
+    "timediff": 2.093,
+    "timediff_human": "0:00:02.093000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882908877,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:55:08.879",
+    "id": 810,
+    "timediff": 2.308,
+    "timediff_human": "0:00:02.308000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882908887,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:55:08.918",
+    "id": 811,
+    "timediff": 0.039,
+    "timediff_human": "0:00:00.039000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882908876,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:55:08.922",
+    "id": 812,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882908889,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:55:08.927",
+    "id": 813,
+    "timediff": 0.005,
+    "timediff_human": "0:00:00.005000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882910441,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:55:10.22",
+    "id": 814,
+    "timediff": 1.293,
+    "timediff_human": "0:00:01.293000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882910483,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:55:10.254",
+    "id": 815,
+    "timediff": 0.034,
+    "timediff_human": "0:00:00.034000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882912011,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/51",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:55:11.794",
+    "id": 816,
+    "timediff": 1.54,
+    "timediff_human": "0:00:01.540000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882913888,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:55:13.702",
+    "id": 817,
+    "timediff": 1.908,
+    "timediff_human": "0:00:01.908000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882913889,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:55:13.705",
+    "id": 818,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882913895,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:55:13.709",
+    "id": 819,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882913896,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:55:13.719",
+    "id": 820,
+    "timediff": 0.01,
+    "timediff_human": "0:00:00.010000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882926726,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/52",
+      "answer": "print(15+30)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:55:26.749",
+    "id": 824,
+    "timediff": 13.03,
+    "timediff_human": "0:00:13.030000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882930022,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/4",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:55:29.812",
+    "id": 825,
+    "timediff": 3.063,
+    "timediff_human": "0:00:03.063000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653882930019,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/4",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:55:29.817",
+    "id": 826,
+    "timediff": 0.005,
+    "timediff_human": "0:00:00.005000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653883084039,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/3",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:58:04.047",
+    "id": 840,
+    "timediff": 154.23,
+    "timediff_human": "0:02:34.230000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653883084041,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/3",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:58:04.263",
+    "id": 841,
+    "timediff": 0.216,
+    "timediff_human": "0:00:00.216000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653883093993,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:58:13.996",
+    "id": 842,
+    "timediff": 9.733,
+    "timediff_human": "0:00:09.733000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653883093993,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:58:14.016",
+    "id": 843,
+    "timediff": 0.02,
+    "timediff_human": "0:00:00.020000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653883094003,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:58:14.019",
+    "id": 844,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653883094005,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:58:14.275",
+    "id": 845,
+    "timediff": 0.256,
+    "timediff_human": "0:00:00.256000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653883096256,
+      "input": [
+        "Halo"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:58:16.222",
+    "id": 846,
+    "timediff": 1.947,
+    "timediff_human": "0:00:01.947000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653883096304,
+      "input": [
+        "Halo"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:58:16.264",
+    "id": 847,
+    "timediff": 0.042,
+    "timediff_human": "0:00:00.042000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653883098386,
+      "done": false,
+      "route": "/home",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:58:18.161",
+    "id": 848,
+    "timediff": 1.897,
+    "timediff_human": "0:00:01.897000"
+  },
+  {
+    "name": "Steven Tjhia",
+    "details": {
+      "date": 1653883098387,
+      "done": false,
+      "route": "/home",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:58:18.194",
+    "id": 849,
+    "timediff": 0.033,
+    "timediff_human": "0:00:00.033000"
+  }
+]

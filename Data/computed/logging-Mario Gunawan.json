@@ -1,0 +1,91 @@
+[
+  {
+    "name": "Mario Gunawan",
+    "details": {
+      "date": 1653877267436,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T02:21:08.213",
+    "id": 123,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "Mario Gunawan",
+    "details": {
+      "date": 1653877281504,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "answer": "print(\"Hello World\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T02:21:24.409",
+    "id": 124,
+    "timediff": 16.196,
+    "timediff_human": "0:00:16.196000"
+  },
+  {
+    "name": "Mario Gunawan",
+    "details": {
+      "date": 1653877294175,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "answer": "print(\"Halo Dunia\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T02:21:36.451",
+    "id": 125,
+    "timediff": 12.042,
+    "timediff_human": "0:00:12.042000"
+  },
+  {
+    "name": "Mario Gunawan",
+    "details": {
+      "date": 1653877302007,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "answer": "print(\"Halo Dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T02:21:43.044",
+    "id": 126,
+    "timediff": 6.593,
+    "timediff_human": "0:00:06.593000"
+  },
+  {
+    "name": "Mario Gunawan",
+    "details": {
+      "date": 1653877308529,
+      "done": true,
+      "route": "/learn/python-dasar:-treatment/lesson/2",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T02:21:48.986",
+    "id": 127,
+    "timediff": 5.942,
+    "timediff_human": "0:00:05.942000"
+  },
+  {
+    "name": "Mario Gunawan",
+    "details": {
+      "date": 1653877765166,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T02:29:26.411",
+    "id": 189,
+    "timediff": 457.425,
+    "timediff_human": "0:07:37.425000"
+  },
+  {
+    "name": "Mario Gunawan",
+    "details": {
+      "date": 1653877771415,
+      "done": true,
+      "route": "/learn",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T02:29:31.786",
+    "id": 190,
+    "timediff": 5.375,
+    "timediff_human": "0:00:05.375000"
+  }
+]

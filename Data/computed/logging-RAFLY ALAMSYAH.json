@@ -1,0 +1,1697 @@
+[
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903327322,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/3",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:35:34.327",
+    "id": 1225,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903351656,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:35:54.725",
+    "id": 1230,
+    "timediff": 20.398,
+    "timediff_human": "0:00:20.398000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903351722,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:35:54.83",
+    "id": 1231,
+    "timediff": 0.105,
+    "timediff_human": "0:00:00.105000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903360442,
+      "input": [
+        "Halo"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
+      "program": "# INPUT = Simpan input pengguna ke dalam variabel x\nx = input()\n# PROCESS = sambungkan input dengan tanda seru\nx = x + \"!\"\n# OUTPUT = Tampilkan isi variabel x\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:36:01.939",
+    "id": 1232,
+    "timediff": 7.109,
+    "timediff_human": "0:00:07.109000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903385649,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:36:28.572",
+    "id": 1234,
+    "timediff": 26.633,
+    "timediff_human": "0:00:26.633000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903385422,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:36:28.576",
+    "id": 1235,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903390751,
+      "input": [
+        "3",
+        "5"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
+      "program": "# INPUT = Meminta masukkan berupa 2 bilangan bulat positif\n# lalu masukkan pada variabel A dan B\nA = int(input())\nB = int(input())\n\n# PROSES = Jumlahkan A dan B kemudian masukkan hasilnya ke dalam variabel A\nA = A + B\n\n# OUTPUT = Tampilkan kedua variabel setelah dilakukan proses penjumlahan\nprint(A)\nprint(B)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:36:31.981",
+    "id": 1236,
+    "timediff": 3.405,
+    "timediff_human": "0:00:03.405000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903398963,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/6",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:36:40.314",
+    "id": 1239,
+    "timediff": 8.333,
+    "timediff_human": "0:00:08.333000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903399125,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/6",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:36:40.679",
+    "id": 1240,
+    "timediff": 0.365,
+    "timediff_human": "0:00:00.365000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903403388,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/6",
+      "program": "# Ini adalah komentar\nprint(5 + 5) # Komentar juga bisa ditaruh di akhir suatu perintah\n# print(100)\n# Program tidak akan mengeluarkan angka 100 karena baris tersebut adalah komentar",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:36:44.385",
+    "id": 1243,
+    "timediff": 3.706,
+    "timediff_human": "0:00:03.706000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903409361,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/7",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:36:51.078",
+    "id": 1244,
+    "timediff": 6.693,
+    "timediff_human": "0:00:06.693000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903409521,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/7",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:36:51.686",
+    "id": 1245,
+    "timediff": 0.608,
+    "timediff_human": "0:00:00.608000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903416271,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/7",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:36:57.567",
+    "id": 1247,
+    "timediff": 5.881,
+    "timediff_human": "0:00:05.881000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903436803,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/7",
+      "answer": "Menampilkan sesuatu pada program",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:37:20.165",
+    "id": 1262,
+    "timediff": 22.598,
+    "timediff_human": "0:00:22.598000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903442080,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/8",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:37:23.097",
+    "id": 1263,
+    "timediff": 2.932,
+    "timediff_human": "0:00:02.932000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903442168,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/8",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:37:23.124",
+    "id": 1264,
+    "timediff": 0.027,
+    "timediff_human": "0:00:00.027000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903446378,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/8",
+      "program": "print(1)\nprint(2)\n# print(3)\nprint(4)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:37:27.932",
+    "id": 1265,
+    "timediff": 4.808,
+    "timediff_human": "0:00:04.808000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903455032,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/8",
+      "answer": 3,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:37:38.645",
+    "id": 1267,
+    "timediff": 10.713,
+    "timediff_human": "0:00:10.713000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903460352,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:37:41.414",
+    "id": 1268,
+    "timediff": 2.769,
+    "timediff_human": "0:00:02.769000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903460497,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:37:41.451",
+    "id": 1269,
+    "timediff": 0.037,
+    "timediff_human": "0:00:00.037000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903468506,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "program": "",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:37:49.823",
+    "id": 1276,
+    "timediff": 8.372,
+    "timediff_human": "0:00:08.372000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903473118,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "program": "",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:37:54.124",
+    "id": 1277,
+    "timediff": 4.301,
+    "timediff_human": "0:00:04.301000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903519232,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "answer": "print(\"halo dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:38:42.539",
+    "id": 1281,
+    "timediff": 48.415,
+    "timediff_human": "0:00:48.415000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903547071,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "answer": "print(\"halo dunia\"!)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:39:10.182",
+    "id": 1284,
+    "timediff": 27.643,
+    "timediff_human": "0:00:27.643000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903573106,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "answer": "print(\"halo dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:39:36.602",
+    "id": 1287,
+    "timediff": 26.42,
+    "timediff_human": "0:00:26.420000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903582432,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "answer": "print(\"halodunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:39:43.741",
+    "id": 1288,
+    "timediff": 7.139,
+    "timediff_human": "0:00:07.139000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903655509,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "answer": "print(\"Halo dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:40:58.996",
+    "id": 1290,
+    "timediff": 75.255,
+    "timediff_human": "0:01:15.255000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903704094,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "answer": "#print(\"Halo dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:41:48.063",
+    "id": 1306,
+    "timediff": 49.067,
+    "timediff_human": "0:00:49.067000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903720483,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "answer": "# print(\"Halo dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:42:16.992",
+    "id": 1323,
+    "timediff": 28.929,
+    "timediff_human": "0:00:28.929000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903726289,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "answer": "# print(\"Halo dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:42:22.707",
+    "id": 1324,
+    "timediff": 5.715,
+    "timediff_human": "0:00:05.715000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903737175,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "answer": "# print(\"Halo dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:42:36.287",
+    "id": 1327,
+    "timediff": 13.58,
+    "timediff_human": "0:00:13.580000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903764955,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "answer": " print(\"Hallo dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:42:48.566",
+    "id": 1329,
+    "timediff": 12.279,
+    "timediff_human": "0:00:12.279000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903765166,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "answer": " print(\"Hallo dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:42:48.894",
+    "id": 1330,
+    "timediff": 0.328,
+    "timediff_human": "0:00:00.328000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903796223,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "answer": " print(\"Hallo dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:43:20.344",
+    "id": 1338,
+    "timediff": 31.45,
+    "timediff_human": "0:00:31.450000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903858998,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "answer": " print(\"Hallo Dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:44:22.29",
+    "id": 1348,
+    "timediff": 61.946,
+    "timediff_human": "0:01:01.946000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903906156,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "answer": " print(\"Halo Dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:45:07.509",
+    "id": 1357,
+    "timediff": 45.219,
+    "timediff_human": "0:00:45.219000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903918234,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "answer": " print(\"HaLo Dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:45:19.837",
+    "id": 1361,
+    "timediff": 12.328,
+    "timediff_human": "0:00:12.328000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903933698,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "answer": " print(\"Halo Dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:45:35.176",
+    "id": 1365,
+    "timediff": 15.339,
+    "timediff_human": "0:00:15.339000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653903984104,
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
+      "answer": "print(\"Halo Dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:46:25.546",
+    "id": 1368,
+    "timediff": 50.37,
+    "timediff_human": "0:00:50.370000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904001237,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:46:42.719",
+    "id": 1369,
+    "timediff": 17.173,
+    "timediff_human": "0:00:17.173000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904016504,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/10",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:46:58.159",
+    "id": 1370,
+    "timediff": 15.44,
+    "timediff_human": "0:00:15.440000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904020454,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/10",
+      "program": "# KAMUS (bagian deklarasi)\n# nama_lengkap: string\n# umur : int\n# belajar_kode_bareng : boolean\n\n# ALGORITMA (isi program)\n\nnama_lengkap = \"Maskot\"\numur = 9\nbelajar_kode_bareng = True",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:47:01.45",
+    "id": 1371,
+    "timediff": 3.291,
+    "timediff_human": "0:00:03.291000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904020374,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/10",
+      "program": "#Variabel 'nama_lengkap' menyimpan data \"Maskot\"\nnama_lengkap = \"Maskot\"\n\n#Variabel 'umur' menyimpan data angka integer 9\numur = 9\n\n#Variabel 'belajar_kode_bareng' menyimpan data boolean True\nbelajar_kode_bareng = True",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:47:01.634",
+    "id": 1372,
+    "timediff": 0.184,
+    "timediff_human": "0:00:00.184000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904035085,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/11",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:47:16.518",
+    "id": 1375,
+    "timediff": 14.884,
+    "timediff_human": "0:00:14.884000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904035300,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/11",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:47:16.55",
+    "id": 1376,
+    "timediff": 0.032,
+    "timediff_human": "0:00:00.032000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904045448,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/12",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:47:26.827",
+    "id": 1382,
+    "timediff": 10.277,
+    "timediff_human": "0:00:10.277000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904045546,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/12",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:47:26.829",
+    "id": 1383,
+    "timediff": 0.002,
+    "timediff_human": "0:00:00.002000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904050312,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/12",
+      "program": "# Contoh penggunaan tipe data integer\numur = 15\nharga_barang = 50000\nbanyak_mobil = 0\nsuhu_kulkas = -7\n\n# Contoh penggunaan tipe data float\ndiskon = 0.3\nluas_tanah = 800.5\nvar = -8.93",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:47:31.613",
+    "id": 1384,
+    "timediff": 4.784,
+    "timediff_human": "0:00:04.784000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904056590,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/13",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:47:38.653",
+    "id": 1385,
+    "timediff": 7.04,
+    "timediff_human": "0:00:07.040000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904056798,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/13",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:47:38.686",
+    "id": 1386,
+    "timediff": 0.033,
+    "timediff_human": "0:00:00.033000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904061453,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/13",
+      "program": "# Contoh penggunaan tipe data string dan char\nnama_lengkap = \"Maskot\"\nusername = \"@abc123\"\n_sapaan = \"Hello, World!\"\nteks = \"Ini adalah sebuah teks yang memiliki tipe data string.\"\nkode_barang = 'a'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:47:42.757",
+    "id": 1387,
+    "timediff": 4.071,
+    "timediff_human": "0:00:04.071000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904067574,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:47:49.13",
+    "id": 1388,
+    "timediff": 6.373,
+    "timediff_human": "0:00:06.373000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904067757,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:47:49.14",
+    "id": 1389,
+    "timediff": 0.01,
+    "timediff_human": "0:00:00.010000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904071832,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "program": "# Contoh penggunaan None\nvar = None",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:47:52.852",
+    "id": 1390,
+    "timediff": 3.712,
+    "timediff_human": "0:00:03.712000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904071951,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
+      "program": "# Contoh penggunaan tipe data boolean\nequals = True\nfound = False\nbelajar_kode_bareng = True\nsudah_makan = True\nsudah_tidur = False",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:47:52.979",
+    "id": 1391,
+    "timediff": 0.127,
+    "timediff_human": "0:00:00.127000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904076582,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:47:58.367",
+    "id": 1392,
+    "timediff": 5.388,
+    "timediff_human": "0:00:05.388000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904076433,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:47:58.369",
+    "id": 1393,
+    "timediff": 0.002,
+    "timediff_human": "0:00:00.002000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904081299,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "# Variabel umur berisi 9 (integer)\numur = 9\n\n# Melakukan konversi tipe variabel umur menjadi float\numur = float(umur) # Variabel umur sekarang 9.0 (float)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:48:02.613",
+    "id": 1394,
+    "timediff": 4.244,
+    "timediff_human": "0:00:04.244000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904081395,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "# Variabel umur berisi 9 (integer)\numur = 9\n\n# Melakukan konversi tipe variabel umur menjadi string\numur_dalam_string = str(umur) # Variabel umur_dalam_string berisi '9' (string)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:48:02.704",
+    "id": 1395,
+    "timediff": 0.091,
+    "timediff_human": "0:00:00.091000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904081794,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "var = int(\"Hello World!\") # fungsi ini akan mengembalikan error",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:48:02.823",
+    "id": 1396,
+    "timediff": 0.119,
+    "timediff_human": "0:00:00.119000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904081479,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
+      "program": "angka = 65\nhasil_ubah = float(angka)\nprint(hasil_ubah)\nhasil_ubah = str(angka)\nprint(hasil_ubah)\nhasil_ubah = chr(angka)\nprint(hasil_ubah)\n\nchar = \"A\"\nhasil_ubah = ord(char)\nprint(hasil_ubah)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:48:02.866",
+    "id": 1397,
+    "timediff": 0.043,
+    "timediff_human": "0:00:00.043000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904094282,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/42",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:48:16.139",
+    "id": 1399,
+    "timediff": 13.273,
+    "timediff_human": "0:00:13.273000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904094535,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/42",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:48:16.216",
+    "id": 1400,
+    "timediff": 0.077,
+    "timediff_human": "0:00:00.077000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904098248,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/42",
+      "program": "x = true\nx = \"abc\"\nx = 5.0\nx = '10'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:48:19.284",
+    "id": 1405,
+    "timediff": 3.068,
+    "timediff_human": "0:00:03.068000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904125481,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/42",
+      "answer": "x = 5.0",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:48:46.972",
+    "id": 1425,
+    "timediff": 27.688,
+    "timediff_human": "0:00:27.688000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904138825,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/42",
+      "answer": "x = '10'",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:49:00.38",
+    "id": 1436,
+    "timediff": 13.408,
+    "timediff_human": "0:00:13.408000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904142972,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/42",
+      "answer": "x = true",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:49:03.97",
+    "id": 1440,
+    "timediff": 3.59,
+    "timediff_human": "0:00:03.590000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904149702,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/19",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:49:11.054",
+    "id": 1447,
+    "timediff": 7.084,
+    "timediff_human": "0:00:07.084000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904149795,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/19",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:49:11.12",
+    "id": 1448,
+    "timediff": 0.066,
+    "timediff_human": "0:00:00.066000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904153532,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/19",
+      "program": "x = 10.000\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:49:14.535",
+    "id": 1449,
+    "timediff": 3.415,
+    "timediff_human": "0:00:03.415000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904162133,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/19",
+      "program": "x = 10.000\nprint(x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:49:23.708",
+    "id": 1450,
+    "timediff": 9.173,
+    "timediff_human": "0:00:09.173000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904169414,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/19",
+      "answer": "float",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:49:31.092",
+    "id": 1451,
+    "timediff": 7.384,
+    "timediff_human": "0:00:07.384000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904173858,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/18",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:49:34.893",
+    "id": 1457,
+    "timediff": 3.801,
+    "timediff_human": "0:00:03.801000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904173961,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/18",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:49:34.946",
+    "id": 1459,
+    "timediff": 0.053,
+    "timediff_human": "0:00:00.053000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904181188,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/18",
+      "program": "",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:49:45.373",
+    "id": 1468,
+    "timediff": 10.427,
+    "timediff_human": "0:00:10.427000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904199008,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/18",
+      "program": "",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:50:00.504",
+    "id": 1470,
+    "timediff": 15.131,
+    "timediff_human": "0:00:15.131000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904225531,
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/18",
+      "answer": "print(\"65.5\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:50:27.031",
+    "id": 1474,
+    "timediff": 26.527,
+    "timediff_human": "0:00:26.527000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904234091,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:50:35.492",
+    "id": 1475,
+    "timediff": 8.461,
+    "timediff_human": "0:00:08.461000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904288132,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:51:29.422",
+    "id": 1482,
+    "timediff": 53.93,
+    "timediff_human": "0:00:53.930000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904291864,
+      "input": [
+        "12.5",
+        "5"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "program": "alas = float(input())\ntinggi = float(input())\n\n# Rumus luas segitiga\nluas = 1/2 * alas * tinggi\n\nprint(luas)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:51:33.148",
+    "id": 1483,
+    "timediff": 3.726,
+    "timediff_human": "0:00:03.726000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904292404,
+      "input": [
+        "10",
+        "21"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "program": "# Dapatkan a dan b melalui input\na = int(input())\nb = int(input())\n\n# Berikut hasil penggunaan operator-operator yang disebutkan\nhasil_penjumlahan = a + b\nhasil_pengurangan = a - b\nhasil_perkalian = a * b\nhasil_pembagian_bulat = a // b\nhasil_pembagian_riil = a / b\nhasil_modulo = a % b\nhasil_pangkat = a**b",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:51:33.663",
+    "id": 1484,
+    "timediff": 0.515,
+    "timediff_human": "0:00:00.515000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904292732,
+      "input": [
+        "Ayang"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "program": "nama = input()\nsapaan = \"Hai \" + nama + \"!\"\nprint(sapaan)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:51:33.738",
+    "id": 1485,
+    "timediff": 0.075,
+    "timediff_human": "0:00:00.075000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904292672,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
+      "program": "# Contoh operasi + dan * pada string\nkata = \"Halo\"\nkata_sambungan = kata + \" aku sapiderman!\"\nkata_diulang = kata * 5\nprint(\"Bisa juga disambung disini: \" + kata_sambungan)\n\n# Untuk menambahkan baris baru bisa menggunakan \n\n# notes: print akan selalu menambah pada akhir output\nbaris_baru = \"\"\nkata_sambung_diulang = (kata + \"!\" + baris_baru) * 3\nprint(kata_sambung_diulang)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:51:33.939",
+    "id": 1486,
+    "timediff": 0.201,
+    "timediff_human": "0:00:00.201000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904313311,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:51:54.883",
+    "id": 1490,
+    "timediff": 20.944,
+    "timediff_human": "0:00:20.944000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904313066,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:51:54.942",
+    "id": 1491,
+    "timediff": 0.059,
+    "timediff_human": "0:00:00.059000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904317812,
+      "input": [
+        "8",
+        "5"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "program": "a = int(input())\nb = int(input())\n\nif (a >= b):\n    print(str(a) + \" lebih besar atau sama dengan \" + str(b))\nelse:\n    print(str(a) + \" lebih kecil daripada \" + str(b))",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:51:58.798",
+    "id": 1493,
+    "timediff": 3.856,
+    "timediff_human": "0:00:03.856000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904317872,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "program": "a = 5\nb = 15\n# menghasilkan true\nprint(a < 13)\n# menghasilkan false\nprint(a == 3)\n# Operator aritmatika akan didahulukan sebelum operator relasional\nprint(a * 3 == b)\n# menghasilkan true\nprint(a + 10 == b)\n# menghasilkan true",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:51:58.865",
+    "id": 1494,
+    "timediff": 0.067,
+    "timediff_human": "0:00:00.067000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904317677,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "program": "#menghasilkan true\nprint(15 == 15)\n# menghasilkan false\nprint(15 != 15)\n# menghasilkan true, karena kurang dari sama dengan\nprint(15 <= 15)\n# menghasilkan false\nprint(15 < 15)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:51:58.956",
+    "id": 1495,
+    "timediff": 0.091,
+    "timediff_human": "0:00:00.091000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904317937,
+      "input": [
+        "10",
+        "21"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
+      "program": "# Dapatkan a dan b melalui input\na = int(input())\nb = int(input())\n\n# Berikut hasil penggunaan operator-operator yang disebutkan\nhasil_sama_dengan = a == b\nhasil_tidak_sama = a != b\nhasil_lebih_besar = a > b\nhasil_lebih_kecil = a < b\nhasil_lebih_besar_sama_dengan = a >= b\nhasil_lebih_kecil_sama_dengan = a <= b",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:51:59.233",
+    "id": 1496,
+    "timediff": 0.277,
+    "timediff_human": "0:00:00.277000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904351012,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:52:32.544",
+    "id": 1504,
+    "timediff": 33.311,
+    "timediff_human": "0:00:33.311000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904351315,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:52:32.917",
+    "id": 1505,
+    "timediff": 0.373,
+    "timediff_human": "0:00:00.373000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904358792,
+      "input": [
+        "True",
+        "False"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "program": "# Dapatkan a dan b melalui input\na = bool(input())\nb = bool(input())\n\n# Berikut hasil penggunaan operator-operator yang disebutkan\nhasil_and = a and b\nhasil_or = a or b\nhasil_not = not a",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:52:42.411",
+    "id": 1506,
+    "timediff": 9.494,
+    "timediff_human": "0:00:09.494000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904360874,
+      "input": [
+        "Josep",
+        "18",
+        "menulis"
+      ],
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/23",
+      "program": "nama = input()\nusia = int(input())\nhobi = input()\nwibu = True\n\nprint(\"Apakah \" + nama + \" berusia di antara 15 dan 25?\")\nprint(usia >= 15 and usia <= 25)\nprint(\"Apakah \" + nama + \" memiliki hobi membaca atau menulis?\")\nprint(hobi == \"membaca\" or hobi == \"menulis\")\nprint(\"Apakah \" + nama + \" adalah seorang wibu?\")\nprint(not wibu)\nprint(\"Kamu bohongg :)\")",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:52:43.034",
+    "id": 1507,
+    "timediff": 0.623,
+    "timediff_human": "0:00:00.623000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904399135,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/24",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:53:20.526",
+    "id": 1513,
+    "timediff": 37.492,
+    "timediff_human": "0:00:37.492000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904399304,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/24",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:53:20.854",
+    "id": 1514,
+    "timediff": 0.328,
+    "timediff_human": "0:00:00.328000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904408529,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/24",
+      "program": "a =  20 + 15 * 3",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:53:29.848",
+    "id": 1520,
+    "timediff": 8.994,
+    "timediff_human": "0:00:08.994000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904429144,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/24",
+      "answer": 75,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:53:50.973",
+    "id": 1533,
+    "timediff": 21.125,
+    "timediff_human": "0:00:21.125000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904433776,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/24",
+      "answer": 35,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:53:54.787",
+    "id": 1535,
+    "timediff": 3.814,
+    "timediff_human": "0:00:03.814000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904444116,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/24",
+      "answer": 65,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:54:05.718",
+    "id": 1536,
+    "timediff": 10.931,
+    "timediff_human": "0:00:10.931000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904448572,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:54:09.634",
+    "id": 1537,
+    "timediff": 3.916,
+    "timediff_human": "0:00:03.916000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904448694,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:54:09.678",
+    "id": 1538,
+    "timediff": 0.044,
+    "timediff_human": "0:00:00.044000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904451509,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
+      "program": "print(5 != 6 == (7 == 7))",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:54:13.082",
+    "id": 1539,
+    "timediff": 3.404,
+    "timediff_human": "0:00:03.404000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904465156,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:54:26.535",
+    "id": 1546,
+    "timediff": 13.453,
+    "timediff_human": "0:00:13.453000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904469286,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
+      "answer": "False",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:54:30.307",
+    "id": 1548,
+    "timediff": 3.772,
+    "timediff_human": "0:00:03.772000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904472776,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/27",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:54:34.603",
+    "id": 1551,
+    "timediff": 4.296,
+    "timediff_human": "0:00:04.296000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904472904,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/27",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:54:34.61",
+    "id": 1552,
+    "timediff": 0.007,
+    "timediff_human": "0:00:00.007000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904477318,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/27",
+      "program": "print((False and False) or (True and True))",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:54:38.358",
+    "id": 1554,
+    "timediff": 3.748,
+    "timediff_human": "0:00:03.748000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904499164,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/27",
+      "answer": "True",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:55:01.02",
+    "id": 1560,
+    "timediff": 22.662,
+    "timediff_human": "0:00:22.662000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904503756,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/45",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:55:04.83",
+    "id": 1562,
+    "timediff": 3.81,
+    "timediff_human": "0:00:03.810000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904503873,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/45",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:55:04.86",
+    "id": 1563,
+    "timediff": 0.03,
+    "timediff_human": "0:00:00.030000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904630492,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/27",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:57:14.618",
+    "id": 1619,
+    "timediff": 129.758,
+    "timediff_human": "0:02:09.758000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904630376,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/27",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:57:14.65",
+    "id": 1620,
+    "timediff": 0.032,
+    "timediff_human": "0:00:00.032000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904637116,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/27",
+      "program": "print((False and False) or (True and True))",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:57:18.165",
+    "id": 1621,
+    "timediff": 3.515,
+    "timediff_human": "0:00:03.515000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904642139,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:57:23.582",
+    "id": 1622,
+    "timediff": 5.417,
+    "timediff_human": "0:00:05.417000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904642025,
+      "done": true,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:57:23.599",
+    "id": 1623,
+    "timediff": 0.017,
+    "timediff_human": "0:00:00.017000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904645663,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
+      "program": "print(5 != 6 == (7 == 7))",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:57:26.707",
+    "id": 1624,
+    "timediff": 3.108,
+    "timediff_human": "0:00:03.108000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904653049,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
+      "program": "print(5 != 6 == (7 == 7))",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:57:34.616",
+    "id": 1625,
+    "timediff": 7.909,
+    "timediff_human": "0:00:07.909000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904659892,
+      "done": true,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/24",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:57:41.222",
+    "id": 1626,
+    "timediff": 6.606,
+    "timediff_human": "0:00:06.606000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904659989,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/24",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:57:41.303",
+    "id": 1627,
+    "timediff": 0.081,
+    "timediff_human": "0:00:00.081000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904664156,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/24",
+      "program": "a =  20 + 15 * 3",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:57:45.183",
+    "id": 1628,
+    "timediff": 3.88,
+    "timediff_human": "0:00:03.880000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904685456,
+      "done": true,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:58:06.86",
+    "id": 1636,
+    "timediff": 21.677,
+    "timediff_human": "0:00:21.677000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904685575,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:58:06.88",
+    "id": 1637,
+    "timediff": 0.02,
+    "timediff_human": "0:00:00.020000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904689290,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
+      "program": "print(5 != 6 == 6)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:58:10.314",
+    "id": 1638,
+    "timediff": 3.434,
+    "timediff_human": "0:00:03.434000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904693147,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/27",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:58:14.584",
+    "id": 1639,
+    "timediff": 4.27,
+    "timediff_human": "0:00:04.270000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904692979,
+      "done": true,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/27",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:58:14.588",
+    "id": 1640,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904696706,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/27",
+      "program": "print((False and False) or (True and True))",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T09:58:17.763",
+    "id": 1641,
+    "timediff": 3.175,
+    "timediff_human": "0:00:03.175000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904698146,
+      "done": true,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/45",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:58:19.365",
+    "id": 1642,
+    "timediff": 1.602,
+    "timediff_human": "0:00:01.602000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904698504,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/45",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T09:58:19.496",
+    "id": 1643,
+    "timediff": 0.131,
+    "timediff_human": "0:00:00.131000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904766563,
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/45",
+      "answer": "print(30 + 15)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T09:59:29.74",
+    "id": 1654,
+    "timediff": 70.244,
+    "timediff_human": "0:01:10.244000"
+  },
+  {
+    "name": "RAFLY ALAMSYAH",
+    "details": {
+      "date": 1653904777804,
+      "done": false,
+      "route": "/learn/python-dasar:-treatment/lesson/4",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T09:59:39.207",
+    "id": 1655,
+    "timediff": 9.467,
+    "timediff_human": "0:00:09.467000"
+  }
+]

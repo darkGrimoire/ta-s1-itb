@@ -1,0 +1,507 @@
+[
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653804938179,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/3",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-29T13:15:38.179",
+    "id": 5,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653805213696,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:20:13.696",
+    "id": 9,
+    "timediff": 275.517,
+    "timediff_human": "0:04:35.517000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653805263992,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T13:21:03.992",
+    "id": 13,
+    "timediff": 50.296,
+    "timediff_human": "0:00:50.296000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653805288753,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:21:28.753",
+    "id": 19,
+    "timediff": 24.761,
+    "timediff_human": "0:00:24.761000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653805331270,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:22:11.270",
+    "id": 20,
+    "timediff": 42.517,
+    "timediff_human": "0:00:42.517000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653805385984,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:23:05.984",
+    "id": 32,
+    "timediff": 54.714,
+    "timediff_human": "0:00:54.714000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653805395574,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T13:23:15.574",
+    "id": 36,
+    "timediff": 9.59,
+    "timediff_human": "0:00:09.590000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653805407260,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:23:27.260",
+    "id": 40,
+    "timediff": 11.686,
+    "timediff_human": "0:00:11.686000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653805433698,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:23:53.698",
+    "id": 42,
+    "timediff": 26.438,
+    "timediff_human": "0:00:26.438000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653805433698,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:23:53.698",
+    "id": 45,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653805579120,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T13:26:19.120",
+    "id": 54,
+    "timediff": 145.422,
+    "timediff_human": "0:02:25.422000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653805618935,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:26:58.935",
+    "id": 58,
+    "timediff": 39.815,
+    "timediff_human": "0:00:39.815000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653805664188,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:27:44.188",
+    "id": 64,
+    "timediff": 45.253,
+    "timediff_human": "0:00:45.253000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653805738398,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:28:58.398",
+    "id": 68,
+    "timediff": 74.21,
+    "timediff_human": "0:01:14.210000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653805750029,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:29:10.029",
+    "id": 72,
+    "timediff": 11.631,
+    "timediff_human": "0:00:11.631000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653805772636,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:29:32.636",
+    "id": 79,
+    "timediff": 22.607,
+    "timediff_human": "0:00:22.607000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653805839783,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:30:39.783",
+    "id": 84,
+    "timediff": 67.147,
+    "timediff_human": "0:01:07.147000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653805980822,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:33:00.822",
+    "id": 89,
+    "timediff": 141.039,
+    "timediff_human": "0:02:21.039000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653806009608,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:33:29.608",
+    "id": 93,
+    "timediff": 28.786,
+    "timediff_human": "0:00:28.786000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653806038194,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:33:58.194",
+    "id": 96,
+    "timediff": 28.586,
+    "timediff_human": "0:00:28.586000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653806078223,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:34:38.223",
+    "id": 101,
+    "timediff": 40.029,
+    "timediff_human": "0:00:40.029000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653806148732,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/5",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T13:35:48.732",
+    "id": 110,
+    "timediff": 70.509,
+    "timediff_human": "0:01:10.509000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653806258299,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T13:37:38.299",
+    "id": 114,
+    "timediff": 109.567,
+    "timediff_human": "0:01:49.567000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653806294829,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/5",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:38:14.829",
+    "id": 117,
+    "timediff": 36.53,
+    "timediff_human": "0:00:36.530000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653806317064,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/5",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:38:37.064",
+    "id": 121,
+    "timediff": 22.235,
+    "timediff_human": "0:00:22.235000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653806399438,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/7",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:39:59.438",
+    "id": 125,
+    "timediff": 82.374,
+    "timediff_human": "0:01:22.374000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653806434884,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/8",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:40:34.884",
+    "id": 129,
+    "timediff": 35.446,
+    "timediff_human": "0:00:35.446000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653806478158,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/9",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:41:18.158",
+    "id": 131,
+    "timediff": 43.274,
+    "timediff_human": "0:00:43.274000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653806526033,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/9",
+      "answer": "print(\"Halo Dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-29T13:42:06.033",
+    "id": 135,
+    "timediff": 47.875,
+    "timediff_human": "0:00:47.875000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653806561944,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/11",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-29T13:42:41.944",
+    "id": 139,
+    "timediff": 35.911,
+    "timediff_human": "0:00:35.911000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653806783747,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/10",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:46:23.747",
+    "id": 149,
+    "timediff": 221.803,
+    "timediff_human": "0:03:41.803000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653806783747,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/10",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:46:23.747",
+    "id": 153,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653806963519,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/12",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T13:49:23.519",
+    "id": 165,
+    "timediff": 179.772,
+    "timediff_human": "0:02:59.772000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653807048363,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/13",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T13:50:48.363",
+    "id": 169,
+    "timediff": 84.844,
+    "timediff_human": "0:01:24.844000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653807072958,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/15",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T13:51:12.958",
+    "id": 174,
+    "timediff": 24.595,
+    "timediff_human": "0:00:24.595000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653807085679,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/13",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T13:51:25.679",
+    "id": 179,
+    "timediff": 12.721,
+    "timediff_human": "0:00:12.721000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653807138649,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/14",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T13:52:18.649",
+    "id": 183,
+    "timediff": 52.97,
+    "timediff_human": "0:00:52.970000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653807237703,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/15",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-29T13:53:57.703",
+    "id": 186,
+    "timediff": 99.054,
+    "timediff_human": "0:01:39.054000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653807329465,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/14",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-29T13:55:29.465",
+    "id": 190,
+    "timediff": 91.762,
+    "timediff_human": "0:01:31.762000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653807347609,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/12",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T13:55:47.609",
+    "id": 193,
+    "timediff": 18.144,
+    "timediff_human": "0:00:18.144000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653807431105,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T13:57:11.105",
+    "id": 199,
+    "timediff": 83.496,
+    "timediff_human": "0:01:23.496000"
+  },
+  {
+    "name": "adibb ghifari",
+    "details": {
+      "date": 1653807537596,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T13:58:57.596",
+    "id": 203,
+    "timediff": 106.491,
+    "timediff_human": "0:01:46.491000"
+  }
+]

@@ -1,0 +1,363 @@
+[
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653802287419,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/10",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-29T12:31:27.419",
+    "id": 2,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653803028485,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/3",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-29T12:43:48.485",
+    "id": 7,
+    "timediff": 741.066,
+    "timediff_human": "0:12:21.066000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653807168634,
+      "route": "/learn",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T13:52:48.634",
+    "id": 188,
+    "timediff": 4140.149,
+    "timediff_human": "1:09:00.149000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653807548284,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T13:59:08.284",
+    "id": 205,
+    "timediff": 379.65,
+    "timediff_human": "0:06:19.650000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653810774817,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/7",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-29T14:52:54.817",
+    "id": 215,
+    "timediff": 3226.533,
+    "timediff_human": "0:53:46.533000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653810840888,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/8",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-29T14:54:00.888",
+    "id": 217,
+    "timediff": 66.071,
+    "timediff_human": "0:01:06.071000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653810964600,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/7",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T14:56:04.600",
+    "id": 220,
+    "timediff": 123.712,
+    "timediff_human": "0:02:03.712000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653811008263,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/8",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-29T14:56:48.263",
+    "id": 222,
+    "timediff": 43.663,
+    "timediff_human": "0:00:43.663000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653811226515,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/9",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T15:00:26.515",
+    "id": 224,
+    "timediff": 218.252,
+    "timediff_human": "0:03:38.252000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653811270213,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/9",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T15:01:10.213",
+    "id": 225,
+    "timediff": 43.698,
+    "timediff_human": "0:00:43.698000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653811340616,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/9",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T15:02:20.616",
+    "id": 228,
+    "timediff": 70.403,
+    "timediff_human": "0:01:10.403000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653811397609,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/9",
+      "answer": "print(\"Halo Dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-29T15:03:17.609",
+    "id": 230,
+    "timediff": 56.993,
+    "timediff_human": "0:00:56.993000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653811723243,
+      "route": "/learn/python-dasar:-control/lesson/2",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T15:08:43.243",
+    "id": 241,
+    "timediff": 325.634,
+    "timediff_human": "0:05:25.634000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653811786484,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/12",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T15:09:46.484",
+    "id": 243,
+    "timediff": 63.241,
+    "timediff_human": "0:01:03.241000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653811936955,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/14",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T15:12:16.955",
+    "id": 245,
+    "timediff": 150.471,
+    "timediff_human": "0:02:30.471000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653812167938,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T15:16:07.938",
+    "id": 248,
+    "timediff": 230.983,
+    "timediff_human": "0:03:50.983000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653812319577,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/19",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-29T15:18:39.577",
+    "id": 252,
+    "timediff": 151.639,
+    "timediff_human": "0:02:31.639000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653812442689,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/15",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-29T15:20:42.689",
+    "id": 254,
+    "timediff": 123.112,
+    "timediff_human": "0:02:03.112000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653812457111,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/19",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T15:20:57.111",
+    "id": 258,
+    "timediff": 14.422,
+    "timediff_human": "0:00:14.422000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653812543818,
+      "route": "/learn/python-dasar:-control/lesson/3",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T15:22:23.818",
+    "id": 262,
+    "timediff": 86.707,
+    "timediff_human": "0:01:26.707000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653812626244,
+      "route": "/learn/python-dasar:-control/lesson/2",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T15:23:46.244",
+    "id": 267,
+    "timediff": 82.426,
+    "timediff_human": "0:01:22.426000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653815229220,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/3",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-29T16:07:09.220",
+    "id": 280,
+    "timediff": 2602.976,
+    "timediff_human": "0:43:22.976000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653812885860,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T15:28:05.860",
+    "id": 282,
+    "timediff": -2343.36,
+    "timediff_human": "-1 day, 23:20:56.640000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653815986243,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/18",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-29T16:19:46.243",
+    "id": 323,
+    "timediff": 3100.383,
+    "timediff_human": "0:51:40.383000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653816251224,
+      "route": "/learn",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T16:24:11.224",
+    "id": 326,
+    "timediff": 264.981,
+    "timediff_human": "0:04:24.981000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653816641798,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/7",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T16:30:41.798",
+    "id": 336,
+    "timediff": 390.574,
+    "timediff_human": "0:06:30.574000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653816825535,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/9",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T16:33:45.535",
+    "id": 338,
+    "timediff": 183.737,
+    "timediff_human": "0:03:03.737000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653817669519,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/8",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T16:47:49.519",
+    "id": 362,
+    "timediff": 843.984,
+    "timediff_human": "0:14:03.984000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653817812724,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/8",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-29T16:50:12.724",
+    "id": 364,
+    "timediff": 143.205,
+    "timediff_human": "0:02:23.205000"
+  },
+  {
+    "name": "Faris Rizki Ekananda",
+    "details": {
+      "date": 1653817973414,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/19",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T16:52:53.414",
+    "id": 370,
+    "timediff": 160.69,
+    "timediff_human": "0:02:40.690000"
+  }
+]

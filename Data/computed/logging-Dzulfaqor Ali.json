@@ -1,0 +1,934 @@
+[
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653881319318,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/28",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:28:38.781",
+    "id": 488,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653881374872,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:29:34.339",
+    "id": 499,
+    "timediff": 55.558,
+    "timediff_human": "0:00:55.558000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653881374858,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/29",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:29:34.359",
+    "id": 500,
+    "timediff": 0.02,
+    "timediff_human": "0:00:00.020000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653881644405,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:34:05.36",
+    "id": 603,
+    "timediff": 271.001,
+    "timediff_human": "0:04:31.001000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653881644384,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/30",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:34:05.378",
+    "id": 604,
+    "timediff": 0.018,
+    "timediff_human": "0:00:00.018000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653881942527,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:39:02.042",
+    "id": 628,
+    "timediff": 296.664,
+    "timediff_human": "0:04:56.664000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653881942543,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/31",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:39:02.046",
+    "id": 629,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882065769,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:41:05.356",
+    "id": 630,
+    "timediff": 123.31,
+    "timediff_human": "0:02:03.310000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882065742,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:41:05.36",
+    "id": 631,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882068550,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:41:07.699",
+    "id": 632,
+    "timediff": 2.339,
+    "timediff_human": "0:00:02.339000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882081490,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/32",
+      "answer": "Menampilkan sesuatu pada program",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:41:21.135",
+    "id": 639,
+    "timediff": 13.436,
+    "timediff_human": "0:00:13.436000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882085209,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:41:24.355",
+    "id": 640,
+    "timediff": 3.22,
+    "timediff_human": "0:00:03.220000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882085235,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:41:24.39",
+    "id": 641,
+    "timediff": 0.035,
+    "timediff_human": "0:00:00.035000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882087541,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:41:27.034",
+    "id": 642,
+    "timediff": 2.644,
+    "timediff_human": "0:00:02.644000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882091327,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/33",
+      "answer": 3,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:41:30.488",
+    "id": 644,
+    "timediff": 3.454,
+    "timediff_human": "0:00:03.454000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882094714,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:41:34.322",
+    "id": 651,
+    "timediff": 3.834,
+    "timediff_human": "0:00:03.834000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882094698,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:41:34.349",
+    "id": 652,
+    "timediff": 0.027,
+    "timediff_human": "0:00:00.027000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882122422,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "print (\"hello world\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:42:01.928",
+    "id": 655,
+    "timediff": 27.579,
+    "timediff_human": "0:00:27.579000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882137420,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "print (\"Hello World\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:42:17.024",
+    "id": 656,
+    "timediff": 15.096,
+    "timediff_human": "0:00:15.096000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882161422,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "x = (\"Hello World\")\r\nprint (x)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:42:40.931",
+    "id": 659,
+    "timediff": 23.907,
+    "timediff_human": "0:00:23.907000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882170129,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "program": "x = (\"Hello World\")\r\nprint (x)",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T03:42:49.651",
+    "id": 660,
+    "timediff": 8.72,
+    "timediff_human": "0:00:08.720000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882212490,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "x = int (input (\"Hello World\"))\r\nprint(\"x\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:43:31.991",
+    "id": 672,
+    "timediff": 42.34,
+    "timediff_human": "0:00:42.340000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882216426,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "x = int (input (\"Hello World\"))\r\nprint(\"x\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:43:36.322",
+    "id": 673,
+    "timediff": 4.331,
+    "timediff_human": "0:00:04.331000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882219267,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "x = int (input (\"Hello World\"))\r\nprint(\"x\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:43:38.786",
+    "id": 674,
+    "timediff": 2.464,
+    "timediff_human": "0:00:02.464000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882219729,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "x = int (input (\"Hello World\"))\r\nprint(\"x\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:43:39.571",
+    "id": 675,
+    "timediff": 0.785,
+    "timediff_human": "0:00:00.785000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882219407,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "x = int (input (\"Hello World\"))\r\nprint(\"x\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:43:39.931",
+    "id": 676,
+    "timediff": 0.36,
+    "timediff_human": "0:00:00.360000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882219588,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "x = int (input (\"Hello World\"))\r\nprint(\"x\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:44:32.338",
+    "id": 677,
+    "timediff": 52.407,
+    "timediff_human": "0:00:52.407000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882238817,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "print(\"Hello World\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:44:33.187",
+    "id": 678,
+    "timediff": 0.849,
+    "timediff_human": "0:00:00.849000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882239827,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "print(\"Hello World\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:44:34.013",
+    "id": 679,
+    "timediff": 0.826,
+    "timediff_human": "0:00:00.826000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882239987,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "print(\"Hello World\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:44:34.831",
+    "id": 680,
+    "timediff": 0.818,
+    "timediff_human": "0:00:00.818000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882240139,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "print(\"Hello World\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:44:35.679",
+    "id": 681,
+    "timediff": 0.848,
+    "timediff_human": "0:00:00.848000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882240290,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "print(\"Hello World\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:44:36.051",
+    "id": 682,
+    "timediff": 0.372,
+    "timediff_human": "0:00:00.372000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882240436,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "print(\"Hello World\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:44:36.436",
+    "id": 683,
+    "timediff": 0.385,
+    "timediff_human": "0:00:00.385000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882331862,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "print('hello world')",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:45:32.098",
+    "id": 689,
+    "timediff": 55.662,
+    "timediff_human": "0:00:55.662000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882342070,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "print('Hello World')",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:45:41.576",
+    "id": 690,
+    "timediff": 9.478,
+    "timediff_human": "0:00:09.478000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882353494,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "print('Halo Dunia')",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:45:53.005",
+    "id": 691,
+    "timediff": 11.429,
+    "timediff_human": "0:00:11.429000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882361906,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/34",
+      "answer": "print('Halo Dunia!')",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T03:46:01.405",
+    "id": 692,
+    "timediff": 8.4,
+    "timediff_human": "0:00:08.400000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882375680,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:46:15.22",
+    "id": 693,
+    "timediff": 13.815,
+    "timediff_human": "0:00:13.815000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882394833,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:46:34.34",
+    "id": 696,
+    "timediff": 19.12,
+    "timediff_human": "0:00:19.120000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882506769,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:48:27.777",
+    "id": 707,
+    "timediff": 113.437,
+    "timediff_human": "0:01:53.437000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882527899,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:48:47.388",
+    "id": 708,
+    "timediff": 19.611,
+    "timediff_human": "0:00:19.611000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882544428,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:49:03.934",
+    "id": 710,
+    "timediff": 16.546,
+    "timediff_human": "0:00:16.546000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882546477,
+      "route": "/home",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:49:05.676",
+    "id": 713,
+    "timediff": 1.742,
+    "timediff_human": "0:00:01.742000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882598077,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/35",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:49:57.557",
+    "id": 719,
+    "timediff": 51.881,
+    "timediff_human": "0:00:51.881000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882736093,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:52:15.617",
+    "id": 772,
+    "timediff": 138.06,
+    "timediff_human": "0:02:18.060000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882736109,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/36",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:52:16.512",
+    "id": 773,
+    "timediff": 0.895,
+    "timediff_human": "0:00:00.895000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882849235,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:54:08.77",
+    "id": 785,
+    "timediff": 112.258,
+    "timediff_human": "0:01:52.258000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653882849216,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/37",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:54:09.633",
+    "id": 786,
+    "timediff": 0.863,
+    "timediff_human": "0:00:00.863000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653883005988,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:56:45.516",
+    "id": 834,
+    "timediff": 155.883,
+    "timediff_human": "0:02:35.883000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653883006018,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/38",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:56:45.519",
+    "id": 835,
+    "timediff": 0.003,
+    "timediff_human": "0:00:00.003000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653883177273,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T03:59:36.808",
+    "id": 850,
+    "timediff": 171.289,
+    "timediff_human": "0:02:51.289000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653883177247,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/39",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T03:59:36.812",
+    "id": 851,
+    "timediff": 0.004,
+    "timediff_human": "0:00:00.004000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653883212628,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:00:12.248",
+    "id": 852,
+    "timediff": 35.436,
+    "timediff_human": "0:00:35.436000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653883212609,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/40",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:00:12.255",
+    "id": 853,
+    "timediff": 0.007,
+    "timediff_human": "0:00:00.007000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653883514703,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:05:14.159",
+    "id": 856,
+    "timediff": 301.904,
+    "timediff_human": "0:05:01.904000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653883514727,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:05:14.47",
+    "id": 857,
+    "timediff": 0.311,
+    "timediff_human": "0:00:00.311000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653883517549,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "program": "x = true\nx = \"abc\"\nx = 5.0\nx = '10'",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:05:16.697",
+    "id": 858,
+    "timediff": 2.227,
+    "timediff_human": "0:00:02.227000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653883525029,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/43",
+      "answer": "x = true",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:05:24.464",
+    "id": 859,
+    "timediff": 7.767,
+    "timediff_human": "0:00:07.767000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653883531191,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:05:30.68",
+    "id": 860,
+    "timediff": 6.216,
+    "timediff_human": "0:00:06.216000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653883531220,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:05:30.702",
+    "id": 861,
+    "timediff": 0.022,
+    "timediff_human": "0:00:00.022000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653883533130,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-30T04:05:32.293",
+    "id": 862,
+    "timediff": 1.591,
+    "timediff_human": "0:00:01.591000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653883540878,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/41",
+      "answer": "float",
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:05:40.295",
+    "id": 863,
+    "timediff": 8.002,
+    "timediff_human": "0:00:08.002000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653883543227,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:05:42.402",
+    "id": 864,
+    "timediff": 2.107,
+    "timediff_human": "0:00:02.107000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653883543249,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:05:42.413",
+    "id": 865,
+    "timediff": 0.011,
+    "timediff_human": "0:00:00.011000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653883581189,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/44",
+      "answer": "x = 65\r\nx = int(x)\r\nprint(x)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-30T04:06:20.647",
+    "id": 868,
+    "timediff": 38.234,
+    "timediff_human": "0:00:38.234000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653883591554,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-30T04:06:31.027",
+    "id": 869,
+    "timediff": 10.38,
+    "timediff_human": "0:00:10.380000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653883608178,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/46",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:06:47.58",
+    "id": 870,
+    "timediff": 16.553,
+    "timediff_human": "0:00:16.553000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1653884367028,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/46",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-30T04:19:27.557",
+    "id": 911,
+    "timediff": 759.977,
+    "timediff_human": "0:12:39.977000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1654007566709,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/46",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T14:32:47.733",
+    "id": 2723,
+    "timediff": 123200.176,
+    "timediff_human": "1 day, 10:13:20.176000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1654016997709,
+      "done": false,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-31T17:09:58.785",
+    "id": 2724,
+    "timediff": 9431.052,
+    "timediff_human": "2:37:11.052000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1654016997721,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-31T17:09:59.041",
+    "id": 2725,
+    "timediff": 0.256,
+    "timediff_human": "0:00:00.256000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1654163720905,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/46",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-02T09:55:21.35",
+    "id": 3551,
+    "timediff": 146722.309,
+    "timediff_human": "1 day, 16:45:22.309000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1654163763239,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-06-02T09:56:03.661",
+    "id": 3552,
+    "timediff": 42.311,
+    "timediff_human": "0:00:42.311000"
+  },
+  {
+    "name": "Dzulfaqor Ali",
+    "details": {
+      "date": 1654163763226,
+      "done": true,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/47",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-06-02T09:56:03.672",
+    "id": 3553,
+    "timediff": 0.011,
+    "timediff_human": "0:00:00.011000"
+  }
+]

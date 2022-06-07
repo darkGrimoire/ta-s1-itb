@@ -1,0 +1,328 @@
+[
+  {
+    "name": "jonathan",
+    "details": {
+      "date": 1653812386776,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/3",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-29T15:19:46.776",
+    "id": 251,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "jonathan",
+    "details": {
+      "date": 1653812476333,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T15:21:16.333",
+    "id": 257,
+    "timediff": 89.557,
+    "timediff_human": "0:01:29.557000"
+  },
+  {
+    "name": "jonathan",
+    "details": {
+      "date": 1653812545667,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T15:22:25.667",
+    "id": 261,
+    "timediff": 69.334,
+    "timediff_human": "0:01:09.334000"
+  },
+  {
+    "name": "jonathan",
+    "details": {
+      "date": 1653812616324,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T15:23:36.324",
+    "id": 266,
+    "timediff": 70.657,
+    "timediff_human": "0:01:10.657000"
+  },
+  {
+    "name": "jonathan",
+    "details": {
+      "date": 1653812727571,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T15:25:27.571",
+    "id": 272,
+    "timediff": 111.247,
+    "timediff_human": "0:01:51.247000"
+  },
+  {
+    "name": "jonathan",
+    "details": {
+      "date": 1653812737185,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T15:25:37.185",
+    "id": 273,
+    "timediff": 9.614,
+    "timediff_human": "0:00:09.614000"
+  },
+  {
+    "name": "jonathan",
+    "details": {
+      "date": 1653812743124,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T15:25:43.124",
+    "id": 274,
+    "timediff": 5.939,
+    "timediff_human": "0:00:05.939000"
+  },
+  {
+    "name": "jonathan",
+    "details": {
+      "date": 1653812799848,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/5",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T15:26:39.848",
+    "id": 277,
+    "timediff": 56.724,
+    "timediff_human": "0:00:56.724000"
+  },
+  {
+    "name": "jonathan",
+    "details": {
+      "date": 1653812888200,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/5",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T15:28:08.200",
+    "id": 281,
+    "timediff": 88.352,
+    "timediff_human": "0:01:28.352000"
+  },
+  {
+    "name": "jonathan",
+    "details": {
+      "date": 1653815484857,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/18",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T16:11:24.857",
+    "id": 283,
+    "timediff": 2596.657,
+    "timediff_human": "0:43:16.657000"
+  },
+  {
+    "name": "jonathan",
+    "details": {
+      "date": 1653815495797,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/18",
+      "answer": "x = str (x) \r\nprint x",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-29T16:11:35.797",
+    "id": 284,
+    "timediff": 10.94,
+    "timediff_human": "0:00:10.940000"
+  },
+  {
+    "name": "jonathan",
+    "details": {
+      "date": 1653815575384,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/18",
+      "answer": "x = 65\r\nprint (x) \r\nx = str 65\r\nprint(X)",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-29T16:12:55.384",
+    "id": 289,
+    "timediff": 79.587,
+    "timediff_human": "0:01:19.587000"
+  },
+  {
+    "name": "jonathan",
+    "details": {
+      "date": 1653815607797,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/15",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T16:13:27.797",
+    "id": 292,
+    "timediff": 32.413,
+    "timediff_human": "0:00:32.413000"
+  },
+  {
+    "name": "jonathan",
+    "details": {
+      "date": 1653815644355,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T16:14:04.355",
+    "id": 296,
+    "timediff": 36.558,
+    "timediff_human": "0:00:36.558000"
+  },
+  {
+    "name": "jonathan",
+    "details": {
+      "date": 1653815660205,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/19",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T16:14:20.205",
+    "id": 298,
+    "timediff": 15.85,
+    "timediff_human": "0:00:15.850000"
+  },
+  {
+    "name": "jonathan",
+    "details": {
+      "date": 1653815689103,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/18",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T16:14:49.103",
+    "id": 300,
+    "timediff": 28.898,
+    "timediff_human": "0:00:28.898000"
+  },
+  {
+    "name": "jonathan",
+    "details": {
+      "date": 1653815704536,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/18",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T16:15:04.536",
+    "id": 301,
+    "timediff": 15.433,
+    "timediff_human": "0:00:15.433000"
+  },
+  {
+    "name": "jonathan",
+    "details": {
+      "date": 1653815709838,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/18",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T16:15:09.838",
+    "id": 304,
+    "timediff": 5.302,
+    "timediff_human": "0:00:05.302000"
+  },
+  {
+    "name": "jonathan",
+    "details": {
+      "date": 1653815738715,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/18",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T16:15:38.715",
+    "id": 307,
+    "timediff": 28.877,
+    "timediff_human": "0:00:28.877000"
+  },
+  {
+    "name": "jonathan",
+    "details": {
+      "date": 1653815746232,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/18",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T16:15:46.232",
+    "id": 309,
+    "timediff": 7.517,
+    "timediff_human": "0:00:07.517000"
+  },
+  {
+    "name": "jonathan",
+    "details": {
+      "date": 1653815758507,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/18",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T16:15:58.507",
+    "id": 310,
+    "timediff": 12.275,
+    "timediff_human": "0:00:12.275000"
+  },
+  {
+    "name": "jonathan",
+    "details": {
+      "date": 1653815763675,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/19",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T16:16:03.675",
+    "id": 312,
+    "timediff": 5.168,
+    "timediff_human": "0:00:05.168000"
+  },
+  {
+    "name": "jonathan",
+    "details": {
+      "date": 1653815777672,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/19",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T16:16:17.672",
+    "id": 315,
+    "timediff": 13.997,
+    "timediff_human": "0:00:13.997000"
+  },
+  {
+    "name": "jonathan",
+    "details": {
+      "date": 1653815814445,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/20",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T16:16:54.445",
+    "id": 317,
+    "timediff": 36.773,
+    "timediff_human": "0:00:36.773000"
+  },
+  {
+    "name": "jonathan",
+    "details": {
+      "date": 1653815897013,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/20",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T16:18:17.013",
+    "id": 320,
+    "timediff": 82.568,
+    "timediff_human": "0:01:22.568000"
+  },
+  {
+    "name": "jonathan",
+    "details": {
+      "date": 1653816005501,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/21",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T16:20:05.501",
+    "id": 324,
+    "timediff": 108.488,
+    "timediff_human": "0:01:48.488000"
+  },
+  {
+    "name": "jonathan",
+    "details": {
+      "date": 1653816244873,
+      "route": "/learn/python-dasar:-control/lesson/3/stage/25",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T16:24:04.873",
+    "id": 327,
+    "timediff": 239.372,
+    "timediff_human": "0:03:59.372000"
+  }
+]

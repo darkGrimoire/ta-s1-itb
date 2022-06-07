@@ -1,0 +1,556 @@
+[
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653804981557,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/3",
+      "user_event": "stage_enter"
+    },
+    "createdAt": "2022-05-29T13:16:21.557",
+    "id": 4,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653805238955,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:20:38.955",
+    "id": 11,
+    "timediff": 257.398,
+    "timediff_human": "0:04:17.398000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653805271675,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:21:11.675",
+    "id": 16,
+    "timediff": 32.72,
+    "timediff_human": "0:00:32.720000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653805282314,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:21:22.314",
+    "id": 18,
+    "timediff": 10.639,
+    "timediff_human": "0:00:10.639000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653805346520,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/5",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T13:22:26.520",
+    "id": 24,
+    "timediff": 64.206,
+    "timediff_human": "0:01:04.206000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653805362491,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:22:42.491",
+    "id": 28,
+    "timediff": 15.971,
+    "timediff_human": "0:00:15.971000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653805377240,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:22:57.240",
+    "id": 31,
+    "timediff": 14.749,
+    "timediff_human": "0:00:14.749000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653805393130,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T13:23:13.130",
+    "id": 35,
+    "timediff": 15.89,
+    "timediff_human": "0:00:15.890000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653805401068,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/5",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T13:23:21.068",
+    "id": 39,
+    "timediff": 7.938,
+    "timediff_human": "0:00:07.938000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653805583955,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T13:26:23.955",
+    "id": 53,
+    "timediff": 182.887,
+    "timediff_human": "0:03:02.887000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653805607408,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T13:26:47.408",
+    "id": 57,
+    "timediff": 23.453,
+    "timediff_human": "0:00:23.453000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653805640164,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/5",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:27:20.164",
+    "id": 60,
+    "timediff": 32.756,
+    "timediff_human": "0:00:32.756000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653805656468,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T13:27:36.468",
+    "id": 63,
+    "timediff": 16.304,
+    "timediff_human": "0:00:16.304000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653805744612,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/5",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:29:04.612",
+    "id": 71,
+    "timediff": 88.144,
+    "timediff_human": "0:01:28.144000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653805755080,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/5",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:29:15.080",
+    "id": 75,
+    "timediff": 10.468,
+    "timediff_human": "0:00:10.468000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653805767025,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/5",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T13:29:27.025",
+    "id": 78,
+    "timediff": 11.945,
+    "timediff_human": "0:00:11.945000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653805836849,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/5",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:30:36.849",
+    "id": 83,
+    "timediff": 69.824,
+    "timediff_human": "0:01:09.824000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653805977694,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/5",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:32:57.694",
+    "id": 88,
+    "timediff": 140.845,
+    "timediff_human": "0:02:20.845000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653806005531,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/6",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T13:33:25.531",
+    "id": 92,
+    "timediff": 27.837,
+    "timediff_human": "0:00:27.837000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653806042300,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/6",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T13:34:02.300",
+    "id": 95,
+    "timediff": 36.769,
+    "timediff_human": "0:00:36.769000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653806059142,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/6",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:34:19.142",
+    "id": 100,
+    "timediff": 16.842,
+    "timediff_human": "0:00:16.842000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653806118895,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/5",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:35:18.895",
+    "id": 105,
+    "timediff": 59.753,
+    "timediff_human": "0:00:59.753000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653806133022,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/5",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:35:33.022",
+    "id": 109,
+    "timediff": 14.127,
+    "timediff_human": "0:00:14.127000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653806261844,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/8",
+      "answer": 3,
+      "user_event": "stage_quiz_checkAnswer"
+    },
+    "createdAt": "2022-05-29T13:37:41.844",
+    "id": 113,
+    "timediff": 128.822,
+    "timediff_human": "0:02:08.822000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653806285051,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/8",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T13:38:05.051",
+    "id": 116,
+    "timediff": 23.207,
+    "timediff_human": "0:00:23.207000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653806325523,
+      "route": "/learn/python-dasar:-control/lesson/1/stage/9",
+      "answer": "print (\"Halo Dunia!\")",
+      "user_event": "stage_lesson_checkAnswer"
+    },
+    "createdAt": "2022-05-29T13:38:45.523",
+    "id": 120,
+    "timediff": 40.472,
+    "timediff_human": "0:00:40.472000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653806393757,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/10",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T13:39:53.757",
+    "id": 124,
+    "timediff": 68.234,
+    "timediff_human": "0:01:08.234000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653806459330,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/10",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T13:40:59.330",
+    "id": 128,
+    "timediff": 65.573,
+    "timediff_human": "0:01:05.573000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653806487960,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/10",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:41:27.960",
+    "id": 130,
+    "timediff": 28.63,
+    "timediff_human": "0:00:28.630000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653806540388,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/10",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:42:20.388",
+    "id": 134,
+    "timediff": 52.428,
+    "timediff_human": "0:00:52.428000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653806559753,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/11",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T13:42:39.753",
+    "id": 138,
+    "timediff": 19.365,
+    "timediff_human": "0:00:19.365000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653806670560,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/12",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T13:44:30.560",
+    "id": 143,
+    "timediff": 110.807,
+    "timediff_human": "0:01:50.807000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653806706482,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/12",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:45:06.482",
+    "id": 146,
+    "timediff": 35.922,
+    "timediff_human": "0:00:35.922000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653806770570,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/13",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:46:10.570",
+    "id": 148,
+    "timediff": 64.088,
+    "timediff_human": "0:01:04.088000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653806770570,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/13",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:46:10.570",
+    "id": 152,
+    "timediff": 0.0,
+    "timediff_human": "0:00:00"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653806835410,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/13",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:47:15.410",
+    "id": 156,
+    "timediff": 64.84,
+    "timediff_human": "0:01:04.840000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653806874427,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/13",
+      "user_event": "visualizer_update"
+    },
+    "createdAt": "2022-05-29T13:47:54.427",
+    "id": 158,
+    "timediff": 39.017,
+    "timediff_human": "0:00:39.017000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653806894374,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/13",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T13:48:14.374",
+    "id": 159,
+    "timediff": 19.947,
+    "timediff_human": "0:00:19.947000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653806928008,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/14",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T13:48:48.008",
+    "id": 161,
+    "timediff": 33.634,
+    "timediff_human": "0:00:33.634000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653806964502,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/14",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T13:49:24.502",
+    "id": 164,
+    "timediff": 36.494,
+    "timediff_human": "0:00:36.494000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653807052364,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/15",
+      "user_event": "stage_beforedestroy"
+    },
+    "createdAt": "2022-05-29T13:50:52.364",
+    "id": 168,
+    "timediff": 87.862,
+    "timediff_human": "0:01:27.862000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653807071481,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T13:51:11.481",
+    "id": 173,
+    "timediff": 19.117,
+    "timediff_human": "0:00:19.117000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653807095684,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/15",
+      "user_event": "visualizer_click_prev"
+    },
+    "createdAt": "2022-05-29T13:51:35.684",
+    "id": 178,
+    "timediff": 24.203,
+    "timediff_human": "0:00:24.203000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653807416238,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T13:56:56.238",
+    "id": 198,
+    "timediff": 320.554,
+    "timediff_human": "0:05:20.554000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653807482509,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T13:58:02.509",
+    "id": 200,
+    "timediff": 66.271,
+    "timediff_human": "0:01:06.271000"
+  },
+  {
+    "name": "Annisa N.",
+    "details": {
+      "date": 1653807522617,
+      "route": "/learn/python-dasar:-control/lesson/2/stage/15",
+      "user_event": "visualizer_click_next"
+    },
+    "createdAt": "2022-05-29T13:58:42.617",
+    "id": 202,
+    "timediff": 40.108,
+    "timediff_human": "0:00:40.108000"
+  }
+]
