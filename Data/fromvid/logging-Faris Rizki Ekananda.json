@@ -3,7 +3,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653802287419,
-      "route": "/learn/python-dasar:-control/lesson/2/stage/10",
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/10",
       "user_event": "stage_enter"
     },
     "createdAt": "2022-05-29T12:31:27.419",
@@ -15,7 +15,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653803028485,
-      "route": "/learn/python-dasar:-control/lesson/1/stage/3",
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/3",
       "user_event": "stage_enter"
     },
     "createdAt": "2022-05-29T12:43:48.485",
@@ -39,7 +39,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653807548284,
-      "route": "/learn/python-dasar:-control/lesson/2/stage/15",
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
       "user_event": "visualizer_click_next"
     },
     "createdAt": "2022-05-29T13:59:08.284",
@@ -51,7 +51,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653810774817,
-      "route": "/learn/python-dasar:-control/lesson/1/stage/7",
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/7",
       "user_event": "stage_enter"
     },
     "createdAt": "2022-05-29T14:52:54.817",
@@ -63,7 +63,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653810840888,
-      "route": "/learn/python-dasar:-control/lesson/1/stage/8",
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/8",
       "user_event": "stage_enter"
     },
     "createdAt": "2022-05-29T14:54:00.888",
@@ -75,7 +75,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653810964600,
-      "route": "/learn/python-dasar:-control/lesson/1/stage/7",
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/7",
       "user_event": "stage_beforedestroy"
     },
     "createdAt": "2022-05-29T14:56:04.600",
@@ -87,7 +87,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653811008263,
-      "route": "/learn/python-dasar:-control/lesson/1/stage/8",
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/8",
       "user_event": "stage_enter"
     },
     "createdAt": "2022-05-29T14:56:48.263",
@@ -99,7 +99,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653811226515,
-      "route": "/learn/python-dasar:-control/lesson/1/stage/9",
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
       "user_event": "visualizer_update"
     },
     "createdAt": "2022-05-29T15:00:26.515",
@@ -111,7 +111,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653811270213,
-      "route": "/learn/python-dasar:-control/lesson/1/stage/9",
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
       "user_event": "visualizer_update"
     },
     "createdAt": "2022-05-29T15:01:10.213",
@@ -123,7 +123,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653811340616,
-      "route": "/learn/python-dasar:-control/lesson/1/stage/9",
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
       "user_event": "visualizer_update"
     },
     "createdAt": "2022-05-29T15:02:20.616",
@@ -135,7 +135,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653811397609,
-      "route": "/learn/python-dasar:-control/lesson/1/stage/9",
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
       "answer": "print(\"Halo Dunia!\")",
       "user_event": "stage_lesson_checkAnswer"
     },
@@ -148,7 +148,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653811723243,
-      "route": "/learn/python-dasar:-control/lesson/2",
+      "route": "/learn/python-dasar:-treatment/lesson/2",
       "user_event": "stage_beforedestroy"
     },
     "createdAt": "2022-05-29T15:08:43.243",
@@ -160,7 +160,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653811786484,
-      "route": "/learn/python-dasar:-control/lesson/2/stage/12",
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/12",
       "user_event": "stage_beforedestroy"
     },
     "createdAt": "2022-05-29T15:09:46.484",
@@ -172,7 +172,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653811936955,
-      "route": "/learn/python-dasar:-control/lesson/2/stage/14",
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/14",
       "user_event": "visualizer_click_next"
     },
     "createdAt": "2022-05-29T15:12:16.955",
@@ -184,7 +184,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653812167938,
-      "route": "/learn/python-dasar:-control/lesson/2/stage/15",
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
       "user_event": "visualizer_click_next"
     },
     "createdAt": "2022-05-29T15:16:07.938",
@@ -196,7 +196,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653812319577,
-      "route": "/learn/python-dasar:-control/lesson/2/stage/19",
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/19",
       "user_event": "stage_enter"
     },
     "createdAt": "2022-05-29T15:18:39.577",
@@ -208,7 +208,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653812442689,
-      "route": "/learn/python-dasar:-control/lesson/2/stage/15",
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
       "user_event": "stage_enter"
     },
     "createdAt": "2022-05-29T15:20:42.689",
@@ -220,7 +220,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653812457111,
-      "route": "/learn/python-dasar:-control/lesson/2/stage/19",
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/19",
       "user_event": "stage_beforedestroy"
     },
     "createdAt": "2022-05-29T15:20:57.111",
@@ -232,7 +232,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653812543818,
-      "route": "/learn/python-dasar:-control/lesson/3",
+      "route": "/learn/python-dasar:-treatment/lesson/3",
       "user_event": "stage_beforedestroy"
     },
     "createdAt": "2022-05-29T15:22:23.818",
@@ -244,7 +244,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653812626244,
-      "route": "/learn/python-dasar:-control/lesson/2",
+      "route": "/learn/python-dasar:-treatment/lesson/2",
       "user_event": "stage_beforedestroy"
     },
     "createdAt": "2022-05-29T15:23:46.244",
@@ -256,7 +256,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653815229220,
-      "route": "/learn/python-dasar:-control/lesson/1/stage/3",
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/3",
       "user_event": "stage_enter"
     },
     "createdAt": "2022-05-29T16:07:09.220",
@@ -268,7 +268,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653812885860,
-      "route": "/learn/python-dasar:-control/lesson/3/stage/21",
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
       "user_event": "visualizer_click_next"
     },
     "createdAt": "2022-05-29T15:28:05.860",
@@ -280,7 +280,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653815986243,
-      "route": "/learn/python-dasar:-control/lesson/2/stage/18",
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/18",
       "user_event": "stage_enter"
     },
     "createdAt": "2022-05-29T16:19:46.243",
@@ -304,7 +304,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653816641798,
-      "route": "/learn/python-dasar:-control/lesson/1/stage/7",
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/7",
       "user_event": "stage_beforedestroy"
     },
     "createdAt": "2022-05-29T16:30:41.798",
@@ -316,7 +316,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653816825535,
-      "route": "/learn/python-dasar:-control/lesson/1/stage/9",
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/9",
       "user_event": "visualizer_update"
     },
     "createdAt": "2022-05-29T16:33:45.535",
@@ -328,7 +328,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653817669519,
-      "route": "/learn/python-dasar:-control/lesson/1/stage/8",
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/8",
       "user_event": "stage_beforedestroy"
     },
     "createdAt": "2022-05-29T16:47:49.519",
@@ -340,7 +340,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653817812724,
-      "route": "/learn/python-dasar:-control/lesson/2/stage/8",
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/8",
       "user_event": "stage_enter"
     },
     "createdAt": "2022-05-29T16:50:12.724",
@@ -352,7 +352,7 @@
     "name": "Faris Rizki Ekananda",
     "details": {
       "date": 1653817973414,
-      "route": "/learn/python-dasar:-control/lesson/2/stage/19",
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/19",
       "user_event": "stage_beforedestroy"
     },
     "createdAt": "2022-05-29T16:52:53.414",

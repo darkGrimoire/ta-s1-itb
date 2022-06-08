@@ -3,7 +3,7 @@
     "name": "jonathan",
     "details": {
       "date": 1653812386776,
-      "route": "/learn/python-dasar:-control/lesson/1/stage/3",
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/3",
       "user_event": "stage_enter"
     },
     "createdAt": "2022-05-29T15:19:46.776",
@@ -15,7 +15,7 @@
     "name": "jonathan",
     "details": {
       "date": 1653812476333,
-      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
       "user_event": "visualizer_click_next"
     },
     "createdAt": "2022-05-29T15:21:16.333",
@@ -27,7 +27,7 @@
     "name": "jonathan",
     "details": {
       "date": 1653812545667,
-      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
       "user_event": "visualizer_update"
     },
     "createdAt": "2022-05-29T15:22:25.667",
@@ -39,7 +39,7 @@
     "name": "jonathan",
     "details": {
       "date": 1653812616324,
-      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
       "user_event": "visualizer_click_next"
     },
     "createdAt": "2022-05-29T15:23:36.324",
@@ -51,7 +51,7 @@
     "name": "jonathan",
     "details": {
       "date": 1653812727571,
-      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
       "user_event": "visualizer_update"
     },
     "createdAt": "2022-05-29T15:25:27.571",
@@ -63,7 +63,7 @@
     "name": "jonathan",
     "details": {
       "date": 1653812737185,
-      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
       "user_event": "visualizer_update"
     },
     "createdAt": "2022-05-29T15:25:37.185",
@@ -75,7 +75,7 @@
     "name": "jonathan",
     "details": {
       "date": 1653812743124,
-      "route": "/learn/python-dasar:-control/lesson/1/stage/4",
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/4",
       "user_event": "visualizer_update"
     },
     "createdAt": "2022-05-29T15:25:43.124",
@@ -87,7 +87,7 @@
     "name": "jonathan",
     "details": {
       "date": 1653812799848,
-      "route": "/learn/python-dasar:-control/lesson/1/stage/5",
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
       "user_event": "stage_beforedestroy"
     },
     "createdAt": "2022-05-29T15:26:39.848",
@@ -99,7 +99,7 @@
     "name": "jonathan",
     "details": {
       "date": 1653812888200,
-      "route": "/learn/python-dasar:-control/lesson/1/stage/5",
+      "route": "/learn/python-dasar:-treatment/lesson/1/stage/5",
       "user_event": "visualizer_update"
     },
     "createdAt": "2022-05-29T15:28:08.200",
@@ -111,7 +111,7 @@
     "name": "jonathan",
     "details": {
       "date": 1653815484857,
-      "route": "/learn/python-dasar:-control/lesson/2/stage/18",
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/18",
       "user_event": "visualizer_update"
     },
     "createdAt": "2022-05-29T16:11:24.857",
@@ -123,7 +123,7 @@
     "name": "jonathan",
     "details": {
       "date": 1653815495797,
-      "route": "/learn/python-dasar:-control/lesson/2/stage/18",
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/18",
       "answer": "x = str (x) \r\nprint x",
       "user_event": "stage_lesson_checkAnswer"
     },
@@ -136,7 +136,7 @@
     "name": "jonathan",
     "details": {
       "date": 1653815575384,
-      "route": "/learn/python-dasar:-control/lesson/2/stage/18",
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/18",
       "answer": "x = 65\r\nprint (x) \r\nx = str 65\r\nprint(X)",
       "user_event": "stage_lesson_checkAnswer"
     },
@@ -149,7 +149,7 @@
     "name": "jonathan",
     "details": {
       "date": 1653815607797,
-      "route": "/learn/python-dasar:-control/lesson/2/stage/15",
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
       "user_event": "stage_beforedestroy"
     },
     "createdAt": "2022-05-29T16:13:27.797",
@@ -161,7 +161,7 @@
     "name": "jonathan",
     "details": {
       "date": 1653815644355,
-      "route": "/learn/python-dasar:-control/lesson/2/stage/15",
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/15",
       "user_event": "visualizer_click_next"
     },
     "createdAt": "2022-05-29T16:14:04.355",
@@ -173,7 +173,7 @@
     "name": "jonathan",
     "details": {
       "date": 1653815660205,
-      "route": "/learn/python-dasar:-control/lesson/2/stage/19",
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/19",
       "user_event": "stage_beforedestroy"
     },
     "createdAt": "2022-05-29T16:14:20.205",
@@ -185,7 +185,7 @@
     "name": "jonathan",
     "details": {
       "date": 1653815689103,
-      "route": "/learn/python-dasar:-control/lesson/2/stage/18",
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/18",
       "user_event": "visualizer_update"
     },
     "createdAt": "2022-05-29T16:14:49.103",
@@ -197,7 +197,7 @@
     "name": "jonathan",
     "details": {
       "date": 1653815704536,
-      "route": "/learn/python-dasar:-control/lesson/2/stage/18",
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/18",
       "user_event": "visualizer_click_next"
     },
     "createdAt": "2022-05-29T16:15:04.536",
@@ -209,7 +209,7 @@
     "name": "jonathan",
     "details": {
       "date": 1653815709838,
-      "route": "/learn/python-dasar:-control/lesson/2/stage/18",
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/18",
       "user_event": "visualizer_update"
     },
     "createdAt": "2022-05-29T16:15:09.838",
@@ -221,7 +221,7 @@
     "name": "jonathan",
     "details": {
       "date": 1653815738715,
-      "route": "/learn/python-dasar:-control/lesson/2/stage/18",
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/18",
       "user_event": "visualizer_click_next"
     },
     "createdAt": "2022-05-29T16:15:38.715",
@@ -233,7 +233,7 @@
     "name": "jonathan",
     "details": {
       "date": 1653815746232,
-      "route": "/learn/python-dasar:-control/lesson/2/stage/18",
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/18",
       "user_event": "visualizer_update"
     },
     "createdAt": "2022-05-29T16:15:46.232",
@@ -245,7 +245,7 @@
     "name": "jonathan",
     "details": {
       "date": 1653815758507,
-      "route": "/learn/python-dasar:-control/lesson/2/stage/18",
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/18",
       "user_event": "visualizer_update"
     },
     "createdAt": "2022-05-29T16:15:58.507",
@@ -257,7 +257,7 @@
     "name": "jonathan",
     "details": {
       "date": 1653815763675,
-      "route": "/learn/python-dasar:-control/lesson/2/stage/19",
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/19",
       "user_event": "stage_beforedestroy"
     },
     "createdAt": "2022-05-29T16:16:03.675",
@@ -269,7 +269,7 @@
     "name": "jonathan",
     "details": {
       "date": 1653815777672,
-      "route": "/learn/python-dasar:-control/lesson/2/stage/19",
+      "route": "/learn/python-dasar:-treatment/lesson/2/stage/19",
       "user_event": "visualizer_update"
     },
     "createdAt": "2022-05-29T16:16:17.672",
@@ -281,7 +281,7 @@
     "name": "jonathan",
     "details": {
       "date": 1653815814445,
-      "route": "/learn/python-dasar:-control/lesson/3/stage/20",
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
       "user_event": "visualizer_click_next"
     },
     "createdAt": "2022-05-29T16:16:54.445",
@@ -293,7 +293,7 @@
     "name": "jonathan",
     "details": {
       "date": 1653815897013,
-      "route": "/learn/python-dasar:-control/lesson/3/stage/20",
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/20",
       "user_event": "visualizer_click_next"
     },
     "createdAt": "2022-05-29T16:18:17.013",
@@ -305,7 +305,7 @@
     "name": "jonathan",
     "details": {
       "date": 1653816005501,
-      "route": "/learn/python-dasar:-control/lesson/3/stage/21",
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/21",
       "user_event": "visualizer_click_next"
     },
     "createdAt": "2022-05-29T16:20:05.501",
@@ -317,7 +317,7 @@
     "name": "jonathan",
     "details": {
       "date": 1653816244873,
-      "route": "/learn/python-dasar:-control/lesson/3/stage/25",
+      "route": "/learn/python-dasar:-treatment/lesson/3/stage/25",
       "user_event": "stage_beforedestroy"
     },
     "createdAt": "2022-05-29T16:24:04.873",

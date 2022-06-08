@@ -24,7 +24,52 @@ Implementasi dilakukan menggunakan teknologi yang telah dipakai pada KodeBareng 
 
 Selain dari teknologi yang digunakan, terdapat juga batasan dari bahasa pemrograman yang dapat divisualisasikan eksekusinya yaitu Python sesuai dengan kelas pembelajaran pemrograman yang sudah ada pada platform web KodeBareng.
 
-  [\hl{TODO: MASUKIN SCOPE PYTHON YANG DIIMPLEMENTASIIN DI ILE}]
+% Please add the following required packages to your document preamble:
+% \usepackage{longtable}
+% Note: It may be necessary to compile the document several times to get a multi-page table to line up properly
+\footnotesize
+\begin{longtable}[c]{|l|l|}
+  \caption{Cakupan implementasi ILE}
+  \label{tab:ile-scope}                                                              \\
+  \hline
+  \rowcolor{gray!30}
+  \normalsize\textbf{Concepts}                  & \normalsize Termasuk Implementasi? \\ \hline
+  \endhead
+  %
+  \textbf{Input/Output}                         &                                    \\ \hline
+  Standard Input/Output                         & Termasuk                           \\ \hline
+  File I/O                                      & Tidak Termasuk                     \\ \hline
+  \textbf{Variables}                            &                                    \\ \hline
+  Variable types                                & Termasuk                           \\ \hline
+  Variable scope                                & Termasuk                           \\ \hline
+  Assignment of values to variables             & Termasuk                           \\ \hline
+  \textbf{Selection and repetition structures}  &                                    \\ \hline
+  If statement                                  & Termasuk                           \\ \hline
+  While loop                                    & Termasuk                           \\ \hline
+  For loop                                      & Termasuk                           \\ \hline
+  \textbf{Methods}                              &                                    \\ \hline
+  Method structure                              & Termasuk                           \\ \hline
+  Method frames                                 & Termasuk                           \\ \hline
+  Message passing                               & Termasuk                           \\ \hline
+  Return values                                 & Termasuk                           \\ \hline
+  Recursion                                     & Termasuk                           \\ \hline
+  Lambda function                               & Tidak Termasuk                     \\ \hline
+  \textbf{Arrays}                               &                                    \\ \hline
+  Arrays as objects                             & Termasuk                           \\ \hline
+  Array structure                               & Termasuk                           \\ \hline
+  Arrays of primitives                          & Termasuk                           \\ \hline
+  Arrays of references                          & Tidak Termasuk                     \\ \hline
+  Array index                                   & Termasuk                           \\ \hline
+  List Comprehension                            & Tidak Termasuk                     \\ \hline
+  \textbf{Algorithms}                           &                                    \\ \hline
+  Search algorithms                             & Tidak Termasuk                     \\ \hline
+  Sort algorithms                               & Tidak Termasuk                     \\ \hline
+  Data structures (linked list and binary tree) & Tidak Termasuk                     \\ \hline
+  \textbf{Additional requirements}              &                                    \\ \hline
+  Debugging                                     & Tidak Termasuk                     \\ \hline
+  Standard libraries                            & Termasuk                           \\ \hline
+\end{longtable}
+\normalsize
 
 \subsection{Implementasi Sistem Eksekutor}
 [\hl{TODO: MASUKIN INPUT, PROSES, OUTPUT MASING2 KOMPONEN}]
@@ -89,7 +134,23 @@ Tujuan dari pengujian ini adalah untuk mendapatkan data terkait dampak ILE yang 
 \subsection{Lingkungan Pengujian}
 Pengujian  dilakukan terhadap faktor pemahaman siswa mengenai konsep pemrograman serta alur kerja eksekusi kode program. Maka dari itu, pengujian dilakukan berdasarkan pengujian pada \textcite{mayer1981psychology} untuk faktor pemahaman konsep program serta pada \textcite{moons2013pilot} untuk faktor pemahaman alur kerja serta.
 
-  [\hl{TODO: MASUKIN MATERI YANG DDIPAKAI, DEMOGRAFIS, SPEK HARDWARE}]
+  [\hl{TODO: MASUKIN MATERI YANG DDIPAKAI, DEMOGRAFIS, SPEK HARDWARE SERVER}]
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.7\textwidth]{chapter4/demografis-usia.png}
+  \caption{Demografis usia peserta eksperimen} \label{fig:demografis-usia}
+\end{figure}
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.7\textwidth]{chapter4/demografis-pendidikan.png}
+  \caption{Demografis tahap pendidikan peserta eksperimen} \label{fig:demografis-pendidikan}
+\end{figure}
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.7\textwidth]{chapter4/demografis-kelamin.png}
+  \caption{Demografis jenis kelamin peserta eksperimen} \label{fig:demografis-kelamin}
+\end{figure}
 
 \subsection{Skenario dan Hasil Pengujian}
 [\hl{TODO: MASUKIN TABEL ACC TESTING, MASUKIN CONTROL EXPERIMENT}]
@@ -102,4 +163,76 @@ Kuesioner memiliki 2 bagian pertanyaan, masing-masing untuk tiap faktor yang diu
 \section{Analisis Hasil Pengujian}
  [\hl{TODO: MASUKIN HASIL OLAHAN DATA NUMERIK, DATA LOGGING, SAMA DATA KUESIONER}]
 
+\subsection{Analisis Data Kuesioner}
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.7\textwidth]{chapter4/kuesioner-memahami.png}
+  \caption{Apakah ILE membantu memahami kode?} \label{fig:kuesioner-memahami}
+\end{figure}
+\blindtext
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.7\textwidth]{chapter4/kuesioner-soal.png}
+  \caption{Apakah ILE membantu menjawab latihan soal?} \label{fig:kuesioner-soal}
+\end{figure}
+\blindtext
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.9\textwidth]{chapter4/kuesioner-average.png}
+  \caption{Hasil kuesioner ILE} \label{fig:kuesioner-average}
+\end{figure}
+\blindtext
+
+\subsection{Analisis Data Eksperimen}
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.9\textwidth]{chapter4/eksperimen-k1k2-kebenaran-all.png}
+  \caption{Hasil eksperimen modul 1-2 soal kuis} \label{fig:eksperimen-k1k2-kebenaran-all}
+\end{figure}
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.9\textwidth]{chapter4/eksperimen-k1k2-kebenaran-awam.png}
+  \caption{Hasil eksperimen modul 1-2 soal kuis khusus yang masih awam} \label{fig:eksperimen-k1k2-kebenaran-awam}
+\end{figure}
+\blindtext
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.9\textwidth]{chapter4/eksperimen-k1k2-waktu.png}
+  \caption{Waktu menjawab soal kuis modul 1-2} \label{fig:eksperimen-k1k2-waktu}
+\end{figure}
+\blindtext
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.9\textwidth]{chapter4/eksperimen-lk1-all.png}
+  \caption{Hasil eksperimen modul 1 soal latihan kode} \label{fig:eksperimen-lk1-all}
+\end{figure}
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.9\textwidth]{chapter4/eksperimen-lk1-awam.png}
+  \caption{Hasil eksperimen modul 1 soal latihan kode khusus yang masih awam} \label{fig:eksperimen-lk1-awam}
+\end{figure}
+\blindtext
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.9\textwidth]{chapter4/eksperimen-lk2-all.png}
+  \caption{Hasil eksperimen modul 2 soal latihan kode} \label{fig:eksperimen-lk2-all}
+\end{figure}
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.9\textwidth]{chapter4/eksperimen-lk2-awam.png}
+  \caption{Hasil eksperimen modul 2 soal latihan kode khusus yang masih awam} \label{fig:eksperimen-lk2-awam}
+\end{figure}
+\blindtext
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.9\textwidth]{chapter4/eksperimen-m1m2-waktu.png}
+  \caption{Perbandingan waktu pengerjaan modul 1 dan modul 2} \label{fig:eksperimen-m1m2-waktu}
+\end{figure}
+\blindtext
+
+\subsection{Ancaman Kebenaran}
 \blindtext

@@ -176,11 +176,23 @@ Berdasarkan hasil analisis permasalahan dan kebutuhan sebelumnya, dibuatlah ranc
 
 ILE akan diintegrasikan pada komponen-komponen terkait materi pembelajaran di KodeBareng. Maka dari itu, komponen-komponen yang akan dimodifikasi atau ditambahkan akan terkait dengan komponen Stage yang mendefinisikan bagaimana suatu tahap (\textit{stage}) materi pada suatu modul pembelajaran dijelaskan (berupa teks, latihan pemrograman, dsb).
 
-  [\hl{TODO: MASUKIN SEQUENCE DIAGRAM KESELURUHAN}]
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.6\textwidth]{chapter3/activity-overall.jpg}
+  \caption{Activity Diagram Pengguna} \label{fig:activity-overall}
+\end{figure}
+
+Alur program utama terkait visualisasi eksekusi kode dimulai dari pengguna atau sistem memasukkan kode pada Web IDE yang digunakan pada sistem \textit{Frontend}, kemudian melakukan permintaan kepada sistem \textit{Backend} untuk memvisualisasikan kode tersebut. Sistem \textit{Backend} akan memfilter kode yang akan dieksekusi, lalu apabila lolos akan dilanjutkan kepada sistem \textit{Executor} untuk mendapatkan hasil olahan eksekusi program yang dapat divisualisasikan. Hasil tersebut dikembalikan pada sistem \textit{Frontend} untuk divisualisasikan dan dieksplorasi langkah-langkah eksekusinya oleh pengguna.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=\textwidth]{chapter3/activity-ile.jpg}
+  \caption{Activity Diagram ILE} \label{fig:activity-ile}
+\end{figure}
 
 Pada sistem \textit{Frontend}, ditambahkan komponen baru yaitu Visualizer yang dapat memvisualisasikan kode eksekusi yang dimasukkan pada komponen Web IDE. Web IDE yang sudah ada dimodifikasi sehingga dapat berinteraksi dengan Visualizer serta dapat memiliki mode latihan soal atau materi sehingga dapat dipakai pada penjelasan materi (tanpa penilaian) dan latihan soal (dengan penilaian).
 
-  [\hl{TODO: MASUKIN WIREFRAME}]
+Berikut adalah gambaran desain \textit{low-fidelity} dari ILE visualisasi eksekusi kode.
 
 \begin{figure}[H]
   \centering
@@ -202,10 +214,4 @@ Pada sistem \textit{Frontend}, ditambahkan komponen baru yaitu Visualizer yang d
 
 Pada sistem \textit{Backend}, ditambahkan rute baru pada \textit{Stage Controller} untuk dapat mengolah permintaan visualisasi eksekusi kode. Dibuat juga fungsi-fungsi \textit{Helper} tambahan untuk mengolah permintaan tersebut dan melanjutkannya pada sistem eksekutor apabila kode diperbolehkan untuk dieksekusi.
 
-  [\hl{TODO: MASUKIN ACTIVITY DIAGRAM BUAT TIAP SISTEM}]
-
 Pada sistem \textit{Executor}, dibuat komponen-komponen baru untuk mendapatkan informasi yang dibutuhkan untuk visualisasi. Komponen \verb|PDB (debugger)| merupakan komponen bawaan \verb|Python| yang dapat digunakan untuk melakukan \textit{debugging} pada suatu kode. Komponen \verb|Executor| digunakan untuk mengeksekusi kode program menggunakan PDB sehingga dapat dengan otomatis menjelajahi eksekusi kode program dan mendapatkan \textit{stack trace}. Komponen \verb|Parser| digunakan untuk mengolah hasil eksekusi serta \textit{stack trace} dari \verb|Executor| sehingga dapat dimanfaatkan untuk visualisasi eksekusi kode. Terdapat juga modifikasi pada Kontroller dan Autograder agar dapat menyesuaikan dengan spesifikasi kebutuhan fungsional.
-
-Alur program utama terkait visualisasi eksekusi kode dimulai dari pengguna atau sistem memasukkan kode pada Web IDE yang digunakan pada sistem \textit{Frontend}, kemudian melakukan permintaan kepada sistem \textit{Backend} untuk memvisualisasikan kode tersebut. Sistem \textit{Backend} akan memfilter kode yang akan dieksekusi, lalu apabila lolos akan dilanjutkan kepada sistem \textit{Executor} untuk mendapatkan hasil olahan eksekusi program yang dapat divisualisasikan. Hasil tersebut dikembalikan pada sistem \textit{Frontend} untuk divisualisasikan dan dieksplorasi langkah-langkah eksekusinya oleh pengguna.
-
-% Berikut adalah gambaran desain \textit{low-fidelity} dari ILE visualisasi eksekusi kode.
