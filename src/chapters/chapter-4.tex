@@ -122,42 +122,62 @@ Komponen Helper merupakan komponen yang digunakan untuk mendeteksi perintah-peri
 \subsubsection{Implementasi Komponen Web IDE}
 Komponen Web IDE dibuat menggunakan Monaco Editor yang dibuat oleh Microsoft. Komponen ini dapat memperlihatkan \textit{syntax highlighting} pada kode, menunjukkan angka baris, serta navigasi menggunakan \textit{scrollbar} yang memiliki \textit{overview} dari seluruh kode program.
 
-\subsubsection{Implementasi Komponen Visualizer}
-Komponen Visualizer merupakan komponen yang dapat memvisualisasikan hasil olahan \textit{stack trace} suatu kode. Komponen ini dapat berinteraksi dengan Web IDE untuk menunjukkan lokasi eksekusi suatu langkah dengan memberikan warna pada baris eksekusi, serta membuat tabel data pada memori pada setiap \textit{stack frame}. Pengguna dapat mengubah alur maju mundur visualisasi, melihat isi data dan baris kode yang sedang dieksekusi pada setiap \textit{stack frame}, serta melihat perubahan pada data dalam memori.
+Komponen ini terhubung pada Komponen Visualizer untuk menampilkan dekorator-dekorator saat visualisasi eksekusi kode berlangsung. Tampilan hasil implementasi Web IDE dapat dilihat pada \autoref{fig:web-ide}.
 
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.7\textwidth]{chapter4/web-ide.png}
+  \caption{Tampilan Antarmuka Web IDE} \label{fig:web-ide}
+\end{figure}
+
+\subsubsection{Implementasi Komponen Visualizer}
+Komponen Visualizer merupakan komponen yang dapat memvisualisasikan hasil olahan \textit{stack trace} suatu kode. Komponen ini dapat berinteraksi dengan Web IDE untuk menunjukkan lokasi eksekusi suatu langkah dengan memberikan warna pada baris eksekusi, serta membuat tabel data pada memori pada setiap \textit{stack frame}. Pengguna dapat mengubah alur maju mundur visualisasi, melihat isi data pada setiap \textit{stack frame}, serta melihat perubahan pada data dalam memori.
+
+Komponen ini dapat dimasukkan pada bagian materi pembelajaran dan bagian persoalan seperti Kuis dan Latihan Kode. Komponen ini dapat dinon-aktifkan apabila tidak diperbolehkan untuk digunakan. Tampilan hasil implementasi Visualizer dapat dilihat pada \autoref{fig:ile-materi} dan \autoref{fig:ile-soal}.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.7\textwidth]{chapter4/ile-materi.png}
+  \caption{Tampilan antarmuka Visualizer pada materi pembelajaran} \label{fig:ile-materi}
+\end{figure}
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.7\textwidth]{chapter4/ile-soal.png}
+  \caption{Tampilan antarmuka Visualizer pada persoalan Latihan Kode} \label{fig:ile-soal}
+\end{figure}
 
 \section{Pengujian}
 
 \subsection{Tujuan Pengujian}
-Tujuan dari pengujian ini adalah untuk mendapatkan data terkait dampak ILE yang telah dibuat terhadap pemahaman pelajar mengenai konsep serta alur kerja eksekusi kode program.
+Tujuan dari pengujian ini adalah untuk memastikan bahwa ILE yang diimplementasikan telah sesuai dengan spesifikasi kebutuhan yang telah dibuat sebelumnya serta mendapatkan data terkait dampak ILE yang telah dibuat terhadap pemahaman pelajar mengenai konsep serta alur kerja eksekusi kode program.
 
 \subsection{Lingkungan Pengujian}
-Pengujian  dilakukan terhadap faktor pemahaman siswa mengenai konsep pemrograman serta alur kerja eksekusi kode program. Maka dari itu, pengujian dilakukan berdasarkan pengujian pada \textcite{mayer1981psychology} untuk faktor pemahaman konsep program serta pada \textcite{moons2013pilot} untuk faktor pemahaman alur kerja serta.
+Lingkungan pengujian terbagi menjadi 2 yaitu lingkungan komputer dan lingkungan eksperimen pengguna (\textit{user experiment}). Lingkungan komputer digunakan untuk menjalankan fungsional sistem, sementara lingkungan eksperimen pengguna digunakan untuk melakukan eksperimen pengguna pada komputer peserta eksperimen masing-masing.
 
-  [\hl{TODO: MASUKIN MATERI YANG DDIPAKAI, DEMOGRAFIS, SPEK HARDWARE SERVER}]
+Pengujian spesifikasi fungsional sistem dilakukan pada komputer server KodeBareng dengan spesifikasi pada \autoref{tab:lingkungan-server} untuk menjalankan Sistem Backend dan Sistem Executor.
 
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=0.7\textwidth]{chapter4/demografis-usia.png}
-  \caption{Demografis usia peserta eksperimen} \label{fig:demografis-usia}
-\end{figure}
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=0.7\textwidth]{chapter4/demografis-pendidikan.png}
-  \caption{Demografis tahap pendidikan peserta eksperimen} \label{fig:demografis-pendidikan}
-\end{figure}
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=0.7\textwidth]{chapter4/demografis-kelamin.png}
-  \caption{Demografis jenis kelamin peserta eksperimen} \label{fig:demografis-kelamin}
-\end{figure}
+\begin{longtable}[c]{|l|l|}
+  \caption{Lingkungan pengujian komputer server}
+  \label{tab:lingkungan-server}                                \\
+  \hline
+  \rowcolor{gray!30}
+  \textbf{Komponen} & \textbf{Keterangan}                      \\ \hline
+  \endfirsthead
+  %
+  \endhead
+  %
+  Prosesor          & Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz \\ \hline
+  Memori            & 2GB                                      \\ \hline
+  Storage           & 32GB                                     \\ \hline
+  Sistem Operasi    & Ubuntu 20.04.4 LTS                       \\ \hline
+\end{longtable}
+
+Eksperiment pengguna dilakukan pada komputer peserta eksperimen masing-masing secara daring dengan pengarahan menggunakan platform \textit{Google Meet}.
 
 \subsection{Skenario dan Hasil Pengujian}
-[\hl{TODO: MASUKIN TABEL ACC TESTING, MASUKIN CONTROL EXPERIMENT}]
 
-Pengujian dilakukan pada platform web KodeBareng dengan menggunakan kelas pembelajaran khusus untuk melakukan pengujian. Pengujian dilakukan pada 2 grup dengan masing-masing grup memiliki 10 orang penguji, yaitu grup kontrol dan grup perlakuan. Grup kontrol mendapatkan materi pembelajaran tanpa adanya integrasi visualisasi eksekusi kode, sementara grup perlakuan mendapatkan materi pembelajaran yang terdapat integrasi visualisasi eksekusi kode. Setiap grup mendapatkan materi pembelajaran yang sama serta kuesioner setelah melakukan pembelajaran.
-
-Kuesioner memiliki 2 bagian pertanyaan, masing-masing untuk tiap faktor yang diuji. Bagian pertama berdasar pada \textcite{mayer1981psychology} yang terdapat suatu kode untuk kemudian diminta kepada penguji untuk dijelaskan konsep-konsepnya di dalam kode tersebut. Bagian kedua berdasar pada \textcite{moons2013pilot} juga terdapat suatu kode yang telah diperumit penamaannya dan diminta kepada penguji untuk menjelaskan alur kerja program tersebut. Pada bagian kedua, penguji pada grup perlakuan dapat melakukan visualisasi eksekusi pada kode tersebut, sementara pada grup kontrol tidak.
+\subsubsection{Pengujian Fungsional}
+Pengujian fungsional dilakukan berdasarkan spesifikasi kebutuhan fungsional dan non-fungsional ILE pada \autoref{tab:srs-fungsional} dan \autoref{tab:srs-nonfungsional} pada \autoref{sec:analisis-kebutuhan}. Skenario dan hasil pengujian dapat dilihat pada \autoref{tab:pengujian-fungsional} dan \autoref{tab:pengujian-nonfungsional} berikut.
 
 \begin{longtable}[c]{|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.5\linewidth}|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.2\linewidth}|}
   \caption{Skenario dan hasil pengujian fungsional}
@@ -186,8 +206,6 @@ Kuesioner memiliki 2 bagian pertanyaan, masing-masing untuk tiap faktor yang diu
   KB-F-15     & Administrator memasukkan \textit{hint} kesalahan yang dapat ditampilkan pada soal        & Diterima       \\ \hline
 \end{longtable}
 
-\blindtext
-
 \begin{longtable}[c]{|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.6\linewidth}|l|}
   \caption{Skenario dan hasil pengujian non-fungsional}
   \label{tab:pengujian-nonfungsional}                                                      \\
@@ -203,52 +221,171 @@ Kuesioner memiliki 2 bagian pertanyaan, masing-masing untuk tiap faktor yang diu
   KB-NF-03    & Sistem menolak kode berbahaya                             & Diterima       \\ \hline
 \end{longtable}
 
-\blindtext
+\subsubsection{Eksperimen Pengguna (\textit{User Experiment})}
+
+Eksperimen pengguna dilakukan terhadap faktor pemahaman pelajar mengenai konsep pemrograman serta alur kerja eksekusi kode program. Maka dari itu, pengujian dilakukan berdasarkan pengujian pada \textcite{mayer1981psychology} untuk perlakuan pemberian model konkrit kepada pelajar saat pembelajaran berlangsung serta \textcite{moons2013pilot} untuk cara pengukuran pemahaman konsep. Sebagai batasan, eksperimen ini hanya akan dilakukan pada orang yang baru belajar pemrograman atau belum pernah belajar pemrograman sebelumnya.
+
+Pengujian ini dilakukan pada platform web KodeBareng dengan menggunakan kelas pembelajaran khusus untuk melakukan pengujian. Pengujian dilakukan pada 2 grup dengan masing-masing grup memiliki minimal 10 peserta eksperimen, yaitu grup kontrol dan grup perlakuan. Grup kontrol mendapatkan materi pembelajaran tanpa adanya integrasi ILE visualisasi eksekusi kode, sementara grup perlakuan mendapatkan materi pembelajaran yang terdapat integrasi ILE visualisasi eksekusi kode. Setiap grup mendapatkan materi pembelajaran yang sama serta kuesioner setelah melakukan pembelajaran.
+
+Materi yang diberikan terbagi menjadi 3 modul yaitu modul Pengenalan Python Dasar, Variabel dan Tipe Data, serta Operator dan Ekspresi. Pada masing-masing modul, terdapat 2 tahapan yaitu tahap pembelajaran dan tahap persoalan. Pada tahap pembelajaran, materi diberikan melalui teks, gambar dan ILE (khusus pada grup perlakuan, pada grup kontrol hanya diperlihatkan teks kode serta \textit{input/output}-nya). Pada tahap persoalan, terdapat 2 jenis persoalan yaitu kuis dan latihan kode. Soal kuis adalah soal sederhana bertipe pilihan ganda, sementara soal latihan kode adalah soal yang memberikan bagian suatu kode program yang harus diubah oleh peserta untuk memenuhi objektif yang diberikan. Soal kuis dinilai secara benar atau salah (1/0) dan soal latihan kode akan dinilai menggunakan SOLO Level dengan kategori penilaian seperti pada \autoref{tab:solo-level}. SOLO (Structure of Observed Learning Outcomes) adalah salah satu jenis taksonomi dalam pendidikan yang mengukur tingkat abstraksi pemahaman konsep yang telah dicapai oleh peserta didik \parencite{moons2013pilot}. Pada setiap akhir modul, terdapat 2 soal kuis dan 1 soal latihan kode. Setiap tahapan harus diselesaikan terlebih dahulu sebelum peserta dapat melanjutkan pembelajaran.
+
+\begin{longtable}[c]{|l|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.5\linewidth}|}
+  \caption{Kategori penilaian SOLO Level}
+  \label{tab:solo-level}                                                                                                                                 \\
+  \hline
+  \rowcolor{gray!30}
+  \textbf{SOLO Level} & \textbf{Kategori} & \textbf{Deskripsi}                                                                                           \\ \hline
+  \endfirsthead
+  %
+  \endhead
+  %
+  1                   & Prestructural     & Memperlihatkan kurangnya pengetahuan pemrograman atau tidak berhubungan dengan pertanyaan yang diberikan     \\ \hline
+  2                   & Unistructural     & Terdapat pemahaman terkait satu konsep pemrograman, namun tidak berhubungan dengan pertanyaan yang diberikan \\ \hline
+  3                   & Multistructural   & Terdapat pemahaman terkait beberapa konsep pemrograman, namun tidak saling berkaitan                         \\ \hline
+  4                   & Relational        & Terdapat pemahaman beberapa konsep pemrograman dan saling berkaitan                                          \\ \hline
+\end{longtable}
+
+Pada kuesioner, terdapat 2 pertanyaan menggunakan \textit{likert scale} yaitu "Apakah visualisasi kode membuatmu lebih memahami kode yang dijalankan?" dan "Apakah visualisasi kode membantumu menjawab kuis dan latihan soal?", serta 1 pertanyaan bertipe isian paragraf yaitu "Pendapat atau saran untuk fitur visualisasi eksekusi kode". Selain pertanyaan yang berkaitan dengan ILE, terdapat juga pertanyaan umum lainnya seperti pengalaman pembelajaran di KodeBareng dan pendapat saran untuk pembelajaran di KodeBareng. Kuesioner digunakan sebagai data kualitatif tambahan untuk mengukur dampak dari ILE dari sisi penggunanya. Pertanyaan kuesioner terkait ILE hanya dijawab oleh peserta grup perlakuan.
+
+Selain dari materi pembelajaran dan kuesioner, terdapat juga data tambahan berupa \textit{event} yang disimpan selama eksperimen berlangsung untuk mengukur waktu pembelajaran pada suatu tahap, berapa banyak interaksi yang dilakukan pelajar pada ILE, serta jawaban-jawaban yang di-\textit{submit} oleh pelajar saat menjawab persoalan Kuis dan Latihan Kode.
+
+\subsection{Prosedur Eksperimen Pengguna}
+Sebelum pengujian, disebarkan formulir pendaftaran eksperimen yang dilakukan pada Sabtu, 28 Mei 2022. Selain data kontak dan demografis, data mengenai pengalaman pembelajaran pemrograman sebelumnya juga diambil. Pengujian dilakukan dalam rentan waktu 4 hari, yaitu dimulai pada 29 Mei hingga 1 Juni 2022. Orang yang telah mendaftar eksperimen kemudian dikontak untuk dilakukan penjadwalan eksperimen. Dari 42 orang yang mendaftar eksperimen melalui formulir tersebut, terdapat 25 orang yang merespon dan dapat menjadwalkan eksperimen sehingga menjadi peserta eksperimen yang sah. Demografis peserta eksperimen dapat dilihat pada \autoref{fig:demografis-usia}, \autoref{fig:demografis-pendidikan}, serta \autoref{fig:demografis-kelamin}. Kemudian, peserta dipetakan menjadi 13 orang grup perlakuan dan 12 orang grup kontrol.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.7\textwidth]{chapter4/demografis-usia.png}
+  \caption{Demografis usia peserta eksperimen} \label{fig:demografis-usia}
+\end{figure}
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.7\textwidth]{chapter4/demografis-pendidikan.png}
+  \caption{Demografis tahap pendidikan peserta eksperimen} \label{fig:demografis-pendidikan}
+\end{figure}
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.7\textwidth]{chapter4/demografis-kelamin.png}
+  \caption{Demografis jenis kelamin peserta eksperimen} \label{fig:demografis-kelamin}
+\end{figure}
+
+Eksperimen dilakukan secara daring menggunakan platform \textit{Google Meet}. Peserta dibagikan tautan \textit{Google Meet} sesuai dengan jadwal kloter eksperimen yang sudah ditentukan sebelumnya. Peserta diminta menggunakan laptop/komputer saat melakukan eksperimen. Setelah seluruh peserta dalam satu kloter telah masuk ke dalam \textit{Google Meet}, peserta dibagikan tautan menuju formulir kuesioner untuk mengisi identitas diri terlebih dahulu. Kemudian, peserta diarahkan menuju situs KodeBareng, membuat akun KodeBareng menggunakan akun Google, lalu membuka kelas sesuai dengan grup masing-masing. Sebelum memulai pembelajaran, peserta diberikan arahan mengenai cara belajar di KodeBareng serta instruksi untuk melakukan pembelajaran sesuai dengan kecepatan masing-masing selama 1 jam. Khusus untuk peserta pada grup perlakuan, mereka diberikan pengenalan cara menggunakan ILE yang telah disediakan selama pembelajaran. Setelah 1 jam berlalu, selesai tidak selesai peserta akan diminta untuk menghentikan pembelajaran lalu melanjutkan mengisi kuesioner.
 
 \section{Analisis Hasil Pengujian}
- [\hl{TODO: MASUKIN HASIL OLAHAN DATA NUMERIK, DATA LOGGING, SAMA DATA KUESIONER}]
 
 \subsection{Analisis Data Kuesioner}
+Karena pertanyaan kuesioner hanya diberikan kepada peserta yang telah memakai ILE, terdapat 13 peserta yang memberikan respon terhadap pertanyaan kuesioner. Terdapat 2 pertanyaan kuesioner yang diberikan, yaitu pertanyaan untuk mengukur dampak ILE terhadap pemahaman kode yang dijalankan serta pertanyaan untuk mengukur dampak ILE terhadap penyelesaian soal kuis dan latihan kode.
+
+Berikut \autoref{fig:kuesioner-memahami} dan \autoref{tab:kuesioner1-statistik} adalah grafik serta tabel perhitungan statistik dari pertanyaan kuesioner pertama.
+
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.7\textwidth]{chapter4/kuesioner-memahami.png}
   \caption{Apakah ILE membantu memahami kode?} \label{fig:kuesioner-memahami}
 \end{figure}
-\blindtext
+
+\begin{longtable}[c]{|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.5\linewidth}|}
+  \caption{Hasil perhitungan statistik deskriptif pada respon kuesioner pertanyaan pertama}
+  \label{tab:kuesioner1-statistik}                                                                  \\
+  \hline
+                           & Apakah visualisasi kode membuatmu lebih memahami kode yang dijalankan? \\ \hline
+  \endfirsthead
+  %
+  \endhead
+  %
+  Mean                     & 4.230769                                                               \\ \hline
+  Standard Error           & 0.25705                                                                \\ \hline
+  Median                   & 4                                                                      \\ \hline
+  Mode                     & 5                                                                      \\ \hline
+  Standard Deviation       & 0.926809                                                               \\ \hline
+  Sample Variance          & 0.858974                                                               \\ \hline
+  Kurtosis                 & 1.524332                                                               \\ \hline
+  Skewness                 & -1.27368                                                               \\ \hline
+  Range                    & 3                                                                      \\ \hline
+  Minimum                  & 2                                                                      \\ \hline
+  Maximum                  & 5                                                                      \\ \hline
+  Sum                      & 55                                                                     \\ \hline
+  Count                    & 13                                                                     \\ \hline
+  Confidence Level(95,0\%) & 0.560065                                                               \\ \hline
+\end{longtable}
+
+Berdasarkan \autoref{fig:kuesioner-memahami} dan \autoref{tab:kuesioner1-statistik}, dapat disimpulkan bahwa mayoritas peserta eksperimen pada grup perlakuan merasa ILE membantu mereka dalam memahami kode yang dijalankan. \textit{Confidence Interval} dengan \textit{Confidence Level} 95\% jatuh pada kisaran nilai 3.671-4.791.
+
+Berikut \autoref{fig:kuesioner-soal} dan \autoref{tab:kuesioner2-statistik} adalah grafik serta tabel perhitungan statistik dari pertanyaan kuesioner kedua.
 
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.7\textwidth]{chapter4/kuesioner-soal.png}
   \caption{Apakah ILE membantu menjawab latihan soal?} \label{fig:kuesioner-soal}
 \end{figure}
-\blindtext
+
+\begin{longtable}[c]{|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.5\linewidth}|}
+  \caption{Hasil perhitungan statistik deskriptif pada respon kuesioner pertanyaan kedua}
+  \label{tab:kuesioner2-statistik}                                                              \\
+  \hline
+                           & Apakah visualisasi kode membantumu menjawab kuis dan latihan soal? \\ \hline
+  \endfirsthead
+  %
+  \endhead
+  %
+  Mean                     & 4.384615                                                           \\ \hline
+  Standard Error           & 0.266469                                                           \\ \hline
+  Median                   & 5                                                                  \\ \hline
+  Mode                     & 5                                                                  \\ \hline
+  Standard Deviation       & 0.960769                                                           \\ \hline
+  Sample Variance          & 0.923077                                                           \\ \hline
+  Kurtosis                 & 2.096086                                                           \\ \hline
+  Skewness                 & -1.6125                                                            \\ \hline
+  Range                    & 3                                                                  \\ \hline
+  Minimum                  & 2                                                                  \\ \hline
+  Maximum                  & 5                                                                  \\ \hline
+  Sum                      & 57                                                                 \\ \hline
+  Count                    & 13                                                                 \\ \hline
+  Confidence Level(95,0\%) & 0.580587                                                           \\ \hline
+\end{longtable}
+
+Berdasarkan \autoref{fig:kuesioner-soal} dan \autoref{tab:kuesioner2-statistik}, dapat disimpulkan bahwa mayoritas peserta eksperimen pada grup perlakuan merasa ILE membantu mereka dalam menjawab kuis serta latihan soal yang diberikan. \textit{Confidence Interval} dengan \textit{Confidence Level} 95\% jatuh pada kisaran nilai 3.804-4.965.
+
+Pada \autoref{fig:kuesioner-average} berikut ditampilkan perbandingan rata-rata respon kuesioner pertanyaan pertama dan kedua.
 
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.9\textwidth]{chapter4/kuesioner-average.png}
-  \caption{Hasil kuesioner ILE} \label{fig:kuesioner-average}
+  \caption{Perbandingan rata-rata hasil kuesioner ILE} \label{fig:kuesioner-average}
 \end{figure}
-\blindtext
+
+Apabila dibandingkan dengan pertanyaan kuesioner pertama, ILE memberikan dampak lebih tinggi dalam membantu memecahkan persoalan. Namun, apabila dilihat dari saran-saran serta pendapat yang diberikan, ILE banyak digunakan untuk memahami proses alur kerja suatu kode. Beberapa peserta pada grup kontrol bahkan memberikan saran untuk memasukkan fitur eksekusi kode pada materi pembelajaran, yang sebenarnya sudah diterapkan pada grup perlakuan. Meskipun dengan jumlah respon yang sedikit, hal ini menjadi indikasi bahwa ILE memiliki dampak dalam pembelajaran pemrograman bagi pemula.
 
 \subsection{Analisis Data Eksperimen}
+Setelah dilakukan eksperimen terhadap 25 peserta, didapatkan data penyelesaian modul tiap peserta. Namun, pada hari pertama eksperimen terdapat kesalahan teknis dalam pengambilan data sehingga data beberapa peserta tidak tersimpan. Terdapat 3 peserta pada grup perlakuan yang datanya hilang akibat kesalahan pada basis data, sehingga peserta eksperimen yang dapat diolah datanya berkurang menjadi 22 peserta dengan pembagian 10 peserta grup perlakuan dan 12 peserta grup kontrol.
+
+Dari 22 peserta eksperimen, seluruh peserta berhasil menyelesaikan modul pertama (Pengenalan Python Dasar). Namun pada modul kedua (Tipe Data), terdapat 4 peserta (3 peserta grup perlakuan dan 1 peserta grup kontrol) yang tidak berhasil menyelesaikan modul tersebut (tidak berhasil mencapai tahap persoalan) karena keterbatasan waktu eksperimen, sehingga peserta eksperimen yang berhasil menyelesaikan modul kedua berjumlah 18 orang dengan pembagian 7 peserta grup perlakuan dan 11 peserta grup kontrol. Kemudian, peserta yang dapat menyelesaikan modul ketiga (Operator dan Ekspresi) berjumlah 13 orang dengan pembagian 3 peserta grup perlakuan dan 10 peserta grup kontrol. 1 peserta grup kontrol dan 1 peserta grup perlakuan tidak berhasil mencapai tahap persoalan, 2 peserta grup perlakuan hanya mencapai soal kuis kedua (tidak menyelesaikan soal kuis ketiga dan soal latihan kode), dan 1 peserta grup perlakuan hanya mencapai soal kuis ketiga (tidak menyelesaikan soal latihan kode). Karena kurangnya data jumlah peserta eksperimen pada modul 3 serta terdapat perbedaan jumlah peserta grup perlakuan dan grup kontrol yang cukup besar, maka modul yang akan dipakai datanya hanya modul 1 dan modul 2.
+
+Pada analisis data eksperimen ini, akan dilihat juga perbedaan antara data seluruh peserta yang berhasil menyelesaikan suatu modul dengan data peserta yang belum pernah belajar pemrograman sebelumnya dan berhasil menyelesaikan modul tersebut (data peserta setelah penyaringan). Hal ini dilakukan untuk menghilangkan bias dari adanya perbedaan pemahaman awal sehingga menghilangkan beberapa data \textit{outlier}. Pada modul 1, data peserta setelah penyaringan berjumlah 14 orang yaitu 7 peserta grup perlakuan dan 7 peserta grup kontrol. Pada modul 2, data peserta setelah penyaringan berjumlah 11 orang yaitu 6 peserta grup perlakuan dan 5 peserta grup kontrol.
+
+
+\subsubsection{Analisis Data Eksperimen Soal Kuis}
 \begin{figure}[H]
   \centering
-  \includegraphics[width=0.9\textwidth]{chapter4/eksperimen-k1k2-kebenaran-all.png}
+  \includegraphics[width=0.85\textwidth]{chapter4/eksperimen-k1k2-kebenaran-all.png}
   \caption{Hasil eksperimen modul 1-2 soal kuis} \label{fig:eksperimen-k1k2-kebenaran-all}
 \end{figure}
 \begin{figure}[H]
   \centering
-  \includegraphics[width=0.9\textwidth]{chapter4/eksperimen-k1k2-kebenaran-awam.png}
-  \caption{Hasil eksperimen modul 1-2 soal kuis khusus yang masih awam} \label{fig:eksperimen-k1k2-kebenaran-awam}
+  \includegraphics[width=0.85\textwidth]{chapter4/eksperimen-k1k2-kebenaran-awam.png}
+  \caption{Hasil eksperimen modul 1-2 soal kuis setelah penyaringan data} \label{fig:eksperimen-k1k2-kebenaran-awam}
 \end{figure}
-\blindtext
+
+Berdasarkan pada \autoref{fig:eksperimen-k1k2-kebenaran-all} dan \autoref{fig:eksperimen-k1k2-kebenaran-awam} di atas, dapat dilihat bahwa hasil persentase kuis dengan jawaban yang benar pada grup perlakuan (\textit{treatment}) lebih tinggi rata-ratanya dibandingkan grup kontrol. Terdapat pengecualian pada modul 2 kuis 1 data keseluruhan karena terdapat data \textit{outlier}, tetapi setelah data disaring hasil persentase menjadi lebih konsisten.
+
+Selain dari hasil persentase jawaban, dapat dilihat juga pada \autoref{fig:eksperimen-k1k2-waktu} bahwa waktu pengerjaan kuis grup perlakuan jauh lebih lama dibanding waktu pengerjaan kuis grup kontrol karena peserta melakukan eksplorasi terlebih dahulu pada ILE yang disediakan.
+
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.9\textwidth]{chapter4/eksperimen-k1k2-waktu.png}
   \caption{Waktu menjawab soal kuis modul 1-2} \label{fig:eksperimen-k1k2-waktu}
 \end{figure}
-\blindtext
 
+\subsubsection{Analisis Data Eksperimen Soal Latihan Kode}
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.9\textwidth]{chapter4/eksperimen-lk1-all.png}
@@ -257,7 +394,7 @@ Kuesioner memiliki 2 bagian pertanyaan, masing-masing untuk tiap faktor yang diu
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.9\textwidth]{chapter4/eksperimen-lk1-awam.png}
-  \caption{Hasil eksperimen modul 1 soal latihan kode khusus yang masih awam} \label{fig:eksperimen-lk1-awam}
+  \caption{Hasil eksperimen modul 1 soal latihan kode setelah penyaringan data} \label{fig:eksperimen-lk1-awam}
 \end{figure}
 \blindtext
 \begin{figure}[H]
@@ -268,7 +405,7 @@ Kuesioner memiliki 2 bagian pertanyaan, masing-masing untuk tiap faktor yang diu
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.9\textwidth]{chapter4/eksperimen-lk2-awam.png}
-  \caption{Hasil eksperimen modul 2 soal latihan kode khusus yang masih awam} \label{fig:eksperimen-lk2-awam}
+  \caption{Hasil eksperimen modul 2 soal latihan kode setelah penyaringan data} \label{fig:eksperimen-lk2-awam}
 \end{figure}
 \blindtext
 
@@ -279,5 +416,14 @@ Kuesioner memiliki 2 bagian pertanyaan, masing-masing untuk tiap faktor yang diu
 \end{figure}
 \blindtext
 
-\subsection{Ancaman Kebenaran}
-\blindtext
+\subsection{Ancaman Validitas (Threat of Validity)}
+
+\begin{enumerate}
+  \item Pembelajaran hanya dilakukan selama 1 jam sehingga peserta tidak dapat menyelesaikan modul pembelajaran
+  \item Pembelajaran hanya membahas materi dasar agar dapat dipahami dan diselesaikan oleh orang awam
+  \item Pembuatan materi pembelajaran tidak menggunakan tenaga kerja ahli
+  \item Jumlah sampel yang sedikit
+  \item Sulitnya mendapatkan peserta dengan pemahaman konsep awal yang sama rata
+  \item Sampling tidak memenuhi keseluruhan demografis pengguna KodeBareng karena menggunakan teknik \textit{convenience sampling}
+  \item Penilaian jawaban berdasarkan SOLO Level tidak menggunakan tenaga kerja ahli independen seperti pada eksperimen aslinya
+\end{enumerate}
