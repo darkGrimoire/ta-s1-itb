@@ -72,17 +72,17 @@ Selain dari teknologi yang digunakan, terdapat juga batasan dari bahasa pemrogra
 \normalsize
 
 \subsection{Implementasi Sistem Eksekutor}
-[\hl{TODO: MASUKIN INPUT, PROSES, OUTPUT MASING2 KOMPONEN}]
-[\hl{TODO: MASUKIN KOMPONEN/LIBRARY YANG DIGUNAKNA UNTUK TIAP KOMPONEN}]
-[\hl{TODO: MASUKIN TREE VIEW TIAP KOMPONEN LETAKNYA ADA DIMANA AJA}]
-[\hl{TODO: MASUKIN HAMBATAN DAN SOLUSI DI TIAP KOMPONEN}]
+% [\hl{TODO: MASUKIN INPUT, PROSES, OUTPUT MASING2 KOMPONEN}]
+% [\hl{TODO: MASUKIN KOMPONEN/LIBRARY YANG DIGUNAKNA UNTUK TIAP KOMPONEN}]
+% [\hl{TODO: MASUKIN TREE VIEW TIAP KOMPONEN LETAKNYA ADA DIMANA AJA}]
+% [\hl{TODO: MASUKIN HAMBATAN DAN SOLUSI DI TIAP KOMPONEN}]
 
 Sistem Eksekutor menggunakan \textit{tech stack} berupa ExpressJS dengan Typescript yang dijalankan pada NodeJS menggunakan kakas \textit{nodemon}. Sistem tersebut kemudian diisolasi menggunakan Docker dengan \textit{image} Debian 10 dan dilakukan instalasi Python 3.9. Terdapat juga kakas berupa \textit{swagger} yang digunakan untuk dokumentasi rute-rute yang terdapat pada sistem ini.
 
 \subsubsection{Modifikasi Komponen Controller}
 Pada sistem ini sudah terdapat \textit{controller} pada tiap bagian rute untuk mengolah data yang diberikan. Pada Tugas Akhir ini, ditambahkan rute untuk melakukan visualisasi serta \textit{controller} untuk mengolah data tersebut. \textit{Controller} mendapatkan masukan berupa kode program berupa \textit{string} serta input berupa \verb|array of string| untuk diberikan pada program yang dieksekusi. Kemudian, \textit{Controller} melakukan pengecekan apakah kode diperbolehkan untuk dieksekusi, lalu menuliskan kode pada file Python sementara. Setelah itu, \textit{controller} menjalankan \textit{helper} berupa Komponen Executor dan Parser dengan memberikan masukan berupa lokasi \textit{file} kode program serta \textit{input} yang akan diberikan pada program.
 
-  [\hl{TODO: MASUKIN CONTOH HASIL INPUT CONTROLLER UNTUK KOMPONEN EXECUTOR DAN PARSER}]
+% [\hl{TODO: MASUKIN CONTOH HASIL INPUT CONTROLLER UNTUK KOMPONEN EXECUTOR DAN PARSER}]
 
 \subsubsection{Implementasi Komponen Executor}
 Komponen Executor merupakan komponen yang digunakan untuk mengeksekusi kode program menggunakan PDB. Komponen ini membutuhkan masukan berupa lokasi \textit{file} berisi kode program yang akan dieksekusi serta \textit{input} yang akan diberikan kepada program. Terdapat 3 tahapan utama dalam komponen ini, yaitu tahap inisialisasi, tahap pengecekan, serta tahap pengumpulan data.
@@ -95,7 +95,7 @@ Apabila program lolos dari tahap pengecekan (program tidak berada di luar kode p
 
 Setelah Komponen Executor dan Parser melewati tahap pengumpulan data dan tidak terjadi error, maka Komponen Executor akan melanjutkan langkah eksekusi kode sekaligus perintah yang digunakan untuk pengecekan \textit{error}, serta me-\textit{reset} data-data dan tahapan-tahapan yang dilakukan lalu kembali pada tahap pengecekan. Apabila terdapat error selama tahap pengumpulan data, maka Komponen Executor akan mematikan program yang sedang dieksekusi. Apabila jumlah langkah atau lama waktu eksekusi sudah melebihi batas yang telah ditentukan, maka Komponen Executor juga akan mematikan program yang sedang dieksekusi.
 
-  [\hl{TODO: MASUKIN CONTOH HASIL KELUARAN KOMPONEN EXECUTOR }]
+% [\hl{TODO: MASUKIN CONTOH HASIL KELUARAN KOMPONEN EXECUTOR }]
 
 \subsubsection{Implementasi Komponen Parser}
 Komponen Parser merupakan komponen yang digunakan untuk mengolah hasil keluaran Komponen Executor. Komponen ini juga menentukan logika dan langkah yang akan diambil oleh Komponen Executor. Komponen ini membutuhkan masukan berupa \verb|array of string| yang merupakan hasil keluaran Komponen Executor yang telah dipisahkan tiap barisnya. Terdapat 2 tahapan utama dalam komponen ini, yaitu tahap pengecekan dan tahap pengumpulan data.
@@ -110,7 +110,7 @@ Kemudian, dilakukan subtahap pengecekan eksekusi \textit{built-in module} yang t
 
 Setelah seluruh tahapan dalam tahap pengecekan selesai, Komponen Parser akan memasuki tahap pengumpulan data yang tahapannya sama dengan tahapan pengumpulan data yang terdapat pada Komponen Executor. Hasil keluaran Komponen Executor diolah dengan mengolah keluaran JSON. Apabila keluaran tersebut tidak dapat diolah sebagai JSON, maka Komponen Parser akan menghasilkan \textit{error}, disimpan sebagai \textit{event} lalu mematikan program. Setelah semua subtahap pengumpulan data dilakukan, Komponen Parser akan mengolah seluruh hasil pengumpulan data ke dalam daftar \verb|ExecutionResult| yang akan dikembalikan kepada \textit{controller} saat program telah selesai atau dimatikan dan menjadi hasil yang dapat divisualisasikan pada Sistem Frontend.
 
-  [\hl{TODO: MASUKKAN CONTOH HASIL KELUARAN KOMPONEN PARSER}]
+% [\hl{TODO: MASUKKAN CONTOH HASIL KELUARAN KOMPONEN PARSER}]
 
 \subsection{Implementasi Backend}
 \subsubsection{Implementasi Komponen Helper}
@@ -356,7 +356,7 @@ Pada \autoref{fig:kuesioner-average} berikut ditampilkan perbandingan rata-rata 
 Apabila dibandingkan dengan pertanyaan kuesioner pertama, ILE memberikan dampak lebih tinggi dalam membantu memecahkan persoalan. Namun, apabila dilihat dari saran-saran serta pendapat yang diberikan, ILE banyak digunakan untuk memahami proses alur kerja suatu kode. Beberapa peserta pada grup kontrol bahkan memberikan saran untuk memasukkan fitur eksekusi kode pada materi pembelajaran, yang sebenarnya sudah diterapkan pada grup perlakuan. Meskipun dengan jumlah respon yang sedikit, hal ini menjadi indikasi bahwa ILE memiliki dampak dalam pembelajaran pemrograman bagi pemula.
 
 \subsection{Analisis Data Eksperimen}
-Setelah dilakukan eksperimen terhadap 25 peserta, didapatkan data penyelesaian modul tiap peserta. Namun, pada hari pertama eksperimen terdapat kesalahan teknis dalam pengambilan data sehingga data beberapa peserta tidak tersimpan. Terdapat 3 peserta pada grup perlakuan yang datanya hilang akibat kesalahan pada basis data, sehingga peserta eksperimen yang dapat diolah datanya berkurang menjadi 22 peserta dengan pembagian 10 peserta grup perlakuan dan 12 peserta grup kontrol.
+Setelah dilakukan eksperimen terhadap 25 peserta, didapatkan data penyelesaian modul tiap peserta. Namun, pada hari pertama eksperimen terdapat kesalahan teknis dalam pengambilan data sehingga data beberapa peserta tidak tersimpan. Terdapat 3 peserta pada grup perlakuan yang datanya hilang akibat kesalahan pada basis data, sehingga peserta eksperimen yang dapat diolah datanya berkurang menjadi 22 peserta dengan pembagian 10 peserta grup perlakuan dan 12 peserta grup kontrol. Data lengkap terkait hasil eksperimen dapat dilihat pada
 
 Dari 22 peserta eksperimen, seluruh peserta berhasil menyelesaikan modul pertama (Pengenalan Python Dasar). Namun pada modul kedua (Tipe Data), terdapat 4 peserta (3 peserta grup perlakuan dan 1 peserta grup kontrol) yang tidak berhasil menyelesaikan modul tersebut (tidak berhasil mencapai tahap persoalan) karena keterbatasan waktu eksperimen, sehingga peserta eksperimen yang berhasil menyelesaikan modul kedua berjumlah 18 orang dengan pembagian 7 peserta grup perlakuan dan 11 peserta grup kontrol. Kemudian, peserta yang dapat menyelesaikan modul ketiga (Operator dan Ekspresi) berjumlah 13 orang dengan pembagian 3 peserta grup perlakuan dan 10 peserta grup kontrol. 1 peserta grup kontrol dan 1 peserta grup perlakuan tidak berhasil mencapai tahap persoalan, 2 peserta grup perlakuan hanya mencapai soal kuis kedua (tidak menyelesaikan soal kuis ketiga dan soal latihan kode), dan 1 peserta grup perlakuan hanya mencapai soal kuis ketiga (tidak menyelesaikan soal latihan kode). Karena kurangnya data jumlah peserta eksperimen pada modul 3 serta terdapat perbedaan jumlah peserta grup perlakuan dan grup kontrol yang cukup besar, maka modul yang akan dipakai datanya hanya modul 1 dan modul 2.
 
@@ -381,49 +381,54 @@ Selain dari hasil persentase jawaban, dapat dilihat juga pada \autoref{fig:ekspe
 
 \begin{figure}[H]
   \centering
-  \includegraphics[width=0.9\textwidth]{chapter4/eksperimen-k1k2-waktu.png}
+  \includegraphics[width=0.85\textwidth]{chapter4/eksperimen-k1k2-waktu.png}
   \caption{Waktu menjawab soal kuis modul 1-2} \label{fig:eksperimen-k1k2-waktu}
 \end{figure}
 
 \subsubsection{Analisis Data Eksperimen Soal Latihan Kode}
 \begin{figure}[H]
   \centering
-  \includegraphics[width=0.9\textwidth]{chapter4/eksperimen-lk1-all.png}
+  \includegraphics[width=0.85\textwidth]{chapter4/eksperimen-lk1-all.png}
   \caption{Hasil eksperimen modul 1 soal latihan kode} \label{fig:eksperimen-lk1-all}
 \end{figure}
 \begin{figure}[H]
   \centering
-  \includegraphics[width=0.9\textwidth]{chapter4/eksperimen-lk1-awam.png}
+  \includegraphics[width=0.85\textwidth]{chapter4/eksperimen-lk1-awam.png}
   \caption{Hasil eksperimen modul 1 soal latihan kode setelah penyaringan data} \label{fig:eksperimen-lk1-awam}
 \end{figure}
-\blindtext
+
+Berdasarkan pada \autoref{fig:eksperimen-lk1-all}, dapat dilihat bahwa pada grup perlakuan terdapat lebih banyak peserta yang mendapatkan nilai SOLO Level yang lebih tinggi dengan rata-rata SOLO Level grup perlakuan adalah 3.8 dan rata-rata SOLO Level grup kontrol adalah 3.083. Namun, apabila digunakan \textit{T test} independen dengan asumsi normal distribusi pada data, didapatkan nilai t sebesar 2.086 (\textit{p = 0.097}) yang berarti secara statistik dampak ILE terhadap hasil latihan kode modul 1 tidak terlalu signifikan. Maka dari itu, dilakukan penyaringan data untuk menghilangkan data \textit{outlier} yang dapat mempengaruhi hasil eksperimen. Dapat dilihat pada \autoref{fig:eksperimen-lk1-awam} data yang sudah disaring memiliki perubahan yang cukup besar dengan rata-rata SOLO Level grup perlakuan menjadi 3.857 dan rata-rata SOLO Level grup kontrol menjadi 2.429. Jika dilakukan \textit{T test} pada data yang sudah disaring, didapatkan nilai t sebesar 2.179 (\textit{p = 0.0147}) yang berarti secara statistik dampak ILE terhadap hasil latihan kode modul 1 signifikan.
+
 \begin{figure}[H]
   \centering
-  \includegraphics[width=0.9\textwidth]{chapter4/eksperimen-lk2-all.png}
+  \includegraphics[width=0.85\textwidth]{chapter4/eksperimen-lk2-all.png}
   \caption{Hasil eksperimen modul 2 soal latihan kode} \label{fig:eksperimen-lk2-all}
 \end{figure}
 \begin{figure}[H]
   \centering
-  \includegraphics[width=0.9\textwidth]{chapter4/eksperimen-lk2-awam.png}
+  \includegraphics[width=0.85\textwidth]{chapter4/eksperimen-lk2-awam.png}
   \caption{Hasil eksperimen modul 2 soal latihan kode setelah penyaringan data} \label{fig:eksperimen-lk2-awam}
 \end{figure}
-\blindtext
+
+Berdasarkan pada \autoref{fig:eksperimen-lk2-all}, rata-rata SOLO Level grup perlakuan adalah 3.429 dan rata-rata SOLO Level grup kontrol adalah 3.636 sehingga grup kontrol memiliki hasil yang lebih tinggi dibanding grup perlakuan. Maka dari itu, dilakukan penyaringan data sehingga data berubah menjadi seperti pada \autoref{fig:eksperimen-lk1-awam}. Data yang sudah disaring memiliki perubahan yang cukup besar dengan rata-rata SOLO Level grup perlakuan menjadi 3.6 dan rata-rata SOLO Level grup kontrol menjadi 3.333 sehingga membuat grup perlakuan memiliki hasil rata-rata yang lebih tinggi dibanding grup kontrol. Namun, jika dilakukan \textit{T test} pada data yang sudah disaring, didapatkan nilai t sebesar 2.262 (\textit{p = 0.662}) yang berarti secara statistik dampak ILE terhadap hasil latihan kode modul 2 tidak signifikan. Salah satu faktor yang menyebabkan hal ini terjadi adalah kurangnya data akibat adanya peserta yang tidak menyelesaikan modul 2 eksperimen. Faktor lain yang dapat berpengaruh pada hasil ini adalah soal yang dibuat kurang bagus sehingga mempengaruhi hasil akhir dari eksperimen.
+
+\subsubsection{Analisis Data Eksperimen Waktu Pengerjaan}
+Seperti yang sempat dibahas sebelumnya pada \autoref{fig:eksperimen-k1k2-waktu}, terdapat pola bahwa waktu pengerjaan grup perlakuan jauh lebih lama dibanding grup kontrol. Hal ini dapat dilihat lebih lengkap pada \autoref{fig:eksperimen-m1m2-waktu} yang menampilkan perbandingan rata-rata waktu pengerjaan pada materi, soal kuis, dan soal latihan kode pada modul 1 dan modul 2. Lamanya pengerjaan modul pada grup perlakuan juga menjadi faktor yang membuat grup perlakuan lebih banyak yang tidak menyelesaikan modul 2 dan 3. Setelah diinvestigasi lebih lanjut, ditemukan pada beberapa peserta bahwa ILE dapat menjadi distraksi dalam pembelajaran karena peserta terlalu lama melakukan eksplorasi pada ILE sehingga tidak dapat menyelesaikan modul tepat waktu.
 
 \begin{figure}[H]
   \centering
-  \includegraphics[width=0.9\textwidth]{chapter4/eksperimen-m1m2-waktu.png}
+  \includegraphics[width=0.85\textwidth]{chapter4/eksperimen-m1m2-waktu.png}
   \caption{Perbandingan waktu pengerjaan modul 1 dan modul 2} \label{fig:eksperimen-m1m2-waktu}
 \end{figure}
-\blindtext
 
 \subsection{Ancaman Validitas (Threat of Validity)}
 
+Pada Laporan Tugas Akhir ini, terdapat beberapa ancaman validitas yang dapat mempengaruhi hasil dari pengujian:
 \begin{enumerate}
-  \item Pembelajaran hanya dilakukan selama 1 jam sehingga peserta tidak dapat menyelesaikan modul pembelajaran
-  \item Pembelajaran hanya membahas materi dasar agar dapat dipahami dan diselesaikan oleh orang awam
-  \item Pembuatan materi pembelajaran tidak menggunakan tenaga kerja ahli
-  \item Jumlah sampel yang sedikit
-  \item Sulitnya mendapatkan peserta dengan pemahaman konsep awal yang sama rata
-  \item Sampling tidak memenuhi keseluruhan demografis pengguna KodeBareng karena menggunakan teknik \textit{convenience sampling}
-  \item Penilaian jawaban berdasarkan SOLO Level tidak menggunakan tenaga kerja ahli independen seperti pada eksperimen aslinya
+  \item Pembelajaran hanya dilakukan selama 1 jam sehingga peserta tidak dapat menyelesaikan modul pembelajaran.
+  \item Pembelajaran hanya membahas materi dasar agar dapat dipahami dan diselesaikan oleh orang awam. Hal ini membuat pemahaman awal pelajar menjadi krusial karena apabila pelajar telah mempelajari pemrograman sebelumnya, akan timbul data \textit{outlier} yang dapat mempengaruhi hasil eksperimen.
+  \item Sulitnya mendapatkan peserta eksperimen dengan pemahaman konsep awal yang sama rata.
+  \item Pembuatan materi pembelajaran tidak menggunakan tenaga kerja ahli.
+  \item Jumlah sampel yang sedikit dan tidak memenuhi keseluruhan demografis pengguna KodeBareng karena menggunakan teknik \textit{convenience sampling}.
+  \item Penilaian jawaban berdasarkan SOLO Level tidak menggunakan tenaga kerja ahli independen.
 \end{enumerate}
