@@ -39,21 +39,13 @@ Diluar dari platform-platform kelas pembelajaran pemrograman, sebenarnya terdapa
 % Maka dari itu, diperlukan sistem pembelajaran pemrograman interaktif yang dapat dipakai pengguna untuk menuliskan kode, memberikan \textit{feedback} dari kode yang dibuat, serta menilai kebenaran dari kode tersebut. \textit{Feedback} yang diberikan berupa hasil eksekusi kode berupa pesan keluaran apabila kode berhasil dijalankan, serta pesan error apabila terjadi masalah dalam eksekusi kode. Pesan keluaran hasil eksekusi dapat dibandingkan dengan pesan keluaran yang seharusnya agar dapat dinilai dan diberitahukan kepada pengguna sehingga pengguna dapat mengetahui letak kesalahan dari kode yang diimplementasikan.
 
 \section{Analisis Kebutuhan} \label{sec:analisis-kebutuhan}
-Seperti yang sudah dijelaskan pada Bab sebelumnya, KodeBareng merupakan platform web pembelajaran pemrograman yang ingin membawakan pembelajarannya secara visual dan interaktif. Pada platform ini, dibutuhkan suatu \textit{interactive learning environment} (ILE) yang dapat mendukung pembelajaran interaktif dan memecahkan masalah sulitnya mempelajari pemrograman bagi orang yang baru mempelajari pemrograman. ILE diharapkan dapat meningkatkan pemahaman konsep serta mendukung pemrograman praktis pelajar. ILE dibangun secara modular pada platform KodeBareng sehingga tidak terlalu disruptif terhadap sistem yang sudah ada. Berikut adalah diagram \textit{use case} awal KodeBareng yang terkait dengan pembelajaran pemrograman yang dapat dilihat pada \autoref{fig:diagram-usecase-v1}.
-
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=\textwidth]{chapter3/diagram_usecase_v1.jpg}
-  \caption{\textit{Use Case} pembelajaran pemrograman KodeBareng sebelum perubahan} \label{fig:diagram-usecase-v1}
-\end{figure}
-
-Berdasarkan analisis masalah, pendekatan yang akan dipilih adalah dengan membuat ILE berupa visualisasi eksekusi kode yang akan diintegrasikan pada platform web KodeBareng. ILE tesebut dapat memvisualisasikan eksekusi kode yang diberikan sehingga dapat memberikan gambaran mengenai bagaimana alur cara suatu kode program bekerja. Berbeda dengan platform lainnya yang mendukung interaktivitasnya dengan adanya animasi visual ataupun Web IDE yang dapat mengeksekusi program secara langsung, pendekatan dengan menggunakan visualisasi eksekusi kode dapat diintegrasikan dengan pembawaan materi pembelajaran serta pengerjaan latihan soal sehingga dapat mencapai tujuannya yaitu meningkatkan pemahaman orang yang baru mempelajari pemrograman dengan memberikan model kerangka eksekusi kode yang dapat dieksplorasi menggunakan kodenya sendiri. Pendekatan ini sesuai dengan yang dilakukan oleh \textcite{moons2013pilot} dan \textcite{mayer1981psychology}.
+Seperti yang sudah dijelaskan pada Bab sebelumnya, KodeBareng merupakan platform web pembelajaran pemrograman yang ingin membawakan pembelajarannya secara visual dan interaktif. Berdasarkan analisis masalah, pendekatan yang akan dipilih adalah dengan membuat ILE berupa visualisasi eksekusi kode yang akan diintegrasikan pada platform web KodeBareng. ILE tesebut dapat memvisualisasikan eksekusi kode yang diberikan sehingga dapat memberikan gambaran mengenai bagaimana alur cara suatu kode program bekerja. Berbeda dengan platform lainnya yang mendukung interaktivitasnya dengan adanya animasi visual ataupun Web IDE yang dapat mengeksekusi program secara langsung, pendekatan dengan menggunakan visualisasi eksekusi kode dapat diintegrasikan dengan pembawaan materi pembelajaran serta pengerjaan latihan soal sehingga dapat mencapai tujuannya yaitu meningkatkan pemahaman orang yang baru mempelajari pemrograman dengan memberikan model kerangka eksekusi kode yang dapat dieksplorasi menggunakan kodenya sendiri. Pendekatan ini sesuai dengan yang dilakukan oleh \textcite{moons2013pilot} dan \textcite{mayer1981psychology}.
 
 Maka dari itu, dibuatlah diagram \textit{use case} baru yang sesuai dengan kebutuhan dan pendekatan terkait yang dapat dilihat pada \autoref{fig:diagram-usecase-v2}. Penjelasan terkait \textit{use case} tersebut dapat dilihat pada \autoref{tab:exp-diagram-usecase-v2}.
 
 \begin{figure}[H]
   \centering
-  \includegraphics[width=\textwidth]{chapter3/diagram_usecase_v2.jpg}
+  \includegraphics[width=1.15\textwidth]{chapter3/diagram_usecase_v2.jpg}
   \caption{\textit{Use Case} pembelajaran pemrograman KodeBareng setelah perubahan} \label{fig:diagram-usecase-v2}
 \end{figure}
 
@@ -186,7 +178,7 @@ Alur program utama terkait visualisasi eksekusi kode dimulai dari pengguna atau 
 
 \begin{figure}[H]
   \centering
-  \includegraphics[width=\textwidth]{chapter3/activity-ile.jpg}
+  \includegraphics[width=1.15\textwidth]{chapter3/activity-ile.jpg}
   \caption{Activity Diagram ILE} \label{fig:activity-ile}
 \end{figure}
 

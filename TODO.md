@@ -101,11 +101,11 @@ Coba dicari hubungan dengan gamifikasi, secara user experience. Jangan sampai ga
 progress report tiap minggu, bentar aja.
 
 # REVISI SIDANG
-- [ ] Ubah User/Frontend jadi Siswa/Pengguna
+- [x] Ubah User/Frontend jadi Siswa/Pengguna
   - Tinggal ubah di Use Case
-- [ ] Use Case pengguna harus merefer ke pembelajar/admin
+- [x] Use Case pengguna harus merefer ke pembelajar/admin
   - Tinggal ubah kata pengguna jadi Siswa
-- [ ] Use case lama harusnya ada di bab 2
+- [x] Use case lama harusnya ada di bab 2
   - Tinggal pindahin usecasenya
 - [ ] Disebutkan banyak peluang ILE pada Choy & Eng, akan tetapi hanya sebagian saja yang diaplikasikan.
   - Jelasin kenapa kamu mengaplikasikan yang latihan kode praktis
@@ -135,3 +135,8 @@ progress report tiap minggu, bentar aja.
   - Hasil eksplorasi PDB bisa berupa command apa saja yang bisa dieksekusi, bagaimana hasil keluarannya, dsb. Nanti di komponen Parser dan Executor tinggal refer input/output apa yang harus dipakai
 - [ ] Perlu ada penjelasan teknis bagaimana keluaran PDB diproses sehingga menghasilkan visualisasi
   - Dari hasil eksplorasi, masukin penjelasannya di komponen Parser
+- [ ] Perbaikin abstrak
+- [ ] Buat abstrak bahasa inggris
+- [ ] Buat lampiran jadi table lanskap dengan adjustbox
+- [ ] Masukin CMS ke Component Diagram
+- [ ] Pastiin semua table dan gambar sudah direferensi
