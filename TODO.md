@@ -107,9 +107,7 @@ progress report tiap minggu, bentar aja.
   - Tinggal ubah kata pengguna jadi Siswa
 - [x] Use case lama harusnya ada di bab 2
   - Tinggal pindahin usecasenya
-- [ ] Disebutkan banyak peluang ILE pada Choy & Eng, akan tetapi hanya sebagian saja yang diaplikasikan.
-  - Jelasin kenapa kamu mengaplikasikan yang latihan kode praktis
-- [ ] Simpulan dan saran harus ada kuantifikasi dan berdasarkan hasil pengujian, jangan pakai bahasa bisnis
+- [x] Simpulan dan saran harus ada kuantifikasi dan berdasarkan hasil pengujian, jangan pakai bahasa bisnis
   - Masukin aja angka2nya ke kesimpulan
 - [ ] Tabel font spasi kecil & 1 spasi & header + caption hrus direpeat
   - Tinggal pake \small, >{\baselineskip} sama caption masukin ke luar firsthead
@@ -126,6 +124,8 @@ progress report tiap minggu, bentar aja.
   - Jelasin di KodeBareng ILEnya yang sekarang kayak gimana, struktur kelas dsbnya jelasin dan kasih gambar
 - [ ] Sehingga perlu jelasin bagaimana dari KB yang perlu diperbaiki berdasarkan masukan dari pengguna
   - Jelasin kekurangan dari ILE KodeBareng yang sekarang
+- [ ] Disebutkan banyak peluang ILE pada Choy & Eng, akan tetapi hanya sebagian saja yang diaplikasikan.
+  - Jelasin kenapa kamu mengaplikasikan yang latihan kode praktis
 - [ ] 2.2 Harus melakukan tabel komparasi dari tools/tempat lain yang bisa diadaptasi ke KodeBareng utk perbaikan KodeBareng
   - Masukin dulu tiap ILE di platform lain kayak gimana pros/consnya, lalu buat tabel komparasi apa yang mau diambil buat KodeBareng
 - [ ] Perlu analisis bagaimana konsep yang diimplementasi, tidak hanya sekedar dilist

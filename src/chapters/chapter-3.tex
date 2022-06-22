@@ -18,7 +18,7 @@ Menurut \textcite{moons2013pilot}, terdapat 4 pendekatan yang dapat dilakukan un
 
 Berdasarkan studi literatur terhadap beberapa platform kelas pembelajaran lainnya, metode pembelajaran pemrograman interaktif secara daring dapat dikategorikan menjadi visual dan non-visual. Metode pembelajaran pemrograman yang visual tidak langsung menggunakan kode seperti pada \textcite{brilliant2021media}, tetapi menggunakan perumpaan visual yang interaktif dengan memakai gambar, simbol, serta animasi. Metode ini membuat pembelajaran menjadi lebih menarik dan mudah, karena diekspresikan dalam bentuk visual sehingga dapat membentuk model kerangka pikir pelajar. Namun, metode ini tidak menyentuh secara langsung aktivitas pemrograman secara praktis sehingga ada kemungkinan dapat terjadi perbedaan antara teori dan praktik yang dipahami pelajar dengan implementasi program yang sebenarnya. Metode ini juga memiliki bentuk yang spesifik terhadap konten materi yang dibawa, sehingga tidak dapat dipakai untuk konten materi lainnya. \textcite{froggy2021media} juga termasuk pada kategori ini, karena implementasinya hanya spesifik pada materi yang dibawa, khususnya pada materi pengembangan web.
 
-Metode non-visual kebanyakan menggunakan Web IDE dalam pembelajarannya. Pengguna dapat berinteraksi dengan Web IDE sehingga mereka dapat melatih kemampuan pemecahan masalah dan pemrograman praktis. Web IDE yang digunakan biasanya memiliki kapabilitas untuk mengembalikan hasil keluaran dari eksekusi kode, serta melakukan penilaian terhadap kebenaran implementasi. Web IDE juga dapat menerima berbagai macam bahasa sesuai dengan kebutuhan materi yang sedang dipelajari. Selain itu, terdapat juga Web IDE yang menyimulasikan terminal ketimbang editor kode seperti yang dapat dilihat di Katacoda \parencite{katacoda2021media}. Terdapat juga platform seperti \textcite{progate2021media} yang memanfaatkan pembelajaran interaktif dengan pendekatan "melalui" penyampaian materi secara visual dan naratif. Namun, kebanyakan dari implementasi metode ini hanya berfokus pada aspek latihan pemrograman praktis saja, tidak memerhatikan permasalahan terhadap pelajar yang telah dibahas sebelumnya.
+Metode non-visual mayoritas menggunakan Web IDE dalam pembelajarannya. Pengguna dapat berinteraksi dengan Web IDE sehingga mereka dapat melatih kemampuan pemecahan masalah dan pemrograman praktis. Web IDE yang digunakan biasanya memiliki kapabilitas untuk mengembalikan hasil keluaran dari eksekusi kode, serta melakukan penilaian terhadap kebenaran implementasi. Web IDE juga dapat menerima berbagai macam bahasa sesuai dengan kebutuhan materi yang sedang dipelajari. Selain itu, terdapat juga Web IDE yang menyimulasikan terminal ketimbang editor kode seperti yang dapat dilihat di Katacoda \parencite{katacoda2021media}. Terdapat juga platform seperti \textcite{progate2021media} yang memanfaatkan pembelajaran interaktif dengan pendekatan "melalui" penyampaian materi secara visual dan naratif. Namun, kebanyakan dari implementasi metode ini hanya berfokus pada aspek latihan pemrograman praktis saja, tidak memerhatikan permasalahan terhadap pelajar yang telah dibahas sebelumnya.
 
 Diluar dari platform-platform kelas pembelajaran pemrograman, sebenarnya terdapat berbagai macam pembelajaran interaktif yang menawarkan solusi yang lebih variatif, seperti pada \textcite{tran2013interactive} IDE yang dibuat digabungkan dengan aspek interaktif berupa kolaborasi antara pelajar dengan pelajar lainnya. Terdapat juga implementasi pada \textcite{guo2013pythontutor} serta \textcite{moons2013pilot} yang menerapkan pendekatan keempat berupa visualisasi eksekusi kode. Visualisasi eksekusi kode menjadi salah satu aspek yang menarik karena tidak banyak ditemukan implementasinya pada platform kelas pembelajaran pemrograman yang sudah ada. Hal ini akan menjadi keunikan tersendiri karena berbeda dari platform kelas pembelajaran pemrograman lainnya sehingga dapat menjadi nilai tambah pada platform pembelajaran pemrograman KodeBareng.
 
@@ -49,8 +49,9 @@ Maka dari itu, dibuatlah diagram \textit{use case} baru yang sesuai dengan kebut
   \caption{\textit{Use Case} pembelajaran pemrograman KodeBareng setelah perubahan} \label{fig:diagram-usecase-v2}
 \end{figure}
 
+\small
 \begin{longtable}[c]{|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.3\linewidth}|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.5\linewidth}|}
-  \caption{Penjelasan \textit{Use Case} pembelajaran pemrograman KodeBareng setelah perubahan}
+  \caption{\normalsize Penjelasan \textit{Use Case} pembelajaran pemrograman KodeBareng setelah perubahan}
   \label{tab:exp-diagram-usecase-v2}                                                                                                                                                                                                                                                                                                                  \\
   \hline
   \rowcolor{gray!30}
@@ -78,13 +79,15 @@ Maka dari itu, dibuatlah diagram \textit{use case} baru yang sesuai dengan kebut
   UC-18       & Memasukkan \textit{test case} soal             & Administrator dapat memasukkan \textit{test case} penilaian pada suatu soal. Perubahannya adalah \textit{test case} yang dimasukkan bisa lebih dari satu dan memiliki input masing-masing.                                                                                           \\ \hline
   UC-19       & Memasukkan hint kesalahan kode                 & Administrator dapat menentukan hint kesalahan yang ditampilkan pada suatu soal.                                                                                                                                                                                                      \\ \hline
 \end{longtable}
+\normalsize
 
 Berdasarkan \textit{use case} baru yang telah dibuat pada \autoref{fig:diagram-usecase-v2}, diturunkanlah spesifikasi kebutuhan perangkat lunak fungsional dan non-fungsional yang dapat dilihat pada \autoref{tab:srs-fungsional} dan \autoref{tab:srs-nonfungsional}.
 
 Spesifikasi fungsional menjelaskan fungsi-fungsi yang dapat dijalankan pada ILE yang akan dibuat. Spesifikasi ini diturunkan dari diagram \textit{use case} sesuai dengan siapa dan apa yang dapat dilakukan. Berikut adalah penjelasan lebih detail mengenai spesifikasi fungsional pada \autoref{tab:srs-fungsional}.
 
+\small
 \begin{longtable}[c]{|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.5\linewidth}|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.3\linewidth}|}
-  \caption{Spesifikasi kebutuhan fungsional ILE KodeBareng}
+  \caption{\normalsize Spesifikasi kebutuhan fungsional ILE KodeBareng}
   \label{tab:srs-fungsional}                                                                                                                                                                                                                                              \\
   \hline
   \rowcolor{gray!30}
@@ -109,11 +112,13 @@ Spesifikasi fungsional menjelaskan fungsi-fungsi yang dapat dijalankan pada ILE 
   KB-F-14     & Administrator memasukkan \textit{test case} soal pemrograman                             &                                                                                                                                                                \\ \hline
   KB-F-15     & Administrator memasukkan \textit{hint} kesalahan yang dapat ditampilkan pada soal        & -                                                                                                                                                              \\ \hline
 \end{longtable}
+\normalsize
 
 Spesifikasi non-fungsional diturunkan dari kebutuhan KodeBareng agar tujuan dapat tercapai dan sistem berjalan dengan lancar. Maka dari itu, diturunkanlah spesifikasi berupa batasan respon hasil eksekusi agar pengguna tidak terlalu lama menunggu hasil eksekusi, desain sistem yang memudahkan dilakukan pengetesan terhadap berbagai macam kode, serta membatasi apa yang dapat dieksekusi agar keamanan sistem dapat terjaga. Berikut adalah penjelasan lebih detail mengenai spesifikasi fungsional pada \autoref{tab:srs-nonfungsional}.
 
+\small
 \begin{longtable}[c]{|l|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.6\linewidth}|}
-  \caption{Spesifikasi kebutuhan non-fungsional ILE KodeBareng}
+  \caption{\normalsize Spesifikasi kebutuhan non-fungsional ILE KodeBareng}
   \label{tab:srs-nonfungsional}                                                                            \\
   \hline
   \rowcolor{gray!30}
@@ -126,11 +131,13 @@ Spesifikasi non-fungsional diturunkan dari kebutuhan KodeBareng agar tujuan dapa
   KB-NF-02    & Testability        & Sistem dirancang sedemikian rupa sehingga mudah dilakukan pengetesan. \\ \hline
   KB-NF-03    & Security           & Sistem tidak membiarkan terjadinya eksekusi kode berbahaya.           \\ \hline
 \end{longtable}
+\normalsize
 
 Berikut adalah pemetaan hasil penurunan antara \textit{use case} dengan spesifikasi kebutuhan terkait yang dapat dilihat pada \autoref{tab:srs-usecase}.
 
+\small
 \begin{longtable}[c]{|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.5\linewidth}|}
-  \caption{Keterkaitan SRS dan Use Case}
+  \caption{\normalsize Keterkaitan SRS dan Use Case}
   \label{tab:srs-usecase}                \\
   \hline
   \rowcolor{gray!30}
@@ -155,6 +162,7 @@ Berikut adalah pemetaan hasil penurunan antara \textit{use case} dengan spesifik
   KB-F-14         & UC-18                \\ \hline
   KB-F-15         & UC-19                \\ \hline
 \end{longtable}
+\normalsize
 
 \section{Rancangan Solusi}
 
