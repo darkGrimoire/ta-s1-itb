@@ -136,7 +136,7 @@ progress report tiap minggu, bentar aja.
 - [ ] Perlu ada penjelasan teknis bagaimana keluaran PDB diproses sehingga menghasilkan visualisasi
   - Dari hasil eksplorasi, masukin penjelasannya di komponen Parser
 - [ ] Perbaikin abstrak
-- [ ] Buat abstrak bahasa inggris
+- [x] Buat abstrak bahasa inggris
 - [ ] Buat lampiran jadi table lanskap dengan adjustbox
-- [ ] Masukin CMS ke Component Diagram
+- [x] Masukin CMS ke Component Diagram
 - [ ] Pastiin semua table dan gambar sudah direferensi
