@@ -51,14 +51,15 @@ Maka dari itu, dibuatlah diagram \textit{use case} baru yang sesuai dengan kebut
 
 \small
 \begin{longtable}[c]{|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.3\linewidth}|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.5\linewidth}|}
-  \caption{\normalsize Penjelasan \textit{Use Case} pembelajaran pemrograman KodeBareng setelah perubahan}
-  \label{tab:exp-diagram-usecase-v2}                                                                                                                                                                                                                                                                                                                  \\
-  \hline
+  \caption{Penjelasan \textit{Use Case} pembelajaran pemrograman KodeBareng setelah perubahan} \label{tab:exp-diagram-usecase-v2}                                                                                                                                                                                                                     \\ \hline
   \rowcolor{gray!30}
   \textbf{ID} & \textbf{Kebutuhan}                             & \textbf{Penjelasan}                                                                                                                                                                                                                                                                  \\ \hline
   \endfirsthead
   %
-  % \endhead
+  \caption*{\autoref{tab:exp-diagram-usecase-v2} (lanjutan): Penjelasan \textit{Use Case} pembelajaran pemrograman KodeBareng setelah perubahan}                                                                                                                                                                                                      \\ \hline
+  \rowcolor{gray!30}
+  \textbf{ID} & \textbf{Kebutuhan}                             & \textbf{Penjelasan}                                                                                                                                                                                                                                                                  \\ \hline
+  \endhead
   %
   UC-01       & Melihat materi pembelajaran                    & Pengguna dapat melihat materi pembelajaran berupa teks dan gambar. Perubahannya adalah integrasi ILE  sehingga pada materi dapat dimasukkan visualisasi eksekusi kode.                                                                                                               \\ \hline
   UC-02       & Mengerjakan soal pemrograman                   & Pengguna dapat mengerjakan latihan soal pemrograman. Perubahannya adalah soal pemrograman kini dilengkapi ILE yang dapat memvisualisasikan eksekusi kode serta memberikan hint apabila ada kesalahan dalam mengerjakan soal.                                                         \\ \hline
@@ -87,13 +88,14 @@ Spesifikasi fungsional menjelaskan fungsi-fungsi yang dapat dijalankan pada ILE 
 
 \small
 \begin{longtable}[c]{|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.5\linewidth}|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.3\linewidth}|}
-  \caption{\normalsize Spesifikasi kebutuhan fungsional ILE KodeBareng}
-  \label{tab:srs-fungsional}                                                                                                                                                                                                                                              \\
-  \hline
+  \caption{Spesifikasi kebutuhan fungsional ILE KodeBareng} \label{tab:srs-fungsional}                                                                                                                                                                                    \\ \hline
   \rowcolor{gray!30}
   \textbf{ID} & \textbf{Kebutuhan}                                                                       & \textbf{Penjelasan}                                                                                                                                            \\ \hline
   \endfirsthead
   %
+  \caption*{\autoref{tab:srs-fungsional} (lanjutan): Spesifikasi kebutuhan fungsional ILE KodeBareng}                                                                                                                                                                     \\ \hline
+  \rowcolor{gray!30}
+  \textbf{ID} & \textbf{Kebutuhan}                                                                       & \textbf{Penjelasan}                                                                                                                                            \\ \hline
   \endhead
   %
   KB-F-01     & Pengguna memasukkan kode program pada sistem                                             & Menggunakan kakas Monaco Editor.                                                                                                                               \\ \hline
@@ -118,18 +120,19 @@ Spesifikasi non-fungsional diturunkan dari kebutuhan KodeBareng agar tujuan dapa
 
 \small
 \begin{longtable}[c]{|l|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.6\linewidth}|}
-  \caption{\normalsize Spesifikasi kebutuhan non-fungsional ILE KodeBareng}
-  \label{tab:srs-nonfungsional}                                                                            \\
-  \hline
+  \caption{Spesifikasi kebutuhan non-fungsional ILE KodeBareng} \label{tab:srs-nonfungsional}                \\ \hline
   \rowcolor{gray!30}
-  \textbf{ID} & \textbf{Parameter} & \textbf{Kebutuhan}                                                    \\ \hline
+  \textbf{ID} & \textbf{Parameter} & \textbf{Kebutuhan}                                                      \\ \hline
   \endfirsthead
   %
+  \caption*{\autoref{tab:srs-nonfungsional} (lanjutan): Spesifikasi kebutuhan non-fungsional ILE KodeBareng} \\ \hline
+  \rowcolor{gray!30}
+  \textbf{ID} & \textbf{Parameter} & \textbf{Kebutuhan}                                                      \\ \hline
   \endhead
   %
-  KB-NF-01    & Performance        & Sistem mengembalikan hasil eksekusi paling lama 10 detik.             \\ \hline
-  KB-NF-02    & Testability        & Sistem dirancang sedemikian rupa sehingga mudah dilakukan pengetesan. \\ \hline
-  KB-NF-03    & Security           & Sistem tidak membiarkan terjadinya eksekusi kode berbahaya.           \\ \hline
+  KB-NF-01    & Performance        & Sistem mengembalikan hasil eksekusi paling lama 10 detik.               \\ \hline
+  KB-NF-02    & Testability        & Sistem dirancang sedemikian rupa sehingga mudah dilakukan pengetesan.   \\ \hline
+  KB-NF-03    & Security           & Sistem tidak membiarkan terjadinya eksekusi kode berbahaya.             \\ \hline
 \end{longtable}
 \normalsize
 
@@ -137,30 +140,31 @@ Berikut adalah pemetaan hasil penurunan antara \textit{use case} dengan spesifik
 
 \small
 \begin{longtable}[c]{|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.5\linewidth}|}
-  \caption{\normalsize Keterkaitan SRS dan Use Case}
-  \label{tab:srs-usecase}                \\
-  \hline
+  \caption{Keterkaitan SRS dan Use Case} \label{tab:srs-usecase}                \\ \hline
   \rowcolor{gray!30}
-  \textbf{ID SRS} & \textbf{ID Use Case} \\ \hline
+  \textbf{ID SRS} & \textbf{ID Use Case}                                        \\ \hline
   \endfirsthead
   %
+  \caption*{\autoref{tab:srs-usecase} (lanjutan): Keterkaitan SRS dan Use Case} \\ \hline
+  \rowcolor{gray!30}
+  \textbf{ID SRS} & \textbf{ID Use Case}                                        \\ \hline
   \endhead
   %
-  KB-F-01         & UC-02                \\ \hline
-  KB-F-02         & UC-05, UC-13         \\ \hline
-  KB-F-03         & UC-02, UC-04, UC-07  \\ \hline
-  KB-F-04         & UC-01, UC-02, UC-03  \\ \hline
-  KB-F-05         & UC-04, UC-11         \\ \hline
-  KB-F-06         & UC-06                \\ \hline
-  KB-F-07         & UC-02, UC-14         \\ \hline
-  KB-F-08         & UC-08, UC-09         \\ \hline
-  KB-F-09         & UC-11                \\ \hline
-  KB-F-10         & UC-12                \\ \hline
-  KB-F-11         & UC-15                \\ \hline
-  KB-F-12         & UC-16                \\ \hline
-  KB-F-13         & UC-17                \\ \hline
-  KB-F-14         & UC-18                \\ \hline
-  KB-F-15         & UC-19                \\ \hline
+  KB-F-01         & UC-02                                                       \\ \hline
+  KB-F-02         & UC-05, UC-13                                                \\ \hline
+  KB-F-03         & UC-02, UC-04, UC-07                                         \\ \hline
+  KB-F-04         & UC-01, UC-02, UC-03                                         \\ \hline
+  KB-F-05         & UC-04, UC-11                                                \\ \hline
+  KB-F-06         & UC-06                                                       \\ \hline
+  KB-F-07         & UC-02, UC-14                                                \\ \hline
+  KB-F-08         & UC-08, UC-09                                                \\ \hline
+  KB-F-09         & UC-11                                                       \\ \hline
+  KB-F-10         & UC-12                                                       \\ \hline
+  KB-F-11         & UC-15                                                       \\ \hline
+  KB-F-12         & UC-16                                                       \\ \hline
+  KB-F-13         & UC-17                                                       \\ \hline
+  KB-F-14         & UC-18                                                       \\ \hline
+  KB-F-15         & UC-19                                                       \\ \hline
 \end{longtable}
 \normalsize
 

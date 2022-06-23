@@ -111,7 +111,7 @@ progress report tiap minggu, bentar aja.
   - Masukin aja angka2nya ke kesimpulan
 - [ ] Tabel font spasi kecil & 1 spasi & header + caption hrus direpeat
   - Tinggal pake \small, >{\baselineskip} sama caption masukin ke luar firsthead
-- [ ] Diagram terlalu kecil, kalau ada yang kekecilan bisa agak makan margin ke kanan
+- [x] Diagram terlalu kecil, kalau ada yang kekecilan bisa agak makan margin ke kanan
   - Pake adjustbox buat bisa keluar margin
 - [ ] Alur pembelajaran ILE yg kuning hrus dijelasin legendanya
   - Masukin legenda ke activity diagram
@@ -137,6 +137,6 @@ progress report tiap minggu, bentar aja.
   - Dari hasil eksplorasi, masukin penjelasannya di komponen Parser
 - [ ] Perbaikin abstrak
 - [x] Buat abstrak bahasa inggris
-- [ ] Buat lampiran jadi table lanskap dengan adjustbox
+- [x] Buat lampiran jadi table lanskap muat page width
 - [x] Masukin CMS ke Component Diagram
 - [ ] Pastiin semua table dan gambar sudah direferensi
