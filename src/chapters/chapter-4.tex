@@ -8,12 +8,12 @@ Implementasi dilakukan menggunakan teknologi yang telah dipakai pada KodeBareng 
 
 \small
 \begin{longtable}[c]{|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.3\linewidth}|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.4\linewidth}|}
-  \caption{\normalsize \textit{Tech stack} yang digunakan oleh KodeBareng} \label{tab:tech-stack}                   \\ \hline
+  \caption{\textit{Tech stack} yang digunakan oleh KodeBareng} \label{tab:tech-stack}                               \\ \hline
   \rowcolor{gray!30}
   \textbf{Nama Sistem}                                     & \textbf{Teknologi / \textit{Framework} yang digunakan} \\ \hline
   \endfirsthead
   %
-  \caption{\normalsize (lanjutan) \textit{Tech stack} yang digunakan oleh KodeBareng}                               \\ \hline
+  \caption*{\autoref{tab:tech-stack} (lanjutan): \textit{Tech stack} yang digunakan oleh KodeBareng}                \\ \hline
   \rowcolor{gray!30}
   \textbf{Nama Sistem}                                     & \textbf{Teknologi / \textit{Framework} yang digunakan} \\ \hline
   \endhead
@@ -29,12 +29,12 @@ Selain dari teknologi yang digunakan, terdapat juga batasan dari bahasa pemrogra
 
 \footnotesize
 \begin{longtable}[c]{|l|l|}
-  \caption{\normalsize Cakupan implementasi ILE} \label{tab:ile-scope}          \\ \hline
+  \caption{Cakupan implementasi ILE} \label{tab:ile-scope}                      \\ \hline
   \rowcolor{gray!30}
   \small\textbf{Concepts}                       & \small Termasuk Implementasi? \\ \hline
   \endfirsthead
   %
-  \caption{\normalsize (lanjutan) Cakupan implementasi ILE}                     \\ \hline
+  \caption*{\autoref{tab:ile-scope} (lanjutan): Cakupan implementasi ILE}       \\ \hline
   \rowcolor{gray!30}
   \small\textbf{Concepts}                       & \small Termasuk Implementasi? \\ \hline
   \endhead
@@ -161,20 +161,20 @@ Pengujian spesifikasi fungsional sistem dilakukan pada komputer server KodeBaren
 
 \small
 \begin{longtable}[c]{|l|l|}
-  \caption{\normalsize Lingkungan pengujian komputer server} \label{tab:lingkungan-server} \\ \hline
+  \caption{Lingkungan pengujian komputer server} \label{tab:lingkungan-server}                \\ \hline
   \rowcolor{gray!30}
-  \textbf{Komponen} & \textbf{Keterangan}                                                  \\ \hline
+  \textbf{Komponen} & \textbf{Keterangan}                                                     \\ \hline
   \endfirsthead
   %
-  \caption{\normalsize (lanjutan) Lingkungan pengujian komputer server}                    \\ \hline
+  \caption*{\autoref{tab:lingkungan-server} (lanjutan): Lingkungan pengujian komputer server} \\ \hline
   \rowcolor{gray!30}
-  \textbf{Komponen} & \textbf{Keterangan}                                                  \\ \hline
+  \textbf{Komponen} & \textbf{Keterangan}                                                     \\ \hline
   \endhead
   %
-  Prosesor          & Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz                             \\ \hline
-  Memori            & 2GB                                                                  \\ \hline
-  Storage           & 32GB                                                                 \\ \hline
-  Sistem Operasi    & Ubuntu 20.04.4 LTS                                                   \\ \hline
+  Prosesor          & Intel(R) Xeon(R) CPU E5-2660 0 @ 2.20GHz                                \\ \hline
+  Memori            & 2GB                                                                     \\ \hline
+  Storage           & 32GB                                                                    \\ \hline
+  Sistem Operasi    & Ubuntu 20.04.4 LTS                                                      \\ \hline
 \end{longtable}
 \normalsize
 
@@ -187,47 +187,49 @@ Pengujian fungsional dilakukan berdasarkan spesifikasi kebutuhan fungsional dan 
 
 \small
 \begin{longtable}[c]{|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.5\linewidth}|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.2\linewidth}|}
-  \caption{\normalsize Skenario dan hasil pengujian fungsional}
-  \label{tab:pengujian-fungsional}                                                                                        \\
-  \hline
+  \caption{Skenario dan hasil pengujian fungsional} \label{tab:pengujian-fungsional}                                     \\ \hline
   \rowcolor{gray!30}
-  \textbf{ID} & \textbf{Skenario}                                                                        & \textbf{Hasil} \\ \hline
+  \textbf{ID} & \textbf{Skenario}                                                                       & \textbf{Hasil} \\ \hline
   \endfirsthead
   %
+  \caption*{\autoref{tab:pengujian-fungsional} (lanjutan): Skenario dan hasil pengujian fungsional}                      \\ \hline
+  \rowcolor{gray!30}
+  \textbf{ID} & \textbf{Skenario}                                                                       & \textbf{Hasil} \\ \hline
   \endhead
   %
-  KB-F-01     & Pengguna memasukkan kode program pada sistem                                             & Diterima       \\ \hline
-  KB-F-02     & Pengguna memasukkan input program pada sistem                                            & Diterima       \\ \hline
-  KB-F-03     & Pengguna dapat menjalankan kode                                                          & Diterima       \\ \hline
-  KB-F-04     & Pengguna dapat melihat hasil visualisasi eksekusi kode                                   & Diterima       \\ \hline
-  KB-F-05     & Pengguna mendapat penilaian dari hasil eksekusi kode                                     & Diterima       \\ \hline
-  KB-F-06     & Pengguna mendapat \textit{hint} kesalahan pada kode program                              & Diterima       \\ \hline
-  KB-F-07     & Pengguna dapat melihat pesan error pada program                                          & Diterima       \\ \hline
-  KB-F-08     & Sistem menolak kode pengguna apabila terdapat perintah-perintah yang tidak diperbolehkan & Diterima       \\ \hline
-  KB-F-09     & Sistem menilai kode program menggunakan \textit{test case}                               & Diterima       \\ \hline
-  KB-F-10     & Sistem mengolah \textit{stack trace} eksekusi program                                    & Diterima       \\ \hline
-  KB-F-11     & Administrator menentukan perintah-perintah yang tidak diperbolehkan                      & Diterima       \\ \hline
-  KB-F-12     & Administrator memasukkan konten materi pembelajaran                                      & Diterima       \\ \hline
-  KB-F-13     & Administrator membuat soal pemrograman                                                   & Diterima       \\ \hline
-  KB-F-14     & Administrator memasukkan \textit{test case} soal pemrograman                             & Diterima       \\ \hline
-  KB-F-15     & Administrator memasukkan \textit{hint} kesalahan yang dapat ditampilkan pada soal        & Diterima       \\ \hline
+  KB-F-01     & Pelajar memasukkan kode program pada sistem                                             & Diterima       \\ \hline
+  KB-F-02     & Pelajar memasukkan input program pada sistem                                            & Diterima       \\ \hline
+  KB-F-03     & Pelajar dapat menjalankan kode                                                          & Diterima       \\ \hline
+  KB-F-04     & Pelajar dapat melihat hasil visualisasi eksekusi kode                                   & Diterima       \\ \hline
+  KB-F-05     & Pelajar mendapat penilaian dari hasil eksekusi kode                                     & Diterima       \\ \hline
+  KB-F-06     & Pelajar mendapat \textit{hint} kesalahan pada kode program                              & Diterima       \\ \hline
+  KB-F-07     & Pelajar dapat melihat pesan error pada program                                          & Diterima       \\ \hline
+  KB-F-08     & Sistem menolak kode pelajar apabila terdapat perintah-perintah yang tidak diperbolehkan & Diterima       \\ \hline
+  KB-F-09     & Sistem menilai kode program menggunakan \textit{test case}                              & Diterima       \\ \hline
+  KB-F-10     & Sistem mengolah \textit{stack trace} eksekusi program                                   & Diterima       \\ \hline
+  KB-F-11     & Administrator menentukan perintah-perintah yang tidak diperbolehkan                     & Diterima       \\ \hline
+  KB-F-12     & Administrator memasukkan konten materi pembelajaran                                     & Diterima       \\ \hline
+  KB-F-13     & Administrator membuat soal pemrograman                                                  & Diterima       \\ \hline
+  KB-F-14     & Administrator memasukkan \textit{test case} soal pemrograman                            & Diterima       \\ \hline
+  KB-F-15     & Administrator memasukkan \textit{hint} kesalahan yang dapat ditampilkan pada soal       & Diterima       \\ \hline
 \end{longtable}
 \normalsize
 
 \small
 \begin{longtable}[c]{|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.6\linewidth}|l|}
-  \caption{\normalsize Skenario dan hasil pengujian non-fungsional}
-  \label{tab:pengujian-nonfungsional}                                                      \\
-  \hline
+  \caption{Skenario dan hasil pengujian non-fungsional} \label{tab:pengujian-nonfungsional}                \\ \hline
   \rowcolor{gray!30}
-  \textbf{ID} & \textbf{Skenario}                                         & \textbf{Hasil} \\ \hline
+  \textbf{ID} & \textbf{Skenario}                                         & \textbf{Hasil}                 \\ \hline
   \endfirsthead
   %
+  \caption*{\autoref{tab:pengujian-nonfungsional} (lanjutan): Skenario dan hasil pengujian non-fungsional} \\ \hline
+  \rowcolor{gray!30}
+  \textbf{ID} & \textbf{Skenario}                                         & \textbf{Hasil}                 \\ \hline
   \endhead
   %
-  KB-NF-01    & Sistem mengembalikan hasil eksekusi paling lama 10 detik. & Diterima       \\ \hline
-  KB-NF-02    & Sistem dapat diuji menggunakan beragam kode program       & Diterima       \\ \hline
-  KB-NF-03    & Sistem menolak kode berbahaya                             & Diterima       \\ \hline
+  KB-NF-01    & Sistem mengembalikan hasil eksekusi paling lama 10 detik. & Diterima                       \\ \hline
+  KB-NF-02    & Sistem dapat diuji menggunakan beragam kode program       & Diterima                       \\ \hline
+  KB-NF-03    & Sistem menolak kode berbahaya                             & Diterima                       \\ \hline
 \end{longtable}
 \normalsize
 
@@ -241,13 +243,14 @@ Materi yang diberikan terbagi menjadi 3 modul yaitu modul Pengenalan Python Dasa
 
 \small
 \begin{longtable}[c]{|l|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.5\linewidth}|}
-  \caption{\normalsize Kategori penilaian SOLO Level}
-  \label{tab:solo-level}                                                                                                                                 \\
-  \hline
+  \caption{Kategori penilaian SOLO Level} \label{tab:solo-level}                                                                                         \\ \hline
   \rowcolor{gray!30}
   \textbf{SOLO Level} & \textbf{Kategori} & \textbf{Deskripsi}                                                                                           \\ \hline
   \endfirsthead
   %
+  \caption*{\autoref{} (lanjutan):Kategori penilaian SOLO Level}                                                                                         \\ \hline
+  \rowcolor{gray!30}
+  \textbf{SOLO Level} & \textbf{Kategori} & \textbf{Deskripsi}                                                                                           \\ \hline
   \endhead
   %
   1                   & Prestructural     & Memperlihatkan kurangnya pengetahuan pemrograman atau tidak berhubungan dengan pertanyaan yang diberikan     \\ \hline
@@ -297,28 +300,28 @@ Berikut \autoref{fig:kuesioner-memahami} dan \autoref{tab:kuesioner1-statistik} 
 
 \small
 \begin{longtable}[c]{|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.5\linewidth}|}
-  \caption{\normalsize Hasil perhitungan statistik deskriptif pada respon kuesioner pertanyaan pertama}
-  \label{tab:kuesioner1-statistik}                                                                  \\
-  \hline
-                           & Apakah visualisasi kode membuatmu lebih memahami kode yang dijalankan? \\ \hline
+  \caption{Hasil perhitungan statistik deskriptif pada respon kuesioner pertanyaan pertama} \label{tab:kuesioner1-statistik}                                                 \\ \hline
+                           & Apakah visualisasi kode membuatmu lebih memahami kode yang dijalankan?                                                                          \\ \hline
   \endfirsthead
   %
+  \caption*{\autoref{tab:kuesioner1-statistik} (lanjutan): Hasil perhitungan statistik deskriptif pada respon kuesioner pertanyaan pertama} \label{tab:kuesioner1-statistik} \\ \hline
+                           & Apakah visualisasi kode membuatmu lebih memahami kode yang dijalankan?                                                                          \\ \hline
   \endhead
   %
-  Mean                     & 4.230769                                                               \\ \hline
-  Standard Error           & 0.25705                                                                \\ \hline
-  Median                   & 4                                                                      \\ \hline
-  Mode                     & 5                                                                      \\ \hline
-  Standard Deviation       & 0.926809                                                               \\ \hline
-  Sample Variance          & 0.858974                                                               \\ \hline
-  Kurtosis                 & 1.524332                                                               \\ \hline
-  Skewness                 & -1.27368                                                               \\ \hline
-  Range                    & 3                                                                      \\ \hline
-  Minimum                  & 2                                                                      \\ \hline
-  Maximum                  & 5                                                                      \\ \hline
-  Sum                      & 55                                                                     \\ \hline
-  Count                    & 13                                                                     \\ \hline
-  Confidence Level(95,0\%) & 0.560065                                                               \\ \hline
+  Mean                     & 4.230769                                                                                                                                        \\ \hline
+  Standard Error           & 0.25705                                                                                                                                         \\ \hline
+  Median                   & 4                                                                                                                                               \\ \hline
+  Mode                     & 5                                                                                                                                               \\ \hline
+  Standard Deviation       & 0.926809                                                                                                                                        \\ \hline
+  Sample Variance          & 0.858974                                                                                                                                        \\ \hline
+  Kurtosis                 & 1.524332                                                                                                                                        \\ \hline
+  Skewness                 & -1.27368                                                                                                                                        \\ \hline
+  Range                    & 3                                                                                                                                               \\ \hline
+  Minimum                  & 2                                                                                                                                               \\ \hline
+  Maximum                  & 5                                                                                                                                               \\ \hline
+  Sum                      & 55                                                                                                                                              \\ \hline
+  Count                    & 13                                                                                                                                              \\ \hline
+  Confidence Level(95,0\%) & 0.560065                                                                                                                                        \\ \hline
 \end{longtable}
 \normalsize
 
@@ -334,28 +337,28 @@ Berikut \autoref{fig:kuesioner-soal} dan \autoref{tab:kuesioner2-statistik} adal
 
 \small
 \begin{longtable}[c]{|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.5\linewidth}|}
-  \caption{\normalsize Hasil perhitungan statistik deskriptif pada respon kuesioner pertanyaan kedua}
-  \label{tab:kuesioner2-statistik}                                                              \\
-  \hline
-                           & Apakah visualisasi kode membantumu menjawab kuis dan latihan soal? \\ \hline
+  \caption{Hasil perhitungan statistik deskriptif pada respon kuesioner pertanyaan kedua} \label{tab:kuesioner2-statistik}                                                \\ \hline
+                           & Apakah visualisasi kode membantumu menjawab kuis dan latihan soal?                                                                           \\ \hline
   \endfirsthead
   %
+  \caption*{\autoref{tab:kuesioner2-statistik} (lanjutan):Hasil perhitungan statistik deskriptif pada respon kuesioner pertanyaan kedua} \label{tab:kuesioner2-statistik} \\ \hline
+                           & Apakah visualisasi kode membantumu menjawab kuis dan latihan soal?                                                                           \\ \hline
   \endhead
   %
-  Mean                     & 4.384615                                                           \\ \hline
-  Standard Error           & 0.266469                                                           \\ \hline
-  Median                   & 5                                                                  \\ \hline
-  Mode                     & 5                                                                  \\ \hline
-  Standard Deviation       & 0.960769                                                           \\ \hline
-  Sample Variance          & 0.923077                                                           \\ \hline
-  Kurtosis                 & 2.096086                                                           \\ \hline
-  Skewness                 & -1.6125                                                            \\ \hline
-  Range                    & 3                                                                  \\ \hline
-  Minimum                  & 2                                                                  \\ \hline
-  Maximum                  & 5                                                                  \\ \hline
-  Sum                      & 57                                                                 \\ \hline
-  Count                    & 13                                                                 \\ \hline
-  Confidence Level(95,0\%) & 0.580587                                                           \\ \hline
+  Mean                     & 4.384615                                                                                                                                     \\ \hline
+  Standard Error           & 0.266469                                                                                                                                     \\ \hline
+  Median                   & 5                                                                                                                                            \\ \hline
+  Mode                     & 5                                                                                                                                            \\ \hline
+  Standard Deviation       & 0.960769                                                                                                                                     \\ \hline
+  Sample Variance          & 0.923077                                                                                                                                     \\ \hline
+  Kurtosis                 & 2.096086                                                                                                                                     \\ \hline
+  Skewness                 & -1.6125                                                                                                                                      \\ \hline
+  Range                    & 3                                                                                                                                            \\ \hline
+  Minimum                  & 2                                                                                                                                            \\ \hline
+  Maximum                  & 5                                                                                                                                            \\ \hline
+  Sum                      & 57                                                                                                                                           \\ \hline
+  Count                    & 13                                                                                                                                           \\ \hline
+  Confidence Level(95,0\%) & 0.580587                                                                                                                                     \\ \hline
 \end{longtable}
 \normalsize
 

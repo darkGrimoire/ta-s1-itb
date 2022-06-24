@@ -109,11 +109,11 @@ progress report tiap minggu, bentar aja.
   - Tinggal pindahin usecasenya
 - [x] Simpulan dan saran harus ada kuantifikasi dan berdasarkan hasil pengujian, jangan pakai bahasa bisnis
   - Masukin aja angka2nya ke kesimpulan
-- [ ] Tabel font spasi kecil & 1 spasi & header + caption hrus direpeat
+- [x] Tabel font spasi kecil & 1 spasi & header + caption hrus direpeat
   - Tinggal pake \small, >{\baselineskip} sama caption masukin ke luar firsthead
 - [x] Diagram terlalu kecil, kalau ada yang kekecilan bisa agak makan margin ke kanan
   - Pake adjustbox buat bisa keluar margin
-- [ ] Alur pembelajaran ILE yg kuning hrus dijelasin legendanya
+- [x] Alur pembelajaran ILE yg kuning hrus dijelasin legendanya
   - Masukin legenda ke activity diagram
 - [ ] Harus dijelaskan bagaimana rumusan masalah terhadap kondisi KodeBareng, bagaimana hasil akhir dlm menyelesaikan (kaitin KodeBareng ke dalam bab 1)
   - Masukin KodeBareng ke dalam Latar Belakang, Rumusan Masalah, dan Tujuan
