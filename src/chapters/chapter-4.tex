@@ -130,7 +130,7 @@ Komponen ini terhubung pada Komponen Visualizer untuk menampilkan dekorator-deko
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.7\textwidth]{chapter4/web-ide.png}
-  \caption{Tampilan Antarmuka Web IDE} \label{fig:web-ide}
+  \caption{Tampilan Antarmuka Web IDE \\ Sumber: Penulis (2022)} \label{fig:web-ide}
 \end{figure}
 
 \subsubsection{Implementasi Komponen Visualizer}
@@ -141,12 +141,12 @@ Komponen ini dapat dimasukkan pada bagian materi pembelajaran dan bagian persoal
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.7\textwidth]{chapter4/ile-materi.png}
-  \caption{Tampilan antarmuka Visualizer pada materi pembelajaran} \label{fig:ile-materi}
+  \caption{Tampilan antarmuka Visualizer pada materi pembelajaran \\ Sumber: Penulis (2022)} \label{fig:ile-materi}
 \end{figure}
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.7\textwidth]{chapter4/ile-soal.png}
-  \caption{Tampilan antarmuka Visualizer pada persoalan Latihan Kode} \label{fig:ile-soal}
+  \caption{Tampilan antarmuka Visualizer pada persoalan Latihan Kode \\ Sumber: Penulis (2022)} \label{fig:ile-soal}
 \end{figure}
 
 \section{Pengujian}
@@ -239,26 +239,7 @@ Eksperimen pengguna dilakukan terhadap faktor pemahaman pelajar mengenai konsep 
 
 Pengujian ini dilakukan pada platform web KodeBareng dengan menggunakan kelas pembelajaran khusus untuk melakukan pengujian. Pengujian dilakukan pada 2 grup dengan masing-masing grup memiliki minimal 10 peserta eksperimen, yaitu grup kontrol dan grup perlakuan. Grup kontrol mendapatkan materi pembelajaran tanpa adanya integrasi ILE visualisasi eksekusi kode, sementara grup perlakuan mendapatkan materi pembelajaran yang terdapat integrasi ILE visualisasi eksekusi kode. Setiap grup mendapatkan materi pembelajaran yang sama serta kuesioner setelah melakukan pembelajaran.
 
-Materi yang diberikan terbagi menjadi 3 modul yaitu modul Pengenalan Python Dasar, Variabel dan Tipe Data, serta Operator dan Ekspresi. Pada masing-masing modul, terdapat 2 tahapan yaitu tahap pembelajaran dan tahap persoalan. Pada tahap pembelajaran, materi diberikan melalui teks, gambar dan ILE (khusus pada grup perlakuan, pada grup kontrol hanya diperlihatkan teks kode serta \textit{input/output}-nya). Pada tahap persoalan, terdapat 2 jenis persoalan yaitu kuis dan latihan kode. Soal kuis adalah soal sederhana bertipe pilihan ganda, sementara soal latihan kode adalah soal yang memberikan bagian suatu kode program yang harus diubah oleh peserta untuk memenuhi objektif yang diberikan. Soal kuis dinilai secara benar atau salah (1/0) dan soal latihan kode akan dinilai menggunakan SOLO Level dengan kategori penilaian seperti pada \autoref{tab:solo-level}. SOLO (Structure of Observed Learning Outcomes) adalah salah satu jenis taksonomi dalam pendidikan yang mengukur tingkat abstraksi pemahaman konsep yang telah dicapai oleh peserta didik \parencite{moons2013pilot}. Pada setiap akhir modul, terdapat 2 soal kuis dan 1 soal latihan kode. Setiap tahapan harus diselesaikan terlebih dahulu sebelum peserta dapat melanjutkan pembelajaran.
-
-\small
-\begin{longtable}[c]{|l|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.5\linewidth}|}
-  \caption{Kategori penilaian SOLO Level} \label{tab:solo-level}                                                                                         \\ \hline
-  \rowcolor{gray!30}
-  \textbf{SOLO Level} & \textbf{Kategori} & \textbf{Deskripsi}                                                                                           \\ \hline
-  \endfirsthead
-  %
-  \caption*{\autoref{} (lanjutan):Kategori penilaian SOLO Level}                                                                                         \\ \hline
-  \rowcolor{gray!30}
-  \textbf{SOLO Level} & \textbf{Kategori} & \textbf{Deskripsi}                                                                                           \\ \hline
-  \endhead
-  %
-  1                   & Prestructural     & Memperlihatkan kurangnya pengetahuan pemrograman atau tidak berhubungan dengan pertanyaan yang diberikan     \\ \hline
-  2                   & Unistructural     & Terdapat pemahaman terkait satu konsep pemrograman, namun tidak berhubungan dengan pertanyaan yang diberikan \\ \hline
-  3                   & Multistructural   & Terdapat pemahaman terkait beberapa konsep pemrograman, namun tidak saling berkaitan                         \\ \hline
-  4                   & Relational        & Terdapat pemahaman beberapa konsep pemrograman dan saling berkaitan                                          \\ \hline
-\end{longtable}
-\normalsize
+Materi yang diberikan terbagi menjadi 3 modul yaitu modul Pengenalan Python Dasar, Variabel dan Tipe Data, serta Operator dan Ekspresi. Pada masing-masing modul, terdapat 2 tahapan yaitu tahap pembelajaran dan tahap persoalan. Pada tahap pembelajaran, materi diberikan melalui teks, gambar dan ILE (khusus pada grup perlakuan, pada grup kontrol hanya diperlihatkan teks kode serta \textit{input/output}-nya). Pada tahap persoalan, terdapat 2 jenis persoalan yaitu kuis dan latihan kode. Soal kuis adalah soal sederhana bertipe pilihan ganda, sementara soal latihan kode adalah soal yang memberikan bagian suatu kode program yang harus diubah oleh peserta untuk memenuhi objektif yang diberikan. Soal kuis dinilai secara benar atau salah (1/0) dan soal latihan kode akan dinilai menggunakan SOLO Level dengan kategori penilaian seperti pada \autoref{tab:solo-level} namun hanya mencapai level ke-4 karena pembelajaran tidak sampai diujikan pada domain lainnya. SOLO (Structure of Observed Learning Outcomes) adalah salah satu jenis taksonomi dalam pendidikan yang mengukur tingkat abstraksi pemahaman konsep yang telah dicapai oleh peserta didik \parencite{moons2013pilot}. Pada setiap akhir modul, terdapat 2 soal kuis dan 1 soal latihan kode. Setiap tahapan harus diselesaikan terlebih dahulu sebelum peserta dapat melanjutkan pembelajaran.
 
 Pada kuesioner, terdapat 2 pertanyaan menggunakan \textit{likert scale} yaitu "Apakah visualisasi kode membuatmu lebih memahami kode yang dijalankan?" dan "Apakah visualisasi kode membantumu menjawab kuis dan latihan soal?", serta 1 pertanyaan bertipe isian paragraf yaitu "Pendapat atau saran untuk fitur visualisasi eksekusi kode". Selain pertanyaan yang berkaitan dengan ILE, terdapat juga pertanyaan umum lainnya seperti pengalaman pembelajaran di KodeBareng dan pendapat saran untuk pembelajaran di KodeBareng. Kuesioner digunakan sebagai data kualitatif tambahan untuk mengukur dampak dari ILE dari sisi penggunanya. Pertanyaan kuesioner terkait ILE hanya dijawab oleh peserta grup perlakuan.
 
@@ -270,17 +251,17 @@ Sebelum pengujian, disebarkan formulir pendaftaran eksperimen yang dilakukan pad
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.7\textwidth]{chapter4/demografis-usia.png}
-  \caption{Demografis usia peserta eksperimen} \label{fig:demografis-usia}
+  \caption{Demografis usia peserta eksperimen \\ Sumber: Penulis (2022)} \label{fig:demografis-usia}
 \end{figure}
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.7\textwidth]{chapter4/demografis-pendidikan.png}
-  \caption{Demografis tahap pendidikan peserta eksperimen} \label{fig:demografis-pendidikan}
+  \caption{Demografis tahap pendidikan peserta eksperimen \\ Sumber: Penulis (2022)} \label{fig:demografis-pendidikan}
 \end{figure}
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.7\textwidth]{chapter4/demografis-kelamin.png}
-  \caption{Demografis jenis kelamin peserta eksperimen} \label{fig:demografis-kelamin}
+  \caption{Demografis jenis kelamin peserta eksperimen \\ Sumber: Penulis (2022)} \label{fig:demografis-kelamin}
 \end{figure}
 
 Eksperimen dilakukan secara daring menggunakan platform \textit{Google Meet}. Peserta dibagikan tautan \textit{Google Meet} sesuai dengan jadwal kloter eksperimen yang sudah ditentukan sebelumnya. Peserta diminta menggunakan laptop/komputer saat melakukan eksperimen. Setelah seluruh peserta dalam satu kloter telah masuk ke dalam \textit{Google Meet}, peserta dibagikan tautan menuju formulir kuesioner untuk mengisi identitas diri terlebih dahulu. Kemudian, peserta diarahkan menuju situs KodeBareng, membuat akun KodeBareng menggunakan akun Google, lalu membuka kelas sesuai dengan grup masing-masing. Sebelum memulai pembelajaran, peserta diberikan arahan mengenai cara belajar di KodeBareng serta instruksi untuk melakukan pembelajaran sesuai dengan kecepatan masing-masing selama 1 jam. Khusus untuk peserta pada grup perlakuan, mereka diberikan pengenalan cara menggunakan ILE yang telah disediakan selama pembelajaran. Setelah 1 jam berlalu, selesai tidak selesai peserta akan diminta untuk menghentikan pembelajaran lalu melanjutkan mengisi kuesioner.
@@ -295,7 +276,7 @@ Berikut \autoref{fig:kuesioner-memahami} dan \autoref{tab:kuesioner1-statistik} 
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.7\textwidth]{chapter4/kuesioner-memahami.png}
-  \caption{Apakah ILE membantu memahami kode?} \label{fig:kuesioner-memahami}
+  \caption{Apakah ILE membantu memahami kode? \\ Sumber: Penulis (2022)} \label{fig:kuesioner-memahami}
 \end{figure}
 
 \small
@@ -332,7 +313,7 @@ Berikut \autoref{fig:kuesioner-soal} dan \autoref{tab:kuesioner2-statistik} adal
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.7\textwidth]{chapter4/kuesioner-soal.png}
-  \caption{Apakah ILE membantu menjawab latihan soal?} \label{fig:kuesioner-soal}
+  \caption{Apakah ILE membantu menjawab latihan soal? \\ Sumber: Penulis (2022)} \label{fig:kuesioner-soal}
 \end{figure}
 
 \small
@@ -369,7 +350,7 @@ Pada \autoref{fig:kuesioner-average} berikut ditampilkan perbandingan rata-rata 
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.9\textwidth]{chapter4/kuesioner-average.png}
-  \caption{Perbandingan rata-rata hasil kuesioner ILE} \label{fig:kuesioner-average}
+  \caption{Perbandingan rata-rata hasil kuesioner ILE \\ Sumber: Penulis (2022)} \label{fig:kuesioner-average}
 \end{figure}
 
 Apabila dibandingkan dengan pertanyaan kuesioner pertama, ILE memberikan dampak lebih tinggi dalam membantu memecahkan persoalan. Namun, apabila dilihat dari saran-saran serta pendapat yang diberikan, ILE banyak digunakan untuk memahami proses alur kerja suatu kode. Beberapa peserta pada grup kontrol bahkan memberikan saran untuk memasukkan fitur eksekusi kode pada materi pembelajaran, yang sebenarnya sudah diterapkan pada grup perlakuan. Meskipun dengan jumlah respon yang sedikit, hal ini menjadi indikasi bahwa ILE memiliki dampak dalam pembelajaran pemrograman bagi pemula.
@@ -386,12 +367,12 @@ Pada analisis data eksperimen ini, akan dilihat juga perbedaan antara data selur
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.85\textwidth]{chapter4/eksperimen-k1k2-kebenaran-all.png}
-  \caption{Hasil eksperimen modul 1-2 soal kuis} \label{fig:eksperimen-k1k2-kebenaran-all}
+  \caption{Hasil eksperimen modul 1-2 soal kuis \\ Sumber: Penulis (2022)} \label{fig:eksperimen-k1k2-kebenaran-all}
 \end{figure}
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.85\textwidth]{chapter4/eksperimen-k1k2-kebenaran-awam.png}
-  \caption{Hasil eksperimen modul 1-2 soal kuis setelah penyaringan data} \label{fig:eksperimen-k1k2-kebenaran-awam}
+  \caption{Hasil eksperimen modul 1-2 soal kuis setelah penyaringan data \\ Sumber: Penulis (2022)} \label{fig:eksperimen-k1k2-kebenaran-awam}
 \end{figure}
 
 Berdasarkan pada \autoref{fig:eksperimen-k1k2-kebenaran-all} dan \autoref{fig:eksperimen-k1k2-kebenaran-awam} di atas, dapat dilihat bahwa hasil persentase kuis dengan jawaban yang benar pada grup perlakuan (\textit{treatment}) lebih tinggi rata-ratanya dibandingkan grup kontrol. Terdapat pengecualian pada modul 2 kuis 1 data keseluruhan karena terdapat data \textit{outlier}, tetapi setelah data disaring hasil persentase menjadi lebih konsisten.
@@ -401,19 +382,19 @@ Selain dari hasil persentase jawaban, dapat dilihat juga pada \autoref{fig:ekspe
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.85\textwidth]{chapter4/eksperimen-k1k2-waktu.png}
-  \caption{Waktu menjawab soal kuis modul 1-2} \label{fig:eksperimen-k1k2-waktu}
+  \caption{Waktu menjawab soal kuis modul 1-2 \\ Sumber: Penulis (2022)} \label{fig:eksperimen-k1k2-waktu}
 \end{figure}
 
 \subsubsection{Analisis Data Eksperimen Soal Latihan Kode}
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.85\textwidth]{chapter4/eksperimen-lk1-all.png}
-  \caption{Hasil eksperimen modul 1 soal latihan kode} \label{fig:eksperimen-lk1-all}
+  \caption{Hasil eksperimen modul 1 soal latihan kode \\ Sumber: Penulis (2022)} \label{fig:eksperimen-lk1-all}
 \end{figure}
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.85\textwidth]{chapter4/eksperimen-lk1-awam.png}
-  \caption{Hasil eksperimen modul 1 soal latihan kode setelah penyaringan data} \label{fig:eksperimen-lk1-awam}
+  \caption{Hasil eksperimen modul 1 soal latihan kode setelah penyaringan data \\ Sumber: Penulis (2022)} \label{fig:eksperimen-lk1-awam}
 \end{figure}
 
 Berdasarkan pada \autoref{fig:eksperimen-lk1-all}, dapat dilihat bahwa pada grup perlakuan terdapat lebih banyak peserta yang mendapatkan nilai SOLO Level yang lebih tinggi dengan rata-rata SOLO Level grup perlakuan adalah 3.8 dan rata-rata SOLO Level grup kontrol adalah 3.083. Namun, apabila digunakan \textit{T test} independen dengan asumsi normal distribusi pada data, didapatkan nilai t sebesar 2.086 (\textit{p = 0.097}) yang berarti secara statistik dampak ILE terhadap hasil latihan kode modul 1 tidak terlalu signifikan. Maka dari itu, dilakukan penyaringan data untuk menghilangkan data \textit{outlier} yang dapat mempengaruhi hasil eksperimen. Dapat dilihat pada \autoref{fig:eksperimen-lk1-awam} data yang sudah disaring memiliki perubahan yang cukup besar dengan rata-rata SOLO Level grup perlakuan menjadi 3.857 dan rata-rata SOLO Level grup kontrol menjadi 2.429. Jika dilakukan \textit{T test} pada data yang sudah disaring, didapatkan nilai t sebesar 2.179 (\textit{p = 0.0147}) yang berarti secara statistik dampak ILE terhadap hasil latihan kode modul 1 signifikan.
@@ -421,12 +402,12 @@ Berdasarkan pada \autoref{fig:eksperimen-lk1-all}, dapat dilihat bahwa pada grup
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.85\textwidth]{chapter4/eksperimen-lk2-all.png}
-  \caption{Hasil eksperimen modul 2 soal latihan kode} \label{fig:eksperimen-lk2-all}
+  \caption{Hasil eksperimen modul 2 soal latihan kode \\ Sumber: Penulis (2022)} \label{fig:eksperimen-lk2-all}
 \end{figure}
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.85\textwidth]{chapter4/eksperimen-lk2-awam.png}
-  \caption{Hasil eksperimen modul 2 soal latihan kode setelah penyaringan data} \label{fig:eksperimen-lk2-awam}
+  \caption{Hasil eksperimen modul 2 soal latihan kode setelah penyaringan data \\ Sumber: Penulis (2022)} \label{fig:eksperimen-lk2-awam}
 \end{figure}
 
 Berdasarkan pada \autoref{fig:eksperimen-lk2-all}, rata-rata SOLO Level grup perlakuan adalah 3.429 dan rata-rata SOLO Level grup kontrol adalah 3.636 sehingga grup kontrol memiliki hasil yang lebih tinggi dibanding grup perlakuan. Maka dari itu, dilakukan penyaringan data sehingga data berubah menjadi seperti pada \autoref{fig:eksperimen-lk1-awam}. Data yang sudah disaring memiliki perubahan yang cukup besar dengan rata-rata SOLO Level grup perlakuan menjadi 3.6 dan rata-rata SOLO Level grup kontrol menjadi 3.333 sehingga membuat grup perlakuan memiliki hasil rata-rata yang lebih tinggi dibanding grup kontrol. Namun, jika dilakukan \textit{T test} pada data yang sudah disaring, didapatkan nilai t sebesar 2.262 (\textit{p = 0.662}) yang berarti secara statistik dampak ILE terhadap hasil latihan kode modul 2 tidak signifikan. Salah satu faktor yang menyebabkan hal ini terjadi adalah kurangnya data akibat adanya peserta yang tidak menyelesaikan modul 2 eksperimen. Faktor lain yang dapat berpengaruh pada hasil ini adalah soal yang dibuat kurang bagus sehingga mempengaruhi hasil akhir dari eksperimen.
@@ -437,7 +418,7 @@ Seperti yang sempat dibahas sebelumnya pada \autoref{fig:eksperimen-k1k2-waktu},
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.85\textwidth]{chapter4/eksperimen-m1m2-waktu.png}
-  \caption{Perbandingan waktu pengerjaan modul 1 dan modul 2} \label{fig:eksperimen-m1m2-waktu}
+  \caption{Perbandingan waktu pengerjaan modul 1 dan modul 2 \\ Sumber: Penulis (2022)} \label{fig:eksperimen-m1m2-waktu}
 \end{figure}
 
 \subsection{Ancaman Validitas (Threat of Validity)}

@@ -118,7 +118,7 @@ progress report tiap minggu, bentar aja.
 - [x] Harus dijelaskan bagaimana rumusan masalah terhadap kondisi KodeBareng, bagaimana hasil akhir dlm menyelesaikan (kaitin KodeBareng ke dalam bab 1)
   - Masukin KodeBareng ke dalam Latar Belakang, Rumusan Masalah, dan Tujuan
 - [x] Perlu pendefinisian ILE yang lebih konkrit dan harus jelas definisi kontribusi ILE dan definisi konkrit
-  - Jelasin ILE macam apa yang mau diimplementasikan, jelasin juga KodeBareng sebenarnya termasuk ILE tapi kamu pengen buat ILE yang lebih spesifik yaitu visualisasi eksekusi kode. 
+  - Jelasin ILE macam apa yang mau diimplementasikan, jelasin juga KodeBareng sebenarnya termasuk ILE tapi kamu pengen buat ILE yang lebih spesifik yaitu visualisasi eksekusi kode.
   - Taro di bab 2, buat sub-bab mengenai visualisasi eksekusi kode, lalu refer di bab 3 kamu mau buat yang kayak gimana
 - [ ] Perlu disampaikan existing ILE pada KodeBareng di Bab 2
   - Jelasin di KodeBareng ILEnya yang sekarang kayak gimana, struktur kelas dsbnya jelasin dan kasih gambar
@@ -130,7 +130,7 @@ progress report tiap minggu, bentar aja.
   - Masukin dulu tiap ILE di platform lain kayak gimana pros/consnya, lalu buat tabel komparasi apa yang mau diambil buat KodeBareng
 - [ ] Perlu analisis bagaimana konsep yang diimplementasi, tidak hanya sekedar dilist
   - Jelasin konsepnya diambil dari Moons de Backer yang diubah menyesuaikan bahasa Python, lalu jelasin kenapa mengimplementasikan poin2 yang di tabel itu (untuk pemula)
-- [ ] Penjelasan terkait SOLO Level harusnya ditaro di bab 2 aja
+- [x] Penjelasan terkait SOLO Level harusnya ditaro di bab 2 aja
 - [ ] Harus ada elaborasi bagaimana tools dirancang dan bukan hasil akhirnya saja.
   - Jelasin hasil eksplorasi PDB, kasih penjelasan terkait activity diagram Parser dan Executor.
   - Hasil eksplorasi PDB bisa berupa command apa saja yang bisa dieksekusi, bagaimana hasil keluarannya, dsb. Nanti di komponen Parser dan Executor tinggal refer input/output apa yang harus dipakai
@@ -141,3 +141,4 @@ progress report tiap minggu, bentar aja.
 - [x] Buat lampiran jadi table lanskap muat page width
 - [x] Masukin CMS ke Component Diagram
 - [ ] Pastiin semua table dan gambar sudah direferensi
+- [ ] Masukin sitasi sumber utk tiap gambar
