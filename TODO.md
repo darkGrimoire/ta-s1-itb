@@ -120,11 +120,11 @@ progress report tiap minggu, bentar aja.
 - [x] Perlu pendefinisian ILE yang lebih konkrit dan harus jelas definisi kontribusi ILE dan definisi konkrit
   - Jelasin ILE macam apa yang mau diimplementasikan, jelasin juga KodeBareng sebenarnya termasuk ILE tapi kamu pengen buat ILE yang lebih spesifik yaitu visualisasi eksekusi kode.
   - Taro di bab 2, buat sub-bab mengenai visualisasi eksekusi kode, lalu refer di bab 3 kamu mau buat yang kayak gimana
-- [ ] Perlu disampaikan existing ILE pada KodeBareng di Bab 2
+- [x] Perlu disampaikan existing ILE pada KodeBareng di Bab 2
   - Jelasin di KodeBareng ILEnya yang sekarang kayak gimana, struktur kelas dsbnya jelasin dan kasih gambar
 - [ ] Sehingga perlu jelasin bagaimana dari KB yang perlu diperbaiki berdasarkan masukan dari pengguna
   - Jelasin kekurangan dari ILE KodeBareng yang sekarang
-- [ ] Disebutkan banyak peluang ILE pada Choy & Eng, akan tetapi hanya sebagian saja yang diaplikasikan.
+- [x] Disebutkan banyak peluang ILE pada Choy & Eng, akan tetapi hanya sebagian saja yang diaplikasikan.
   - Jelasin kenapa kamu mengaplikasikan yang latihan kode praktis
 - [ ] 2.2 Harus melakukan tabel komparasi dari tools/tempat lain yang bisa diadaptasi ke KodeBareng utk perbaikan KodeBareng
   - Masukin dulu tiap ILE di platform lain kayak gimana pros/consnya, lalu buat tabel komparasi apa yang mau diambil buat KodeBareng
@@ -141,4 +141,4 @@ progress report tiap minggu, bentar aja.
 - [x] Buat lampiran jadi table lanskap muat page width
 - [x] Masukin CMS ke Component Diagram
 - [ ] Pastiin semua table dan gambar sudah direferensi
-- [ ] Masukin sitasi sumber utk tiap gambar
+- [x] Masukin sitasi sumber utk tiap gambar

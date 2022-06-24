@@ -84,7 +84,7 @@ Salah satu bentuk ILE yang digunakan dalam pembelajaran pemrograman adalah \text
   \caption{Visualisasi Eksekusi Kode pada EVIZOR \\ Sumber: \textcite{moons2013pilot}} \label{fig:evizor}
 \end{figure}
 
-\subsubsection{Ragam Implementasi ILE}
+\subsubsection{Ragam Implementasi ILE} \label{sssec:ragam-implementasi-ile}
 Pembelajaran pemrograman secara daring saat ini menggunakan berbagai macam media dalam penyampaian materinya. Mulai dari berbentuk teks, video, animasi, \textit{mentoring}, \textit{bootcamp}, \textit{webinar}, latihan soal, hingga simulasi berbentuk gamifikasi seperti pada \textcite{codingame2021media} yang dapat dilihat pada \autoref{fig:codingame}. Seiring dengan bertambahnya kompetitor, beragam situs mulai mengadopsi sistem pembelajaran yang lebih interaktif, mudah dipahami, dan menyenangkan agar membedakan dengan kompetitor lainnya dan menjadi nilai tambah bagi penggunanya.
 
 \begin{figure}[H]
@@ -147,24 +147,6 @@ Terdapat banyak platform pembelajaran pemrograman secara daring yang mengintegra
 
 Manfaat interaktivitas digital dalam pembelajaran pemrograman masih menjadi topik hangat di kalangan peneliti. Salah satu studi terkait pembelajaran interaktif terminal UNIX uAssign \parencite{bailey2019uassign} memberikan konklusi bahwa pembelajaran interaktif menggunakan uAssign menghasilkan peningkatan di kemampuan menggunakan terminal siswa yang menggunakannya, terutama bagi siswa yang belum mengetahui  penggunaan terminal. Studi lain pada \href{https://pythontutor.com}{Online Python Tutor} \parencite{guo2013pythontutor}---aplikasi web yang memberikan visualisasi eksekusi kode Python---menjelaskan bahwa visualisasi yang disediakan oleh \href{https://pythontutor.com}{Online Python Tutor} sangat membantu dalam proses pembelajaran. Eksekusinya yang dilakukan secara daring juga memudahkan siswa dalam menggunakan aplikasi tersebut pada forum pembelajaran untuk membantu siswa lain dalam memecahkan permasalahan, tanpa harus melakukan instalasi ataupun konfigurasi terlebih dahulu. Terdapat juga IDEOL \parencite{tran2013interactive} yaitu Web IDE yang berfokus pada aspek kolaboratif secara \textit{real-time} dan menyediakan wadah berdiskusi antara pemakainya sehingga dapat mempermudah proses \textit{debugging} dan pembagian tugas antar anggota kelompok karena kode selalu sinkron dengan anggota kelompok lain.
 
-\section{Platform Kodebareng}
-
-Kodebareng merupakan aplikasi yang dibuat oleh tim startup KodeBareng dari Agustus 2021 hingga Januari 2022 yang bertujuan untuk mengajarkan pemrograman dasar. Kodebareng itu sendiri merupakan buatan penulis dan teman teman seangkatan penulis dengan tujuan membuat edukasi pembelajaran pemrograman di Indonesia semakin mudah diakses dan semakin baik. Kodebareng merupakan platform pembelajaran pemrograman berbahasa Indonesia yang mengintegrasikan pembelajaran dengan gamifikasi dan pembawaan visual yang interaktif sehingga pembelajaran akan menjadi lebih mudah dan menyenangkan. Kodebareng ditujukan bagi pelajar SMA hingga awal perkuliahan yang memiliki keinginan untuk mulai mempelajari pemrograman dan belum memiliki dasar pemrograman sebelumnya. Pada Januari 2022, kodebareng telah memiliki fitur pembelajaran dengan autograder dan kuis, login, dan blogs. Contoh tampilan Kodebareng dapat dilihat pada \autoref{fig:kodebareng-tampilan}.
-
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=0.6\textwidth]{chapter2/kodebareng.png}
-  \caption{Tampilan di Kodebareng \\ Sumber: Penulis (2021)}\label{fig:kodebareng-tampilan}
-\end{figure}
-
-Pada platform ini, dibutuhkan suatu \textit{interactive learning environment} (ILE) yang dapat mendukung pembelajaran interaktif dan memecahkan masalah sulitnya mempelajari pemrograman bagi orang yang baru mempelajari pemrograman. ILE diharapkan dapat meningkatkan pemahaman konsep serta mendukung pemrograman praktis pelajar. ILE dibangun secara modular pada platform KodeBareng sehingga tidak terlalu disruptif terhadap sistem yang sudah ada. Berikut adalah diagram \textit{use case} awal KodeBareng yang terkait dengan pembelajaran pemrograman yang dapat dilihat pada \autoref{fig:diagram-usecase-v1}.
-
-\begin{figure}[H]
-  \centering
-  \includegraphics[width=0.9\textwidth]{chapter3/diagram_usecase_v1.jpg}
-  \caption{\textit{Use Case} pembelajaran pemrograman KodeBareng sebelum perubahan \\ Sumber: Penulis (2022)} \label{fig:diagram-usecase-v1}
-\end{figure}
-
 \section{Pemahaman Konsep Pemrograman}
 Menurut \textcite{mayer1981psychology}, terdapat 2 metode dalam mempelajari cara memecahkan suatu masalah: menghafal (\textit{rote learning}) atau memahami (\textit{understanding}). Metode pembelajaran dengan menghafal artinya pelajar memecahkan suatu masalah dengan menghafal cara atau prosedur memecahkan spesifik persoalan tersebut, misalnya dengan menghafal rumus. Sementara, metode pembelajaran dengan memahami artinya pelajar memecahkan suatu masalah dengan memahami apa yang perlu dilakukan untuk mencapai solusi dari permasalahan tersebut. Hal tersebut diilustrasikan dengan seorang pelajar yang memecahkan persoalan geometri menggunakan rumus (menghafal), dibandingkan dengan seorang pelajar yang memecahkan persoalan geometri dengan mengetahui cara menyederhanakan bangun ruang tersebut menjadi bangun sederhana seperti persegi (memahami). Kedua metode dapat memecahkan permasalahan yang sama, namun apabila diberikan permasalahan yang baru, maka pelajar yang memakai metode memahami akan dapat menjawab persoalan tersebut. Hal ini disebabkan karena pelajar dengan metode menghafal tidak dapat mentransfer/menerapkan ilmunya pada permasalahan yang baru. Maka dari itu, pemahaman konsep merupakan salah satu faktor yang penting dalam pembelajaran karena dengan memahami konsep, pelajar dapat memahami situasi persoalan yang baru sehingga dapat membuat solusi yang benar.
 
@@ -179,7 +161,7 @@ Dalam taksonomi SOLO, terdapat 5 level pemahaman pelajar \parencite{biggs2014eva
   \textbf{SOLO Level} & \textbf{Kategori} & \textbf{Deskripsi}                                                                                                \\ \hline
   \endfirsthead
   %
-  \caption*{\autoref{tab:solo-level} (lanjutan):Kategori penilaian SOLO Level}                                                                                \\ \hline
+  \caption*{\autoref{tab:solo-level} (lanjutan): Kategori penilaian SOLO Level}                                                                               \\ \hline
   \rowcolor{gray!30}
   \textbf{SOLO Level} & \textbf{Kategori} & \textbf{Deskripsi}                                                                                                \\ \hline
   \endhead
@@ -192,3 +174,44 @@ Dalam taksonomi SOLO, terdapat 5 level pemahaman pelajar \parencite{biggs2014eva
 \end{longtable}
 \normalsize
 
+\section{Platform Kodebareng}
+
+Kodebareng merupakan platform pembelajaran pemrograman berbahasa Indonesia yang mengintegrasikan pembelajaran dengan gamifikasi dan pembelajaran yang interaktif sehingga pembelajaran akan menjadi lebih mudah dan menyenangkan. Situs Kodebareng adalah aplikasi yang dibuat oleh tim diginove "Kodebareng" yang berfungsi untuk mengajarkan pemrograman. Kodebareng ditujukan bagi pelajar SMA hingga awal perkuliahan yang memiliki keinginan untuk mulai mempelajari pemrograman dan belum memiliki dasar pemrograman sebelumnya. Sebelum Tugas Akhir ini, KodeBareng baru memiliki MVP berupa Landing Page, profil akun sederhana, serta demo kelas pemrograman Python yang dapat diakses kontennya berupa teks, kuis, serta latihan pemrograman dengan autograder sederhana. Contoh tampilan Kodebareng dapat dilihat pada \autoref{fig:kodebareng-tampilan}.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.6\textwidth]{chapter2/kodebareng.png}
+  \caption{Tampilan di Kodebareng \\ Sumber: Penulis (2022)}\label{fig:kodebareng-tampilan}
+\end{figure}
+
+Pembelajaran pada KodeBareng terfokus pada kelas-kelas pemrograman. Setiap kelas memiliki beberapa modul (diibaratkan sebagai bab dalam buku), dan setiap modul memiliki beberapa \textit{stage} (diibaratkan sebagai subbab dalam buku). Pembelajaran pada KodeBareng dapat dibagi menjadi 2, yaitu pembelajaran melalui materi (seperti pada ) dan pembelajaran dengan latihan soal. KodeBareng sendiri termasuk dalam pendekatan belajar "melalui" pembelajaran interaktif sesuai dengan definisi pada \textcite{reeves2012interactive} karena interaktivitasnya masih terletak pada materi dan pembawaannya.
+
+Materi pembelajaran pada KodeBareng dibawakan dalam bentuk teks dan gambar visual, sementara contoh kode diberikan secara teks yang mengandung kode, masukan (\textit{input}), dan keluaran (\textit{output}) seperti yang dapat dilihat pada \autoref{fig:kodebareng-materi}. Setelah pelajar mempelajari materi pada suatu \textit{stage}, pelajar dapat menekan tombol "Done" untuk melanjutkan ke \textit{stage} berikutnya.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.7\textwidth]{chapter2/kodebareng-materi.png}
+  \caption{Materi pembelajaran Python Dasar di Kodebareng \\ Sumber: Penulis (2022)}\label{fig:kodebareng-materi}
+\end{figure}
+
+Latihan soal pada KodeBareng memiliki 2 jenis soal, yaitu soal kuis dan soal latihan kode. Soal kuis merupakan soal yang berupa pilihan ganda dengan jawaban yang selalu diacak urutannya, serta hanya memiliki 1 jawaban yang benar (seperti pada \autoref{fig:kodebareng-soal-kuis}). Apabila salah menjawab, pelajar akan diberitahu dengan \textit{pop-up dialog} "Jawaban Salah" lalu dapat mencoba menjawab kembali dengan jawaban yang lain. Soal latihan kode merupakan soal yang berupa permasalahan yang diberikan secara teks, lalu pelajar diminta untuk membuat atau mengubah kode yang sudah ada untuk menyelesaikan permasalahan tersebut dengan cara mengecek jawabannya pada \textit{autograder} yang telah disediakan (tampilan dapat dilihat pada \autoref{fig:kodebareng-soal-latihankode}). Apabila jawabannya salah, maka pelajar tidak dapat melanjutkan pembelajaran hingga jawaban yang benar ditemukan.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.55\textwidth]{chapter2/kodebareng-soal-kuis.png}
+  \caption{Contoh soal kuis Python Dasar di Kodebareng \\ Sumber: Penulis (2022)}\label{fig:kodebareng-soal-kuis}
+\end{figure}
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.8\textwidth]{chapter2/kodebareng-soal-latihankode.png}
+  \caption{Contoh soal latihan kode Python Dasar di Kodebareng \\ Sumber: Penulis (2022)}\label{fig:kodebareng-soal-latihankode}
+\end{figure}
+
+Karena pembelajaran interaktif pada KodeBareng masih hanya sebatas pembawaan materi, pengalaman pembelajarannya masih dianggap kurang interaktif dan sama dengan platform kelas pembelajaran pemrograman lainnya seperti yang telah dibahas pada \autoref{sssec:ragam-implementasi-ile}. Maka dari itu, dibutuhkan suatu \textit{interactive learning environment} (ILE) yang dapat mendukung pembelajaran interaktif dan memecahkan masalah sulitnya mempelajari pemrograman bagi orang yang baru mempelajari pemrograman. ILE diharapkan dapat meningkatkan pemahaman konsep serta mendukung pemrograman praktis pelajar. ILE dibangun secara modular pada platform KodeBareng sehingga tidak terlalu disruptif terhadap sistem yang sudah ada. Berikut adalah diagram \textit{use case} awal KodeBareng yang terkait dengan pembelajaran pemrograman yang dapat dilihat pada \autoref{fig:diagram-usecase-v1}.
+
+\begin{figure}[H]
+  \centering
+  \includegraphics[width=0.9\textwidth]{chapter3/diagram_usecase_v1.jpg}
+  \caption{\textit{Use Case} pembelajaran pemrograman KodeBareng sebelum perubahan \\ Sumber: Penulis (2022)} \label{fig:diagram-usecase-v1}
+\end{figure}
