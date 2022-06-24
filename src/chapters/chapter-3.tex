@@ -46,7 +46,8 @@ Maka dari itu, dibuatlah diagram \textit{use case} baru yang sesuai dengan kebut
 \begin{figure}[H]
   \centering
   \includegraphics[width=1.15\textwidth]{chapter3/diagram_usecase_v2.jpg}
-  \caption{\textit{Use Case} pembelajaran pemrograman KodeBareng setelah perubahan \\ Sumber: Penulis (2022)} \label{fig:diagram-usecase-v2}
+  \caption{\textit{Use Case} pembelajaran pemrograman KodeBareng setelah perubahan} \label{fig:diagram-usecase-v2}
+  Sumber: Penulis (2022)
 \end{figure}
 
 \small
@@ -175,7 +176,8 @@ Berdasarkan hasil analisis permasalahan dan kebutuhan sebelumnya, dibuatlah ranc
 \begin{figure}[H]
   \centering
   \includegraphics[width=\textwidth]{chapter3/diagram_komponen.jpg}
-  \caption{Diagram komponen \\ Sumber: Penulis (2022)} \label{fig:diagram-komponen}
+  \caption{Diagram komponen} \label{fig:diagram-komponen}
+  Sumber: Penulis (2022)
 \end{figure}
 
 ILE akan diintegrasikan pada komponen-komponen terkait materi pembelajaran di KodeBareng. Maka dari itu, komponen-komponen yang akan dimodifikasi atau ditambahkan akan terkait dengan komponen Stage yang mendefinisikan bagaimana suatu tahap (\textit{stage}) materi pada suatu modul pembelajaran dijelaskan (berupa teks, latihan pemrograman, dsb). Alur pembelajaran pengguna dapat dilihat pada \autoref{fig:activity-overall}.
@@ -183,7 +185,8 @@ ILE akan diintegrasikan pada komponen-komponen terkait materi pembelajaran di Ko
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.85\textwidth]{chapter3/activity-overall.jpg}
-  \caption{Activity Diagram Pengguna \\ Sumber: Penulis (2022)} \label{fig:activity-overall}
+  \caption{Activity Diagram Pengguna} \label{fig:activity-overall}
+  Sumber: Penulis (2022)
 \end{figure}
 
 Alur program utama terkait visualisasi eksekusi kode dimulai dari pengguna atau sistem memasukkan kode pada Web IDE yang digunakan pada sistem \textit{Frontend}, kemudian melakukan permintaan kepada sistem \textit{Backend} untuk memvisualisasikan kode tersebut. Sistem \textit{Backend} akan memfilter kode yang akan dieksekusi, lalu apabila lolos akan dilanjutkan kepada sistem \textit{Executor} untuk mendapatkan hasil olahan eksekusi program yang dapat divisualisasikan. Hasil tersebut dikembalikan pada sistem \textit{Frontend} untuk divisualisasikan dan dieksplorasi langkah-langkah eksekusinya oleh pengguna. Pada \autoref{fig:activity-ile} dapat dilihat alur program utama ketika dijalankan oleh pengguna.
@@ -191,7 +194,8 @@ Alur program utama terkait visualisasi eksekusi kode dimulai dari pengguna atau 
 \begin{figure}[H]
   \centering
   \includegraphics[width=1.8\textwidth, angle=-90]{chapter3/activity-ile.jpg}
-  \caption{Activity Diagram ILE \\ Sumber: Penulis (2022)} \label{fig:activity-ile}
+  \caption{Activity Diagram ILE} \label{fig:activity-ile}
+  Sumber: Penulis (2022)
 \end{figure}
 
 Pada sistem \textit{Frontend}, ditambahkan komponen baru yaitu Visualizer yang dapat memvisualisasikan kode eksekusi yang dimasukkan pada komponen Web IDE. Web IDE yang sudah ada dimodifikasi sehingga dapat berinteraksi dengan Visualizer serta dapat memiliki mode latihan soal atau materi sehingga dapat dipakai pada penjelasan materi (tanpa penilaian) dan latihan soal (dengan penilaian).
@@ -201,19 +205,22 @@ Pada \autoref{fig:wireframe-explanation}, \autoref{fig:wireframe-quiz}, dan \aut
 \begin{figure}[H]
   \centering
   \includegraphics[width=\textwidth]{chapter3/visualizer-explanation.png}
-  \caption{Wireframe Visualizer pada Explanation Stage \\ Sumber: Penulis (2022)} \label{fig:wireframe-explanation}
+  \caption{Wireframe Visualizer pada Explanation Stage} \label{fig:wireframe-explanation}
+  Sumber: Penulis (2022)
 \end{figure}
 
 \begin{figure}[H]
   \centering
   \includegraphics[width=\textwidth]{chapter3/visualizer-quiz.png}
-  \caption{Wireframe Visualizer pada Quiz Stage \\ Sumber: Penulis (2022)} \label{fig:wireframe-quiz}
+  \caption{Wireframe Visualizer pada Quiz Stage} \label{fig:wireframe-quiz}
+  Sumber: Penulis (2022)
 \end{figure}
 
 \begin{figure}[H]
   \centering
   \includegraphics[width=\textwidth]{chapter3/visualizer-lesson.png}
-  \caption{Wireframe Visualizer pada Lesson Stage \\ Sumber: Penulis (2022)} \label{fig:wireframe-lesson}
+  \caption{Wireframe Visualizer pada Lesson Stage} \label{fig:wireframe-lesson}
+  Sumber: Penulis (2022)
 \end{figure}
 
 Pada sistem \textit{Backend}, ditambahkan rute baru pada \textit{Stage Controller} untuk dapat mengolah permintaan visualisasi eksekusi kode. Dibuat juga fungsi-fungsi \textit{Helper} tambahan untuk mengolah permintaan tersebut dan melanjutkannya pada sistem eksekutor apabila kode diperbolehkan untuk dieksekusi.
@@ -223,5 +230,6 @@ Pada sistem \textit{Executor}, dibuat komponen-komponen baru untuk mendapatkan i
 \begin{figure}[H]
   \centering
   \includegraphics[width=0.8\textwidth]{chapter3/activity-executor.jpg}
-  \caption{Activity Diagram Komponen Executor dan Parser \\ Sumber: Penulis (2022)} \label{fig:activity-executor}
+  \caption{Activity Diagram Komponen Executor dan Parser} \label{fig:activity-executor}
+  Sumber: Penulis (2022)
 \end{figure}

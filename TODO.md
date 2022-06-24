@@ -122,7 +122,7 @@ progress report tiap minggu, bentar aja.
   - Taro di bab 2, buat sub-bab mengenai visualisasi eksekusi kode, lalu refer di bab 3 kamu mau buat yang kayak gimana
 - [x] Perlu disampaikan existing ILE pada KodeBareng di Bab 2
   - Jelasin di KodeBareng ILEnya yang sekarang kayak gimana, struktur kelas dsbnya jelasin dan kasih gambar
-- [ ] Sehingga perlu jelasin bagaimana dari KB yang perlu diperbaiki berdasarkan masukan dari pengguna
+- [x] Sehingga perlu jelasin bagaimana dari KB yang perlu diperbaiki berdasarkan masukan dari pengguna
   - Jelasin kekurangan dari ILE KodeBareng yang sekarang
 - [x] Disebutkan banyak peluang ILE pada Choy & Eng, akan tetapi hanya sebagian saja yang diaplikasikan.
   - Jelasin kenapa kamu mengaplikasikan yang latihan kode praktis
