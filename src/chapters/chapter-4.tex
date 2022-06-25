@@ -21,7 +21,7 @@ Implementasi dilakukan menggunakan teknologi yang telah dipakai pada KodeBareng 
   \textit{Frontend}                                        & NuxtJS, Cloudflare Pages                               \\ \hline
   \textit{Backend}                                         & ExpressJS, Linux, NodeJS, Docker                       \\ \hline
   CMS (\textit{Content Management System})                 & NextJS, Netlify                                        \\ \hline
-  \textit{Autograder} (sekarang menjadi \textit{Executor}) & ExpressJS, Linux, NodeJS, Docker, Python 3.9           \\ \hline
+  \textit{Autograder-Executor} & ExpressJS, Linux, NodeJS, Docker, Python 3.9           \\ \hline
 \end{longtable}
 \normalsize
 
@@ -86,13 +86,12 @@ Selain dari perintah-perintah tersebut, terdapat rangkaian perintah yang digunak
 
 Hasil eksplorasi PDB akan digunakan pada komponen Executor dan komponen Parser yang akan dijelaskan pada bagian berikut (\autoref{ssec:implementasi-sistem-eksekutor}) menggunakan alur rancangan yang telah dibuat di bab sebelumnya pada \autoref{fig:activity-executor}.
 
-\subsection{Implementasi Sistem Eksekutor} \label{ssec:implementasi-sistem-eksekutor}
-Sistem Eksekutor menggunakan \textit{tech stack} berupa ExpressJS dengan Typescript yang dijalankan pada NodeJS menggunakan kakas \textit{nodemon}. Sistem tersebut kemudian diisolasi menggunakan Docker dengan \textit{image} Debian 10 dan dilakukan instalasi Python 3.9. Terdapat juga kakas berupa \textit{swagger} yang digunakan untuk dokumentasi rute-rute yang terdapat pada sistem ini.
+\subsection{Implementasi Sistem Autograder-Eksekutor} \label{ssec:implementasi-sistem-eksekutor}
+Sistem Autograder-Eksekutor menggunakan \textit{tech stack} berupa ExpressJS dengan Typescript yang dijalankan pada NodeJS menggunakan kakas \textit{nodemon}. Sistem tersebut kemudian diisolasi menggunakan Docker dengan \textit{image} Debian 10 dan dilakukan instalasi Python 3.9. Terdapat juga kakas berupa \textit{swagger} yang digunakan untuk dokumentasi rute-rute yang terdapat pada sistem ini.
 
 \subsubsection{Modifikasi Komponen Controller}
 Pada sistem ini sudah terdapat \textit{controller} pada tiap bagian rute untuk mengolah data yang diberikan. Pada Tugas Akhir ini, ditambahkan rute untuk melakukan visualisasi serta \textit{controller} untuk mengolah data tersebut. \textit{Controller} mendapatkan masukan berupa kode program berupa \textit{string} serta input berupa \verb|array of string| untuk diberikan pada program yang dieksekusi. Kemudian, \textit{Controller} melakukan pengecekan apakah kode diperbolehkan untuk dieksekusi, lalu menuliskan kode pada file Python sementara. Setelah itu, \textit{controller} menjalankan \textit{helper} berupa Komponen Executor dan Parser dengan memberikan masukan berupa lokasi \textit{file} kode program serta \textit{input} yang akan diberikan pada program.
 
-% [\hl{TODO: MASUKIN CONTOH HASIL INPUT CONTROLLER UNTUK KOMPONEN EXECUTOR DAN PARSER}]
 \subsubsection{Implementasi Komponen Executor}
 Komponen Executor merupakan komponen yang digunakan untuk mengeksekusi kode program menggunakan PDB. Komponen ini membutuhkan masukan berupa lokasi \textit{file} berisi kode program yang akan dieksekusi serta \textit{input} yang akan diberikan kepada program. Terdapat 3 tahapan utama dalam komponen ini, yaitu tahap inisialisasi, tahap pengecekan, serta tahap pengumpulan data.
 
@@ -103,8 +102,6 @@ Setelah inisialisasi dijalankan, dilakukan tahap pengecekan yaitu untuk mengecek
 Apabila program lolos dari tahap pengecekan (program tidak berada di luar kode program), maka dilakukan tahap pengumpulan data. Tahap pengumpulan data adalah tahap pengumpulan \textit{fields} yang berada pada \textit{runtime memory} seperti variabel, fungsi dan metode, serta modul yang telah dimuat. Tahap ini terbagi menjadi 3 subtahap, yaitu tahap \verb|Local|, \verb|Global|, dan \verb|Stack|. Subtahap \verb|Lokal| adalah subtahap mengeksekusi perintah untuk mengumpulkan \textit{fields} pada memori lokal suatu \textit{stack frame}. Subtahap \verb|Global| adalah subtahap mengeksekusi perintah untuk mengumpulkan \textit{fields} pada memori global suatu program. Subtahap \verb|Stack| adalah subtahap mengeksekusi perintah untuk mengumpulkan data pada \textit{stack frame} berupa baris kode yang sedang dieksekusi, \textit{return value}, serta daftar \textit{frame} yang tersimpan pada \textit{stack frame}.Hasil keluaran dari seluruh perintah tersebut akan diolah oleh Komponen Parser.
 
 Setelah Komponen Executor dan Parser melewati tahap pengumpulan data dan tidak terjadi error, maka Komponen Executor akan melanjutkan langkah eksekusi kode sekaligus perintah yang digunakan untuk pengecekan \textit{error}, serta me-\textit{reset} data-data dan tahapan-tahapan yang dilakukan lalu kembali pada tahap pengecekan. Apabila terdapat error selama tahap pengumpulan data, maka Komponen Executor akan mematikan program yang sedang dieksekusi. Apabila jumlah langkah atau lama waktu eksekusi sudah melebihi batas yang telah ditentukan, maka Komponen Executor juga akan mematikan program yang sedang dieksekusi.
-
-% [\hl{TODO: MASUKIN CONTOH HASIL KELUARAN KOMPONEN EXECUTOR }]
 
 \subsubsection{Implementasi Komponen Parser}
 Komponen Parser merupakan komponen yang digunakan untuk mengolah hasil keluaran Komponen Executor. Komponen ini juga menentukan logika dan langkah yang akan diambil oleh Komponen Executor. Komponen ini membutuhkan masukan berupa \verb|array of string| yang merupakan hasil keluaran Komponen Executor yang telah dipisahkan tiap barisnya. Terdapat 2 tahapan utama dalam komponen ini, yaitu tahap pengecekan dan tahap pengumpulan data.
@@ -123,7 +120,7 @@ Setelah seluruh tahapan dalam tahap pengecekan selesai, Komponen Parser akan mem
 
 \subsection{Implementasi Backend}
 \subsubsection{Implementasi Komponen Helper}
-Komponen Helper merupakan komponen yang digunakan untuk mendeteksi perintah-perintah yang tidak diperbolehkan eksekusi pada kode. Apabila tidak terdapat perintah yang dilarang pada kode, maka kode diteruskan kepada sistem Executor dan mengembalikan hasilnya. Apabila terdapat perintah yang dilarang pada kode, maka kode akan ditolak dan tidak akan dieksekusi.
+Komponen Helper merupakan komponen yang digunakan untuk mendeteksi perintah-perintah yang tidak diperbolehkan eksekusi pada kode. Apabila tidak terdapat perintah yang dilarang pada kode, maka kode diteruskan kepada sistem Autograder-Executor dan mengembalikan hasilnya. Apabila terdapat perintah yang dilarang pada kode, maka kode akan ditolak dan tidak akan dieksekusi.
 
 
 \subsection{Implementasi Frontend}
@@ -166,7 +163,7 @@ Tujuan dari pengujian ini adalah untuk memastikan bahwa ILE yang diimplementasik
 \subsection{Lingkungan Pengujian}
 Lingkungan pengujian terbagi menjadi 2 yaitu lingkungan komputer dan lingkungan eksperimen pengguna (\textit{user experiment}). Lingkungan komputer digunakan untuk menjalankan fungsional sistem, sementara lingkungan eksperimen pengguna digunakan untuk melakukan eksperimen pengguna pada komputer peserta eksperimen masing-masing.
 
-Pengujian spesifikasi fungsional sistem dilakukan pada komputer server KodeBareng dengan spesifikasi pada \autoref{tab:lingkungan-server} untuk menjalankan Sistem Backend dan Sistem Executor.
+Pengujian spesifikasi fungsional sistem dilakukan pada komputer server KodeBareng dengan spesifikasi pada \autoref{tab:lingkungan-server} untuk menjalankan Sistem Backend dan Sistem Autograder-Executor.
 
 \small
 \begin{longtable}[c]{|l|l|}
