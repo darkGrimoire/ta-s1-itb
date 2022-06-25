@@ -136,7 +136,6 @@ progress report tiap minggu, bentar aja.
   - Hasil eksplorasi PDB bisa berupa command apa saja yang bisa dieksekusi, bagaimana hasil keluarannya, dsb. Nanti di komponen Parser dan Executor tinggal refer input/output apa yang harus dipakai
 - [x] Perlu ada penjelasan teknis bagaimana keluaran PDB diproses sehingga menghasilkan visualisasi
   - Dari hasil eksplorasi, masukin penjelasannya di komponen Parser
-- [ ] Perbaikin abstrak
 - [x] Buat abstrak bahasa inggris
 - [x] Buat lampiran jadi table lanskap muat page width
 - [x] Masukin CMS ke Component Diagram
