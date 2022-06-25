@@ -126,9 +126,9 @@ progress report tiap minggu, bentar aja.
   - Jelasin kekurangan dari ILE KodeBareng yang sekarang
 - [x] Disebutkan banyak peluang ILE pada Choy & Eng, akan tetapi hanya sebagian saja yang diaplikasikan.
   - Jelasin kenapa kamu mengaplikasikan yang latihan kode praktis
-- [ ] 2.2 Harus melakukan tabel komparasi dari tools/tempat lain yang bisa diadaptasi ke KodeBareng utk perbaikan KodeBareng
+- [x] 2.2 Harus melakukan tabel komparasi dari tools/tempat lain yang bisa diadaptasi ke KodeBareng utk perbaikan KodeBareng
   - Masukin dulu tiap ILE di platform lain kayak gimana pros/consnya, lalu buat tabel komparasi apa yang mau diambil buat KodeBareng
-- [ ] Perlu analisis bagaimana konsep yang diimplementasi, tidak hanya sekedar dilist
+- [x] Perlu analisis bagaimana konsep yang diimplementasi, tidak hanya sekedar dilist
   - Jelasin konsepnya diambil dari Moons de Backer yang diubah menyesuaikan bahasa Python, lalu jelasin kenapa mengimplementasikan poin2 yang di tabel itu (untuk pemula)
 - [x] Penjelasan terkait SOLO Level harusnya ditaro di bab 2 aja
 - [ ] Harus ada elaborasi bagaimana tools dirancang dan bukan hasil akhirnya saja.
