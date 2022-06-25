@@ -131,14 +131,14 @@ progress report tiap minggu, bentar aja.
 - [x] Perlu analisis bagaimana konsep yang diimplementasi, tidak hanya sekedar dilist
   - Jelasin konsepnya diambil dari Moons de Backer yang diubah menyesuaikan bahasa Python, lalu jelasin kenapa mengimplementasikan poin2 yang di tabel itu (untuk pemula)
 - [x] Penjelasan terkait SOLO Level harusnya ditaro di bab 2 aja
-- [ ] Harus ada elaborasi bagaimana tools dirancang dan bukan hasil akhirnya saja.
+- [x] Harus ada elaborasi bagaimana tools dirancang dan bukan hasil akhirnya saja.
   - Jelasin hasil eksplorasi PDB, kasih penjelasan terkait activity diagram Parser dan Executor.
   - Hasil eksplorasi PDB bisa berupa command apa saja yang bisa dieksekusi, bagaimana hasil keluarannya, dsb. Nanti di komponen Parser dan Executor tinggal refer input/output apa yang harus dipakai
-- [ ] Perlu ada penjelasan teknis bagaimana keluaran PDB diproses sehingga menghasilkan visualisasi
+- [x] Perlu ada penjelasan teknis bagaimana keluaran PDB diproses sehingga menghasilkan visualisasi
   - Dari hasil eksplorasi, masukin penjelasannya di komponen Parser
 - [ ] Perbaikin abstrak
 - [x] Buat abstrak bahasa inggris
 - [x] Buat lampiran jadi table lanskap muat page width
 - [x] Masukin CMS ke Component Diagram
-- [ ] Pastiin semua table dan gambar sudah direferensi
+- [x] Pastiin semua table dan gambar sudah direferensi
 - [x] Masukin sitasi sumber utk tiap gambar
