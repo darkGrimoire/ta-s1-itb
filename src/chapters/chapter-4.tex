@@ -1,7 +1,7 @@
 \chapter{Implementasi dan Pengujian}
 
 \section{Implementasi}
-Berdasarkan hasil analisis serta perancangan yang dituliskan pada Bab III, dilakukan implementasi ILE pada platform web KodeBareng. Dalam bab ini dijelaskan mengenai implementasi dan pengujian terhadap ILE yang dibuat.
+Berdasarkan hasil analisis serta perancangan yang dijelaskan pada Bab III, dilakukan implementasi ILE pada platform web KodeBareng. Dalam bab ini dijelaskan mengenai implementasi dan pengujian terhadap ILE yang dibuat.
 
 \subsection{Batasan Implementasi}
 Implementasi dilakukan menggunakan teknologi yang telah dipakai pada KodeBareng sebelumnya. Daftar teknologi dan \textit{framework} yang digunakan pada KodeBareng dapat dilihat pada \autoref{tab:tech-stack}.
@@ -111,7 +111,7 @@ Komponen Parser merupakan komponen yang digunakan untuk mengolah hasil keluaran 
 
 Tahap pengecekan dilakukan bersamaan dengan Komponen Executor melakukan tahap pengecekan. Pada tahap ini, terdapat beberapa subtahap yaitu pengecekan \textit{input}, pengecekan \textit{output}, serta pengecekan eksekusi \textit{built-in module}.
 
-Pada subtahap pengecekan \textit{input}, dilakukan pengecekan terhadap \textit{signature output} dari PDB serta pengecekan waktu eksekusi suatu baris. Apabila tidak ditemukan \textit{signature output} dari PDB atau waktu eksekusi suatu baris melebihi batas, maka komponen ini akan memasukkan \textit{input} (melalui Komponen Executor) sesuai dengan \textit{input} yang dberikan oleh \textit{controller}. Apabila tidak ada \textit{input} yang diberikan oleh \textit{controller} atau \textit{input} yang diberikan oleh \textit{controller} kurang dari jumlah input yang dibutuhkan, maka Komponen Parser akan memasukkan \textit{event} untuk meminta tambahan input dan mematikan program yang dieksekusi.
+Pada subtahap pengecekan \textit{input}, dilakukan pengecekan terhadap \textit{signature output} dari PDB serta pengecekan waktu eksekusi suatu baris. Apabila tidak ditemukan \textit{signature output} dari PDB atau waktu eksekusi suatu baris melebihi batas, maka komponen ini akan memasukkan \textit{input} (melalui Komponen Executor) sesuai dengan \textit{input} yang diberikan oleh \textit{controller}. Apabila tidak ada \textit{input} yang diberikan oleh \textit{controller} atau \textit{input} yang diberikan oleh \textit{controller} kurang dari jumlah input yang dibutuhkan, maka Komponen Parser akan memasukkan \textit{event} untuk meminta tambahan input dan mematikan program yang dieksekusi.
 
 Setelah itu, dilakukan subtahap pengecekan \textit{output} untuk mengecek dan mengolah apabila program mengeluarkan \textit{output} atau \textit{error} setelah melanjutkan langkah eksekusi. Apabila program mengeluarkan \textit{error}, maka Komponen Parser akan mengolah \textit{error} dan \textit{traceback} yang dikeluarkan dan menyimpannya ke dalam \textit{event} lalu mematikan program. Apabila program mengeluarkan \textit{output}, maka Komponen Parser akan mengolah \textit{output} tersebut dan memasukkannya ke dalam daftar \textit{output} program.
 
@@ -143,7 +143,7 @@ Komponen ini terhubung pada Komponen Visualizer untuk menampilkan dekorator-deko
 \subsubsection{Implementasi Komponen Visualizer}
 Komponen Visualizer merupakan komponen yang dapat memvisualisasikan hasil olahan \textit{stack trace} suatu kode. Komponen ini dapat berinteraksi dengan Web IDE untuk menunjukkan lokasi eksekusi suatu langkah dengan memberikan warna pada baris eksekusi, serta membuat tabel data pada memori pada setiap \textit{stack frame}. Pengguna dapat mengubah alur maju mundur visualisasi, melihat isi data pada setiap \textit{stack frame}, serta melihat perubahan pada data dalam memori.
 
-Komponen ini dapat dimasukkan pada bagian materi pembelajaran dan bagian persoalan seperti Kuis dan Latihan Kode. Komponen ini dapat dinon-aktifkan apabila tidak diperbolehkan untuk digunakan. Tampilan hasil implementasi Visualizer dapat dilihat pada \autoref{fig:ile-materi} dan \autoref{fig:ile-soal}.
+Komponen ini dapat dimasukkan pada bagian materi pembelajaran dan bagian persoalan seperti Kuis dan Latihan Kode. Komponen ini dapat dinonaktifkan apabila tidak diperbolehkan untuk digunakan. Tampilan hasil implementasi Visualizer dapat dilihat pada \autoref{fig:ile-materi} dan \autoref{fig:ile-soal}.
 
 \begin{figure}[H]
   \centering
@@ -187,7 +187,7 @@ Pengujian spesifikasi fungsional sistem dilakukan pada komputer server KodeBaren
 \end{longtable}
 \normalsize
 
-Eksperiment pengguna dilakukan pada komputer peserta eksperimen masing-masing secara daring dengan pengarahan menggunakan platform \textit{Google Meet}.
+Eksperimen pengguna dilakukan pada komputer peserta eksperimen masing-masing secara daring dengan pengarahan menggunakan platform \textit{Google Meet}.
 
 \subsection{Skenario dan Hasil Pengujian}
 
@@ -467,7 +467,7 @@ Dari data eksperimen soal latihan kode pada \autoref{appendix:data-modul1-jawaba
 Berdasarkan pada \autoref{fig:eksperimen-lk2-all}, rata-rata SOLO Level grup perlakuan adalah 3.429 dan rata-rata SOLO Level grup kontrol adalah 3.636 sehingga grup kontrol memiliki hasil yang lebih tinggi dibanding grup perlakuan. Maka dari itu, dilakukan penyaringan data sehingga data berubah menjadi seperti pada \autoref{fig:eksperimen-lk1-awam}. Data yang sudah disaring memiliki perubahan yang cukup besar dengan rata-rata SOLO Level grup perlakuan menjadi 3.6 dan rata-rata SOLO Level grup kontrol menjadi 3.333 sehingga membuat grup perlakuan memiliki hasil rata-rata yang lebih tinggi dibanding grup kontrol. Namun, jika dilakukan \textit{T test} pada data yang sudah disaring, didapatkan nilai t sebesar 2.262 (\textit{p = 0.662}) yang berarti secara statistik dampak ILE terhadap hasil latihan kode modul 2 tidak signifikan. Salah satu faktor yang menyebabkan hal ini terjadi adalah kurangnya data akibat adanya peserta yang tidak menyelesaikan modul 2 eksperimen. Faktor lain yang dapat berpengaruh pada hasil ini adalah soal yang dibuat kurang bagus sehingga mempengaruhi hasil akhir dari eksperimen.
 
 \subsubsection{Analisis Data Eksperimen Waktu Pengerjaan}
-Seperti yang sempat dibahas sebelumnya pada \autoref{fig:eksperimen-k1k2-waktu}, terdapat pola bahwa waktu pengerjaan grup perlakuan jauh lebih lama dibanding grup kontrol. Hal ini dapat dilihat lebih lengkap pada \autoref{fig:eksperimen-m1m2-waktu} yang menampilkan perbandingan rata-rata waktu pengerjaan pada materi, soal kuis, dan soal latihan kode pada modul 1 dan modul 2. Lamanya pengerjaan modul pada grup perlakuan juga menjadi faktor yang membuat grup perlakuan lebih banyak yang tidak menyelesaikan modul 2 dan 3. Setelah diinvestigasi lebih lanjut, ditemukan pada beberapa peserta bahwa ILE dapat menjadi distraksi dalam pembelajaran karena peserta terlalu lama melakukan eksplorasi pada ILE sehingga tidak dapat menyelesaikan modul tepat waktu. Hasil olahan data diperoleh dari \autoref{appendix:data-modul1-waktu} dan \autoref{appendix:data-modul2-waktu}.
+Seperti yang sempat dibahas sebelumnya pada \autoref{fig:eksperimen-k1k2-waktu}, terdapat pola bahwa waktu pengerjaan grup perlakuan jauh lebih lama dibanding grup kontrol. Hal ini dapat dilihat lebih lengkap pada \autoref{fig:eksperimen-m1m2-waktu} yang menampilkan perbandingan rata-rata waktu pengerjaan pada materi, soal kuis, dan soal latihan kode pada modul 1 dan modul 2. Lamanya pengerjaan modul pada grup perlakuan juga menjadi faktor yang membuat grup perlakuan lebih banyak yang tidak menyelesaikan modul 2 dan 3. Setelah ditelaah lebih lanjut, ditemukan pada beberapa peserta bahwa ILE dapat menjadi distraksi dalam pembelajaran karena peserta terlalu lama melakukan eksplorasi pada ILE sehingga tidak dapat menyelesaikan modul tepat waktu. Hasil olahan data diperoleh dari \autoref{appendix:data-modul1-waktu} dan \autoref{appendix:data-modul2-waktu}.
 
 \begin{figure}[H]
   \centering
