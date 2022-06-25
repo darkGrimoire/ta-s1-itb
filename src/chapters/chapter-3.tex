@@ -85,7 +85,7 @@ Maka dari itu, dirancanglah diagram \textit{use case} baru yang sesuai dengan ke
 
 Berdasarkan \textit{use case} baru yang telah dibuat pada \autoref{fig:diagram-usecase-v2}, diturunkanlah spesifikasi kebutuhan perangkat lunak fungsional dan non-fungsional yang dapat dilihat pada \autoref{tab:srs-fungsional} dan \autoref{tab:srs-nonfungsional}.
 
-Spesifikasi fungsional menjelaskan fungsi-fungsi yang dapat dijalankan pada ILE yang akan dibuat. Spesifikasi ini diturunkan dari diagram \textit{use case} sesuai dengan siapa dan apa yang dapat dilakukan. Berikut adalah penjelasan lebih detail mengenai spesifikasi fungsional pada \autoref{tab:srs-fungsional}.
+Spesifikasi fungsional menjelaskan fungsi-fungsi yang dapat dijalankan pada ILE yang akan dibuat. Spesifikasi ini diturunkan dari diagram \textit{use case} sesuai dengan siapa dan apa yang dapat dilakukan. Penjelasan lebih detail mengenai spesifikasi fungsional dapat dilihat pada \autoref{tab:srs-fungsional}.
 
 \small
 \begin{longtable}[c]{|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.5\linewidth}|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.3\linewidth}|}
@@ -117,7 +117,7 @@ Spesifikasi fungsional menjelaskan fungsi-fungsi yang dapat dijalankan pada ILE 
 \end{longtable}
 \normalsize
 
-Spesifikasi non-fungsional diturunkan dari kebutuhan KodeBareng agar tujuan dapat tercapai dan sistem berjalan dengan lancar. Maka dari itu, diturunkanlah spesifikasi berupa batasan respon hasil eksekusi agar pelajar tidak terlalu lama menunggu hasil eksekusi, desain sistem yang memudahkan dilakukan pengetesan terhadap berbagai macam kode, serta membatasi apa yang dapat dieksekusi agar keamanan sistem dapat terjaga. Berikut adalah penjelasan lebih detail mengenai spesifikasi fungsional pada \autoref{tab:srs-nonfungsional}.
+Spesifikasi non-fungsional diturunkan dari kebutuhan KodeBareng agar tujuan dapat tercapai dan sistem berjalan dengan lancar. Maka dari itu, diturunkanlah spesifikasi berupa batasan respon hasil eksekusi agar pelajar tidak terlalu lama menunggu hasil eksekusi, desain sistem yang memudahkan dilakukan pengetesan terhadap berbagai macam kode, serta membatasi apa yang dapat dieksekusi agar keamanan sistem dapat terjaga. Penjelasan lebih detail mengenai spesifikasi fungsional dapat dilihat pada \autoref{tab:srs-nonfungsional}.
 
 \small
 \begin{longtable}[c]{|l|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.6\linewidth}|}
@@ -137,7 +137,7 @@ Spesifikasi non-fungsional diturunkan dari kebutuhan KodeBareng agar tujuan dapa
 \end{longtable}
 \normalsize
 
-Berikut adalah pemetaan hasil penurunan antara \textit{use case} dengan spesifikasi kebutuhan terkait yang dapat dilihat pada \autoref{tab:srs-usecase}.
+Pemetaan hasil penurunan antara \textit{use case} dengan spesifikasi kebutuhan terkait dapat dilihat pada \autoref{tab:srs-usecase}.
 
 \small
 \begin{longtable}[c]{|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.5\linewidth}|}
@@ -175,7 +175,7 @@ Berdasarkan hasil analisis permasalahan dan kebutuhan sebelumnya, dibuatlah ranc
 
 \begin{figure}[!h]
   \centering
-  \includegraphics[width=\textwidth]{chapter3/diagram_komponen.jpg}
+  \includegraphics[width=1.1\textwidth]{chapter3/diagram_komponen.jpg}
   \caption{Diagram komponen} \label{fig:diagram-komponen}
   Sumber: Penulis (2022)
 \end{figure}
@@ -193,14 +193,14 @@ Alur program utama terkait visualisasi eksekusi kode dimulai dari pelajar atau s
 
 \begin{figure}[!h]
   \centering
-  \includegraphics[width=1.65\textwidth, angle=-90]{chapter3/activity-ile.jpg}
+  \includegraphics[width=1.6\textwidth, angle=-90]{chapter3/activity-ile.jpg}
   \caption{Activity Diagram ILE} \label{fig:activity-ile}
   Sumber: Penulis (2022)
 \end{figure}
 
 Pada sistem \textit{Frontend}, ditambahkan komponen baru yaitu Visualizer yang dapat memvisualisasikan kode eksekusi yang dimasukkan pada komponen Web IDE. Web IDE yang sudah ada dimodifikasi sehingga dapat berinteraksi dengan Visualizer serta dapat memiliki mode latihan soal atau materi sehingga dapat dipakai pada penjelasan materi (tanpa penilaian) dan latihan soal (dengan penilaian).
 
-Pada \autoref{fig:wireframe-explanation}, \autoref{fig:wireframe-quiz}, dan \autoref{fig:wireframe-lesson} berikut adalah gambaran desain \textit{low-fidelity} dari ILE visualisasi eksekusi kode.
+\autoref{fig:wireframe-explanation}, \autoref{fig:wireframe-quiz}, dan \autoref{fig:wireframe-lesson} adalah gambaran desain \textit{low-fidelity} dari ILE visualisasi eksekusi kode.
 
 \begin{figure}[!h]
   \centering
@@ -229,7 +229,7 @@ Pada sistem \textit{Executor}, dibuat komponen-komponen baru untuk mendapatkan i
 
 \begin{figure}[!h]
   \centering
-  \includegraphics[width=\textwidth]{chapter3/activity-executor.jpg}
+  \includegraphics[width=0.9\textwidth]{chapter3/activity-executor.jpg}
   \caption{Activity Diagram Komponen Executor dan Parser} \label{fig:activity-executor}
   Sumber: Penulis (2022)
 \end{figure}
