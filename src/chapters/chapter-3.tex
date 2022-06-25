@@ -43,7 +43,7 @@ Seperti yang sudah dijelaskan pada Bab sebelumnya, KodeBareng merupakan platform
 
 Maka dari itu, dirancanglah diagram \textit{use case} baru yang sesuai dengan kebutuhan dan pendekatan terkait yang dapat dilihat pada \autoref{fig:diagram-usecase-v2}. Penjelasan terkait \textit{use case} tersebut dapat dilihat pada \autoref{tab:exp-diagram-usecase-v2}.
 
-\begin{figure}[H]
+\begin{figure}[!h]
   \centering
   \includegraphics[width=1.15\textwidth]{chapter3/diagram_usecase_v2.jpg}
   \caption{\textit{Use Case} pembelajaran pemrograman KodeBareng setelah perubahan} \label{fig:diagram-usecase-v2}
@@ -52,34 +52,34 @@ Maka dari itu, dirancanglah diagram \textit{use case} baru yang sesuai dengan ke
 
 \small
 \begin{longtable}[c]{|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.3\linewidth}|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.5\linewidth}|}
-  \caption{Penjelasan \textit{Use Case} pembelajaran pemrograman KodeBareng setelah perubahan} \label{tab:exp-diagram-usecase-v2}                                                                                                                                                                                                                     \\ \hline
+  \caption{Penjelasan \textit{Use Case} pembelajaran pemrograman KodeBareng setelah perubahan} \label{tab:exp-diagram-usecase-v2}                                                                                                                                                                                                                    \\ \hline
   \rowcolor{gray!30}
-  \textbf{ID} & \textbf{Kebutuhan}                             & \textbf{Penjelasan}                                                                                                                                                                                                                                                                  \\ \hline
+  \textbf{ID} & \textbf{Kebutuhan}                             & \textbf{Penjelasan}                                                                                                                                                                                                                                                                 \\ \hline
   \endfirsthead
   %
-  \caption*{\autoref{tab:exp-diagram-usecase-v2} (lanjutan): Penjelasan \textit{Use Case} pembelajaran pemrograman KodeBareng setelah perubahan}                                                                                                                                                                                                      \\ \hline
+  \caption*{\autoref{tab:exp-diagram-usecase-v2} (lanjutan): Penjelasan \textit{Use Case} pembelajaran pemrograman KodeBareng setelah perubahan}                                                                                                                                                                                                     \\ \hline
   \rowcolor{gray!30}
-  \textbf{ID} & \textbf{Kebutuhan}                             & \textbf{Penjelasan}                                                                                                                                                                                                                                                                  \\ \hline
+  \textbf{ID} & \textbf{Kebutuhan}                             & \textbf{Penjelasan}                                                                                                                                                                                                                                                                 \\ \hline
   \endhead
   %
-  UC-01       & Melihat materi pembelajaran                    & Pengguna dapat melihat materi pembelajaran berupa teks dan gambar. Perubahannya adalah integrasi ILE  sehingga pada materi dapat dimasukkan visualisasi eksekusi kode.                                                                                                               \\ \hline
-  UC-02       & Mengerjakan soal pemrograman                   & Pengguna dapat mengerjakan latihan soal pemrograman. Perubahannya adalah soal pemrograman kini dilengkapi ILE yang dapat memvisualisasikan eksekusi kode serta memberikan hint apabila ada kesalahan dalam mengerjakan soal.                                                         \\ \hline
-  UC-03       & Melihat visualisasi eksekusi kode              & Pengguna dapat melihat visualisasi kode berupa alur kerja eksekusi program serta data-data apa saja yang terdapat dalam memori.                                                                                                                                                      \\ \hline
-  UC-04       & Mengetahui hasil penilaian kode                & Pengguna dapat mengetahui kebenaran dari kode yang dimasukkan pada latihan pemrograman.                                                                                                                                                                                              \\ \hline
-  UC-05       & Memberikan masukkan (input)                    & Pengguna dapat memberikan input yang akan dimasukkan pada kode yang akan dieksekusi.                                                                                                                                                                                                 \\ \hline
-  UC-06       & Mengetahui hint kesalahan pada kode            & Pengguna dapat melihat hint kesalahan apabila kode yang dimasukkan pada latihan pemrograman salah.                                                                                                                                                                                   \\ \hline
-  UC-07       & Menjalankan kode                               & Pengguna dapat menjalankan kode yang dimasukkan serta melihat keluarannya.                                                                                                                                                                                                           \\ \hline
-  UC-08       & Menolak kode pengguna                          & Kode yang dimasukkan oleh pengguna dapat ditolak oleh sistem apabila tidak sesuai dengan batasan-batasan perintah yang dapat dieksekusi oleh ILE. Perubahannya adalah batasan eksekusi program dapat ditentukan oleh administrator (sebelumnya ditentukan secara \textit{hard code}) \\ \hline
-  UC-09       & Deteksi \textit{blacklisted commands}          & Sistem memiliki daftar perintah yang tidak boleh dieksekusi agar tidak mengancam keamanan sistem. Perubahannya adalah perintah yang dieksekusi kini bersifat dinamis tergantung pada definisi yang diberikan oleh Administrator.                                                     \\ \hline
-  UC-11       & Menilai kode                                   & Sistem dapat menilai kode yang dijalankan secara \textit{blackbox autograding}. Perubahannya adalah penilaian kini dapat menggunakan lebih dari satu \textit{test case} serta dapat menerima \textit{input}.                                                                         \\ \hline
-  UC-12       & Mengolah \textit{stack trace} eksekusi program & Sistem dapat mengolah \textit{stack trace} dari program yang dieksekusi agar dapat memperoleh informasi alur kerja dan data selama eksekusi program.                                                                                                                                 \\ \hline
-  UC-13       & Deteksi kebutuhan input                        & Sistem dapat mendeteksi jika kode program membutuhkan input untuk melanjutkan eksekusinya.                                                                                                                                                                                           \\ \hline
-  UC-14       & Deteksi error                                  & Sistem dapat mendeteksi error pada eksekusi program.                                                                                                                                                                                                                                 \\ \hline
-  UC-15       & Menentukan \textit{blacklisted commands}       & Administrator dapat menentukan perintah-perintah yang tidak boleh dieksekusi pada kode program.                                                                                                                                                                                      \\ \hline
-  UC-16       & Memasukkan materi pembelajaran                 & Administrator dapat memasukkan penjelasan materi pada modul-modul kelas pembelajaran. Perubahannya adalah Administrator dapat menambahkan visualisasi eksekusi kode dalam penjelasan materi.                                                                                         \\ \hline
-  UC-17       & Membuat soal pemrograman                       & Administrator dapat membuat soal pemrograman.                                                                                                                                                                                                                                        \\ \hline
-  UC-18       & Memasukkan \textit{test case} soal             & Administrator dapat memasukkan \textit{test case} penilaian pada suatu soal. Perubahannya adalah \textit{test case} yang dimasukkan bisa lebih dari satu dan memiliki input masing-masing.                                                                                           \\ \hline
-  UC-19       & Memasukkan hint kesalahan kode                 & Administrator dapat menentukan hint kesalahan yang ditampilkan pada suatu soal.                                                                                                                                                                                                      \\ \hline
+  UC-01       & Melihat materi pembelajaran                    & Pelajar dapat melihat materi pembelajaran berupa teks dan gambar. Perubahannya adalah integrasi ILE  sehingga pada materi dapat dimasukkan visualisasi eksekusi kode.                                                                                                               \\ \hline
+  UC-02       & Mengerjakan soal pemrograman                   & Pelajar dapat mengerjakan latihan soal pemrograman. Perubahannya adalah soal pemrograman kini dilengkapi ILE yang dapat memvisualisasikan eksekusi kode serta memberikan hint apabila ada kesalahan dalam mengerjakan soal.                                                         \\ \hline
+  UC-03       & Melihat visualisasi eksekusi kode              & Pelajar dapat melihat visualisasi kode berupa alur kerja eksekusi program serta data-data apa saja yang terdapat dalam memori.                                                                                                                                                      \\ \hline
+  UC-04       & Mengetahui hasil penilaian kode                & Pelajar dapat mengetahui kebenaran dari kode yang dimasukkan pada latihan pemrograman.                                                                                                                                                                                              \\ \hline
+  UC-05       & Memberikan masukkan (input)                    & Pelajar dapat memberikan input yang akan dimasukkan pada kode yang akan dieksekusi.                                                                                                                                                                                                 \\ \hline
+  UC-06       & Mengetahui hint kesalahan pada kode            & Pelajar dapat melihat hint kesalahan apabila kode yang dimasukkan pada latihan pemrograman salah.                                                                                                                                                                                   \\ \hline
+  UC-07       & Menjalankan kode                               & Pelajar dapat menjalankan kode yang dimasukkan serta melihat keluarannya.                                                                                                                                                                                                           \\ \hline
+  UC-08       & Menolak kode pelajar                           & Kode yang dimasukkan oleh pelajar dapat ditolak oleh sistem apabila tidak sesuai dengan batasan-batasan perintah yang dapat dieksekusi oleh ILE. Perubahannya adalah batasan eksekusi program dapat ditentukan oleh administrator (sebelumnya ditentukan secara \textit{hard code}) \\ \hline
+  UC-09       & Deteksi \textit{blacklisted commands}          & Sistem memiliki daftar perintah yang tidak boleh dieksekusi agar tidak mengancam keamanan sistem. Perubahannya adalah perintah yang dieksekusi kini bersifat dinamis tergantung pada definisi yang diberikan oleh Administrator.                                                    \\ \hline
+  UC-11       & Menilai kode                                   & Sistem dapat menilai kode yang dijalankan secara \textit{blackbox autograding}. Perubahannya adalah penilaian kini dapat menggunakan lebih dari satu \textit{test case} serta dapat menerima \textit{input}.                                                                        \\ \hline
+  UC-12       & Mengolah \textit{stack trace} eksekusi program & Sistem dapat mengolah \textit{stack trace} dari program yang dieksekusi agar dapat memperoleh informasi alur kerja dan data selama eksekusi program.                                                                                                                                \\ \hline
+  UC-13       & Deteksi kebutuhan input                        & Sistem dapat mendeteksi jika kode program membutuhkan input untuk melanjutkan eksekusinya.                                                                                                                                                                                          \\ \hline
+  UC-14       & Deteksi error                                  & Sistem dapat mendeteksi error pada eksekusi program.                                                                                                                                                                                                                                \\ \hline
+  UC-15       & Menentukan \textit{blacklisted commands}       & Administrator dapat menentukan perintah-perintah yang tidak boleh dieksekusi pada kode program.                                                                                                                                                                                     \\ \hline
+  UC-16       & Memasukkan materi pembelajaran                 & Administrator dapat memasukkan penjelasan materi pada modul-modul kelas pembelajaran. Perubahannya adalah Administrator dapat menambahkan visualisasi eksekusi kode dalam penjelasan materi.                                                                                        \\ \hline
+  UC-17       & Membuat soal pemrograman                       & Administrator dapat membuat soal pemrograman.                                                                                                                                                                                                                                       \\ \hline
+  UC-18       & Memasukkan \textit{test case} soal             & Administrator dapat memasukkan \textit{test case} penilaian pada suatu soal. Perubahannya adalah \textit{test case} yang dimasukkan bisa lebih dari satu dan memiliki input masing-masing.                                                                                          \\ \hline
+  UC-19       & Memasukkan hint kesalahan kode                 & Administrator dapat menentukan hint kesalahan yang ditampilkan pada suatu soal.                                                                                                                                                                                                     \\ \hline
 \end{longtable}
 \normalsize
 
@@ -117,7 +117,7 @@ Spesifikasi fungsional menjelaskan fungsi-fungsi yang dapat dijalankan pada ILE 
 \end{longtable}
 \normalsize
 
-Spesifikasi non-fungsional diturunkan dari kebutuhan KodeBareng agar tujuan dapat tercapai dan sistem berjalan dengan lancar. Maka dari itu, diturunkanlah spesifikasi berupa batasan respon hasil eksekusi agar pengguna tidak terlalu lama menunggu hasil eksekusi, desain sistem yang memudahkan dilakukan pengetesan terhadap berbagai macam kode, serta membatasi apa yang dapat dieksekusi agar keamanan sistem dapat terjaga. Berikut adalah penjelasan lebih detail mengenai spesifikasi fungsional pada \autoref{tab:srs-nonfungsional}.
+Spesifikasi non-fungsional diturunkan dari kebutuhan KodeBareng agar tujuan dapat tercapai dan sistem berjalan dengan lancar. Maka dari itu, diturunkanlah spesifikasi berupa batasan respon hasil eksekusi agar pelajar tidak terlalu lama menunggu hasil eksekusi, desain sistem yang memudahkan dilakukan pengetesan terhadap berbagai macam kode, serta membatasi apa yang dapat dieksekusi agar keamanan sistem dapat terjaga. Berikut adalah penjelasan lebih detail mengenai spesifikasi fungsional pada \autoref{tab:srs-nonfungsional}.
 
 \small
 \begin{longtable}[c]{|l|l|>{\setlength{\baselineskip}{0.75\baselineskip}}p{0.6\linewidth}|}
@@ -173,7 +173,7 @@ Berikut adalah pemetaan hasil penurunan antara \textit{use case} dengan spesifik
 
 Berdasarkan hasil analisis permasalahan dan kebutuhan sebelumnya, dibuatlah rancangan komponen implementasi pada subsistem-subsistem yang terdapat pada KodeBareng. Rancangan tersebut berupa diagram komponen yang terdapat pada \autoref{fig:diagram-komponen}. Rancangan ini menggambarkan komponen apa saja yang akan dimodifikasi ataupun ditambahkan pada sistem KodeBareng terkait pembelajaran pemrograman yang sudah ada.
 
-\begin{figure}[H]
+\begin{figure}[!h]
   \centering
   \includegraphics[width=\textwidth]{chapter3/diagram_komponen.jpg}
   \caption{Diagram komponen} \label{fig:diagram-komponen}
@@ -182,7 +182,7 @@ Berdasarkan hasil analisis permasalahan dan kebutuhan sebelumnya, dibuatlah ranc
 
 ILE akan diintegrasikan pada komponen-komponen terkait materi pembelajaran di KodeBareng. Maka dari itu, komponen-komponen yang akan dimodifikasi atau ditambahkan akan terkait dengan komponen Stage yang mendefinisikan bagaimana suatu tahap (\textit{stage}) materi pada suatu modul pembelajaran dijelaskan (berupa teks, latihan pemrograman, dsb). Alur pembelajaran pelajar dapat dilihat pada \autoref{fig:activity-overall}.
 
-\begin{figure}[H]
+\begin{figure}[!h]
   \centering
   \includegraphics[width=0.85\textwidth]{chapter3/activity-overall.jpg}
   \caption{Activity Diagram Pelajar} \label{fig:activity-overall}
@@ -193,7 +193,7 @@ Alur program utama terkait visualisasi eksekusi kode dimulai dari pelajar atau s
 
 \begin{figure}[!h]
   \centering
-  \includegraphics[width=1.6\textwidth, angle=-90]{chapter3/activity-ile.jpg}
+  \includegraphics[width=1.65\textwidth, angle=-90]{chapter3/activity-ile.jpg}
   \caption{Activity Diagram ILE} \label{fig:activity-ile}
   Sumber: Penulis (2022)
 \end{figure}
@@ -202,21 +202,21 @@ Pada sistem \textit{Frontend}, ditambahkan komponen baru yaitu Visualizer yang d
 
 Pada \autoref{fig:wireframe-explanation}, \autoref{fig:wireframe-quiz}, dan \autoref{fig:wireframe-lesson} berikut adalah gambaran desain \textit{low-fidelity} dari ILE visualisasi eksekusi kode.
 
-\begin{figure}[H]
+\begin{figure}[!h]
   \centering
   \includegraphics[width=\textwidth]{chapter3/visualizer-explanation.png}
   \caption{Wireframe Visualizer pada Explanation Stage} \label{fig:wireframe-explanation}
   Sumber: Penulis (2022)
 \end{figure}
 
-\begin{figure}[H]
+\begin{figure}[!h]
   \centering
   \includegraphics[width=\textwidth]{chapter3/visualizer-quiz.png}
   \caption{Wireframe Visualizer pada Quiz Stage} \label{fig:wireframe-quiz}
   Sumber: Penulis (2022)
 \end{figure}
 
-\begin{figure}[H]
+\begin{figure}[!h]
   \centering
   \includegraphics[width=\textwidth]{chapter3/visualizer-lesson.png}
   \caption{Wireframe Visualizer pada Lesson Stage} \label{fig:wireframe-lesson}
@@ -227,9 +227,9 @@ Pada sistem \textit{Backend}, ditambahkan rute baru pada \textit{Stage Controlle
 
 Pada sistem \textit{Executor}, dibuat komponen-komponen baru untuk mendapatkan informasi yang dibutuhkan untuk visualisasi. Komponen \verb|PDB (debugger)| merupakan komponen bawaan \verb|Python| yang dapat digunakan untuk melakukan \textit{debugging} pada suatu kode. Komponen \verb|Executor| digunakan untuk mengeksekusi kode program menggunakan PDB sehingga dapat dengan otomatis menjelajahi eksekusi kode program dan mendapatkan \textit{stack trace}. Komponen \verb|Parser| digunakan untuk mengolah hasil eksekusi serta \textit{stack trace} dari \verb|Executor| sehingga dapat dimanfaatkan untuk visualisasi eksekusi kode. Terdapat juga modifikasi pada Controller dan Autograder agar dapat menyesuaikan dengan spesifikasi kebutuhan fungsional. Rancangan alur kerja komponen Executor dan Parser dapat dilihat pada \autoref{fig:activity-executor}
 
-\begin{figure}[H]
+\begin{figure}[!h]
   \centering
-  \includegraphics[width=0.8\textwidth]{chapter3/activity-executor.jpg}
+  \includegraphics[width=\textwidth]{chapter3/activity-executor.jpg}
   \caption{Activity Diagram Komponen Executor dan Parser} \label{fig:activity-executor}
   Sumber: Penulis (2022)
 \end{figure}
