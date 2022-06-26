@@ -84,10 +84,10 @@ Selain dari perintah-perintah tersebut, terdapat rangkaian perintah yang digunak
 \end{longtable}
 \normalsize
 
-Hasil eksplorasi PDB akan digunakan pada komponen Executor dan komponen Parser yang akan dijelaskan pada bagian berikut (\autoref{ssec:implementasi-sistem-eksekutor}) menggunakan alur rancangan yang telah dibuat di bab sebelumnya pada \autoref{fig:activity-executor}.
+Hasil eksplorasi PDB akan digunakan pada komponen Executor dan komponen Parser yang akan dijelaskan pada bagian berikut (\autoref{ssec:implementasi-sistem-executor}) menggunakan alur rancangan yang telah dibuat di bab sebelumnya pada \autoref{fig:activity-executor}.
 
-\subsection{Implementasi Sistem Autograder-Eksekutor} \label{ssec:implementasi-sistem-eksekutor}
-Sistem Autograder-Eksekutor menggunakan \textit{tech stack} berupa ExpressJS dengan Typescript yang dijalankan pada NodeJS menggunakan kakas \textit{nodemon}. Sistem tersebut kemudian diisolasi menggunakan Docker dengan \textit{image} Debian 10 dan dilakukan instalasi Python 3.9. Terdapat juga kakas berupa \textit{swagger} yang digunakan untuk dokumentasi rute-rute yang terdapat pada sistem ini.
+\subsection{Implementasi Sistem Autograder-Executor} \label{ssec:implementasi-sistem-executor}
+Sistem Autograder-Executor menggunakan \textit{tech stack} berupa ExpressJS dengan Typescript yang dijalankan pada NodeJS menggunakan kakas \textit{nodemon}. Sistem tersebut kemudian diisolasi menggunakan Docker dengan \textit{image} Debian 10 dan dilakukan instalasi Python 3.9. Terdapat juga kakas berupa \textit{swagger} yang digunakan untuk dokumentasi rute-rute yang terdapat pada sistem ini.
 
 \subsubsection{Modifikasi Komponen Controller}
 Pada sistem ini sudah terdapat \textit{controller} pada tiap bagian rute untuk mengolah data yang diberikan. Pada Tugas Akhir ini, ditambahkan rute untuk melakukan visualisasi serta \textit{controller} untuk mengolah data tersebut. \textit{Controller} mendapatkan masukan berupa kode program berupa \textit{string} serta input berupa \verb|array of string| untuk diberikan pada program yang dieksekusi. Kemudian, \textit{Controller} melakukan pengecekan apakah kode diperbolehkan untuk dieksekusi, lalu menuliskan kode pada file Python sementara. Setelah itu, \textit{controller} menjalankan \textit{helper} berupa Komponen Executor dan Parser dengan memberikan masukan berupa lokasi \textit{file} kode program serta \textit{input} yang akan diberikan pada program.
